@@ -1,0 +1,597 @@
+img[alt*="center"] {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.character-img img{
+	max-height: 300px;
+	max-width: 300px;
+	height: auto;
+	width: auto;
+	object-fit: cover;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.gallery-img img{
+	max-height: 250px;
+	max-width: 250px;
+	height: auto;
+	width: auto;
+	object-fit: cover;
+}
+
+.document{
+	--bold-color: var(--white);
+	/* font-family: 'Courier New', Courier, monospace !important; */
+	font-size: 13;
+	line-height: 2;
+	text-align: justify;
+}
+
+.document table{
+	margin-left: auto;
+  	margin-right: auto;
+}
+
+.document th{
+	text-align: center;
+}
+
+.narrative, .narrative b{
+	font-family: Helvetica !important;
+	--bold-color: var(--white);
+  	line-height: 1.6;
+	text-align: justify;
+}
+
+
+
+
+.gold-yellow {
+--holox-h1:var(--white);
+  --holox-h2:var(--white);
+  --holox-h3:var(--white);
+  --holox-h4: var(--white);
+  --holox-h5:var(--white);
+  --holox-h6: var(--white);
+
+  --holox-bold: #D4AF37;
+  --holox-italics: #9C7C38;
+  --holox-link: #CFAF53;
+  --holox-link-hover: #B8860B;
+
+  --holox-tag: #9C7C38;
+  --holox-tag-hover: #CFAF53;
+  --holox-tag-bg: rgba(156, 124, 56, 0.12);
+  --holox-tag-bg-hover: rgba(207, 175, 83, 0.12);
+
+  --holox-checkbox: #A58E3F;
+
+  --holox-code-normal: #D4AF37;
+  --holox-code-comment: #4E3B1F;
+  --holox-code-punctuation: #B8860B;
+  --holox-code-tag: #CFAF53;
+  --holox-code-value: #6E5A00;
+  --holox-code-string: #A58E3F;
+  --holox-code-property: #9C7C38;
+  --holox-code-function: #D4AF37;
+  --holox-code-keyword: #CFAF53;
+  --holox-code-important: #CFAF53;
+  --holox-code-operator: #9C7C38;
+
+  --holox-default_x: 212, 175, 55;
+  --holox-info_x: 184, 134, 11;
+  --holox-summary_x: 207, 175, 83;
+  --holox-tip_x: 184, 134, 11;
+  --holox-todo_x: 165, 142, 63;
+  --holox-bug_x: 110, 90, 0;
+  --holox-error_x: 110, 90, 0;
+  --holox-fail_x: 110, 90, 0;
+  --holox-example_x: 212, 175, 55;
+  --holox-important_x: 184, 134, 11;
+  --holox-success_x: 165, 142, 63;
+  --holox-question_x: 207, 175, 83;
+  --holox-warning_x: 165, 142, 63;
+  --holox-quote_x: 76, 57, 29;
+	
+	
+	--h1-color: var(--holox-h1);
+	--h2-color: var(--holox-h2);
+	--h3-color: var(--holox-h3);
+	--h4-color: var(--holox-h4);
+	--h5-color: var(--holox-h5);
+	--h6-color: var(--holox-h6);
+
+	--bold-color: var(--holox-bold);
+	--italic-color: var(--holox-italics);
+
+	--link-color: var(--holox-link);
+	--link-color-hover: var(--holox-link-hover);
+	--link-external-color: var(--holox-link);
+	--link-external-color-hover: var(--holox-link-hover);
+	--link-decoration: none; 
+	--link-decoration-hover: none;
+	--link-external-decoration: none; 
+	--link-external-decoration-hover: none;
+--link-unresolved-color: rgba(207, 175, 83, 0.5);
+--link-unresolved-decoration-color: rgba(207, 175, 83, 0.5);
+
+	--checkbox-color: var(--holox-checkbox);
+	--checkbox-marker-color: var(--white);
+	--checkbox-border-color: var(--white);
+	--checkbox-border-color-hover: var(--white);
+	--checkbox-radius: var(--radius-l);
+
+	--tag-color: var(--holox-tag);
+	--tag-color-hover: var(--holox-tag-hover);
+	--tag-background: var(--holox-tag-bg);
+	--tag-background-hover: var(--holox-tag-bg-hover);
+
+	--code-normal: var(--holox-code-normal);
+	--code-comment: var(--holox-code-comment);
+	--code-punctuation: var(--holox-code-punctuation);
+	--code-tag: var(--holox-code-tag);
+	--code-value: var(--holox-code-value);
+	--code-string: var(--holox-code-string);
+	--code-property: var(--holox-code-property);
+	--code-function: var(--holox-code-function);
+	--code-keyword: var(--holox-code-keyword);
+	--code-important: var(--holox-code-important);
+	--code-operator: var(--holox-code-operator);
+
+	/* Callouts */
+	--callout-default: var(--holox-default_x);
+	--callout-info: var(--holox-info_x);
+	--callout-summary: var(--holox-summary_x);
+	--callout-tip: var(--holox-tip_x);
+	--callout-todo: var(--holox-todo_x);
+	--callout-bug: var(--holox-bug_x);
+	--callout-error: var(--holox-error_x);
+	--callout-fail: var(--holox-fail_x);
+	--callout-example: var(--holox-example_x);
+	--callout-important: var(--holox-important_x);
+	--callout-success: var(--holox-success_x);
+	--callout-question: var(--holox-question_x);
+	--callout-warning: var(--holox-warning_x);
+	--callout-quote: var(--holox-quote_x);
+
+}
+
+.green{
+--holox-h1:var(--white);
+  --holox-h2:var(--white);
+  --holox-h3:var(--white);
+  --holox-h4: var(--white);
+  --holox-h5:var(--white);
+  --holox-h6: var(--white);
+
+--holox-bold: #7FAE5C;
+--holox-italics: #5E8141;
+--holox-link: #8EBB6D;
+--holox-link-hover: #6F9E4B;
+
+--holox-tag: #5E8141;
+--holox-tag-hover: #8EBB6D;
+--holox-tag-bg: rgba(94, 129, 65, 0.12);
+--holox-tag-bg-hover: rgba(142, 187, 109, 0.12);
+
+--holox-checkbox: #708B50;
+
+--holox-code-normal: #7FAE5C;
+--holox-code-comment: #3B4D2E;
+--holox-code-punctuation: #6F9E4B;
+--holox-code-tag: #8EBB6D;
+--holox-code-value: #4A6430;
+--holox-code-string: #708B50;
+--holox-code-property: #5E8141;
+--holox-code-function: #7FAE5C;
+--holox-code-keyword: #8EBB6D;
+--holox-code-important: #8EBB6D;
+--holox-code-operator: #5E8141;
+
+--holox-default_x: 127, 174, 92;
+--holox-info_x: 111, 158, 75;
+--holox-summary_x: 142, 187, 109;
+--holox-tip_x: 111, 158, 75;
+--holox-todo_x: 112, 139, 80;
+--holox-bug_x: 74, 100, 48;
+--holox-error_x: 74, 100, 48;
+--holox-fail_x: 74, 100, 48;
+--holox-example_x: 127, 174, 92;
+--holox-important_x: 111, 158, 75;
+--holox-success_x: 112, 139, 80;
+--holox-question_x: 142, 187, 109;
+--holox-warning_x: 112, 139, 80;
+--holox-quote_x: 41, 53, 30;
+
+	--h1-color: var(--holox-h1);
+	--h2-color: var(--holox-h2);
+	--h3-color: var(--holox-h3);
+	--h4-color: var(--holox-h4);
+	--h5-color: var(--holox-h5);
+	--h6-color: var(--holox-h6);
+
+	--bold-color: var(--holox-bold);
+	--italic-color: var(--holox-italics);
+
+	--link-color: var(--holox-link);
+	--link-color-hover: var(--holox-link-hover);
+	--link-external-color: var(--holox-link);
+	--link-external-color-hover: var(--holox-link-hover);
+	--link-decoration: none; 
+	--link-decoration-hover: none;
+	--link-external-decoration: none; 
+	--link-external-decoration-hover: none;
+--link-unresolved-color: rgba(165, 142, 63, 0.5);
+--link-unresolved-decoration-color: rgba(165, 142, 63, 0.5);
+
+	--checkbox-color: var(--holox-checkbox);
+	--checkbox-marker-color: var(--white);
+	--checkbox-border-color: var(--white);
+	--checkbox-border-color-hover: var(--white);
+	--checkbox-radius: var(--radius-l);
+
+	--tag-color: var(--holox-tag);
+	--tag-color-hover: var(--holox-tag-hover);
+	--tag-background: var(--holox-tag-bg);
+	--tag-background-hover: var(--holox-tag-bg-hover);
+
+	--code-normal: var(--holox-code-normal);
+	--code-comment: var(--holox-code-comment);
+	--code-punctuation: var(--holox-code-punctuation);
+	--code-tag: var(--holox-code-tag);
+	--code-value: var(--holox-code-value);
+	--code-string: var(--holox-code-string);
+	--code-property: var(--holox-code-property);
+	--code-function: var(--holox-code-function);
+	--code-keyword: var(--holox-code-keyword);
+	--code-important: var(--holox-code-important);
+	--code-operator: var(--holox-code-operator);
+
+	/* Callouts */
+	--callout-default: var(--holox-default_x);
+	--callout-info: var(--holox-info_x);
+	--callout-summary: var(--holox-summary_x);
+	--callout-tip: var(--holox-tip_x);
+	--callout-todo: var(--holox-todo_x);
+	--callout-bug: var(--holox-bug_x);
+	--callout-error: var(--holox-error_x);
+	--callout-fail: var(--holox-fail_x);
+	--callout-example: var(--holox-example_x);
+	--callout-important: var(--holox-important_x);
+	--callout-success: var(--holox-success_x);
+	--callout-question: var(--holox-question_x);
+	--callout-warning: var(--holox-warning_x);
+	--callout-quote: var(--holox-quote_x);
+}
+
+.blue{
+--holox-h1:var(--white);
+--holox-h2:var(--white);
+--holox-h3:var(--white);
+--holox-h4: var(--white);
+--holox-h5:var(--white);
+--holox-h6: var(--white);
+
+--holox-bold: #6B9EC1;
+--holox-italics: #4C7898;
+--holox-link: #7BAFD0;
+--holox-link-hover: #568BB1;
+
+--holox-tag: #4C7898;
+--holox-tag-hover: #7BAFD0;
+--holox-tag-bg: rgba(76, 120, 152, 0.12);
+--holox-tag-bg-hover: rgba(123, 175, 208, 0.12);
+
+--holox-checkbox: #5C85A6;
+
+--holox-code-normal: #6B9EC1;
+--holox-code-comment: #2A3C4F;
+--holox-code-punctuation: #568BB1;
+--holox-code-tag: #7BAFD0;
+--holox-code-value: #365A75;
+--holox-code-string: #5C85A6;
+--holox-code-property: #4C7898;
+--holox-code-function: #6B9EC1;
+--holox-code-keyword: #7BAFD0;
+--holox-code-important: #7BAFD0;
+--holox-code-operator: #4C7898;
+
+--holox-default_x: 107, 158, 193;
+--holox-info_x: 86, 139, 177;
+--holox-summary_x: 123, 175, 208;
+--holox-tip_x: 86, 139, 177;
+--holox-todo_x: 92, 133, 166;
+--holox-bug_x: 54, 90, 117;
+--holox-error_x: 54, 90, 117;
+--holox-fail_x: 54, 90, 117;
+--holox-example_x: 107, 158, 193;
+--holox-important_x: 86, 139, 177;
+--holox-success_x: 92, 133, 166;
+--holox-question_x: 123, 175, 208;
+--holox-warning_x: 92, 133, 166;
+--holox-quote_x: 32, 44, 58;
+
+	--h1-color: var(--holox-h1);
+	--h2-color: var(--holox-h2);
+	--h3-color: var(--holox-h3);
+	--h4-color: var(--holox-h4);
+	--h5-color: var(--holox-h5);
+	--h6-color: var(--holox-h6);
+
+	--bold-color: var(--holox-bold);
+	--italic-color: var(--holox-italics);
+
+	--link-color: var(--holox-link);
+	--link-color-hover: var(--holox-link-hover);
+	--link-external-color: var(--holox-link);
+	--link-external-color-hover: var(--holox-link-hover);
+	--link-decoration: none; 
+	--link-decoration-hover: none;
+	--link-external-decoration: none; 
+	--link-external-decoration-hover: none;
+--link-unresolved-color: rgba(108, 142, 154, 0.5);
+--link-unresolved-decoration-color: rgba(108, 142, 154, 0.5);
+
+	--checkbox-color: var(--holox-checkbox);
+	--checkbox-marker-color: var(--white);
+	--checkbox-border-color: var(--white);
+	--checkbox-border-color-hover: var(--white);
+	--checkbox-radius: var(--radius-l);
+
+	--tag-color: var(--holox-tag);
+	--tag-color-hover: var(--holox-tag-hover);
+	--tag-background: var(--holox-tag-bg);
+	--tag-background-hover: var(--holox-tag-bg-hover);
+
+	--code-normal: var(--holox-code-normal);
+	--code-comment: var(--holox-code-comment);
+	--code-punctuation: var(--holox-code-punctuation);
+	--code-tag: var(--holox-code-tag);
+	--code-value: var(--holox-code-value);
+	--code-string: var(--holox-code-string);
+	--code-property: var(--holox-code-property);
+	--code-function: var(--holox-code-function);
+	--code-keyword: var(--holox-code-keyword);
+	--code-important: var(--holox-code-important);
+	--code-operator: var(--holox-code-operator);
+
+	/* Callouts */
+	--callout-default: var(--holox-default_x);
+	--callout-info: var(--holox-info_x);
+	--callout-summary: var(--holox-summary_x);
+	--callout-tip: var(--holox-tip_x);
+	--callout-todo: var(--holox-todo_x);
+	--callout-bug: var(--holox-bug_x);
+	--callout-error: var(--holox-error_x);
+	--callout-fail: var(--holox-fail_x);
+	--callout-example: var(--holox-example_x);
+	--callout-important: var(--holox-important_x);
+	--callout-success: var(--holox-success_x);
+	--callout-question: var(--holox-question_x);
+	--callout-warning: var(--holox-warning_x);
+	--callout-quote: var(--holox-quote_x);
+}
+
+.red{
+--holox-h1:var(--white);
+--holox-h2:var(--white);
+--holox-h3:var(--white);
+--holox-h4: var(--white);
+--holox-h5:var(--white);
+--holox-h6: var(--white);
+
+--holox-bold: #B0132E;
+--holox-italics: #70101F;
+--holox-link: #C43D58;
+--holox-link-hover: #8C1026;
+
+--holox-tag: #70101F;
+--holox-tag-hover: #C43D58;
+--holox-tag-bg: rgba(112, 16, 31, 0.12);
+--holox-tag-bg-hover: rgba(196, 61, 88, 0.12);
+
+--holox-checkbox: #992539;
+
+--holox-code-normal: #B0132E;
+--holox-code-comment: #2E0B10;
+--holox-code-punctuation: #8C1026;
+--holox-code-tag: #C43D58;
+--holox-code-value: #4D0D17;
+--holox-code-string: #992539;
+--holox-code-property: #70101F;
+--holox-code-function: #B0132E;
+--holox-code-keyword: #C43D58;
+--holox-code-important: #C43D58;
+--holox-code-operator: #70101F;
+
+--holox-default_x: 176, 19, 46;
+--holox-info_x: 140, 16, 38;
+--holox-summary_x: 196, 61, 88;
+--holox-tip_x: 140, 16, 38;
+--holox-todo_x: 153, 37, 57;
+--holox-bug_x: 77, 13, 23;
+--holox-error_x: 77, 13, 23;
+--holox-fail_x: 77, 13, 23;
+--holox-example_x: 176, 19, 46;
+--holox-important_x: 140, 16, 38;
+--holox-success_x: 153, 37, 57;
+--holox-question_x: 196, 61, 88;
+--holox-warning_x: 153, 37, 57;
+--holox-quote_x: 46, 16, 21;
+
+	--h1-color: var(--holox-h1);
+	--h2-color: var(--holox-h2);
+	--h3-color: var(--holox-h3);
+	--h4-color: var(--holox-h4);
+	--h5-color: var(--holox-h5);
+	--h6-color: var(--holox-h6);
+
+	--bold-color: var(--holox-bold);
+	--italic-color: var(--holox-italics);
+
+	--link-color: var(--holox-link);
+	--link-color-hover: var(--holox-link-hover);
+	--link-external-color: var(--holox-link);
+	--link-external-color-hover: var(--holox-link-hover);
+	--link-decoration: none; 
+	--link-decoration-hover: none;
+	--link-external-decoration: none; 
+	--link-external-decoration-hover: none;
+--link-unresolved-color: rgba(176, 19, 46, 0.5);
+--link-unresolved-decoration-color: rgba(176, 19, 46, 0.5);
+
+	--checkbox-color: var(--holox-checkbox);
+	--checkbox-marker-color: var(--white);
+	--checkbox-border-color: var(--white);
+	--checkbox-border-color-hover: var(--white);
+	--checkbox-radius: var(--radius-l);
+
+	--tag-color: var(--holox-tag);
+	--tag-color-hover: var(--holox-tag-hover);
+	--tag-background: var(--holox-tag-bg);
+	--tag-background-hover: var(--holox-tag-bg-hover);
+
+	--code-normal: var(--holox-code-normal);
+	--code-comment: var(--holox-code-comment);
+	--code-punctuation: var(--holox-code-punctuation);
+	--code-tag: var(--holox-code-tag);
+	--code-value: var(--holox-code-value);
+	--code-string: var(--holox-code-string);
+	--code-property: var(--holox-code-property);
+	--code-function: var(--holox-code-function);
+	--code-keyword: var(--holox-code-keyword);
+	--code-important: var(--holox-code-important);
+	--code-operator: var(--holox-code-operator);
+
+	/* Callouts */
+	--callout-default: var(--holox-default_x);
+	--callout-info: var(--holox-info_x);
+	--callout-summary: var(--holox-summary_x);
+	--callout-tip: var(--holox-tip_x);
+	--callout-todo: var(--holox-todo_x);
+	--callout-bug: var(--holox-bug_x);
+	--callout-error: var(--holox-error_x);
+	--callout-fail: var(--holox-fail_x);
+	--callout-example: var(--holox-example_x);
+	--callout-important: var(--holox-important_x);
+	--callout-success: var(--holox-success_x);
+	--callout-question: var(--holox-question_x);
+	--callout-warning: var(--holox-warning_x);
+	--callout-quote: var(--holox-quote_x);
+
+}
+
+.mint-theme{
+--holox-h1: #A8D5A0;         /* Soft Mint Green */
+--holox-h2: #8FC394;
+--holox-h3: #C1E7BB;
+--holox-h4: #7BAA7C;
+--holox-h5: #92BD90;
+--holox-h6: #5C8B5F;
+
+--holox-bold: #7BAA7C;       /* Deep pastel green */
+--holox-italics: #5C8B5F;
+
+--holox-link: #A5CFEF;       /* Pastel Blue */
+--holox-link-hover: #80B4E0;
+
+--holox-tag: #7BAA7C;
+--holox-tag-hover: #A8D5A0;
+--holox-tag-bg: rgba(123, 170, 124, 0.12);
+--holox-tag-bg-hover: rgba(168, 213, 160, 0.12);
+
+--holox-checkbox: #92BD90;
+
+--holox-code-normal: #A5CFEF;
+--holox-code-comment: #4F5E51;
+--holox-code-punctuation: #80B4E0;
+--holox-code-tag: #A5CFEF;
+--holox-code-value: #5C8B5F;
+--holox-code-string: #92BD90;
+--holox-code-property: #8FC394;
+--holox-code-function: #A5CFEF;
+--holox-code-keyword: #80B4E0;
+--holox-code-important: #A8D5A0;
+--holox-code-operator: #7BAA7C;
+
+--holox-default_x: 168, 213, 160;
+--holox-info_x: 165, 207, 239;
+--holox-summary_x: 193, 231, 187;
+--holox-tip_x: 168, 213, 160;
+--holox-todo_x: 146, 189, 144;
+--holox-bug_x: 92, 139, 95;
+--holox-error_x: 92, 139, 95;
+--holox-fail_x: 92, 139, 95;
+--holox-example_x: 165, 207, 239;
+--holox-important_x: 123, 170, 124;
+--holox-success_x: 146, 189, 144;
+--holox-question_x: 193, 231, 187;
+--holox-warning_x: 146, 189, 144;
+--holox-quote_x: 79, 94, 81;
+
+--link-unresolved-color: rgba(150, 190, 144, 0.5);
+--link-unresolved-decoration-color: rgba(150, 190, 144, 0.5);
+
+
+	--h1-color: var(--holox-h1);
+	--h2-color: var(--holox-h2);
+	--h3-color: var(--holox-h3);
+	--h4-color: var(--holox-h4);
+	--h5-color: var(--holox-h5);
+	--h6-color: var(--holox-h6);
+
+	--bold-color: var(--holox-bold);
+	--italic-color: var(--holox-italics);
+
+	--link-color: var(--holox-link);
+	--link-color-hover: var(--holox-link-hover);
+	--link-external-color: var(--holox-link);
+	--link-external-color-hover: var(--holox-link-hover);
+	--link-decoration: none; 
+	--link-decoration-hover: none;
+	--link-external-decoration: none; 
+	--link-external-decoration-hover: none;
+
+	--checkbox-color: var(--holox-checkbox);
+	--checkbox-marker-color: var(--white);
+	--checkbox-border-color: var(--white);
+	--checkbox-border-color-hover: var(--white);
+	--checkbox-radius: var(--radius-l);
+
+	--tag-color: var(--holox-tag);
+	--tag-color-hover: var(--holox-tag-hover);
+	--tag-background: var(--holox-tag-bg);
+	--tag-background-hover: var(--holox-tag-bg-hover);
+
+	--code-normal: var(--holox-code-normal);
+	--code-comment: var(--holox-code-comment);
+	--code-punctuation: var(--holox-code-punctuation);
+	--code-tag: var(--holox-code-tag);
+	--code-value: var(--holox-code-value);
+	--code-string: var(--holox-code-string);
+	--code-property: var(--holox-code-property);
+	--code-function: var(--holox-code-function);
+	--code-keyword: var(--holox-code-keyword);
+	--code-important: var(--holox-code-important);
+	--code-operator: var(--holox-code-operator);
+
+	/* Callouts */
+	--callout-default: var(--holox-default_x);
+	--callout-info: var(--holox-info_x);
+	--callout-summary: var(--holox-summary_x);
+	--callout-tip: var(--holox-tip_x);
+	--callout-todo: var(--holox-todo_x);
+	--callout-bug: var(--holox-bug_x);
+	--callout-error: var(--holox-error_x);
+	--callout-fail: var(--holox-fail_x);
+	--callout-example: var(--holox-example_x);
+	--callout-important: var(--holox-important_x);
+	--callout-success: var(--holox-success_x);
+	--callout-question: var(--holox-question_x);
+	--callout-warning: var(--holox-warning_x);
+	--callout-quote: var(--holox-quote_x);
+}

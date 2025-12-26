@@ -1,0 +1,114 @@
+:root {
+	--white: #EAEAEA;
+
+	--holox-h1: #9C63D6;
+	--holox-h2: #C94861;
+	--holox-h3: #D67CA9;
+	--holox-h4: #801D32;
+	--holox-h5: #82D5BD;
+	--holox-h6: #777777;
+
+	--holox-bold: #B48EFF;
+	--holox-italics: #D0A4C4;
+	--holox-link: #A53242;
+	--holox-link-hover: #D1556B;
+
+	--holox-tag: #82D5BD;
+	--holox-tag-hover: #A53242;
+	--holox-tag-bg: rgba(130, 213, 189, 0.12);
+	--holox-tag-bg-hover: rgba(165, 50, 66, 0.12);
+
+	--holox-checkbox: #82D5BD;
+
+	--holox-code-normal: #D6D1EC;
+	--holox-code-comment: #5F5A77;
+	--holox-code-punctuation: #9C63D6;
+	--holox-code-tag: #C94861;
+	--holox-code-value: #801D32;
+	--holox-code-string: #82D5BD;
+	--holox-code-property: #D67CA9;
+	--holox-code-function: #B48EFF;
+	--holox-code-keyword: #C94861;
+	--holox-code-important: #C94861;
+	--holox-code-operator: #D67CA9;
+	
+	--holox-default_x: 182, 120, 255;
+  --holox-info_x: 255, 76, 110;
+  --holox-summary_x: 255, 144, 194;
+  --holox-tip_x: 255, 76, 110;
+  --holox-todo_x: 160, 255, 226;
+  --holox-bug_x: 176, 19, 46;
+  --holox-error_x: 176, 19, 46;
+  --holox-fail_x: 176, 19, 46;
+  --holox-example_x: 182, 120, 255;
+  --holox-important_x: 255, 76, 110;
+  --holox-success_x: 160, 255, 226;
+  --holox-question_x: 255, 144, 194;
+  --holox-warning_x: 255, 140, 60;
+  --holox-quote_x: 110, 110, 110;
+}
+
+.theme-light,
+.theme-dark {
+	--h1-color: var(--holox-h1);
+	--h2-color: var(--holox-h2);
+	--h3-color: var(--holox-h3);
+	--h4-color: var(--holox-h4);
+	--h5-color: var(--holox-h5);
+	--h6-color: var(--holox-h6);
+
+	--bold-color: var(--holox-bold);
+	--italic-color: var(--holox-italics);
+
+	--link-color: var(--holox-link);
+	--link-color-hover: var(--holox-link-hover);
+	--link-external-color: var(--holox-link);
+	--link-external-color-hover: var(--holox-link-hover);
+	--link-decoration: none; 
+	--link-decoration-hover: none;
+	--link-external-decoration: none; 
+	--link-external-decoration-hover: none;
+	--link-unresolved-color: rgba(165, 50, 66, 0.5);
+	--link-unresolved-decoration-color: rgba(165, 50, 66, 0.5);
+
+	--checkbox-color: var(--holox-checkbox);
+	--checkbox-marker-color: var(--white);
+	--checkbox-border-color: var(--white);
+	--checkbox-border-color-hover: var(--white);
+	--checkbox-radius: var(--radius-l);
+
+	--tag-color: var(--holox-tag);
+	--tag-color-hover: var(--holox-tag-hover);
+	--tag-background: var(--holox-tag-bg);
+	--tag-background-hover: var(--holox-tag-bg-hover);
+
+	--code-normal: var(--holox-code-normal);
+	--code-comment: var(--holox-code-comment);
+	--code-punctuation: var(--holox-code-punctuation);
+	--code-tag: var(--holox-code-tag);
+	--code-value: var(--holox-code-value);
+	--code-string: var(--holox-code-string);
+	--code-property: var(--holox-code-property);
+	--code-function: var(--holox-code-function);
+	--code-keyword: var(--holox-code-keyword);
+	--code-important: var(--holox-code-important);
+	--code-operator: var(--holox-code-operator);
+
+	/* Callouts */
+	--callout-default: var(--holox-default_x);
+	--callout-info: var(--holox-info_x);
+	--callout-summary: var(--holox-summary_x);
+	--callout-tip: var(--holox-tip_x);
+	--callout-todo: var(--holox-todo_x);
+	--callout-bug: var(--holox-bug_x);
+	--callout-error: var(--holox-error_x);
+	--callout-fail: var(--holox-fail_x);
+	--callout-example: var(--holox-example_x);
+	--callout-important: var(--holox-important_x);
+	--callout-success: var(--holox-success_x);
+	--callout-question: var(--holox-question_x);
+	--callout-warning: var(--holox-warning_x);
+	--callout-quote: var(--holox-quote_x);
+
+
+};

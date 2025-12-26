@@ -1,0 +1,246 @@
+:root {
+	--white: #F5F5F5  ;
+/*	--purple: #B790D4;*/
+	--purple: rgb(140, 94, 180);
+	--gold: #E2BD6B; 
+	--lavander: #B984DB;
+/*
+--h1: #4D067B;   Deep violet
+--h2: #7209B7;   Strong purple
+--h3: #B984DB;   Lavender
+--h4: #E2BD6B;   Gold-tan
+--h5: #F8E2D4;   Blush peach
+--h6: #FAEEE7;   Lightest pastel cream
+*/
+
+/* 
+--background-primary: rgb(9, 9, 9);
+--background-secondary: rgb(26, 26, 26);
+--background-secondary-alt: rgb(32, 32, 32); 
+*/
+
+--h1: var(--white);   
+--h2: var(--white); 
+--h3: var(--white); 
+--h4: var(--white); 
+--h5: var(--white); 
+--h6: var(--white); 
+
+--bold: var(--white); 
+--italics: rgba(189, 189, 189, 0.75);
+
+--link:  var(--gold);
+--link-hover:  var(--gold);
+--link-unresolved:  rgba(226, 189, 107, 0.5);
+
+--tag: var(--purple); 
+--tag-hover: var(--purple); 
+--tag-bg: rgba(140, 94, 180, 0.12);
+--tag-bg-hover: rgba(140, 94, 180, 0.12);
+
+--checkbox: var(--purple); 
+
+--theme-code-bg: rgb(12, 12, 12);
+--theme-code-normal: var(--white);
+--theme-code-normal: #f8f8f2;
+--theme-code-comment: rgb(155, 155, 155);
+--theme-code-punctuation: #f8f8f2;
+--theme-code-tag: rgb(255, 232, 131);
+--theme-code-value: rgb(85, 139, 110);
+--theme-code-string: rgb(11, 121, 90);
+--theme-code-property: #f1fa8c;
+--theme-code-function: rgb(206, 92, 0);
+--theme-code-keyword: rgb(206, 92, 0);
+--theme-code-important: rgb(27, 118, 153);
+
+--default_x: 114, 9, 183;
+--info_x: 77, 6, 123;
+--summary_x: 185, 132, 219;
+--tip_x: 140, 94, 180;
+--todo_x: 108, 82, 155;
+--bug_x: 90, 48, 130;
+--error_x: 90, 48, 130;
+--fail_x: 90, 48, 130;
+--example_x: 249, 226, 212;
+--important_x: 226, 189, 107;
+--success_x: 185, 132, 219;
+--question_x: 249, 226, 212;
+--warning_x: 226, 189, 107;
+--quote_x: 140, 94, 180;
+
+}
+
+body .metadata-properties-heading, 
+body .metadata-properties, 
+body .metadata-add-button {
+  display: none;
+}
+
+h1, h2, h3, h4, h5, h6,
+.markdown-preview-view h1,
+.markdown-preview-view h2,
+.markdown-preview-view h3,
+.markdown-preview-view h4,
+.markdown-preview-view h5,
+.markdown-preview-view h6,
+.cm-header-1,
+.cm-header-2,
+.cm-header-3,
+.cm-header-4,
+.cm-header-5,
+.cm-header-6 {
+  font-weight: bolder !important;
+}
+
+h1 strong,
+.markdown-preview-view h1,
+.markdown-source-view.mod-cm6 .cm-header-1 {
+  color: var(--purple) !important;
+}
+
+
+strong,
+.cm-strong,
+.markdown-preview-view strong{
+  font-weight: 900 !important; 
+}
+
+body {
+	--background-primary: rgb(9, 9, 9);
+ 	--background-secondary: rgb(26, 26, 26);
+  	--background-secondary-alt: rgb(32, 32, 32);
+  	background-color: var(--background-primary);
+}
+
+.theme-dark {
+  background-color: var(--background-primary);
+}
+
+.markdown-preview-view,
+.markdown-source-view {
+  background-color: var(--background-primary) !important;
+}
+
+.markdown-preview-view blockquote{
+	padding-top: 7px;
+	padding-bottom: 7px;
+	padding-left: 10px;
+	border-radius: 3px;
+	background: linear-gradient(90deg,rgba(22, 22, 22, 1), rgba(8, 8, 8, 0));
+	font-size: 13px;
+	font-style: italic;
+}
+
+.markdown-preview-view blockquote strong{
+	color: var(--white);
+}
+
+.markdown-embed{
+	border: 0;
+}
+
+.internal-embed .footnotes,
+.internal-embed .footnote-ref {
+  display: none;
+}
+
+div.internal-embed,
+div.internal-embed-container,
+div.internal-embed .markdown-embed,
+div.internal-embed .markdown-embed-content {
+  margin: 0 !important;
+  padding: 0 !important;
+  background: none !important;
+}
+
+.callout[data-callout=character]{
+	background-color: var(--background-secondary);
+	text-align: center;
+	font-style: italic;
+
+	--italic-color: var(--white);
+}
+
+.callout[data-callout=character] .callout-title{
+  display: none;
+}
+
+.theme-light,
+.theme-dark {
+	--h1-color: var(--h1);
+	--h2-color: var(--h2);
+	--h3-color: var(--h3);
+	--h4-color: var(--h4);
+	--h5-color: var(--h5);
+	--h6-color: var(--h6);
+
+	--bold-color: var(--bold);
+	--italic-color: var(--italics);
+
+	--link-color: var(--link);
+	--link-color-hover: var(--link-hover);
+	--link-external-color: var(--link);
+	--link-external-color-hover: var(--link-hover);
+	--link-decoration: none; 
+	--link-decoration-hover: none;
+	--link-external-decoration: none; 
+	--link-external-decoration-hover: none;
+	--link-unresolved-color: var(--link-unresolved);
+	--link-unresolved-decoration-color: var(--link-unresolved);
+
+	--checkbox-color: var(--checkbox);
+	--checkbox-marker-color: var(--white);
+	--checkbox-border-color: var(--white);
+	--checkbox-border-color-hover: var(--white);
+	--checkbox-radius: var(--radius-l);
+
+	--tag-color: var(--tag);
+	--tag-color-hover: var(--tag-hover);
+	--tag-background: var(--tag-bg);
+	--tag-background-hover: var(--tag-bg-hover);
+
+	/* 
+	--code-background: #0c0c0c;
+	--code-normal: #f8f8f2;
+  	--code-comment: #6272a4;
+  	--code-punctuation: #f8f8f2;
+ 	--code-tag: #ff79c6;
+  	--code-value: #8be9fd;
+  	--code-string: #50fa7b;
+  	--code-property: #f1fa8c;
+  	--code-function: #ff79c6;
+  	--code-keyword: #bd93f9;
+ 	--code-important: #f8f8f2; 
+	*/
+
+	--code-background: var(--theme-code-bg);
+	--code-normal: var(--theme-code-normal);
+  	--code-comment: var(--theme-code-comment);
+  	--code-punctuation: var(--theme-code-punctuation);
+ 	--code-tag: var(--theme-code-tag);
+  	--code-value: var(--theme-code-value);
+  	--code-string: var(--theme-code-string);
+  	--code-property: var(--theme-code-property);
+  	--code-function: var(--theme-code-function);
+  	--code-keyword: var(--theme-code-keyword);
+ 	--code-important: var(--theme-code-important);
+
+	/* Callouts */
+	--callout-default: var(--default_x);
+	--callout-info: var(--info_x);
+	--callout-summary: var(--summary_x);
+	--callout-tip: var(--tip_x);
+	--callout-todo: var(--todo_x);
+	--callout-bug: var(--bug_x);
+	--callout-error: var(--error_x);
+	--callout-fail: var(--fail_x);
+	--callout-example: var(--example_x);
+	--callout-important: var(--important_x);
+	--callout-success: var(--success_x);
+	--callout-question: var(--question_x);
+	--callout-warning: var(--warning_x);
+	--callout-quote: var(--quote_x);
+	
+	--blockquote-border-thickness: 3px;
+	--block-border-thickness: 0px;
+}

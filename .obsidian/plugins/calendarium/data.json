@@ -1,0 +1,274 @@
+{
+  "autoParse": false,
+  "calendars": [
+    {
+      "name": "Arcaenian Calendar",
+      "description": "",
+      "id": "ID_b91b2a08b98a",
+      "showIntercalarySeparately": true,
+      "static": {
+        "incrementDay": false,
+        "firstWeekDay": 0,
+        "overflow": true,
+        "weekdays": [
+          {
+            "type": "day",
+            "name": "Ignus",
+            "id": "ID_390bfaa9e84b"
+          },
+          {
+            "type": "day",
+            "name": "Verdan",
+            "id": "ID_3b68c8b908f8"
+          },
+          {
+            "type": "day",
+            "name": "Erdus",
+            "id": "ID_fbfadab8da9a"
+          },
+          {
+            "type": "day",
+            "name": "Aquara",
+            "id": "ID_980b488bb939"
+          },
+          {
+            "type": "day",
+            "name": "Thundaris",
+            "id": "ID_b87998d88a78"
+          },
+          {
+            "type": "day",
+            "name": "Pneumus",
+            "id": "ID_898a8a59aa18"
+          },
+          {
+            "type": "day",
+            "name": "Glacis",
+            "id": "ID_0b083aa9e839"
+          }
+        ],
+        "months": [
+          {
+            "type": "month",
+            "name": "Month 1",
+            "length": 30,
+            "id": "ID_782a093b0af9",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Month 2",
+            "length": 30,
+            "id": "ID_0b6a28097aa8",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Month 3",
+            "length": 30,
+            "id": "ID_39880a6a994a",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Month 4",
+            "length": 30,
+            "id": "ID_e88b0a8a6ae8",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Month 5",
+            "length": 30,
+            "id": "ID_89eb385b8919",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Month 6",
+            "length": 30,
+            "id": "ID_586a098b3b79",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Month 7",
+            "length": 30,
+            "id": "ID_7bb93ab82a0a",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Month 8",
+            "length": 30,
+            "id": "ID_ba6a49fb0b58",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Month 9",
+            "length": 30,
+            "id": "ID_6b992b0b58a9",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Month 10",
+            "length": 30,
+            "id": "ID_3acb6b3bbb3b",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Month 11",
+            "length": 30,
+            "id": "ID_393be8bb098b",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Month 12",
+            "length": 30,
+            "id": "ID_ca4a7bda48eb",
+            "interval": 1,
+            "offset": 0
+          }
+        ],
+        "moons": [
+          {
+            "name": "Luna",
+            "cycle": 30,
+            "offset": 0,
+            "faceColor": "#b0b0b0",
+            "shadowColor": "#000",
+            "id": "ID_7b288a38684b"
+          }
+        ],
+        "displayMoons": true,
+        "displayDayNumber": true,
+        "leapDays": [],
+        "eras": [],
+        "years": [],
+        "useCustomYears": false,
+        "padMonths": 2,
+        "padDays": 2
+      },
+      "seasonal": {
+        "seasons": [
+          {
+            "id": "ID_ca387bba8948",
+            "name": "Spring",
+            "color": "#49c177",
+            "type": "Periodic",
+            "kind": "Spring",
+            "duration": 100,
+            "peak": 0,
+            "weatherOffset": 56,
+            "weatherPeak": 5.6000000000000005
+          },
+          {
+            "id": "ID_ab4a7bd8e96a",
+            "name": "Summer",
+            "type": "Periodic",
+            "color": "#ffeb6b",
+            "duration": 90,
+            "peak": 0,
+            "weatherOffset": 56,
+            "weatherPeak": 5,
+            "kind": "Summer"
+          },
+          {
+            "id": "ID_f88a792b0a5a",
+            "name": "Fall",
+            "type": "Periodic",
+            "color": "#e18351",
+            "duration": 95,
+            "peak": 0,
+            "weatherOffset": 56,
+            "weatherPeak": 5,
+            "kind": "Autumn"
+          },
+          {
+            "id": "ID_5a2a68cb7828",
+            "name": "Winter",
+            "type": "Periodic",
+            "color": "#5a96ce",
+            "duration": 75,
+            "peak": 0,
+            "weatherOffset": 56,
+            "weatherPeak": 5,
+            "kind": "Winter"
+          }
+        ],
+        "offset": 0,
+        "type": "Periodic",
+        "displayColors": true,
+        "interpolateColors": true,
+        "weather": {
+          "enabled": true,
+          "seed": 1178998620,
+          "tempUnits": "Metric",
+          "windUnits": "Metric",
+          "primaryWindDirection": "E",
+          "freezingPoint": 0
+        }
+      },
+      "locations": {
+        "locations": [],
+        "defaultLocation": ""
+      },
+      "current": {
+        "day": 18,
+        "month": 4,
+        "year": 2405
+      },
+      "events": [],
+      "categories": [],
+      "path": [],
+      "supportInlineEvents": false,
+      "inlineEventTag": "#inline-events",
+      "dateFormat": "MM-DD-YYYY"
+    }
+  ],
+  "configDirectory": null,
+  "dailyNotes": false,
+  "dateFormat": "YYYY-MM-DD",
+  "defaultCalendar": "ID_b91b2a08b98a",
+  "eventPreview": false,
+  "exit": {
+    "saving": true,
+    "event": false,
+    "calendar": false,
+    "savingEvent": false
+  },
+  "eventFrontmatter": false,
+  "parseDates": false,
+  "version": {
+    "major": 2,
+    "minor": 1,
+    "patch": 0,
+    "beta": null
+  },
+  "debug": false,
+  "askedToMoveFC": false,
+  "askedAboutSync": false,
+  "syncBehavior": "Ask",
+  "inlineEventsTag": null,
+  "paths": [
+    [
+      "/",
+      "DEFAULT"
+    ]
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "hideStrictPathFilters": true,
+  "pinFilters": {
+    "active": true,
+    "tags": [
+      {
+        "name": "",
+        "active": true,
+        "pattern": "",
+        "patternType": "STRICT"
+      }
+    ],
+    "paths": [
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES_AND_DIRECTORIES",
+        "pattern": "",
+        "patternType": "WILDCARD"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "Arcane-Bound/Archives/Arcane-Bound – Archives.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "Arcane-Bound/Worlds Collide/99 Extras/Meta/Arcane-Bound – Worlds Collide.md",
+        "patternType": "STRICT"
+      }
+    ],
+    "frontMatter": [
+      {
+        "name": "",
+        "active": true,
+        "path": "",
+        "pattern": "",
+        "patternType": "STRICT"
+      }
+    ]
+  },
+  "hideFilters": {
+    "active": true,
+    "tags": [
+      {
+        "name": "",
+        "active": true,
+        "pattern": "",
+        "patternType": "STRICT"
+      }
+    ],
+    "paths": [
+      {
+        "name": "",
+        "active": true,
+        "type": "DIRECTORIES",
+        "pattern": "Arcane-Bound/Worlds Collide/99 Extras/Archives",
+        "patternType": "STRICT"
+      }
+    ],
+    "frontMatter": [
+      {
+        "name": "",
+        "active": true,
+        "path": "",
+        "pattern": "",
+        "patternType": "STRICT"
+      }
+    ]
+  }
+}

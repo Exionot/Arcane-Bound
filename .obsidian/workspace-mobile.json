@@ -1,0 +1,221 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "4509724f8bf84da7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7a7b303c61786dc",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "671b5106e3d4e406",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "15fd1bdab1e98db0",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "a6c82242380f3618",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": true,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "5efa8e3be9bdd235",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "1ecf40328c942aa4",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      },
+      {
+        "id": "c8d2f45a9336ba6a",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "All properties"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "429334300ffe9668",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "aa95e88d67fb1e6e",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "9693e26b96c36ada",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "NeoTech Union.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "7e985609ae22084c",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Arcane-Bound/01 Characters/Aura.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      },
+      {
+        "id": "3a3453d4b7631c9d",
+        "type": "leaf",
+        "state": {
+          "type": "file-properties",
+          "state": {},
+          "icon": "lucide-info",
+          "title": "File properties"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "homepage:Open homepage": false,
+      "templater-obsidian:Templater": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "e7a7b303c61786dc",
+  "lastOpenFiles": [
+    "Arcane-Bound/99 Extras/Meta/AB - Locations.md",
+    "Arcane-Bound/03 Locations/03 Nations/HyperCorp Republic.md",
+    "Homepage.md",
+    "Arcane-Bound/03 Locations/05a Cities/Newslate City.md",
+    "Arcane-Bound/03 Locations/03 Nations/Republic of Chloros.md",
+    "Arcane-Bound/02 Factions/Voidrock Operation & Investigation Department.md",
+    "Arcane-Bound/02 Factions/Voidrock Special Operation Division 9.md",
+    "Arcane-Bound/03 Locations/05a Cities/Shellport Capital.md",
+    "Arcane-Bound/03 Locations/05a Cities/Fontur City.md",
+    "Arcane-Bound/03 Locations/05a Cities/Fluxpoint City.md",
+    "Arcane-Bound/03 Locations/03 Nations/NeoTech Union.md",
+    "Arcane-Bound/03 Locations/05a Cities/Astral City.md",
+    "Arcane-Bound/03 Locations/05a Cities/Bauserst City.md",
+    "Templates/Point of Interest.md",
+    "Templates/City.md",
+    "Templates/Character.md",
+    "Arcane-Bound/99 Extras/Meta/Arcane-Bound – Worlds Collide.md",
+    "Dryrock Region.md",
+    "Arcane-Bound/03 Locations/01 Continents/Synthspire.md",
+    "Arcane-Bound/03 Locations/03 Nations/Frostalies Kingdom.md",
+    "Arcane-Bound/03 Locations/07 Points of Interest/Orbital Access Transit Station.md",
+    "Arcane-Bound/03 Locations/00 Space/01 Orbital Infrastructure/Ring of Orion.md",
+    "Arcane-Bound/03 Locations/04 Regions/Split Region.md",
+    "Arcane-Bound/99 Extras/Meta/AB - Unresolved Notes.md",
+    "Arcane-Bound/99 Extras/Meta/AB - Characters.md",
+    "Arcane-Bound/01 Characters/Ion Kynne.md",
+    "ᐳExternal Assets/Untitled11_20250731013857.png",
+    "ᐳExternal Assets/Untitled30_20250620012606.png",
+    "ᐳExternal Assets/Alingalan _DP.png",
+    "ᐳExternal Assets/Untitled40_20250804214228.png",
+    "ᐳExternal Assets/export1691263393005_1.png",
+    "Arcane-Bound/03 Locations/06 Villages/Untitled",
+    "Arcane-Bound/03 Locations/06 Districts–Quarters",
+    "Arcane-Bound/03 Locations/04 Regions",
+    "ᐳExternal Assets/1000-1.png",
+    "Arcane-Bound/99 Extras/Meta",
+    "Arcane-Bound/99 Extras/Archives",
+    "Arcane-Bound/99 Extras",
+    "Arcane-Bound/07 Lore/01 Documents",
+    "Arcane-Bound/03 Locations/00 Space/01 Orbital Infrastructure",
+    "Arcane-Bound/03 Locations/00 Space",
+    "On The Side - We're The Builders of Our World/05 Skills - Abilities/01 Magic",
+    "ᐳExternal Assets/Untitled13.png"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"78e3e23afe13373f","type":"text","text":"Characters got transported  to [[Arcaena]]:\n- [[Victoria Veloux Canidel]]\n- [[Krystalle Eos]]","x":-480,"y":-160,"width":360,"height":120},
+		{"id":"0990581a509d0973","type":"text","text":"Characters got transported to [[Synthspire]]:\n- [[Mint Evergreen]]\n- [[Ted Ursa]]","x":130,"y":-160,"width":370,"height":120},
+		{"id":"6bcd53be2fb83f39","type":"text","text":"[[The Convergence]]","x":-120,"y":-320,"width":250,"height":60,"color":"6"}
+	],
+	"edges":[
+		{"id":"faa27b697ffd6a24","fromNode":"6bcd53be2fb83f39","fromSide":"bottom","toNode":"78e3e23afe13373f","toSide":"top"},
+		{"id":"01b7945d86c51307","fromNode":"6bcd53be2fb83f39","fromSide":"bottom","toNode":"0990581a509d0973","toSide":"top"}
+	]
+}

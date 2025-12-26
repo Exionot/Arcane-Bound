@@ -1,0 +1,1 @@
+Sythspirian people still have mana But its so little that its undetectable by mages of arcaena

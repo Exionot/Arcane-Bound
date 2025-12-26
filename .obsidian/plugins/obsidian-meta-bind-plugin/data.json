@@ -1,0 +1,29 @@
+{
+  "devMode": false,
+  "ignoreCodeBlockRestrictions": false,
+  "preferredDateFormat": "YYYY-MM-DD",
+  "firstWeekday": {
+    "index": 1,
+    "name": "Monday",
+    "shortName": "Mo"
+  },
+  "syncInterval": 200,
+  "enableJs": false,
+  "viewFieldDisplayNullAsEmpty": false,
+  "enableSyntaxHighlighting": true,
+  "enableEditorRightClickMenu": true,
+  "inputFieldTemplates": [
+    {
+      "name": "usageStatus",
+      "declaration": "INPUT[inlineSelect(option(Commonly Used), option(Widely Known), option(Occasionally Used), option(Rarely Used), option(Obsolete), option(Forgotten), option(Forbidden), option(Restricted Use), option(Signature)): status]"
+    },
+    {
+      "name": "factionStatus",
+      "declaration": "INPUT[inlineSelect(option(Active), option(Inactive), option(Terminated), option(Dissolved), option(Declining), option(KIA, Killed in Action)):status]"
+    }
+  ],
+  "buttonTemplates": [],
+  "excludedFolders": [
+    "templates"
+  ]
+}

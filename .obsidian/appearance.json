@@ -1,0 +1,15 @@
+{
+  "enabledCssSnippets": [
+    "holox_obsidian_theme_v2(1)",
+    "Custom Classes",
+    "Purple Gold Theme"
+  ],
+  "interfaceFontFamily": "Atkinson Hyperlegible",
+  "textFontFamily": "Atkinson Hyperlegible",
+  "monospaceFontFamily": "Consolas",
+  "baseFontSize": 15,
+  "theme": "obsidian",
+  "baseFontSizeAction": true,
+  "accentColor": "#6e3a9e",
+  "cssTheme": ""
+}

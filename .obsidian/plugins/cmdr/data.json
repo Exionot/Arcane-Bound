@@ -1,0 +1,42 @@
+{
+  "confirmDeletion": true,
+  "showAddCommand": true,
+  "debug": false,
+  "editorMenu": [],
+  "fileMenu": [
+    {
+      "id": "editor:attach-file",
+      "icon": "lucide-paperclip",
+      "name": "Insert attachment",
+      "mode": "any"
+    },
+    {
+      "id": "app:go-back",
+      "icon": "lucide-arrow-left",
+      "name": "Navigate back",
+      "mode": "any"
+    }
+  ],
+  "leftRibbon": [],
+  "rightRibbon": [],
+  "titleBar": [],
+  "statusBar": [],
+  "pageHeader": [],
+  "macros": [],
+  "explorer": [],
+  "hide": {
+    "statusbar": [],
+    "leftRibbon": []
+  },
+  "spacing": 8,
+  "advancedToolbar": {
+    "rowHeight": 30,
+    "rowCount": 2,
+    "spacing": 0,
+    "buttonWidth": 48,
+    "columnLayout": true,
+    "mappedIcons": [],
+    "tooltips": false,
+    "heightOffset": 0
+  }
+}

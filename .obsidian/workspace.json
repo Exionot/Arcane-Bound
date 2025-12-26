@@ -1,0 +1,322 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "c7f49b026705b5d3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6f345e035a8237e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Homepage.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Homepage"
+            }
+          },
+          {
+            "id": "cd49c1603130feda",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_b91b2a08b98a",
+                "ephemeral": {
+                  "viewState": 1,
+                  "displaying": {
+                    "day": 18,
+                    "month": 4,
+                    "year": 2405
+                  },
+                  "displayDayNumber": true,
+                  "displaySeasonColors": true,
+                  "interpolateColors": true,
+                  "displayMoons": true,
+                  "displayWeather": true,
+                  "location": ""
+                },
+                "id": "ID_aa8babe9aaca"
+              },
+              "pinned": true,
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b1b2c910aab7c23e",
+    "type": "split",
+    "children": [
+      {
+        "id": "dbfb082d7b718976",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b7cf8a5556c91a10",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "5f78b307834f4072",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "3b7b9715c8a2c7ae",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 268.5
+  },
+  "right": {
+    "id": "446c418154317ee3",
+    "type": "split",
+    "children": [
+      {
+        "id": "4bfbc39118af8b6e",
+        "type": "tabs",
+        "dimension": 38.77284595300261,
+        "children": [
+          {
+            "id": "0cdf41f6f0a55e88",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "45d3cca7e5b59707",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Homepage.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.2588386562181629,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of Homepage"
+            }
+          }
+        ]
+      },
+      {
+        "id": "c3b857a81cfcc89f",
+        "type": "tabs",
+        "dimension": 61.22715404699739,
+        "children": [
+          {
+            "id": "cd1f6770e4636917",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Homepage.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Homepage"
+            }
+          },
+          {
+            "id": "33e5603761b5309f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Homepage.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Homepage"
+            }
+          },
+          {
+            "id": "d1f9afa9a56198a1",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "a6edf574d15b3142",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Homepage.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Homepage"
+            }
+          },
+          {
+            "id": "965869129e2cd64f",
+            "type": "leaf",
+            "state": {
+              "type": "footnotes",
+              "state": {
+                "file": "Homepage.md"
+              },
+              "icon": "lucide-file-signature",
+              "title": "Footnotes"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 253.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "homepage:Open homepage": false,
+      "calendarium:Open Calendarium": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "6f345e035a8237e0",
+  "lastOpenFiles": [
+    "README.md",
+    "ArcBound/README.md",
+    "Arcane-Bound/Worlds Collide/01 Characters/Mint Evergreen.md",
+    "ArcBound",
+    "Arcane-Bound/Worlds Collide/01 Characters/Underworldian - Clair.md",
+    "Arcane-Bound/Worlds Collide/01 Characters/Victoria Veloux Canidel.md",
+    "Arcane-Bound/Worlds Collide/01 Characters/Krystalle Eos.md",
+    "Arcane-Bound/Worlds Collide/01 Characters/Ion Kynne.md",
+    "Arcane-Bound/Worlds Collide/01 Characters/Clair Tempest.md",
+    "Arcane-Bound/Worlds Collide/01 Characters/Aura Brillfer.md",
+    "Arcane-Bound/Worlds Collide/01 Characters/Mhaxxine Dark.md",
+    "Arcane-Bound/Worlds Collide/99 Extras/Meta/AB - Unresolved Notes.md",
+    "Arcane-Bound/Worlds Collide/01 Characters/Rem Orion.md",
+    "Arcane-Bound/Worlds Collide/01 Characters/Ted Ursa.md",
+    "Arcane-Bound/Worlds Collide/00 Ideas/How two worlds merge.md",
+    "Arcane-Bound.zip",
+    "Arcane-Bound/Worlds Collide/00 Ideas/A sweet moment for two.md",
+    "Arcane-Bound/Worlds Collide/00 Ideas/How would synthspire use magic.md",
+    "Arcane-Bound/Worlds Collide/00 Ideas/Mage-Tech Fusion.md",
+    "Arcane-Bound/Worlds Collide/00 Ideas/Prioritization of introductions.md",
+    "Arcane-Bound/Worlds Collide/00 Ideas/Unanswered questions.md",
+    "Arcane-Bound/Worlds Collide/00 Ideas/Villains of the story.md",
+    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/00 Extra Story/Narrative - A devil's attempt.md",
+    "Arcane-Bound/Worlds Collide/04 Systems/01 Magic/Elemental Magic.md",
+    "Arcane-Bound/Worlds Collide/04 Systems/01 Magic/Arcaenian Magic.md",
+    "Arcane-Bound/Worlds Collide/03 Locations/03 Nations/Republic of Chloros.md",
+    "Arcane-Bound/Worlds Collide/03 Locations/03 Nations/Aquarin Kingdom.md",
+    "Arcane-Bound/Worlds Collide/03 Locations/01 Continents/Synthspire.md",
+    "Arcane-Bound/Worlds Collide/99 Extras/Meta/AB - Storyline.canvas",
+    "Untitled.base",
+    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen",
+    "Arcane-Bound/Archives/Staying MInty Final.png",
+    "Arcane-Bound/Archives/Arcane Origins Final.png",
+    "Arcane-Bound/Archives/Devil's Charm Final.png",
+    "Arcane-Bound/Archives/Crystal Clear Final.png",
+    "Arcane-Bound/Archives/In Darkness Final.png",
+    "Arcane-Bound/Archives/In Darkness Insta.png",
+    "ᐳExternal Assets/Ion_Profile2.png",
+    "Arcane-Bound/Archives/Golden Aura Final.png",
+    "Arcane-Bound/Archives/Being Vigilant Final.png",
+    "Arcane-Bound/Archives/Vixen's Secret Final.png",
+    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/00 Extra Story",
+    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story",
+    "Arcane-Bound/Archives",
+    "Arcane-Bound/Worlds Collide/99 Extras/Meta",
+    "Arcane-Bound/Worlds Collide/99 Extras/Drafts",
+    "Arcane-Bound/Worlds Collide/99 Extras/Archives"
+  ]
+}

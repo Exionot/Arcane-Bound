@@ -1,0 +1,70 @@
+{
+  "command_timeout": 5,
+  "templates_folder": "Templates",
+  "templates_pairs": [
+    [
+      "",
+      ""
+    ]
+  ],
+  "trigger_on_file_creation": true,
+  "auto_jump_to_cursor": false,
+  "enable_system_commands": true,
+  "shell_path": "",
+  "user_scripts_folder": "",
+  "enable_folder_templates": false,
+  "folder_templates": [
+    {
+      "folder": "On The Side - We're The Builders of Our World/04 Lore/Moments",
+      "template": "Templates/Moments.md"
+    },
+    {
+      "folder": "On The Side - We're The Builders of Our World/02 Locations/05 Villages",
+      "template": "Templates/Village.md"
+    },
+    {
+      "folder": "On The Side - We're The Builders of Our World/02 Locations/02 Regions",
+      "template": "Templates/Region.md"
+    },
+    {
+      "folder": "On The Side - We're The Builders of Our World/02 Locations/03 Cities",
+      "template": "Templates/City.md"
+    },
+    {
+      "folder": "On The Side - We're The Builders of Our World/02 Locations/04 Towns",
+      "template": "Templates/Town.md"
+    },
+    {
+      "folder": "On The Side - We're The Builders of Our World/02 Locations/06 Points of Interest",
+      "template": "Templates/Point of Interest.md"
+    },
+    {
+      "folder": "On The Side - We're The Builders of Our World/01 Characters",
+      "template": "Templates/Character.md"
+    },
+    {
+      "folder": "On The Side - We're The Builders of Our World/02 Locations/02 Nations",
+      "template": "Templates/Nation.md"
+    },
+    {
+      "folder": "On The Side - We're The Builders of Our World/05 Factions - Organizations",
+      "template": "Templates/Faction.md"
+    }
+  ],
+  "enable_file_templates": false,
+  "file_templates": [
+    {
+      "regex": ".*",
+      "template": ""
+    }
+  ],
+  "syntax_highlighting": true,
+  "syntax_highlighting_mobile": false,
+  "enabled_templates_hotkeys": [
+    ""
+  ],
+  "startup_templates": [
+    ""
+  ],
+  "intellisense_render": 1
+}
