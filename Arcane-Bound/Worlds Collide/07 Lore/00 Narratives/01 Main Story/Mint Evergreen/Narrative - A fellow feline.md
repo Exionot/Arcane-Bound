@@ -19,30 +19,40 @@ cssclasses:
 
 ---
 
-**Mint:** I really need to find a way to get out of here.
+*Mint finds herself in what it seems like the center of a bustling city, the area is loud, people walk by at every moment, their outfits are more diverse, almost casual yet different to arcaenian outfits.*
 
-*Mint, lost, looks around the area and spots someone of the same species. She ran towards the fellow feline, going against the flow of the crowded path.*
+**Mint:** I really need to find a way to get out of here...
+
+*Mint remains lost, she looks in between the crowd and sees it. Ears and tail just like hers, a fellow feline is within her sight. Mint squeezes against the crowd catching up to the feline she saw.*
 
 **Mint:** E-excuse me!
 
-*Aura stops walking and turns around. She sees a green haired feline-humanoid, her clothes look ancient, almost out of this world.*
+*Aura stops walking and turns around. She sees a green haired feline-humanoid, her clothes differs from anything she has seen before.*
 
-*Aura's bodyguards aim their weapon towards Mint.*
+*Aura's bodyguards raises their weapon and aims it towards Mint.*
 
 **Bodyguard:** Back off civilian!
 
-*Mint steps back, Aura commands her bodyguard to lower their weapons.*
+*Mint steps back and before she could summon her weapon, Aura commands her bodyguards to lower their weapons.*
 
-**Aura:** What do you need?
-**Mint:** Where am I?
-**Aura:** You are in Amphere Square of Fluxpoint City, are you lost?
-**Mint:** I was suddenly transported here... I didn't know Arcaena had such developed cities.
+*Mint focuses and checks aura for any traces of mana, but to no avail, there's nothing.*
 
-**Aura:** *"Arcaena"? Is this she of those people who seemingly appeared out of nowhere? I've been hearing reports from Shatterpoint city of similar cases to this.*
-**Aura:** Return to base, do not report this to the other responders, I'll handle this myself.
-**Bodyguard:** Roger!
+**Aura:** Are you in need of any assistance?
 
-*The bodyguards walk away, leaving Aura with Mint.*
+*Mint being too focused, unknowingly misses Aura's question and stares at her awkwardly.*
+
+**Aura:** Are you lost?
+
+*Mint returns back to her senses.*
+
+**Mint:** Ah! Yes, it seems like I got suddenly transported here. 
+**Mint:** Where are we right now?
+**Aura:** This is Amphere Square of Fluxpoint City.
+**Mint:** I didn't know Arcaena had such developed cities like this.
+
+**Aura:** *"Arcaena"? Is she one of those people who seemingly appeared out of nowhere? I've been hearing classified reports from Shatterpoint city of similar cases to this...*
+
+*Aura commands her bodyguards to return to base. The bodyguards walk away, leaving Aura with Mint.*
 
 **Aura:** Follow me.
 

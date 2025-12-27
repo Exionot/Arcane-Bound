@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homepage.md",
-                "mode": "preview",
+                "file": "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen/Narrative - The Convergence (Mint Evergreen).md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Homepage"
+              "title": "Narrative - The Convergence (Mint Evergreen)"
             }
           },
           {
@@ -137,7 +137,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Homepage.md",
+                "file": "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen/Narrative - The Convergence (Mint Evergreen).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -160,12 +160,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.2588386562181629,
+                  "scale": 0.25883865621816327,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Homepage"
+              "title": "Graph of Narrative - The Convergence (Mint Evergreen)"
             }
           }
         ]
@@ -181,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Homepage.md",
+                "file": "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen/Narrative - The Convergence (Mint Evergreen).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +191,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Homepage"
+              "title": "Backlinks for Narrative - The Convergence (Mint Evergreen)"
             }
           },
           {
@@ -200,12 +200,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Homepage.md",
+                "file": "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen/Narrative - The Convergence (Mint Evergreen).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Homepage"
+              "title": "Outgoing links from Narrative - The Convergence (Mint Evergreen)"
             }
           },
           {
@@ -228,13 +228,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Homepage.md",
+                "file": "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen/Narrative - The Convergence (Mint Evergreen).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Homepage"
+              "title": "Outline of Narrative - The Convergence (Mint Evergreen)"
             }
           },
           {
@@ -243,7 +243,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "Homepage.md"
+                "file": "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen/Narrative - The Convergence (Mint Evergreen).md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -271,9 +271,15 @@
   },
   "active": "6f345e035a8237e0",
   "lastOpenFiles": [
+    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen/Narrative - A fellow feline.md",
+    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen/Narrative - Confrontation.md",
+    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen/Narrative - Her house.md",
+    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen/Narrative - The Convergence (Mint Evergreen).md",
+    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen/Narrative - Missing Merchant.md",
+    "Arcane-Bound/Worlds Collide/01 Characters/Mint Evergreen.md",
+    "Homepage.md",
     "README.md",
     "ArcBound/README.md",
-    "Arcane-Bound/Worlds Collide/01 Characters/Mint Evergreen.md",
     "ArcBound",
     "Arcane-Bound/Worlds Collide/01 Characters/Underworldian - Clair.md",
     "Arcane-Bound/Worlds Collide/01 Characters/Victoria Veloux Canidel.md",
@@ -293,12 +299,6 @@
     "Arcane-Bound/Worlds Collide/00 Ideas/Prioritization of introductions.md",
     "Arcane-Bound/Worlds Collide/00 Ideas/Unanswered questions.md",
     "Arcane-Bound/Worlds Collide/00 Ideas/Villains of the story.md",
-    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/00 Extra Story/Narrative - A devil's attempt.md",
-    "Arcane-Bound/Worlds Collide/04 Systems/01 Magic/Elemental Magic.md",
-    "Arcane-Bound/Worlds Collide/04 Systems/01 Magic/Arcaenian Magic.md",
-    "Arcane-Bound/Worlds Collide/03 Locations/03 Nations/Republic of Chloros.md",
-    "Arcane-Bound/Worlds Collide/03 Locations/03 Nations/Aquarin Kingdom.md",
-    "Arcane-Bound/Worlds Collide/03 Locations/01 Continents/Synthspire.md",
     "Arcane-Bound/Worlds Collide/99 Extras/Meta/AB - Storyline.canvas",
     "Untitled.base",
     "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen",
