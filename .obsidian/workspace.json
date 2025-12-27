@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homepage.md",
+                "file": "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/00 Extra Story/Narrative - A devil's attempt.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Homepage"
+              "title": "Narrative - A devil's attempt"
             }
           }
         ]
@@ -107,6 +107,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/00 Extra Story/Narrative - A devil's attempt.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -134,7 +135,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of Narrative - A devil's attempt"
             }
           }
         ]
@@ -150,6 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/00 Extra Story/Narrative - A devil's attempt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +161,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Narrative - A devil's attempt"
             }
           },
           {
@@ -237,14 +239,14 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "0cdf41f6f0a55e88",
+  "active": "ac2646034d821bfb",
   "lastOpenFiles": [
-    "Homepage.md",
-    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen/Narrative - The Convergence (Mint Evergreen).md",
-    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen/Narrative - A fellow feline.md",
     "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen/Narrative - Confrontation.md",
     "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen/Narrative - Her house.md",
+    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen/Narrative - A fellow feline.md",
+    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen/Narrative - The Convergence (Mint Evergreen).md",
     "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen/Narrative - Missing Merchant.md",
+    "Homepage.md",
     "Arcane-Bound/Worlds Collide/01 Characters/Mint Evergreen.md",
     "README.md",
     "ArcBound/README.md",

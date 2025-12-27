@@ -14,7 +14,7 @@ cssclasses:
 **Character/s**: [[Mint Evergreen]], [[Aura Brillfer]]
 **Location**:  [[Amphere Square]]
 **Time of Occurrence**: `= this.time.month` `= this.time.date`, `= this.time.year`, `= this.time.season`
-**Previous**:
+**Previous**: [[Narrative - The Convergence (Mint Evergreen)]]
 **Next**: [[Narrative - Her house]]
 
 ---
