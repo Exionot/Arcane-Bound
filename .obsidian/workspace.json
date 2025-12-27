@@ -11,14 +11,14 @@
             "id": "ac2646034d821bfb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/00 Extra Story/Narrative - A devil's attempt.md",
-                "mode": "preview",
-                "source": false
+                "aFile": "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/00 Extra Story/Narrative - A devil's attempt.md",
+                "bFile": "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/00 Extra Story/Narrative - A devil's attempt.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Narrative - A devil's attempt"
+              "icon": "diff",
+              "title": "Diff: Narrative - A devil's attempt"
             }
           }
         ]
@@ -107,7 +107,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/00 Extra Story/Narrative - A devil's attempt.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -135,10 +134,11 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Narrative - A devil's attempt"
+              "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "c3b857a81cfcc89f",
@@ -151,7 +151,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/00 Extra Story/Narrative - A devil's attempt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +160,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Narrative - A devil's attempt"
+              "title": "Backlinks"
             }
           },
           {
@@ -170,12 +169,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen/Narrative - The Convergence (Mint Evergreen).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Narrative - The Convergence (Mint Evergreen)"
+              "title": "Outgoing links"
             }
           },
           {
@@ -218,8 +216,19 @@
               "icon": "lucide-file-signature",
               "title": "Footnotes"
             }
+          },
+          {
+            "id": "c8453e486634a8ae",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -241,34 +250,34 @@
   },
   "active": "ac2646034d821bfb",
   "lastOpenFiles": [
+    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/00 Extra Story/Narrative - A devil's attempt.md",
+    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/00 Extra Story/Narrative - Something on her face.md",
     "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen/Narrative - Confrontation.md",
-    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen/Narrative - Her house.md",
     "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen/Narrative - A fellow feline.md",
+    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen/Narrative - Her house.md",
+    "Arcane-Bound/Worlds Collide/99 Extras/Drafts/REVISE Narrative - Bath.md",
+    "Arcane-Bound/Worlds Collide/99 Extras/Drafts/An interesting book (Revision needed).md",
     "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen/Narrative - The Convergence (Mint Evergreen).md",
     "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen/Narrative - Missing Merchant.md",
-    "Homepage.md",
-    "Arcane-Bound/Worlds Collide/01 Characters/Mint Evergreen.md",
     "README.md",
-    "ArcBound/README.md",
-    "ArcBound",
-    "Arcane-Bound/Worlds Collide/01 Characters/Underworldian - Clair.md",
-    "Arcane-Bound/Worlds Collide/01 Characters/Victoria Veloux Canidel.md",
-    "Arcane-Bound/Worlds Collide/01 Characters/Krystalle Eos.md",
-    "Arcane-Bound/Worlds Collide/01 Characters/Ion Kynne.md",
-    "Arcane-Bound/Worlds Collide/01 Characters/Clair Tempest.md",
-    "Arcane-Bound/Worlds Collide/01 Characters/Aura Brillfer.md",
-    "Arcane-Bound/Worlds Collide/01 Characters/Mhaxxine Dark.md",
     "Arcane-Bound/Worlds Collide/99 Extras/Meta/AB - Unresolved Notes.md",
-    "Arcane-Bound/Worlds Collide/01 Characters/Rem Orion.md",
+    "Arcane-Bound/Worlds Collide/99 Extras/Meta/Arcane-Bound – Worlds Collide.md",
+    "Arcane-Bound/Worlds Collide/02 Factions/Wandering Traders of Arcaena.md",
+    "Arcane-Bound/Worlds Collide/02 Factions/Void Special Operation Division 9.md",
+    "Arcane-Bound/Worlds Collide/02 Factions/Void Operation & Investigation Department.md",
+    "Arcane-Bound/Worlds Collide/02 Factions/Starveil Retrieval Co..md",
+    "Arcane-Bound/Worlds Collide/02 Factions/Sons of The Crimson Flame.md",
+    "Arcane-Bound/Worlds Collide/02 Factions/Protection Of Local Livelihood.md",
+    "Arcane-Bound/Worlds Collide/02 Factions/Neo-Technology Corporation.md",
+    "Arcane-Bound/Worlds Collide/02 Factions/Harnessing Yottawatt Power & Energy Research Corporation.md",
+    "Arcane-Bound/Worlds Collide/02 Factions/Guild of Arcane Healers.md",
+    "Arcane-Bound/Worlds Collide/02 Factions/Blackreign Gang.md",
+    "Arcane-Bound/Worlds Collide/01 Characters/Victoria Veloux Canidel.md",
+    "Arcane-Bound/Worlds Collide/01 Characters/Underworldian - Clair.md",
     "Arcane-Bound/Worlds Collide/01 Characters/Ted Ursa.md",
-    "Arcane-Bound/Worlds Collide/00 Ideas/How two worlds merge.md",
+    "Arcane-Bound/Worlds Collide/01 Characters/Rem Orion.md",
+    "ArcBound",
     "Arcane-Bound.zip",
-    "Arcane-Bound/Worlds Collide/00 Ideas/A sweet moment for two.md",
-    "Arcane-Bound/Worlds Collide/00 Ideas/How would synthspire use magic.md",
-    "Arcane-Bound/Worlds Collide/00 Ideas/Mage-Tech Fusion.md",
-    "Arcane-Bound/Worlds Collide/00 Ideas/Prioritization of introductions.md",
-    "Arcane-Bound/Worlds Collide/00 Ideas/Unanswered questions.md",
-    "Arcane-Bound/Worlds Collide/00 Ideas/Villains of the story.md",
     "Arcane-Bound/Worlds Collide/99 Extras/Meta/AB - Storyline.canvas",
     "Untitled.base",
     "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen",

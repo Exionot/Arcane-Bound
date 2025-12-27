@@ -21,7 +21,7 @@ cssclasses:
 
 *Clair sits in the lobby of Starveil Retrieval waiting for service.*
 
-**Clair:** Ugh... This headache is killing me, I hope this isn't *her* doing...
+**Clair:** *Ugh... This headache is killing me, I hope this isn't **her** doing...*
 
 **Rem:** Welcome to Starveil Retrieval Services! What can we retrieve for you?
 **Clair:** I would like to look for this boo- Ack!

@@ -41,13 +41,15 @@ img[alt*="center"] {
 }
 
 .narrative, .narrative b{
-	font-family: Helvetica !important;
-	--bold-color: var(--white);
   	line-height: 1.6;
 	text-align: justify;
 }
 
-
+.narrative em strong,
+.narrative .markdown-preview-view em strong{
+	--bold-color: var(--italic-color);
+	font-weight: 900 !important;
+}
 
 
 .gold-yellow {

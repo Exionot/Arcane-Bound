@@ -105,6 +105,12 @@ strong,
   font-weight: 900 !important; 
 }
 
+/* i strong,
+.markdown-preview-view i strong{
+	color: var(--italic-color);
+	font-weight: 900 !important;
+} */
+
 body {
 	--background-primary: rgb(9, 9, 9);
  	--background-secondary: rgb(26, 26, 26);
