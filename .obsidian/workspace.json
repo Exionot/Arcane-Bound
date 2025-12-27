@@ -11,14 +11,14 @@
             "id": "ac2646034d821bfb",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/00 Extra Story/Narrative - A devil's attempt.md",
-                "bFile": "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/00 Extra Story/Narrative - A devil's attempt.md",
-                "aRef": ""
+                "file": "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/00 Extra Story/Narrative - A devil's attempt.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: Narrative - A devil's attempt"
+              "icon": "lucide-file",
+              "title": "Narrative - A devil's attempt"
             }
           }
         ]
@@ -107,6 +107,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/00 Extra Story/Narrative - A devil's attempt.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -134,7 +135,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of Narrative - A devil's attempt"
             }
           }
         ],
@@ -151,6 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/00 Extra Story/Narrative - A devil's attempt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +162,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Narrative - A devil's attempt"
             }
           },
           {
@@ -169,11 +171,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/00 Extra Story/Narrative - A devil's attempt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Narrative - A devil's attempt"
             }
           },
           {
