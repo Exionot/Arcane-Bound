@@ -16,6 +16,7 @@ cssclasses:
 **Time of Occurrence**: `= this.time.month` `= this.time.date`, `= this.time.year`, `= this.time.season`
 **Previous**: [[Narrative - The Convergence (Mint Evergreen)]]
 **Next**: [[Narrative - Her house]]
+**Related:** [[Narrative - An order you can't fight]]
 
 ---
 
@@ -49,8 +50,6 @@ cssclasses:
 **Mint:** Where are we right now?
 **Aura:** This is Amphere Square of Fluxpoint City.
 **Mint:** I didn't know Arcaena had such developed cities like this.
-
-**Aura:** *"Arcaena"? Is she one of those people who seemingly appeared out of nowhere? I've been hearing classified reports from Shatterpoint city of similar cases to this...*
 
 *Aura commands her bodyguards to return to base. The bodyguards walk away, leaving Aura with Mint.*
 
