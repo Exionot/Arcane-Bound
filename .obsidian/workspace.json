@@ -4,24 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "c0a4e8281db95976",
+        "id": "45dcbece9145024d",
         "type": "tabs",
         "children": [
           {
-            "id": "ac2646034d821bfb",
+            "id": "d7e2dc96ecf4bc62",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen/Narrative - Confrontation.md",
-                "mode": "source",
+                "file": "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Aura Brillfer/Narrative - My house.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Narrative - Confrontation"
+              "title": "Narrative - My house"
             }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -107,7 +108,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen/Narrative - Confrontation.md",
+                "file": "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Aura Brillfer/Narrative - My house.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -130,16 +131,15 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.25883865621816327,
+                  "scale": 0.18462326225858172,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Narrative - Confrontation"
+              "title": "Graph of Narrative - My house"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "c3b857a81cfcc89f",
@@ -152,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen/Narrative - Confrontation.md",
+                "file": "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Aura Brillfer/Narrative - My house.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Narrative - Confrontation"
+              "title": "Backlinks for Narrative - My house"
             }
           },
           {
@@ -171,12 +171,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen/Narrative - Confrontation.md",
+                "file": "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Aura Brillfer/Narrative - My house.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Narrative - Confrontation"
+              "title": "Outgoing links from Narrative - My house"
             }
           },
           {
@@ -231,7 +231,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -251,20 +251,26 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "ac2646034d821bfb",
+  "active": "d7e2dc96ecf4bc62",
   "lastOpenFiles": [
+    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Aura Brillfer/Narrative - Defying orders.md",
+    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Victoria Veloux Canidel/Narrative - The Convergence (Victoria Veloux Canidel).md",
+    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/00 Extra Story/Narrative - A devil's attempt.md",
+    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Aura Brillfer/Narrative - My house.md",
     "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen/Narrative - Her house.md",
     "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen/Narrative - Confrontation.md",
     "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Aura Brillfer/Narrative - An order you can't fight.md",
-    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/00 Extra Story/Narrative - Something on her face.md",
-    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/00 Extra Story/Narrative - A devil's attempt.md",
     "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen/Narrative - A fellow feline.md",
+    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen/Narrative - The Convergence (Mint Evergreen).md",
+    "Arcane-Bound/Worlds Collide/03 Locations/03 Nations/Amphors Kingdom.md",
+    "Templates/Narrative.md",
+    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Victoria Veloux Canidel",
+    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen/Narrative - Missing Merchant.md",
+    "Arcane-Bound/Worlds Collide/04 Systems/01 Magic/Elemental Magic.md",
+    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/00 Extra Story/Narrative - Something on her face.md",
     "Arcane-Bound/Worlds Collide/01 Characters/Aura Brillfer.md",
     "Arcane-Bound/Worlds Collide/03 Locations/05a Cities/Fluxpoint City.md",
     "Arcane-Bound/Worlds Collide/03 Locations/03 Nations/NeoTech Union.md",
-    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen/Narrative - Missing Merchant.md",
-    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen/Narrative - The Convergence (Mint Evergreen).md",
-    "Templates/Narrative.md",
     "Arcane-Bound/Worlds Collide/03 Locations/03 Nations/HyperCorp Republic.md",
     "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Aura Brillfer",
     "Arcane-Bound/Worlds Collide/03 Locations/01 Continents/Synthspire.md",
@@ -275,11 +281,6 @@
     "Arcane-Bound/Worlds Collide/03 Locations/03 Nations/Republic of Chloros.md",
     "Templates/Contract.md",
     "Templates/Mission Report.md",
-    "Arcane-Bound/Worlds Collide/01 Characters/Ion Kynne.md",
-    "Homepage.md",
-    "Arcane-Bound/Worlds Collide/99 Extras/Meta/AB - Narratives.md",
-    "Arcane-Bound/Worlds Collide/99 Extras/Meta/AB - Unresolved Notes.md",
-    "Arcane-Bound/Archives/Arcane-Bound – Archives.md",
     "ArcBound",
     "Arcane-Bound.zip",
     "Arcane-Bound/Worlds Collide/99 Extras/Meta/AB - Storyline.canvas",
@@ -298,7 +299,6 @@
     "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/00 Extra Story",
     "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story",
     "Arcane-Bound/Archives",
-    "Arcane-Bound/Worlds Collide/99 Extras/Meta",
-    "Arcane-Bound/Worlds Collide/99 Extras/Drafts"
+    "Arcane-Bound/Worlds Collide/99 Extras/Meta"
   ]
 }

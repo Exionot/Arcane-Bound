@@ -16,7 +16,7 @@ cssclasses:
 **Time of Occurrence**: `= this.time.month` `= this.time.date`, `= this.time.year`, `= this.time.season`
 **Previous**: [[Narrative - A fellow feline]]
 **Next**: [[Narrative - Confrontation]]
-**Related:** 
+**Related:** [[Narrative - My house]]
 
 ---
 
@@ -37,7 +37,7 @@ cssclasses:
 **Aura:** It's just a couch, have you not tried one before?
 **Mint:** This is the softest couch I've ever been on! Not even the King's couch can beat this one!
 
-*Aura stands by the door watching as Mint fascinates over the mode simple of objects in her apartment.*
+*Aura stands by the door watching as Mint fascinates over the couch.*
 
 ---
 

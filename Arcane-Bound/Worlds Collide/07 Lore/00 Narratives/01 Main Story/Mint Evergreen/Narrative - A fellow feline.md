@@ -28,9 +28,7 @@ cssclasses:
 
 **Mint:** E-excuse me!
 
-*Aura stops walking and turns around. She sees a green haired feline-humanoid, her clothes differs from anything she has seen before.*
-
-*Aura's bodyguards raises their weapon and aims it towards Mint.*
+*Aura stops walking and turns around, her bodyguards raises their weapon and aims it towards Mint.*
 
 **Bodyguard:** Back off civilian!
 

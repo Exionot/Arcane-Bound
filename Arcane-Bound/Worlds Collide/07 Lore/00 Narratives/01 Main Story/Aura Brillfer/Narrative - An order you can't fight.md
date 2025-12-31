@@ -15,7 +15,7 @@ cssclasses:
 **Location**: [[Amphere Square]]
 **Time of Occurrence**: `= this.time.month` `= this.time.date`, `= this.time.year`, `= this.time.season`
 **Previous**:
-**Next**: 
+**Next**: [[Narrative - Defying orders]]
 **Related:** [[Narrative - A fellow feline]]
 
 ---
