@@ -20,10 +20,12 @@ cssclasses:
 
 ---
 
-*Aura locks the door to her apartment.*
+*Mint is laying on Aura's couch amazed by it's softness.*
+
+*Aura locks the door to her apartment. Mint's ear shifts towards the sound. She tenses up and sits up.*
 
 **Aura:** Tell me, what does your group want with Synthspire?
-**Mint:** Group?...
+**Mint:** Group?
 **Aura:** There have been multiple cases of missing people in the entire continent and coincidentally there have also been reports of people appearing with absolutely no records even in the biggest database in the world.
 
 *Mint, shocked, the realization finally settles in that she had been transported to another world.* 

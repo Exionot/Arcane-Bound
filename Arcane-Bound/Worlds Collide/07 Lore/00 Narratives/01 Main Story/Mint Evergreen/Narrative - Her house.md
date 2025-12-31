@@ -20,7 +20,7 @@ cssclasses:
 
 ---
 
-*Aura leads Mint into a building complex instead of the streets.*
+*Mint follows Aura into a building complex.*
 
 **Mint:** Where are we going?
 **Aura:** We're going to where I live.
@@ -31,13 +31,13 @@ cssclasses:
 
 **Mint:** Whoa... this is nothing like the inns I've been to. 
 **Mint:** *Looks like she the only person here, I can only smell her scent in the entire room.*
-**Aura:** *"Inns"? What is she talking about? Is this girl from the first civilization?*
 
 *Mint lies on the couch, she sinks a tiny bit, the mattress' softness engulfs her entire body. She is completely amazed by it's softness.*
 
 **Aura:** It's just a couch, have you not tried one before?
 **Mint:** This is the softest couch I've ever been on! Not even the King's couch can beat this one!
-**Aura:** *"King"?? She either from the first civilization or she's intentionally distracting me. I need to get to the bottom of this before she and command notices.*
+
+*Aura stands by the door watching as Mint fascinates over the mode simple of objects in her apartment.*
 
 ---
 
