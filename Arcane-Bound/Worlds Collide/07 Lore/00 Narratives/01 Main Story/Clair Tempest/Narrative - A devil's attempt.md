@@ -1,5 +1,10 @@
 ---
 type: narrative 
+time:
+  year: 2405
+  month: ""
+  date: ""
+  season: Late Autumn
 cssclasses:
   - narrative
 ---
@@ -13,9 +18,10 @@ cssclasses:
 - [[Victoria Veloux Canidel]]
 
 **Location**: [[Starveil Retrieval Co.]]
-**Time of Occurrence**: 
+**Time of Occurrence**: `= this.time.month` `= this.time.date`, `= this.time.year`, `= this.time.season`
 **Previous**:
 **Next**: 
+**Related:**
 
 ---
 

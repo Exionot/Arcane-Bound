@@ -15,7 +15,7 @@ cssclasses:
 **Location**: [[Brickstone Town]]
 **Time of Occurrence**: `= this.time.month` `= this.time.date`, `= this.time.year`, `= this.time.season`
 **Previous**: [[Narrative - The Convergence (Victoria Veloux Canidel)]]
-**Next**: 
+**Next**: [[Narrative - Fashion like a noble]]
 **Related:**
 
 ---
@@ -30,7 +30,9 @@ cssclasses:
 **Ted:** I TOLD YOU I AM NOT A PRI- What? Brickstone Town?
 **Vi:** You know this place?
 **Ted:** Know? I've practically memorized this tow- wait who are you?
-**Vi:** Just call me Vi. My guess is you were somehow transported here as well?
+**Vi:** Just call me Vi. 
+**Ted:** Vi, huh, well that'll be easy to remember, my name's Ted.
+**Vi:** My guess is you were somehow transported here as well?
 **Ted:** I guess you could say that, I got suddenly transported to the other place, 'astral city' was it?
 **Vi:** *That's where I came from.*
 **Vi:** You're not from Astral City?
