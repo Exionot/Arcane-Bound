@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Aura Brillfer/Narrative - An order you can't fight.md",
-                "mode": "preview",
+                "file": "Arcane-Bound/Worlds Collide/00 Ideas/These paths should cross more than once.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Narrative - An order you can't fight"
+              "title": "These paths should cross more than once"
             }
           }
         ],
@@ -108,7 +108,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Aura Brillfer/Narrative - An order you can't fight.md",
+                "file": "Arcane-Bound/Worlds Collide/00 Ideas/These paths should cross more than once.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -136,7 +136,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Narrative - An order you can't fight"
+              "title": "Graph of These paths should cross more than once"
             }
           }
         ]
@@ -152,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Aura Brillfer/Narrative - An order you can't fight.md",
+                "file": "Arcane-Bound/Worlds Collide/00 Ideas/These paths should cross more than once.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Narrative - An order you can't fight"
+              "title": "Backlinks for These paths should cross more than once"
             }
           },
           {
@@ -171,12 +171,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Aura Brillfer/Narrative - An order you can't fight.md",
+                "file": "Arcane-Bound/Worlds Collide/00 Ideas/These paths should cross more than once.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Narrative - An order you can't fight"
+              "title": "Outgoing links from These paths should cross more than once"
             }
           },
           {
@@ -251,15 +251,17 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "c8453e486634a8ae",
+  "active": "d7e2dc96ecf4bc62",
   "lastOpenFiles": [
+    "Arcane-Bound/Worlds Collide/03 Locations/03 Nations/HyperCorp Republic.md",
+    "Arcane-Bound/Worlds Collide/00 Ideas/These paths should cross more than once.md",
+    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Victoria Veloux Canidel/Narrative - The Convergence (Victoria Veloux Canidel).md",
+    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Aura Brillfer/Narrative - An order you can't fight.md",
     "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Aura Brillfer/Narrative - Defying orders.md",
     "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Aura Brillfer/Narrative - My house.md",
-    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Victoria Veloux Canidel/Narrative - The Convergence (Victoria Veloux Canidel).md",
     "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/00 Extra Story/Narrative - A devil's attempt.md",
     "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen/Narrative - Her house.md",
     "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen/Narrative - Confrontation.md",
-    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Aura Brillfer/Narrative - An order you can't fight.md",
     "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen/Narrative - A fellow feline.md",
     "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen/Narrative - The Convergence (Mint Evergreen).md",
     "Arcane-Bound/Worlds Collide/03 Locations/03 Nations/Amphors Kingdom.md",
@@ -271,7 +273,6 @@
     "Arcane-Bound/Worlds Collide/01 Characters/Aura Brillfer.md",
     "Arcane-Bound/Worlds Collide/03 Locations/05a Cities/Fluxpoint City.md",
     "Arcane-Bound/Worlds Collide/03 Locations/03 Nations/NeoTech Union.md",
-    "Arcane-Bound/Worlds Collide/03 Locations/03 Nations/HyperCorp Republic.md",
     "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Aura Brillfer",
     "Arcane-Bound/Worlds Collide/03 Locations/01 Continents/Synthspire.md",
     "Arcane-Bound/Worlds Collide/03 Locations/05a Cities/Newslate City.md",
@@ -280,7 +281,6 @@
     "Arcane-Bound/Worlds Collide/02 Factions/Void Special Operation Division 9.md",
     "Arcane-Bound/Worlds Collide/03 Locations/03 Nations/Republic of Chloros.md",
     "Templates/Contract.md",
-    "Templates/Mission Report.md",
     "ArcBound",
     "Arcane-Bound.zip",
     "Arcane-Bound/Worlds Collide/99 Extras/Meta/AB - Storyline.canvas",
