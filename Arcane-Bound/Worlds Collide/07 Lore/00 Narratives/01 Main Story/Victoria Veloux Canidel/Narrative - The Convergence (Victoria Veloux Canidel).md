@@ -12,7 +12,7 @@ cssclasses:
 # **Basic Information**
 **Title**: The Convergence
 **Character/s**: [[Victoria Veloux Canidel]], [[Rem Orion]]
-**Location**: [[Starveil Retrieval Co.]]
+**Location**: [[Starveil Retrieval Co.]], [[Brickstone Town]]
 **Time of Occurrence**: `= this.time.month` `= this.time.date`, `= this.time.year`, `= this.time.season`
 **Previous**:
 **Next**: 
