@@ -42,6 +42,7 @@ cssclasses:
 
 **Seamstress:** Oh my! Your clothes are tailored to perfection! So fancy! So royal! Are you perhaps of any noble families my dear?
 **Vi:** Ah, well, it's complicated...
+**Vi:** *This are just regular clothes, how am I still being seen as a noble?*
 **Seamstress:** I see, I see, well you can look through the other outfits here while I get Ted his outfit.
 
 *The seamstress walks into what seems like a storage room. Vi stops and looks down.*
