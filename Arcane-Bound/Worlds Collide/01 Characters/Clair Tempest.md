@@ -70,7 +70,7 @@ After her exile in the [[Underworld]] the started experiencing conflicts with he
 Due to her [[Devil]] lineage, residents that have seen her in the forest have spread rumors of her being dangerous giving her the name 'Demon of the [[Vilebloom Forest]]'. It also caused people to traverse into the [[Vilebloom Forest]] less because of these rumors.
 # **Appearance** 
 ## General Appearance 
-She has cyan hair with gold-like highlights and black horns. Her eyes are a brighter shade of cyan. Like all other [[Devil]]s she has long pointy ears and a devil's tail. 
+She has cyan hair with gold-like highlights and black horns. Her eyes are a brighter shade of cyan. Like all other [[Devil|Devils]] she has long pointy ears and a devil's tail. 
 
 Her right horn is broken due to an incident during her time in the [[Underworld]].
 

@@ -15,7 +15,7 @@ cssclasses:
 **Location**: [[Aura's Apartment]]
 **Time of Occurrence**: `= this.time.month` `= this.time.date`, `= this.time.year`, `= this.time.season`
 **Previous**: [[Narrative - Her house]]
-**Next**: 
+**Next**: [[Narrative - The convergence... again]]
 **Related:** 
 
 ---
@@ -76,7 +76,8 @@ cssclasses:
 *Mint grabs the mirror on the counter, showing Aura her face. The scratch has healed.*
 
 **Mint:** Do you believe me now?
-**Aura:** H-how is this possible...
+**Aura:** H-how is this possible... Who are you?
+**Mint:** Just call me Mint, Mint Evergreen.
 
 ---
 

@@ -60,7 +60,7 @@ if (relations != null){
 
 # **Appearance** 
 ## General Appearance 
-She has an ash colored hair and black horns. Her eyes have a deep red color with a faint glow. Like all other [[Devil]]s she has long pointy ears and a devil's tail. 
+She has an ash colored hair and black horns. Her eyes have a deep red color with a faint glow. Like all other [[Devil|Devils]] she has long pointy ears and a devil's tail. 
 
 # **Personality** 
 She is careless and loves causing chaos withing the kingdoms of [[Arcaena]]. She will captivate residents with different methods to lure them into various situations that can collapse even the most resilient sectors of the kingdom.
