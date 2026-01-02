@@ -12,8 +12,7 @@ cssclasses:
 # **Basic Information**
 **Title**: A devil's attempt
 **Character/s**: 
-- [[Clair Tempest]]
-- [[Underworldian - Clair]]
+- [[Clair Tempest]] / [[Underworldian - Clair]]
 - [[Rem Orion]]
 - [[Victoria Veloux Canidel]]
 
