@@ -69,7 +69,7 @@ cssclasses:
 
 **???:** Hey... wake up..
 
-*Mint opens her eyes, what she sees is not the ceiling of Aura's room, but the sky. Mint quickly sits up and looks around, the trees and grass are not their usual green, but a bright teal color.*
+*Mint opens her eyes, what she sees is not the ceiling of Aura's room, but the sky. Mint quickly sits up and looks around, the white snow covers the trees and grass, but they are not their usual green, but a bright teal color.*
 
 **Mint:** *I recognize this place... Vilebloom forest? I'm back in Arcaena? How? Was all of that a dream?*
 
