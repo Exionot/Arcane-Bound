@@ -15,7 +15,7 @@ cssclasses:
 **Location**: [[Ohmpalos City]]
 **Time of Occurrence**: `= this.time.month` `= this.time.date`, `= this.time.year`, `= this.time.season`
 **Previous**: [[Narrative - Fashion like a noble]]
-**Next**: 
+**Next**: [[Narrative - Feline encounter]]
 **Related:**
 
 ---
