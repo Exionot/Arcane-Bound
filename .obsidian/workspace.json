@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen/Narrative - The convergence... again.md",
-                "mode": "preview",
+                "file": "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen/Narrative - An encounter with the devil.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Narrative - The convergence... again"
+              "title": "Narrative - An encounter with the devil"
             }
           }
         ],
@@ -108,7 +108,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen/Narrative - The convergence... again.md",
+                "file": "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen/Narrative - An encounter with the devil.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -136,7 +136,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Narrative - The convergence... again"
+              "title": "Graph of Narrative - An encounter with the devil"
             }
           }
         ]
@@ -152,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen/Narrative - The convergence... again.md",
+                "file": "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen/Narrative - An encounter with the devil.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Narrative - The convergence... again"
+              "title": "Backlinks for Narrative - An encounter with the devil"
             }
           },
           {
@@ -171,12 +171,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen/Narrative - The convergence... again.md",
+                "file": "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen/Narrative - An encounter with the devil.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Narrative - The convergence... again"
+              "title": "Outgoing links from Narrative - An encounter with the devil"
             }
           },
           {
@@ -253,9 +253,13 @@
   },
   "active": "d7e2dc96ecf4bc62",
   "lastOpenFiles": [
+    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen/Narrative - The convergence... again.md",
+    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen/Narrative - An encounter with the devil.md",
+    "Arcane-Bound/Worlds Collide/99 Extras/Drafts/REVISE Narrative - Bath.md",
+    "Arcane-Bound/Worlds Collide/99 Extras/Drafts/An interesting book (Revision needed).md",
+    "Arcane-Bound/Worlds Collide/99 Extras/Meta/AB - Narratives.md",
     "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen/Narrative - Confrontation.md",
     "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen/Narrative - Her house.md",
-    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen/Narrative - The convergence... again.md",
     "Arcane-Bound/Worlds Collide/04 Systems/01 Magic/Elemental Magic.md",
     "Arcane-Bound/Worlds Collide/04 Systems/01 Magic/Arcaenian Magic.md",
     "Arcane-Bound/Worlds Collide/01 Characters/Underworldian - Clair.md",
@@ -276,10 +280,6 @@
     "Arcane-Bound/Worlds Collide/03 Locations/03 Nations/Erde Kingdom.md",
     "Arcane-Bound/Worlds Collide/03 Locations/03 Nations/Amphors Kingdom.md",
     "Arcane-Bound/Worlds Collide/01 Characters/Ted Ursa.md",
-    "Untitled.md",
-    "Arcane-Bound/Worlds Collide/00 Ideas/These paths should cross more than once.md",
-    "Arcane-Bound/Worlds Collide/03 Locations/03 Nations/HyperCorp Republic.md",
-    "Templates/Narrative.md",
     "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Victoria Veloux Canidel",
     "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Aura Brillfer",
     "ArcBound",

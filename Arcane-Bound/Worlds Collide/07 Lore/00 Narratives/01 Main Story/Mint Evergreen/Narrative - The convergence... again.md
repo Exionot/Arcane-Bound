@@ -15,7 +15,7 @@ cssclasses:
 **Location**: [[Aura's Apartment]], [[Vilebloom Forest]]
 **Time of Occurrence**: `= this.time.month` `= this.time.date`, `= this.time.year`, `= this.time.season`
 **Previous**: [[Narrative - Confrontation]]
-**Next**: 
+**Next**: [[Narrative - An encounter with the devil]]
 **Related:**
 
 ---
