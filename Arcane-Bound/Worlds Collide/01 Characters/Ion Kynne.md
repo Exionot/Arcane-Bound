@@ -40,7 +40,7 @@ INPUT[imageSuggester(optionQuery("ᐳExternal Assets"), class(character-img)):pr
 **Sex**: Female 
 **Age**: Young Adult
 **Birthday**: May 24th
-**Species**: [[Canis-Hummanoid]]
+**Species**: [[Virken]] (Canis)
 **Origin**: [[Ohmpalos City]], [[Amphors Kingdom]], [[Southern Lands]], [[Arcaena]]
 **Hobbies**:
 **Nickname/s**:
@@ -57,7 +57,7 @@ if (relations != null){
 ---
 # **History** 
 ## Background 
-**Ion Kynne** is a [[Canis-Hummanoid]] from [[Ohmpalos City]] of [[Amphors Kingdom]]. She is a skilled [[Elemental Magic#Thundra|thundra]] mage of the [[Wandering Traders of Arcaena]], exploring the great lands of [[Arcaena]], trading valuable items for [[Numia Coins]].
+**Ion Kynne** is a [[Virken]] from [[Ohmpalos City]] of [[Amphors Kingdom]]. She is a skilled [[Elemental Magic#Thundra|thundra]] mage of the [[Wandering Traders of Arcaena]], exploring the great lands of [[Arcaena]], trading valuable items for [[Numia Coins]].
 
 # **Appearance** 
 ## General Appearance 

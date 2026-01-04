@@ -41,7 +41,7 @@ INPUT[imageSuggester(optionQuery("ᐳExternal Assets"), class(character-img)):pr
 **Sex**: Female
 **Age**: Young Adult
 **Birthday**:
-**Species**: [[Feline-Humanoid]]
+**Species**: [[Virken]] (Feline)
 **Origin**: [[Shatterpoint City]], [[NeoTech Union]], [[Synthspire]]
 **Hobbies**:
 **Nickname/s**: "Agent AR-04"
@@ -56,7 +56,7 @@ if (relations != null){
 ---
 # **History** 
 ## Background 
-**Aura** is a [[Feline-Humanoid]] born from [[Shatterpoint City]]. She was part of the [[Protection Of Local Livelihood]]  in [[Fluxpoint City]] before rebelling against the government. She is currently living in an [[Aura's Apartment|Apartment]] in [[Fluxpoint City]].
+**Aura** is a [[Virken]] born from [[Shatterpoint City]]. She was part of the [[Protection Of Local Livelihood]]  in [[Fluxpoint City]] before rebelling against the government. She is currently living in an [[Aura's Apartment|Apartment]] in [[Fluxpoint City]].
 
 ## Young Adolescence 
 %%She was attacked and cornered by gang members trying to take her tech? weapon? She was then saved by an unnamed person who introduced herself as a police officer%%

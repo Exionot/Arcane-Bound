@@ -20,7 +20,7 @@ cssclasses:
 
 ---
 
-*As Aura was about to continue her patrol in Amphere Square, a voice was heard from behind. She turns around and sees a mint green feline-humanoid standing before her. Her clothes look ancient, something that could have been from the first civilization. Then Aura comes to a realization.*
+*As Aura was about to continue her patrol in Amphere Square, a voice was heard from behind. She turns around and sees a mint green feline virken standing before her. Her clothes look ancient, something that could have been from the first civilization. Then Aura comes to a realization.*
 
 **Aura:** *This girl... Is she what radio was talking about?*
 

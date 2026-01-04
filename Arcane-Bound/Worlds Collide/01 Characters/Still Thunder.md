@@ -1,16 +1,16 @@
 ---
 type: character
 location:
- origin: 
- nation: 
- city: 
+ origin: Yushinami City
+ nation: Erder Kingdom
+ city: Yushinami City
  town: 
  village: 
  poi: 
 faction: 
- active: 
- FactionName: 
-  status: 
+ active: Wandering Traders of Arcaena
+ Wandering Traders of Arcaena: 
+  status: Active
   rank: 
   alias: 
 systemUsed: []
@@ -21,6 +21,8 @@ galleryImage:
 posterImage:
 aliases:
 relations:
+  - Ion Kynne
+  - Ted Ursa
 ---
 
 ```meta-bind
@@ -30,10 +32,10 @@ INPUT[imageSuggester(optionQuery("ᐳExternal Assets"), class(character-img)):pr
 # **Basic Information** 
 **Name**:  `= this.file.name`
 **Sex**: Female
-**Age**:
+**Age**: Adult
 **Birthday**:
-	**Species**: [[Vircus]] (Equus)
-**Origin**: 
+**Species**: [[Virken]] (Equus)
+**Origin**: [[Yushinami City]], [[Lander Region]], [[Erde Kingdom]], [[Central Lands]], [[Arcaena]]
 **Hobbies**:
 **Nickname/s**:
 **Faction/s**: [[Wandering Traders of Arcaena]]
@@ -47,6 +49,7 @@ if (relations != null){
 ---
 # **History** 
 ## Background 
+**`= this.file.name`** is a [[Virken]] from [[Yushinami City]] of [[Erde Kingdom]]. She is a retired [[Stakes Runner | Virken Stakes Runner]] who now travels the lands of [[Arcaena]] with the [[Wandering Traders of Arcaena]].
 
 # **Appearance** 
 ## General Appearance 
@@ -71,7 +74,6 @@ TABLE itemType as "Type" WHERE contains(this.itemUsed, file.name)
 
 > [!NOTE] Note
 > Her name is based on JRA's naming conventions.
-
 
 ## Systems Used 
 ```dataview

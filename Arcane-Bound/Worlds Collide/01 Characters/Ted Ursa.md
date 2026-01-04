@@ -35,7 +35,7 @@ INPUT[imageSuggester(optionQuery("ᐳExternal Assets"), class(character-img)):pr
 **Sex**: Male
 **Age**: Adult
 **Birthday**:
-**Species**: [[Ursus-Beast]] 
+**Species**: [[Virken | Virken Beast]] (Ursus) 
 **Origin**: [[Lushfall Town]], [[Lushfield Jungle]], [[Ceres Region]], [[Erde Kingdom]], [[Central Lands]], [[Arcaena]]
 **Hobbies**:
 **Nickname/s**: "Teddy Bear" ([[Ion Kynne]])
@@ -51,7 +51,7 @@ if (relations != null){
 ---
 # **History** 
 ## Background 
-**Ted Ursa** is a [[Ursus-Beast]] from [[Lushfall Town]] in [[Erde Kingdom]].He is a strong swordsman of the [[Wandering Traders of Arcaena]] guild, he wields a giant sword that only really strong individuals alike can carry. 
+**Ted Ursa** is a [[Virken | Virken Beast]]  from [[Lushfall Town]] in [[Erde Kingdom]]. He is a strong swordsman of the [[Wandering Traders of Arcaena]] guild, he wields a giant sword that only really strong individuals alike can carry. 
 
 # **Appearance** 
 ## General Appearance 

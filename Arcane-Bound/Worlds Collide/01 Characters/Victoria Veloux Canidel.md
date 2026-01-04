@@ -43,7 +43,7 @@ INPUT[imageSuggester(optionQuery("ᐳExternal Assets"), class(character-img)):pr
 **Sex**: Female
 **Age**: Young Adult
 **Birthday**:
-**Species**: [[Vulpes-Humanoid]]
+**Species**: [[Virken]] (Vulpes)
 **Origin**: [[Lightspeed City]], [[HyperCorp Republic]], [[Synthspire]]
 **Hobbies**:
 **Nickname/s**: "Vi" (Preferred name)
@@ -58,7 +58,7 @@ if (relations != null){
 ---
 # **History** 
 ## Background 
-**Victoria Veloux Canidel** is a [[Vulpes-Humanoid]] from [[Lightspeed City]] in [[HyperCorp Republic]]. She was part of the noble [[Canidel Family]] before running away.^[[[Canidel Family]]] She now lives in [[Astral City]] going by the name "**Vi**", working as a server/waiter in [[The Food Horizon]] on [[Astral City]].^[[[The Food Horizon]]] She is also the founder and leader of [[Starveil Retrieval Co.]], taking "retrieval" contracts in return of money or goods.^[[[Starveil Retrieval Co.]]]
+**Victoria Veloux Canidel** is a [[Virken]] from [[Lightspeed City]] in [[HyperCorp Republic]]. She was part of the noble [[Canidel Family]] before running away.^[[[Canidel Family]]] She now lives in [[Astral City]] going by the name "**Vi**", working as a server/waiter in [[The Food Horizon]] on [[Astral City]].^[[[The Food Horizon]]] She is also the founder and leader of [[Starveil Retrieval Co.]], taking "retrieval" contracts in return of money or goods.^[[[Starveil Retrieval Co.]]]
 ## During The Convergence
 > **Full Note:** [[The Convergence]]
 

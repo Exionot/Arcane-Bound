@@ -39,7 +39,7 @@ INPUT[imageSuggester(optionQuery("ᐳExternal Assets"), class(character-img)):pr
 **Sex**: Female
 **Age**:
 **Birthday**:
-**Species**: [[Vulpes-Humanoid]]
+**Species**: [[Virken]] (Vulpes)
 **Origin**: [[Evemark City]], [[Lushborne Region]], [[Republic of Chloros]], [[Veridian Sector]], [[Synthspire]]
 **Hobbies**:
 **Nickname/s**:
@@ -55,7 +55,7 @@ if (relations != null){
 ---
 # **History** 
 ## Background 
-**Krystalle Eos** is a [[Vulpes-Humanoid]] from [[Evemark City]] of the [[Republic of Chloros]]. She is a member of the [[Void Special Operation Division 9]] under the [[Void Operation & Investigation Department]].
+**Krystalle Eos** is a [[Virken]] from [[Evemark City]] of the [[Republic of Chloros]]. She is a member of the [[Void Special Operation Division 9]] under the [[Void Operation & Investigation Department]].
 
 # **Appearance** 
 ## General Appearance 

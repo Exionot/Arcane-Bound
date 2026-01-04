@@ -1,1 +1,0 @@
-animal humanoid species. VIR- from Latin "Vir" (Man) and -CUS from Latin "Pecus" (Beast/animal). Literally "Man Beast" or "Man Animal"

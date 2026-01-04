@@ -37,6 +37,7 @@ aliases:
 - [[Altudus Village]]
 
 ## Lander Region
+- [[Yushinami City]]
 - [[Lithos City]]
 - [[Brickstone Town]]
 

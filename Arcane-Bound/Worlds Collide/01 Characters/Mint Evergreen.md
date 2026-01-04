@@ -51,7 +51,7 @@ INPUT[imageSuggester(optionQuery("ᐳExternal Assets"), class(character-img)):pr
 **Sex**: Female 
 **Age**: Young Adult
 **Birthday**: 
-**Species**: [[Feline-Humanoid]]
+**Species**: [[Virken]] (Feline)
 **Origin**: [[Lenben Village]], [[Phthalo Region]], [[Verdthorne Kingdom]], [[Central Lands]], [[Arcaena]]
 **Hobbies**:
 **Nickname/s**:
@@ -68,7 +68,7 @@ if (relations != null){
 ---
 # **History** 
 ## Background 
-**Mint Evergreen** is a [[Feline-Humanoid]] mage from [[Lenben Village]]. She is a former member of the [[Guild of Arcane Healers]] and used to serve as the village's healer before pursuing magic.
+**Mint Evergreen** is a [[Virken]] mage from [[Lenben Village]]. She is a former member of the [[Guild of Arcane Healers]] and used to serve as the village's healer before pursuing magic.
 ## Early childhood 
 **Mint** was disallowed by her parents to learn offensive magic as a tradition in their village and in fear of her getting harmed. They sent her to be a part of the [[Guild of Arcane Healers]] to learn healing magic. She was not in favor of this decision but had no choice but to comply due to the village's traditions.
 
