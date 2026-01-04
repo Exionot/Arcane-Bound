@@ -49,7 +49,7 @@ if (relations != null){
 ---
 # **History** 
 ## Background 
-**`= this.file.name`** is a [[Virken]] from [[Yushinami City]] of [[Erde Kingdom]]. She is a retired [[Stakes Runner | Virken Stakes Runner]] who now travels the lands of [[Arcaena]] with the [[Wandering Traders of Arcaena]].
+**`= this.file.name`** is a [[Virken]] from [[Yushinami City]] of [[Erde Kingdom]]. She is a retired [[Virken Stakes Runner]] who now travels the lands of [[Arcaena]] with the [[Wandering Traders of Arcaena]].
 
 # **Appearance** 
 ## General Appearance 
@@ -73,7 +73,7 @@ TABLE itemType as "Type" WHERE contains(this.itemUsed, file.name)
 # **Other Information** 
 
 > [!NOTE] Note
-> Her name is based on JRA's naming conventions.
+> Though not actually based on a real horse, her name is based on JRA's naming conventions.
 
 ## Systems Used 
 ```dataview
