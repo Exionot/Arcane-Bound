@@ -1,10 +1,10 @@
 ---
-type: terminology
+type: species
 system: Both
 ---
 
 # **Basic Information**
-**Name**: `= this.file.name`
+**Name**: `= this.file.name` 
 **System**: `INPUT[systemSelect][]`
 
 # **Overview**
@@ -13,7 +13,7 @@ system: Both
 # **Definition**
 **`= this.file.name`.** A species name referring to those who share both human-like and animalistic features.
 
-# **Related Concepts**
+# **Types**
 
 # **Additional Information**
 ## Etymology
