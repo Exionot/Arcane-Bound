@@ -14,8 +14,8 @@
               "type": "markdown",
               "state": {
                 "file": "Arcane-Bound/Worlds Collide/01 Characters/Still Thunder.md",
-                "mode": "preview",
-                "source": true
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
               "title": "Still Thunder"
@@ -267,8 +267,8 @@
   },
   "active": "a5508c4c07b62a94",
   "lastOpenFiles": [
-    "Arcane-Bound/Worlds Collide/01 Characters/Ion Kynne.md",
     "Arcane-Bound/Worlds Collide/01 Characters/Still Thunder.md",
+    "Arcane-Bound/Worlds Collide/01 Characters/Ion Kynne.md",
     "Arcane-Bound/Worlds Collide/07 Lore/01 Documents/Document - Standardized Territorial Codex Protocol.md",
     "Arcane-Bound/Worlds Collide/06 Items - Equipments/Surgespark.md",
     "Arcane-Bound/Worlds Collide/07 Lore/03 Species",
