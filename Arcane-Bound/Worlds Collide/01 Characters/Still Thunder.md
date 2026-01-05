@@ -56,10 +56,13 @@ if (relations != null){
 
 However, her career was cut short when she suffered a major leg injury before her first G1 race. The injury was said to take an extended period of time which led to her decision to retire early and later join the [[Wandering Traders of Arcaena]] thanks to [[Ion Kynne|Ion]]'s invitation.
 
+She accepted [[Ion Kynne|Ion]]'s invitation as a way to keeping moving and as a chance to explore [[Arcaena]].
+
 # **Appearance**  
 ## General Appearance 
 
 # **Personality** 
+**Still Thunder** is generally what someone would call a "chill friend", she usually just go with what the [[Wandering Traders of Arcaena|guild]] is up to. However, like all [[Virken|Equus Virken]], it is in their nature to have a desire to run.
 
 # **Skills and Abilities** 
 ```dataview
@@ -74,6 +77,10 @@ TABLE itemType as "Type" WHERE contains(this.itemUsed, file.name)
 # **Factions**
 
 # **Relations**
+## Ion Kynne
+> **Full Note:** [[Ion Kynne]]
+
+She always tries to put back **Still Thunder** on the track, often asking her to join non-rated races, but **Still Thunder** always lightly declines, insisting on watching rather than competing.
 
 # **Other Information** 
 

@@ -58,14 +58,16 @@ if (relations != null){
 ---
 # **History** 
 ## Background 
-**Ion Kynne** is a [[Virken]] from [[Ohmpalos City]] of [[Amphors Kingdom]]. She is a skilled [[Elemental Magic#Thundra|thundra]] mage of the [[Wandering Traders of Arcaena]], exploring the great lands of [[Arcaena]], trading valuable items for [[Numia Coins]].
+**Ion Kynne** is a [[Virken]] from [[Ohmpalos City]] of [[Amphors Kingdom]]. She is a skilled [[Elemental Magic#Thundra|Thundra]] mage of the [[Wandering Traders of Arcaena]], exploring the great lands of [[Arcaena]], trading valuable items for [[Numia Coins]].
+
+**Ion** is a fan is [[Stakes Running]] and will always try to watch nearby races. She is also a fan of the retired [[Stakes Running|Stakes Runner]] now friend [[Still Thunder]]. After learning about her unexpected retirement, **Ion** jokingly recruited [[Still Thunder]] to the [[Wandering Traders of Arcaena]] which she surprisingly agreed to.
 
 # **Appearance** 
 ## General Appearance 
-A human with dog-like ears and tail. She has a rich brown hair with deep brown and yellow eyes.
+A human with dog-like ears and tail. She has a rich brown hair with deep brown and yellow eyes. Her right ear is always seen drooped down and is only seen raised up when she focuses on her hearing.
 
 # **Personality** 
-**Ion** is greatly loyal to those who earned her trust. She consistently completes her tasks without disappointment, and her lively personality often brings smiles to her fellow guild members.
+**Ion** is greatly loyal to those who earned her trust. She consistently completes her tasks without disappointment, and her lively personality often brings smiles to her fellow guild members. She also loves her head being petted, her tail wags uncontrollably when done so, especially when it's someone she's close to.
 
 # **Skills and Abilities** 
 ```dataview
@@ -88,6 +90,15 @@ TABLE itemType as "Type" WHERE contains(this.itemUsed, file.name)
 [[Ted Ursa|Ted]] is like a big brother to **Ion**, she like hugging him because of his fluffy fur. 
 
 She jokingly called him a "Teddy Bear" one time and the other guild members started to call him "teddy Bear".
+
+## Still Thunder
+> **Full Note:** [[Still Thunder]]
+
+**Ion** has always been a fan of hers since her debut race at [[Yushinami City]], it was also the first race that **Ion** has watched, which is why [[Still Thunder]] means a lot to **Ion**.
+
+She was jokingly invited by **Ion** after crossing paths with her. She unexpectedly agreed to **Ion's** invitation which led to her joining the guild. 
+
+She always declines **Ion's** requests to join non-rated races, responding with "watching is always better". 
 
 # **Other Information** 
 ## Systems Used 
