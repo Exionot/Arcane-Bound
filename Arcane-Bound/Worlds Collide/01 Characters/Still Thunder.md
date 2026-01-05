@@ -51,7 +51,7 @@ if (relations != null){
 ## Background 
 **`= this.file.name`** is a [[Virken]] from [[Yushinami City]] of [[Erde Kingdom]]. She is a retired [[Stakes Runner]] who now travels the lands of [[Arcaena]] with the [[Wandering Traders of Arcaena]].
 
-# **Appearance** 
+# **Appearance**  
 ## General Appearance 
 
 # **Personality** 
