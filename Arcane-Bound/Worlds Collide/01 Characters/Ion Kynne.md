@@ -29,6 +29,7 @@ aliases:
 relations:
   - Ted Ursa
   - Mint Evergreen
+  - Still Thunder
 ---
 
 ```meta-bind

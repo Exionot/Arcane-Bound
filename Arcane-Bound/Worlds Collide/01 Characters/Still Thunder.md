@@ -23,6 +23,7 @@ aliases:
 relations:
   - Ion Kynne
   - Ted Ursa
+  - Victoria Veloux Canidel
 ---
 
 ```meta-bind
@@ -49,7 +50,11 @@ if (relations != null){
 ---
 # **History** 
 ## Background 
-**`= this.file.name`** is a [[Virken]] from [[Yushinami City]] of [[Erde Kingdom]]. She is a retired [[Stakes Runner]] who now travels the lands of [[Arcaena]] with the [[Wandering Traders of Arcaena]].
+**`= this.file.name`** is a [[Virken]] from [[Yushinami City]] of [[Erde Kingdom]]. She is a retired [[Stakes Running|Stakes Runner]] who now travels the lands of [[Arcaena]] with the [[Wandering Traders of Arcaena]].
+
+**`= this.file.name`** was a [[Stakes Running|Standard Stakes Runner]] where she ran race courses without magical intervention. She was seen as a "Virken who can define her era" due to her performance during her early career winning 5 consecutive races after her debut.
+
+However, her career was cut short when she suffered a major leg injury before her first G1 race. The injury was said to take an extended period of time which led to her decision to retire early and later join the [[Wandering Traders of Arcaena]] thanks to [[Ion Kynne|Ion]]'s invitation.
 
 # **Appearance**  
 ## General Appearance 
@@ -74,6 +79,9 @@ TABLE itemType as "Type" WHERE contains(this.itemUsed, file.name)
 
 > [!NOTE] Note
 > Though not actually based on a real horse, her name is based on JRA's naming conventions.
+> Girl is literally an umamusume without the idol part.
+> ### Ref
+> - Fuji Kiseki (Umamusume: BOANE backstory)
 
 ## Systems Used 
 ```dataview
