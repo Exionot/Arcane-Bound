@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arcane-Bound/Worlds Collide/01 Characters/Ion Kynne.md",
+                "file": "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen/Narrative - Bear-on collision.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Ion Kynne"
+              "title": "Narrative - Bear-on collision"
+            }
+          },
+          {
+            "id": "5a10fb378ca9e761",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Victoria Veloux Canidel/Narrative - Feline encounter.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Narrative - Feline encounter"
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -108,7 +123,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Arcane-Bound/Worlds Collide/01 Characters/Ion Kynne.md",
+                "file": "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Victoria Veloux Canidel/Narrative - Feline encounter.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -136,7 +151,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Ion Kynne"
+              "title": "Graph of Narrative - Feline encounter"
             }
           }
         ]
@@ -152,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Arcane-Bound/Worlds Collide/01 Characters/Ion Kynne.md",
+                "file": "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Victoria Veloux Canidel/Narrative - Feline encounter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +177,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Ion Kynne"
+              "title": "Backlinks for Narrative - Feline encounter"
             }
           },
           {
@@ -171,12 +186,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Arcane-Bound/Worlds Collide/01 Characters/Ion Kynne.md",
+                "file": "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Victoria Veloux Canidel/Narrative - Feline encounter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Ion Kynne"
+              "title": "Outgoing links from Narrative - Feline encounter"
             }
           },
           {
@@ -251,10 +266,19 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "5b267473f57368cc",
+  "active": "5a10fb378ca9e761",
   "lastOpenFiles": [
-    "Arcane-Bound/Worlds Collide/01 Characters/Still Thunder.md",
+    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen/Narrative - Bear-on collision.md",
+    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Victoria Veloux Canidel/Narrative - Feline encounter.md",
+    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen/Narrative - A fellow feline.md",
+    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Victoria Veloux Canidel/Narrative - Point of return.md",
+    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Victoria Veloux Canidel/Narrative - Guide of an unknown world.md",
+    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Victoria Veloux Canidel/Narrative - The Convergence (Victoria Veloux Canidel).md",
+    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen/Narrative - Devil's intent.md",
+    "Arcane-Bound/Worlds Collide/01 Characters/Mint Evergreen.md",
+    "Arcane-Bound/Worlds Collide/01 Characters/Clair Tempest.md",
     "Arcane-Bound/Worlds Collide/01 Characters/Ion Kynne.md",
+    "Arcane-Bound/Worlds Collide/01 Characters/Still Thunder.md",
     "Arcane-Bound/Worlds Collide/99 Extras/Meta/AB - Unresolved Notes.md",
     "Arcane-Bound/Worlds Collide/99 Extras/Meta/AB - Locations.md",
     "Arcane-Bound/Worlds Collide/01 Characters/Ted Ursa.md",
@@ -267,20 +291,11 @@
     "Arcane-Bound/Worlds Collide/01 Characters/Rem Orion.md",
     "Arcane-Bound/Worlds Collide/03 Locations/03 Nations/Erde Kingdom.md",
     "Arcane-Bound/Worlds Collide/01 Characters/Underworldian - Clair.md",
-    "Arcane-Bound/Worlds Collide/01 Characters/Mint Evergreen.md",
     "Arcane-Bound/Worlds Collide/01 Characters/Krystalle Eos.md",
     "Arcane-Bound/Worlds Collide/01 Characters/Mhaxxine Dark.md",
-    "Arcane-Bound/Worlds Collide/01 Characters/Clair Tempest.md",
     "Arcane-Bound/Worlds Collide/01 Characters/Aura Brillfer.md",
     "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Aura Brillfer/Narrative - Defying orders.md",
-    "Arcane-Bound/Worlds Collide/01 Characters/Victoria Veloux Canidel.md",
-    "Arcane-Bound/Worlds Collide/04 Systems/01 Magic/Arcaenian Magic.md",
-    "Arcane-Bound/Worlds Collide/04 Systems/01 Magic/Elemental Magic.md",
-    "Arcane-Bound/Worlds Collide/04 Systems/02 Technology/Solid-Light Energy.md",
-    "Arcane-Bound/Worlds Collide/07 Lore/01 Documents/Document - Lost Arcaenian Map.md",
-    "Arcane-Bound/Worlds Collide/07 Lore/01 Documents/Document - Decree of The Numia Coins.md",
     "Arcane-Bound/Worlds Collide/07 Lore/02 Terminologies",
-    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Victoria Veloux Canidel/Narrative - Feline encounter.md",
     "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Clair Tempest",
     "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Victoria Veloux Canidel",
     "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Aura Brillfer",

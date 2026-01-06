@@ -15,7 +15,7 @@ cssclasses:
 **Location**: [[Vilebloom Forest]]
 **Time of Occurrence**: `= this.time.month` `= this.time.date`, `= this.time.year`, `= this.time.season`
 **Previous**: [[Narrative - An encounter with the devil]]
-**Next**: 
+**Next**: [[Narrative - Bear-on collision]]
 **Related:**
 
 ---

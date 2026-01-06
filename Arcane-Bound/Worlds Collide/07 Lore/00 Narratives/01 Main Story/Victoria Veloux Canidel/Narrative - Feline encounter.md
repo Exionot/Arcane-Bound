@@ -20,7 +20,7 @@ cssclasses:
 **Time of Occurrence**: `= this.time.month` `= this.time.date`, `= this.time.year`, `= this.time.season`
 **Previous**: [[Narrative - Point of return]]
 **Next**: 
-**Related:**
+**Related:** [[Narrative - Bear-on collision]]
 
 ---
 
@@ -29,23 +29,26 @@ cssclasses:
 **Ted:** I kind of expected you to go for the dress than the pants.
 **Vi:** Those aren't practical for running, they're too long so it'll get in the way.
 **Ted:** Hah! Just wait 'till you meet the others.
+**Vi:** What about you? I thought your outfit would be more armored.
+**Ted:** We're not always fighting so I just prefer something light.
 
-*Vi and Ted leave the shop and proceeds to their next destination.*
+*Vi and Ted leave the shop and proceeds to the city's gate.*
 
-**Ted:** Now, we need to catch up with the rest of the guild. Right now, they should be two kingdoms away, but they're probably looking for me so we'll meet with another friend of mine to check.
+**Vi:** We're leaving already?
+**Ted:** We need to catch up with the rest of the guild. Right now, they should be two kingdoms away, but they're probably looking for me so we'll meet with another friend of mine to check.
 **Vi:** Alright, I'll be right behind you.
 
-*Vi and ted run their way to Lenben Village, but suddenly, out from the bushes emerges a girl. With no time to stop, Ted collides with the girl and knocks her quite some distance.*
+*Vi and ted run their way to Lenben Village, but suddenly, out from the bushes emerges a girl. With no time to stop, Ted collides with the girl the impact pushes her back.*
 
-**Mint:** Ugh... What... are you doing? Why are you running in these path- Ted??
-**Ted:** Mint! I'm so sorry! We're actually rushing to your village. What are you doing here?
+**Mint:** What... are you doing?! Why are you running so fast in these narrow paths-
+**Mint:** Ted?! What are you doing here??
+**Ted:** Mint! I'm so sorry! We're actually rushing to your house.
+**Mint:** We?
 **Vi:** *Her clothes... Those are definitely not from here. Was she also transported here?*
 
-*Ted helps Mint to get up and she notices Vi.*
-
-**Mint:** Oh! Who's this girl? I've never seen her before.
-
 *Mint approaches Vi and takes a closer look at her.*
+
+REVISE
 
 **Mint:** Whoa, you're a fancy girl, I can feel it.
 **Ted:** This is Vi. She found me in Brickstone earlier. She's not from here though, it's kind of complicated but, she's from a different world.
