@@ -1,7 +1,7 @@
 ---
 type: narrative 
 time:
-  year: 
+  year: 2405
   month: ""
   date: ""
   season: Early Winter
@@ -19,7 +19,7 @@ cssclasses:
 **Location**: Outside of [[Lenben Village]]
 **Time of Occurrence**: `= this.time.month` `= this.time.date`, `= this.time.year`, `= this.time.season`
 **Previous**: [[Narrative - Point of return]]
-**Next**: 
+**Next**: [[Narrative - Challenge of acceptance]]
 **Related:** [[Narrative - Bear-on collision]]
 
 ---
