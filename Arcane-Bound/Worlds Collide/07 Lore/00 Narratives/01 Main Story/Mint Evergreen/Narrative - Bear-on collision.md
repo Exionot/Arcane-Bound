@@ -50,11 +50,12 @@ cssclasses:
 **Mint:** I got transported to a different world as well.
 **Ted:** You got transported too?? How come i did not saw you in the detention area?
 **Mint:** *He got locked up? I guess Aura wasn't lying after all.*
-**Mint:** A nice lady took me in, she said people were after us.
-**Ted:** Ah, is that why you're not wearing your hood?  
+**Mint:** A nice lady took me in. 
+**Mint:** *Well after she tried to fight me that is...*
+**Mint:** She said people were after us.
 **Ted:** Wait, but why are they after us? We haven't done anything.
-**Mint:** *That's what I'm wondering too. It's weird, because I couldn't sense any mana there.*
-**Mint:** You should probably head straight to Rhilekos City now, Ion said they would stay there until they find you.
+**Mint:** *That's what I'm wondering too...*
+**Mint:** You should probably head straight to Rhilekos City for now, Ion said they would stay there until they find you.
 **Ted:** Are you not going with us?
 **Mint:** I need to check on the village first, just to make sure nobody got transported too.
 **Mint:** I'll try to catch up with you after I check the village.
@@ -62,7 +63,4 @@ cssclasses:
 *Mint and Ted wave they goodbyes as they split up their paths.*
 
 ---
-
-> [!NOTE] Notes
-> Extra notes about the moment goes here
 

@@ -38,7 +38,7 @@ cssclasses:
 **Ted:** We need to catch up with the rest of the guild. Right now, they should be two kingdoms away, but they're probably looking for me so we'll meet with another friend of mine to check.
 **Vi:** Alright, I'll be right behind you.
 
-*Vi and ted run their way to Lenben Village, but suddenly, out from the bushes emerges a girl. With no time to stop, Ted collides with the girl the impact pushes her back.*
+*Vi and ted run their way to Lenben Village, but suddenly, out from the bushes emerges a girl. With no time to stop, Ted collides with the girl, the impact pushes her back.*
 
 **Mint:** What... are you doing?! Why are you running so fast in these narrow paths-
 **Mint:** Ted?! What are you doing here??
@@ -46,30 +46,27 @@ cssclasses:
 **Mint:** We?
 **Vi:** *Her clothes... Those are definitely not from here. Was she also transported here?*
 
-*Mint approaches Vi and takes a closer look at her.*
+*Mint quietly looks at Vi.*
 
-REVISE
-
-**Mint:** Whoa, you're a fancy girl, I can feel it.
-**Ted:** This is Vi. She found me in Brickstone earlier. She's not from here though, it's kind of complicated but, she's from a different world.
-**Mint:** I knew it! I got transported too!
-**Ted:** Wait, you got transported as well? Where were you?
-**Mint:** It was something like "Ampeer Square".
-**Vi:** *Amphere Square... that's quite far from Astral City...*
-**Mint:** Ion is looking for you, you know? You've been gone for like a week now!
-**Ted:** I got locked up in the other world, I couldn't do anything!
-**Mint:** Well, Ion said to me that they're staying at Rhilekos City, you might want to catch up to them before they leave.
-**Ted:** Are you coming with us?
-**Mint:** I need to check the village to make sure everyone's safe.
-**Mint:** What about you fancy girl? Where are you headed?
-**Vi:** I am just going where ever Ted goes, I was told these lands are vastly different from my world.
-**Mint:** You didn't fight Ted did you? You guys tend to be aggressive to visitors...
-**Vi:** I believe it's actually quite the opposite.
-**Ted:** Yeah... I swung at her when I woke up... But all is good! We didn't actually fight.
-**Mint:** Well that's good to hear. I'll try to catch up with you guys after I'm done with the village.
+**Mint:** Whoa... You're a fancy girl, I can feel it. Which royal family are you fro-
+**Mint:** Ted... Ion came to me looking for you a couple days ago. You didn't kidnap a member of the royalties, did you?
+**Ted:** No, of course not! This is Vi, she's not of any royalties. Well... at least not in this world.
+**Vi:** *I guess she's a native here. But, how did she know? I thought my clothes were what gave it away?*
+**Mint:** Did both of you got transported suddenly?
+**Ted:** Wait, how did you know we got transported?
+**Mint:** I got transported to a different world as well.
+**Ted:** You got transported too?? How come i did not saw you in the detention area?
+**Mint:** A nice lady took me in, she said people were after us.
+**Ted:** Why? We haven't done anything.
+**Vi:** *Ted got locked up without reason too... Why would the government target civilians?*
+**Mint:** You should probably head straight to Rhilekos City for now, Ion said they would stay there until they find you.
+**Ted:** Are you not going with us?
+**Mint:** I need to check on the village first, just to make sure nobody got transported too.
+**Mint:** I'll try to catch up with you after I check the village.
 
 *Mint and Ted waves their goodbyes as Vi and Ted continue their journey towards Rhilekos City.*
 
 ---
 
-
+> [!NOTE] Notes
+> Girl got barely any input here but plot ooooohhh~
