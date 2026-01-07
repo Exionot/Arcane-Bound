@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "199d776dc7e6afe5",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "27e992ad532a5801",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/00 Extra Story/EX - Clever Getaway.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "EX - Clever Getaway"
             }
           }
         ]
@@ -162,21 +166,22 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "homepage:Open homepage": false,
       "templater-obsidian:Templater": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "calendarium:Open Calendarium": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "27e992ad532a5801",
   "lastOpenFiles": [
+    "Homepage.md",
     "Arcane-Bound/99 Extras/Meta/AB - Locations.md",
     "Arcane-Bound/03 Locations/03 Nations/HyperCorp Republic.md",
-    "Homepage.md",
     "Arcane-Bound/03 Locations/05a Cities/Newslate City.md",
     "Arcane-Bound/03 Locations/03 Nations/Republic of Chloros.md",
     "Arcane-Bound/02 Factions/Voidrock Operation & Investigation Department.md",
