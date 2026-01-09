@@ -20,6 +20,7 @@ profileImage:
 galleryImage:
 posterImage:
 aliases:
+  - スティル・サンダー (Still Thunder)
 relations:
   - Ion Kynne
   - Ted Ursa
@@ -83,12 +84,13 @@ TABLE itemType as "Type" WHERE contains(this.itemUsed, file.name)
 She always tries to put back **Still Thunder** on the track, often asking her to join non-rated races, but **Still Thunder** always lightly declines, insisting on watching rather than competing.
 
 # **Other Information** 
-
 > [!NOTE] Note
 > Though not actually based on a real horse, her name is based on JRA's naming conventions.
 > Girl is literally an umamusume without the idol part.
 > ### Ref
 > - Fuji Kiseki (Umamusume: BOANE backstory)
+> 
+> Her name in katakana is: スティル・サンダー (sutiru・sandā)
 
 ## Systems Used 
 ```dataview
