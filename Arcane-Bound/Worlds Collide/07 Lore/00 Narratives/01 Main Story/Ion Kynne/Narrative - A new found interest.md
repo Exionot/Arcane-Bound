@@ -10,7 +10,7 @@ cssclasses:
 ---
 
 # **Basic Information**
-**Title**: A new found hobby
+**Title**: A new found interest
 **Character/s**: [[Ion Kynne]], [[Ted Ursa]], [[Still Thunder]]
 **Location**: [[Yushinami City]]
 **Time of Occurrence**: `= this.time.month` `= this.time.date`, `= this.time.year`, `= this.time.season`
@@ -20,7 +20,7 @@ cssclasses:
 
 ---
 
-*Insert horse race*
+
 
 ---
 
