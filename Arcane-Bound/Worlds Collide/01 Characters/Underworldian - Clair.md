@@ -88,10 +88,11 @@ TABLE systemType as "Type" WHERE contains(this.systemUsed, file.name)
 ```
 ## Narratives
 ```dataview
-LIST 
+TABLE
+  regexreplace(file.folder, ".*/", "") AS Folder
 FROM "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives"
-WHERE contains(file.outlinks, this.file.link) 
-SORT file.name ASC
+WHERE contains(file.outlinks, this.file.link)
+SORT file.folder ASC, file.name ASC
 ```
 
 ---
