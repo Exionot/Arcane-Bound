@@ -43,7 +43,7 @@ INPUT[imageSuggester(optionQuery("ᐳExternal Assets"), class(character-img)):pr
 **Birthday**: May 24th
 **Species**: [[Virken]] (Canis)
 **Origin**: [[Ohmpalos City]], [[Amphors Kingdom]], [[Southern Lands]], [[Arcaena]]
-**Hobbies**:
+**Hobbies**: Watching [[Stakes Running|Stake Races]]
 **Nickname/s**:
 **Faction/s**: [[Wandering Traders of Arcaena]]
 
@@ -87,9 +87,11 @@ TABLE itemType as "Type" WHERE contains(this.itemUsed, file.name)
 ## Ted Ursa 
 > **Full Note:** [[Ted Ursa]]
 
-[[Ted Ursa|Ted]] is like a big brother to **Ion**, she like hugging him because of his fluffy fur. 
+[[Ted Ursa|Ted]] is like a big brother to **Ion**, she likes hugging him because of his fluffy fur. 
 
-She jokingly called him a "Teddy Bear" one time and the other guild members started to call him "teddy Bear".
+He used to be the one making the decisions when they were still starting their own group of wanderers in the [[Wandering Traders of Arcaena]].
+
+He was jokingly called a "Teddy Bear" by **Ion** one time and the other guild members also started to call him "Teddy Bear".
 
 ## Still Thunder
 > **Full Note:** [[Still Thunder]]

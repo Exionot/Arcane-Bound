@@ -66,14 +66,14 @@ if (relations != null){
 A human with ears and tail like a feline. She has long blonde hair with gold accents.
 
 ## Outfits
-### [[Protection Of Local Livelihood|P.O.L.L.]] Uniform
+### P.O.L.L. Uniform
 She wears a long white coat with [[Protection Of Local Livelihood]]'s logo in the front.
 ### Casual
 She wears a white crop top and white shorts.
 
 # **Personality** 
 ## Before The Convergence
-**Aura** is seen as a stone cold commander that is willing to do anything to find criminals and give justice to the victims of their crimes. She is brave, unafraid of corrupt entities on higher positions.^[[[The Convergence]]]
+**Aura** is seen as a stone cold commander that is willing to do anything to find criminals and give justice to the victims of their crimes. She is brave, unafraid of corrupt entities on higher positions.
 
 **Aura** did not believe in magic, she believed that everything always had a scientific explanation.
 
@@ -87,10 +87,7 @@ She wears a white crop top and white shorts.
 **Aura** is very knowledgeable when it comes to technology, she is able intercept radio signals and access surveillance systems with ease. She is also capable of creating her own weaponry.
 ## Expertise in combat
 Coming from government military, she is able to protect herself in tense situations.
-%%
-## Feline instincts
-She has a 6th sense that allow her to detect danger and dodge incoming attacks.
-%%
+
 ```dataview
 TABLE abilityType as "Type" WHERE contains(this.abilityUsed, file.name)
 ```

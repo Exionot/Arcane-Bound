@@ -53,7 +53,7 @@ INPUT[imageSuggester(optionQuery("ᐳExternal Assets"), class(character-img)):pr
 **Birthday**: 
 **Species**: [[Virken]] (Feline)
 **Origin**: [[Lenben Village]], [[Phthalo Region]], [[Verdthorne Kingdom]], [[Central Lands]], [[Arcaena]]
-**Hobbies**:
+**Hobbies**: Gardening
 **Nickname/s**:
 **Faction/s**:
 - [[Guild of Arcane Healers]] (Former member)
@@ -75,6 +75,8 @@ if (relations != null){
 Despite being taught healing magic, Mint stayed focused in her trainings treating it as if she was learning offensive magic. This gave her an advantage compared to her colleagues, her mana control was better than most of the young mages, she's able to cast healing spells faster than most.
 ## Young Adolescence 
 **Mint** wanted to learn real magic and reach her true potential. Her parents disagreed with her decision and made it clear that they would not be supporting her if she continued. Mint went on to pursue the art of magic without the support of her parents, knowing that she too can be as powerful as one of [[Arcaena]]'s [[Ace Mages]].
+
+She has been recruited multiple times by [[[Ion Kynne]] to join the [[Wandering Traders of Arcaena]], even joining one of their trip across [[Arcaena]]. But despite her experience and connections with the guild, Mint refused to join the [[Wandering Traders of Arcaena|Wanderers]]. She wanted to explore the lands more freely and learn new spells, even taking quests in exchange of tomes and grimoires.
 ## During The Convergence
 **Mint** was transported to the technologically advanced world of [[Fluxpoint City]], where she found and met [[Aura Brillfer]].^[[[The Convergence]]]
 

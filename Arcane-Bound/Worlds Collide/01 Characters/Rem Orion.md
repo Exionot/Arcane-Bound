@@ -58,11 +58,14 @@ if (relations != null){
 ## Background 
 **Rem Orion** is a human from [[Astral City]] of [[HyperCorp Republic]]. She is the managing director of [[Starveil Retrieval Co.]], representing the company.^[[[Starveil Retrieval Co.]]]
 
+She is one of the first members of [[Starveil Retrieval Co.|Starveil Retrieval]]. 
+
 # **Appearance** 
 ## General Appearance 
-**Rem** has a short, red velvet hair with bright red eyes. She wears a black headband and a constellation hair clip.
+**Rem** has a short, red velvet hair with bright red eyes. She wears a black headband.
 
 # **Personality** 
+Despite being the managing director of [[Starveil Retrieval Co.|Starveil Retrieval]], **Rem** acts more like an assistant rather than a leader. She is very caring of her colleagues, often making sure they are not overworked or stressed, especially to their leader, [[Victoria Veloux Canidel]]. She also likes fluffy things.
 
 # **Skills and Abilities** 
 ```dataview
@@ -81,6 +84,8 @@ TABLE itemType as "Type" WHERE contains(this.itemUsed, file.name)
 # **Relations**
 ## Victoria Veloux Canidel
 > **Full Note:** [[Victoria Veloux Canidel]]
+
+She is the leader of [[Starveil Retrieval Co.]]. Despite seeing it as a weird obsession, she still allows **Rem** to groom her tail.
 
 # **Other Information** 
 ## Systems Used 

@@ -21,6 +21,7 @@ galleryImage:
 posterImage:
 aliases:
   - スティル・サンダー (Still Thunder)
+  - Stelle
 relations:
   - Ion Kynne
   - Ted Ursa
@@ -39,7 +40,7 @@ INPUT[imageSuggester(optionQuery("ᐳExternal Assets"), class(character-img)):pr
 **Species**: [[Virken]] (Equus)
 **Origin**: [[Yushinami City]], [[Lander Region]], [[Erde Kingdom]], [[Central Lands]], [[Arcaena]]
 **Hobbies**:
-**Nickname/s**:
+**Nickname/s**: "Stelle" ([[Ion Kynne]])
 **Faction/s**: [[Wandering Traders of Arcaena]]
 **Relation/s**: 
 ```dataviewjs

@@ -53,6 +53,8 @@ if (relations != null){
 ## Background 
 **Ted Ursa** is a [[Virken | Virken Beast]]  from [[Lushfall Town]] in [[Erde Kingdom]]. He is a strong swordsman of the [[Wandering Traders of Arcaena]] guild, he wields a giant sword that only really strong individuals alike can carry. 
 
+His connection with [[Ion Kynne]] stretch back to their childhood, they have a long standing connection even before joining the [[Wandering Traders of Arcaena]]. He was the one that made the decisions when they started to create their own group of [[Wandering Traders of Arcaena|Wanderers]], as the group slowly found it's footing, [[Ion Kynne]] became the leader of the group.
+
 # **Appearance** 
 ## General Appearance 
 A bear with grey fur and dark grey eyes. He wear a dark grey scarf and a white coat.

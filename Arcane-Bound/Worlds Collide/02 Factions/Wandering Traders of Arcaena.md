@@ -4,7 +4,7 @@ origin: Unknown
 leader: 
 galleryImage: 
 aliases:
-  - 
+  - Wanderers
 status: Active
 ---
 
@@ -14,8 +14,9 @@ status: Active
 **Founder/s**:
 **Holder of Power**:
 **Affiliation/s**:
-
+**Nickname/s**: Wanderers 
 **Status**: `INPUT[factionStatus][]`
+
 
 # **Overview**
 The **Wandering Traders of Arcaena** is a traders guild that travels throughout the [[Arcaena|Continent of Arcaena]]. They go through major cities of every nation in the continent, bringing rare and exclusive items from different kingdoms in exchange for [[Numia Coins]].
