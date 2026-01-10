@@ -30,5 +30,7 @@ Silent Taste (サイレント・テースト / sairento・tēsuto)
 ---
 Royal Flora ( ロイアル・フローラー / roiaru・furōrā)
 - S: Noble Night (ノーブル・ナイト / nōburu・naito)
+	- S: Morning Light (モーニング・ライト / mōningu・raito)
+	- D: Queen Donna (クィーン・ドナー / kuīn・donā)
 - D: Beautiful Flower (ビューティフル・フラワー / byūtifuru・furawā)
 
