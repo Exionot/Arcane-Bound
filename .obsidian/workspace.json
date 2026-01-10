@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6e21a12693aca4d9",
+        "id": "523e1474967eb1b3",
         "type": "tabs",
         "children": [
           {
-            "id": "7cf202b7e62fc55f",
+            "id": "2ca64bb499448711",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -262,23 +262,26 @@
       "homepage:Open homepage": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "obsidian-git:Open Git source control": false,
-      "calendarium:Open Calendarium": false
+      "calendarium:Open Calendarium": false,
+      "bases:Create new base": false
     }
   },
-  "active": "7cf202b7e62fc55f",
+  "active": "2ca64bb499448711",
   "lastOpenFiles": [
-    "Arcane-Bound/Worlds Collide/01 Characters/Mint Evergreen.md",
-    "Arcane-Bound/Worlds Collide/01 Characters/Ion Kynne.md",
-    "Templates/Character.md",
-    "Arcane-Bound/Worlds Collide/01 Characters/Still Thunder.md",
-    "Arcane-Bound/Worlds Collide/01 Characters/Victoria Veloux Canidel.md",
-    "Arcane-Bound/Worlds Collide/01 Characters/Underworldian - Clair.md",
-    "Arcane-Bound/Worlds Collide/01 Characters/Ted Ursa.md",
     "Arcane-Bound/Worlds Collide/01 Characters/Rem Orion.md",
+    "Templates/Character.md",
+    "Arcane-Bound/Worlds Collide/01 Characters/Underworldian - Clair.md",
+    "Arcane-Bound/Worlds Collide/01 Characters/Victoria Veloux Canidel.md",
+    "Arcane-Bound/Worlds Collide/01 Characters/Ted Ursa.md",
+    "Arcane-Bound/Worlds Collide/01 Characters/Still Thunder.md",
     "Arcane-Bound/Worlds Collide/01 Characters/Mhaxxine Dark.md",
+    "Arcane-Bound/Worlds Collide/01 Characters/Mint Evergreen.md",
     "Arcane-Bound/Worlds Collide/01 Characters/Krystalle Eos.md",
+    "Arcane-Bound/Worlds Collide/01 Characters/Ion Kynne.md",
     "Arcane-Bound/Worlds Collide/01 Characters/Clair Tempest.md",
     "Arcane-Bound/Worlds Collide/01 Characters/Aura Brillfer.md",
+    "Untitled.base",
+    "ᐳExternal Assets/Mint_Synthspire_Glasses.png",
     "Arcane-Bound/Worlds Collide/02 Factions/Wandering Traders of Arcaena.md",
     "Untitled.md",
     "Arcane-Bound/Worlds Collide/00 Ideas/Equus Virken Names.md",
@@ -293,7 +296,6 @@
     "Arcane-Bound/Worlds Collide/07 Lore/03 Species/Virken.md",
     "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/00 Extra Story/Narrative - Something on her face.md",
     "Homepage.md",
-    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Victoria Veloux Canidel/Narrative - Point of return.md",
     "Arcane-Bound/Worlds Collide/07 Lore/03 Species",
     "Arcane-Bound/Worlds Collide/07 Lore/02 Terminologies",
     "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Clair Tempest",
@@ -302,7 +304,6 @@
     "ArcBound",
     "Arcane-Bound.zip",
     "Arcane-Bound/Worlds Collide/99 Extras/Meta/AB - Storyline.canvas",
-    "Untitled.base",
     "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen",
     "Arcane-Bound/Archives/Staying MInty Final.png",
     "Arcane-Bound/Archives/Arcane Origins Final.png",
@@ -312,7 +313,6 @@
     "Arcane-Bound/Archives/In Darkness Insta.png",
     "ᐳExternal Assets/Ion_Profile2.png",
     "Arcane-Bound/Archives/Golden Aura Final.png",
-    "Arcane-Bound/Archives/Being Vigilant Final.png",
-    "Arcane-Bound/Archives/Vixen's Secret Final.png"
+    "Arcane-Bound/Archives/Being Vigilant Final.png"
   ]
 }

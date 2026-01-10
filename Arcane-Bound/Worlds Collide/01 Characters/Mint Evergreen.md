@@ -184,33 +184,39 @@ groups = groups.array().sort((a, b) => {
 
 for (const group of groups) {
   // header: show "No Faction" if null
-  dv.header(2, group.key ?? "No Faction");
-
-  if (group.rows.length === 0) {
-    dv.paragraph("*(no characters in this group)*");
-    continue;
-  }
+  //dv.header(2, group.key ?? "No Faction");
+  
+  const title = group.key ?? "No Faction";
 
   // Build datacards block
   let lines = [];
-  lines.push("```datacards");
-  lines.push("TABLE profileImage");
-  lines.push(`FROM "${baseFolder}"`);
+  if (group.key === null) {
+	  lines.push(`> [!navigation]+ ${title}`);
+  }else{
+	  lines.push(`> [!navigation]+ ${"[[" + title + "]]"}`);
+  }
+  
+  lines.push(">```datacards");
+  lines.push(`>TABLE profileImage`);
+  lines.push(`>FROM "${baseFolder}"`);
 
   // Use `faction.active = null` if group key is null
   if (group.key === null) {
-    lines.push("WHERE faction.active = null");
+    lines.push(">WHERE faction.active = null");
   } else {
-    lines.push(`WHERE contains("${group.key}", faction.active)`);
+    lines.push(`>WHERE contains("${group.key}", faction.active)`);
   }
 
-  lines.push("SORT file.name ASC");
-  lines.push("");
-  lines.push("//Settings");
-  lines.push("preset: square");
-  lines.push("columns: 4");
-  lines.push("fontSize: smaller");
-  lines.push("```");
+  lines.push(">SORT file.name ASC");
+  lines.push(">");
+  lines.push(">//Settings");
+  lines.push(">preset: square");
+ // lines.push("imageProperty: cover");
+  //lines.push("imageFit: contain");
+  //lines.push("imageHeight: 10px");
+  lines.push(">columns: 5");
+  lines.push(">fontSize: smallest");
+  lines.push(">```");
 
   dv.el("div", lines.join("\n"));
 }
