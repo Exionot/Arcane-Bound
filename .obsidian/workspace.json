@@ -4,24 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "523e1474967eb1b3",
+        "id": "83c54c9a96b38078",
         "type": "tabs",
         "children": [
           {
-            "id": "2ca64bb499448711",
+            "id": "6dcfd1eba01c9757",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arcane-Bound/Worlds Collide/01 Characters/Mint Evergreen.md",
+                "file": "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Timeline.md",
                 "mode": "preview",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Mint Evergreen"
+              "title": "Timeline"
+            }
+          },
+          {
+            "id": "dae3d9884a9b03b1",
+            "type": "leaf",
+            "state": {
+              "type": "chronos-changelog-view",
+              "state": {},
+              "icon": "info",
+              "title": "What's New in Chronos Timeline"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -266,20 +277,23 @@
       "bases:Create new base": false
     }
   },
-  "active": "2ca64bb499448711",
+  "active": "dae3d9884a9b03b1",
   "lastOpenFiles": [
+    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Timeline.md",
+    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen/Narrative - Missing Merchant.md",
+    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen/Narrative - A fellow feline.md",
+    "Arcane-Bound/Worlds Collide/01 Characters/Clair Tempest.md",
+    "Arcane-Bound/Worlds Collide/01 Characters/Aura Brillfer.md",
+    "Arcane-Bound/Worlds Collide/01 Characters/Ion Kynne.md",
+    "Arcane-Bound/Worlds Collide/01 Characters/Mhaxxine Dark.md",
+    "Arcane-Bound/Worlds Collide/01 Characters/Krystalle Eos.md",
+    "Arcane-Bound/Worlds Collide/01 Characters/Mint Evergreen.md",
     "Arcane-Bound/Worlds Collide/01 Characters/Rem Orion.md",
     "Templates/Character.md",
     "Arcane-Bound/Worlds Collide/01 Characters/Underworldian - Clair.md",
     "Arcane-Bound/Worlds Collide/01 Characters/Victoria Veloux Canidel.md",
     "Arcane-Bound/Worlds Collide/01 Characters/Ted Ursa.md",
     "Arcane-Bound/Worlds Collide/01 Characters/Still Thunder.md",
-    "Arcane-Bound/Worlds Collide/01 Characters/Mhaxxine Dark.md",
-    "Arcane-Bound/Worlds Collide/01 Characters/Mint Evergreen.md",
-    "Arcane-Bound/Worlds Collide/01 Characters/Krystalle Eos.md",
-    "Arcane-Bound/Worlds Collide/01 Characters/Ion Kynne.md",
-    "Arcane-Bound/Worlds Collide/01 Characters/Clair Tempest.md",
-    "Arcane-Bound/Worlds Collide/01 Characters/Aura Brillfer.md",
     "Untitled.base",
     "ᐳExternal Assets/Mint_Synthspire_Glasses.png",
     "Arcane-Bound/Worlds Collide/02 Factions/Wandering Traders of Arcaena.md",
@@ -294,8 +308,6 @@
     "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen/Narrative - Bear-on collision.md",
     "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/00 Extra Story/EX - Clever Getaway.md",
     "Arcane-Bound/Worlds Collide/07 Lore/03 Species/Virken.md",
-    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/00 Extra Story/Narrative - Something on her face.md",
-    "Homepage.md",
     "Arcane-Bound/Worlds Collide/07 Lore/03 Species",
     "Arcane-Bound/Worlds Collide/07 Lore/02 Terminologies",
     "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Clair Tempest",
