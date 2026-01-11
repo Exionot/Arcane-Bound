@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arcane-Bound/Worlds Collide/01 Characters/Still Thunder.md",
-                "mode": "preview",
-                "source": false
+                "file": "Arcane-Bound/Worlds Collide/07 Lore/02 Terminologies/Stakes Running.md",
+                "mode": "source",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Still Thunder"
+              "title": "Stakes Running"
             }
           },
           {
@@ -134,6 +134,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Arcane-Bound/Worlds Collide/07 Lore/02 Terminologies/Stakes Running.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -161,7 +162,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of Stakes Running"
             }
           }
         ]
@@ -277,9 +278,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "0cdf41f6f0a55e88",
+  "active": "6dcfd1eba01c9757",
   "lastOpenFiles": [
     "Arcane-Bound/Worlds Collide/01 Characters/Still Thunder.md",
+    "Arcane-Bound/Worlds Collide/07 Lore/02 Terminologies/Stakes Running.md",
     "Arcane-Bound/Worlds Collide/03 Locations/03 Nations/Erde Kingdom.md",
     "Arcane-Bound/Worlds Collide/00 Ideas/Equus Virken Names.md",
     "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/00 Extra Story/EX - Clever Getaway.md",
@@ -304,7 +306,6 @@
     "Arcane-Bound/Worlds Collide/01 Characters/Rem Orion.md",
     "Templates/Character.md",
     "Arcane-Bound/Worlds Collide/01 Characters/Underworldian - Clair.md",
-    "Arcane-Bound/Worlds Collide/01 Characters/Victoria Veloux Canidel.md",
     "Untitled.base",
     "ᐳExternal Assets/Mint_Synthspire_Glasses.png",
     "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Ion Kynne",

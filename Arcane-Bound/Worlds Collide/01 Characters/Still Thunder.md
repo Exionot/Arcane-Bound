@@ -64,7 +64,7 @@ She accepted [[Ion Kynne|Ion]]'s invitation as a way to keeping moving and as a 
 
 
 ## Stakes Record
-|  Date   |   Couse   | Stake (Grade)              | Place | Ground | Length | 1st Place / Runner Up |
+|  Date   |   Couse   | Stake Name (Grade)              | Place | Track | Distance | 1st Place / Runner Up |
 | :-----: | :-------: | -------------------------- | :---: | :----: | :----: | --------------------- |
 | 05-2402 | YUSHINAMI | [[Summer Mile Cup]] (G2)   |  1st  |  TURF  | 1600M  |                       |
 | 01-2402 | YUSHINAMI | [[New Year Stakes]] (G3)   |  1st  |  TURF  | 1600M  |                       |
