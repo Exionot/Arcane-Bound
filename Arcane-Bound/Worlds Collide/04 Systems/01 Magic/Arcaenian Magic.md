@@ -48,9 +48,9 @@ status: Commonly Used
 **Arcana** is the modern practice of arcaenian magic harnessed with the use of an [[Arcaenian Band]]. This practice is much more efficient giving more powerful spells for smaller mana consumption but requires a deep understanding of mana control.
 
 ## Astraxia
-**Astraxia** is an an ancient practice of arcaenian magic where a person is able to cast spells without the use of a staff. Magic is channelled through the body of the user releasing mana as a spell.
+**Astraxia** is an an ancient practice of arcaenian magic where a person is able to cast spells without the use of a staff. Magic is channeled through the body of the user releasing mana as a spell.
 ### Athenia
-**Athenia** is a subsystem of astraxia practiced by priests. Instead of channelling magic through their bodies, [[Mana]] is transferred from the user into the book harnessing the powers of the goddess through her sacred writings. They are capable of giving divine protection and healing.
+**Athenia** is a subsystem of astraxia practiced by priests. Instead of channeling magic through their bodies, [[Mana]] is transferred from the user into the book harnessing the powers of the goddess through her sacred writings. They are capable of giving divine protection and healing.
 
 # **Limitations**
 

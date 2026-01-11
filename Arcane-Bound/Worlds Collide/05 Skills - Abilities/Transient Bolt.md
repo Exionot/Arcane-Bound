@@ -10,24 +10,19 @@ status: Rarely Used
 
 # **Basic Information** 
 **Name**: Transient Bolt
-**Type**: [[Arcaenian Magic#Elemental Magic|Elemental Magic]]
+**Type**: [[Elemental Magic]]
 **Origin**: [[Arcaena]]
-**System**: [[Arcaenian Magic]]
-
+**System**: [[Arcaenian Magic]], [[Mana]]
 **Status**: `INPUT[usageStatus][]`
 
 # **Overview**
-**Transient Bolt** is an elemental spell that releases a series of lightning bolts emerges from the ground to the skies, hitting anyone in its path.
+**Transient Bolt** is a [[Elemental Magic#Thundra|Thundra]] spell that releases a series of lightning bolts emerging from the ground to the sky, electrocuting anyone in its path. A great understanding of [[Mana]] control is needed when using this spell as using too much mana can lead to the release of lethal electrical current.
 
 # **Appearance**
-When used normally, lightning bolts casted with this spell appear blue. However, when casted with more mana, the lightning bolts begins with a deep purple color, transitioning to a a deep blue as it reaches the sky.
+When casted normally, lightning bolts that emerge from the ground with this spell can appear white or blue. However, when casted with more mana, the lightning bolts turn into a deep purple color, transitioning to a a deep blue as it reaches the sky.
 
 # **Mechanics**
-When casted, the spell creates a disruption of air particles within a desired area. This disruption results in a powerful upward discharge of electrical energy.
-
-# **Application**
-## Offensive Style Magic 
-> **Full Note:** [[Arcaenian Magic#**Styles**|Magic Styles]]
+When casted, the spell creates a disruption of air particles within a desired area of effect. This disruption results in a powerful upward discharge of electrical energy.
 
 # **History**
 

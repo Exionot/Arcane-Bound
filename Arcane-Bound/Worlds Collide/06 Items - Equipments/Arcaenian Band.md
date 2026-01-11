@@ -32,7 +32,7 @@ An **Arcaenian Band** works by channeling the powers of the [[Arcaenic Crystal]]
 # **Limitation**
 %%The band can be wrapped around any object however, the power of depends on the purity of [[Arcaenic Crystal]]. Maybe%%
 
-An **Arcaenian Band** will not work when wrapped around a living being, it simply consumes too much mana to be able to cast spells.
+An **Arcaenian Band** will not work when wrapped around a living being, casting spells whilst having the band wrapped to a living being makes [[Mana]] control impossible and will use majority of the user's mana, meaning, the casted spell will be released beyond it's maximum limit which can cause unpredictable consequences.
 
 # **Application**
 ## Arcana
@@ -55,6 +55,11 @@ TABLE faction.active as "Faction"
 WHERE type = "character" AND contains(itemUsed, this.file.name)
 FLATTEN faction
 ```
+
+# **Additional Information**
+> [!NOTE] Note
+> The vessel that the band wraps around is basically acts like a resistor to a circuit that prevents the bulb(spell) to receive more electricity(mana) than it needs
+
 
 ---
 

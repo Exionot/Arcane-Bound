@@ -55,20 +55,21 @@ Endurance distances are the longest distance for non-classic races, the shortest
 # **Stakes List**
 ## Arcaena
 
-| Month |  Course   | Stake Name           | Grade | Track | Distance |
-| :---: | :-------: | :------------------- | :---: | :---: | :------: |
-|  01   | YUSHINAMI | [[New Years Stakes]] |  G3   | TURF  |  1600M   |
-|  01   | YUSHINAMI | [[Starter Stakes]]   | DEBUT | TURF  |  1600M   |
-|  01   | RHILEKOS  | [[Flora Cup]]        |  G1   | TURF  |  3000M   |
-|  03   |  LITHOS   | [[Builder's Stakes]] |  G3   | DIRT  |  1600M   |
-|  04   | YUSHINAMI | [[Spring Stakes]]    |       | TURF  |  1600M   |
-|  05   | YUSHINAMI | [[Summer Mile Cup]]  |  G2   | TURF  |  1600M   |
-|  06   |  FONTUR   | [[Ocean Sprint]]     |  G2   | TURF  |  1400M   |
-|  07   | YUSHINAMI | [[Thunder Stakes]]   |  G3   | TURF  |  2000M   |
-|  09   | BAUSERST  | [[Fall Stakes]]      |  G3   | TURF  |  1600M   |
-|  12   | RHILEKOS  | [[Challenger's Cup]] |  G1   | TURF  |  3000M   |
-|  12   | YUSHINAMI | [[Winter Star Cup]]  |  G2   | TURF  |  2200M   |
-|  12   | RHILEKOS  | [[Year End Cup]]     |  G1   | TURF  |  2600M   |
+| Month |  Course   | Stake Name             | Grade | Track | Distance |
+| :---: | :-------: | :--------------------- | :---: | :---: | :------: |
+|  01   | YUSHINAMI | [[New Years Stakes]]   |  G3   | TURF  |  1600M   |
+|  01   | YUSHINAMI | [[Starter Stakes]]     | DEBUT | TURF  |  1600M   |
+|  01   | RHILEKOS  | [[Flora Cup]]          |  G1   | TURF  |  3000M   |
+|  03   |  LITHOS   | [[Builder's Stakes]]   |  G3   | DIRT  |  1600M   |
+|  04   | YUSHINAMI | [[Spring Stakes]]      |       | TURF  |  1600M   |
+|  05   | YUSHINAMI | [[Summer Mile Cup]]    |  G2   | TURF  |  1600M   |
+|  05   |  LITHOS   | [[Summer Dirt Sprint]] |  G2   | DIRT  |  1200M   |
+|  06   |  FONTUR   | [[Ocean Sprint]]       |  G2   | TURF  |  1400M   |
+|  07   | YUSHINAMI | [[Thunder Stakes]]     |  G3   | TURF  |  2000M   |
+|  09   | BAUSERST  | [[Fall Stakes]]        |  G3   | TURF  |  1600M   |
+|  12   | RHILEKOS  | [[Challenger's Cup]]   |  G1   | TURF  |  3000M   |
+|  12   | YUSHINAMI | [[Winter Star Cup]]    |  G2   | TURF  |  2200M   |
+|  12   | RHILEKOS  | [[Year End Cup]]       |  G1   | TURF  |  2600M   |
 
 
 # **Historical Context**
