@@ -54,11 +54,24 @@ if (relations != null){
 ## Background 
 **`= this.file.name`** is a [[Virken]] from [[Yushinami City]] of [[Erde Kingdom]]. She is a retired [[Stakes Running|Stakes Runner]] who now travels the lands of [[Arcaena]] with the [[Wandering Traders of Arcaena]].
 
-**`= this.file.name`** was a [[Stakes Running|Standard Stakes Runner]] where she ran race courses without magical intervention. She was seen as a "Virken who can define her era" due to her performance during her early career winning 5 consecutive races after her debut.
+Her parents are Immovable (Father) and Thunderstorm (Mother).
+
+**`= this.file.name`** was a [[Stakes Running|Standard Stakes Runner]] where she ran race courses without magical intervention. Her debut race was the [[Starter Stakes]] where she managed to win against [[Unknown Grace]] by pulling off a last second lead. She was seen as a "Virken who can define her era" due to her performance during her early career winning 5 consecutive races after her debut.
 
 However, her career was cut short when she suffered a major leg injury before her first G1 race. The injury was said to take an extended period of time which led to her decision to retire early and later join the [[Wandering Traders of Arcaena]] thanks to [[Ion Kynne|Ion]]'s invitation.
 
 She accepted [[Ion Kynne|Ion]]'s invitation as a way to keeping moving and as a chance to explore [[Arcaena]].
+
+
+## Stakes Record
+|  Date   |   Couse   | Stake (Grade)              | Place | Ground | Length | 1st Place / Runner Up |
+| :-----: | :-------: | -------------------------- | :---: | :----: | :----: | --------------------- |
+| 05-2402 | YUSHINAMI | [[Summer Mile Cup]] (G2)   |  1st  |  TURF  | 1600M  |                       |
+| 01-2402 | YUSHINAMI | [[New Year Stakes]] (G3)   |  1st  |  TURF  | 1600M  |                       |
+| 12-2401 | YUSHINAMI | [[Winter Star Cup]] (G2)   |  1st  |  TURF  | 2200M  |                       |
+| 07-2401 | YUSHINAMI | [[Thunder Stakes]] (G3)    |  1st  |  TURF  | 2000M  |                       |
+| 04-2401 | YUSHINAMI | [[Spring Stakes]]          |  1st  |  TURF  | 1600M  |                       |
+| 01-2401 | YUSHINAMI | [[Starter Stakes]] (Debut) |  1st  |  TURF  | 1600M  | [[Unknown Grace]]     |
 
 # **Appearance**  
 ## General Appearance 
@@ -81,6 +94,8 @@ TABLE itemType as "Type" WHERE contains(this.itemUsed, file.name)
 # **Relations**
 ## Ion Kynne
 > **Full Note:** [[Ion Kynne]]
+
+She has been a fan of **Still Thunder** even since her debut at the [[Starter Stakes]]. 
 
 She always tries to put back **Still Thunder** on the track, often asking her to join non-rated races, but **Still Thunder** always lightly declines, insisting on watching rather than competing.
 
