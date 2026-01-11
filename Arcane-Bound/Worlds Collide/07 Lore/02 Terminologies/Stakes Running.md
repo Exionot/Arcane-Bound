@@ -71,6 +71,8 @@ Endurance distances are the longest distance for non-classic races, the shortest
 |  12   | YUSHINAMI | [[Winter Star Cup]]    |  G2   | TURF  |  2200M   |
 |  12   | RHILEKOS  | [[Year End Cup]]       |  G1   | TURF  |  2600M   |
 
+## Synthspire
+[[Future Stakes]]
 
 # **Historical Context**
 
