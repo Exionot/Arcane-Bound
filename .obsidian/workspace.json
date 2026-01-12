@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arcane-Bound/Worlds Collide/03 Locations/03 Nations/Republic of Chloros.md",
+                "file": "Arcane-Bound/Worlds Collide/03 Locations/03 Nations/Erde Kingdom.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Republic of Chloros"
+              "title": "Erde Kingdom"
             }
           },
           {
@@ -134,7 +134,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Arcane-Bound/Worlds Collide/03 Locations/03 Nations/Republic of Chloros.md",
+                "file": "Arcane-Bound/Worlds Collide/03 Locations/03 Nations/Erde Kingdom.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -162,7 +162,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Republic of Chloros"
+              "title": "Graph of Erde Kingdom"
             }
           }
         ]
@@ -280,32 +280,32 @@
   },
   "active": "de96587ddb80e834",
   "lastOpenFiles": [
+    "Arcane-Bound/Worlds Collide/03 Locations/03 Nations/Ignia Kingdom.md",
+    "Arcane-Bound/Worlds Collide/03 Locations/03 Nations/Erde Kingdom.md",
+    "Arcane-Bound/Worlds Collide/04 Systems/01 Magic/Elemental Magic.md",
+    "Arcane-Bound/Worlds Collide/01 Characters/Still Thunder.md",
+    "Arcane-Bound/Worlds Collide/03 Locations/03 Nations/Republic of Chloros.md",
+    "Arcane-Bound/Worlds Collide/02 Factions/Blackreign Gang.md",
+    "Arcane-Bound/Worlds Collide/01 Characters/Mhaxxine Dark.md",
+    "Arcane-Bound/Worlds Collide/01 Characters/Krystalle Eos.md",
+    "Arcane-Bound/Worlds Collide/03 Locations/05c Villages/Lenben Village.md",
+    "Arcane-Bound/Worlds Collide/04 Systems/01 Magic/Synthspire Units.md",
+    "Arcane-Bound/Worlds Collide/04 Systems/01 Magic/Numia Coins.md",
+    "Arcane-Bound/Worlds Collide/07 Lore/02 Terminologies/Stakes Running.md",
     "Arcane-Bound/Worlds Collide/06 Items - Equipments/Vixen's Claws.md",
     "Arcane-Bound/Worlds Collide/04 Systems/02 Technology/Solid-Light Energy.md",
     "Arcane-Bound/Worlds Collide/99 Extras/Meta/AB - Unresolved Notes.md",
-    "Arcane-Bound/Worlds Collide/01 Characters/Still Thunder.md",
     "Arcane-Bound/Worlds Collide/01 Characters/Mint Evergreen.md",
-    "Arcane-Bound/Worlds Collide/07 Lore/02 Terminologies/Stakes Running.md",
     "Arcane-Bound/Worlds Collide/05 Skills - Abilities/Transient Bolt.md",
     "Arcane-Bound/Worlds Collide/04 Systems/01 Magic/Mana.md",
     "Arcane-Bound/Worlds Collide/04 Systems/01 Magic/Arcaenian Magic.md",
     "Arcane-Bound/Worlds Collide/06 Items - Equipments/Mint's Staff.md",
     "Arcane-Bound/Worlds Collide/06 Items - Equipments/Surgespark.md",
     "Arcane-Bound/Worlds Collide/06 Items - Equipments/Arcaenian Band.md",
-    "Arcane-Bound/Worlds Collide/04 Systems/01 Magic/Elemental Magic.md",
     "Arcane-Bound/Worlds Collide/01 Characters/Ted Ursa.md",
     "Arcane-Bound/Worlds Collide/00 Ideas/Equus Virken Names.md",
     "Arcane-Bound/Worlds Collide/03 Locations/03 Nations/Verdthorne Kingdom.md",
-    "Arcane-Bound/Worlds Collide/03 Locations/03 Nations/Ignia Kingdom.md",
     "Arcane-Bound/Worlds Collide/03 Locations/03 Nations/HyperCorp Republic.md",
-    "Arcane-Bound/Worlds Collide/03 Locations/03 Nations/Frostalies Kingdom.md",
-    "Arcane-Bound/Worlds Collide/03 Locations/03 Nations/Erde Kingdom.md",
-    "Arcane-Bound/Worlds Collide/03 Locations/03 Nations/Aquarin Kingdom.md",
-    "Arcane-Bound/Worlds Collide/03 Locations/03 Nations/Amphors Kingdom.md",
-    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/00 Extra Story/EX - Clever Getaway.md",
-    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen/Narrative - Bear-on collision.md",
-    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Victoria Veloux Canidel/Narrative - Feline encounter.md",
-    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen/Narrative - Devil's intent.md",
     "Untitled.base",
     "ᐳExternal Assets/Mint_Synthspire_Glasses.png",
     "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Ion Kynne",
