@@ -4,48 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "83c54c9a96b38078",
+        "id": "fc51b3f980b1d8e4",
         "type": "tabs",
         "children": [
           {
-            "id": "de96587ddb80e834",
+            "id": "b8980fd62c8882c0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Arcane-Bound/Worlds Collide/03 Locations/03 Nations/Erde Kingdom.md",
-                "mode": "source",
-                "source": true
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Erde Kingdom"
-            }
-          },
-          {
-            "id": "b069aa659765d654",
-            "type": "leaf",
-            "state": {
-              "type": "CALENDARIUM",
-              "state": {
-                "calendar": "ID_b91b2a08b98a",
-                "ephemeral": {
-                  "viewState": 1,
-                  "displaying": {
-                    "day": 18,
-                    "month": 6,
-                    "year": 2405
-                  },
-                  "displayDayNumber": true,
-                  "displaySeasonColors": true,
-                  "interpolateColors": false,
-                  "displayMoons": true,
-                  "displayWeather": true,
-                  "location": ""
-                },
-                "id": "ID_28b9a95bcb89"
-              },
-              "icon": "CALENDARIUM",
-              "title": "Calendarium"
+              "title": "New tab"
             }
           }
         ]
@@ -100,6 +69,16 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
+          },
+          {
+            "id": "63e15c73b48a197e",
+            "type": "leaf",
+            "state": {
+              "type": "VIEW_TYPE_LONGFORM_EXPLORER",
+              "state": {},
+              "icon": "longform",
+              "title": "Longform"
+            }
           }
         ]
       }
@@ -134,7 +113,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Arcane-Bound/Worlds Collide/03 Locations/03 Nations/Erde Kingdom.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -162,7 +140,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Erde Kingdom"
+              "title": "Graph view"
             }
           }
         ]
@@ -278,10 +256,18 @@
       "bases:Create new base": false
     }
   },
-  "active": "de96587ddb80e834",
+  "active": "c8453e486634a8ae",
   "lastOpenFiles": [
-    "Arcane-Bound/Worlds Collide/03 Locations/03 Nations/Ignia Kingdom.md",
+    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Test/Index.md",
+    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Test/Scene.md",
+    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen/Narrative - Missing Merchant.md",
+    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Test/Scene Again.md",
+    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Test/Test Manuscript.md",
+    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Test/Thread.md",
+    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Test/Another Scene.md",
     "Arcane-Bound/Worlds Collide/03 Locations/03 Nations/Erde Kingdom.md",
+    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Test",
+    "Arcane-Bound/Worlds Collide/03 Locations/03 Nations/Ignia Kingdom.md",
     "Arcane-Bound/Worlds Collide/04 Systems/01 Magic/Elemental Magic.md",
     "Arcane-Bound/Worlds Collide/01 Characters/Still Thunder.md",
     "Arcane-Bound/Worlds Collide/03 Locations/03 Nations/Republic of Chloros.md",
@@ -299,13 +285,6 @@
     "Arcane-Bound/Worlds Collide/05 Skills - Abilities/Transient Bolt.md",
     "Arcane-Bound/Worlds Collide/04 Systems/01 Magic/Mana.md",
     "Arcane-Bound/Worlds Collide/04 Systems/01 Magic/Arcaenian Magic.md",
-    "Arcane-Bound/Worlds Collide/06 Items - Equipments/Mint's Staff.md",
-    "Arcane-Bound/Worlds Collide/06 Items - Equipments/Surgespark.md",
-    "Arcane-Bound/Worlds Collide/06 Items - Equipments/Arcaenian Band.md",
-    "Arcane-Bound/Worlds Collide/01 Characters/Ted Ursa.md",
-    "Arcane-Bound/Worlds Collide/00 Ideas/Equus Virken Names.md",
-    "Arcane-Bound/Worlds Collide/03 Locations/03 Nations/Verdthorne Kingdom.md",
-    "Arcane-Bound/Worlds Collide/03 Locations/03 Nations/HyperCorp Republic.md",
     "Untitled.base",
     "ᐳExternal Assets/Mint_Synthspire_Glasses.png",
     "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Ion Kynne",
@@ -317,7 +296,6 @@
     "ArcBound",
     "Arcane-Bound.zip",
     "Arcane-Bound/Worlds Collide/99 Extras/Meta/AB - Storyline.canvas",
-    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen",
     "Arcane-Bound/Archives/Staying MInty Final.png",
     "Arcane-Bound/Archives/Arcane Origins Final.png",
     "Arcane-Bound/Archives/Devil's Charm Final.png",
