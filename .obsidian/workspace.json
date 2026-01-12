@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "fc51b3f980b1d8e4",
+        "id": "60130225333dd662",
         "type": "tabs",
         "children": [
           {
-            "id": "b8980fd62c8882c0",
+            "id": "091d329ea6337da1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Homepage.md",
+                "mode": "preview",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Homepage"
             }
           }
         ]
@@ -71,7 +75,7 @@
             }
           },
           {
-            "id": "63e15c73b48a197e",
+            "id": "b4d994bdc3e50955",
             "type": "leaf",
             "state": {
               "type": "VIEW_TYPE_LONGFORM_EXPLORER",
@@ -113,6 +117,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen Narratives/Index.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -140,7 +145,22 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of Index"
+            }
+          },
+          {
+            "id": "c7c7766756112840",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           }
         ]
@@ -252,15 +272,32 @@
       "homepage:Open homepage": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "obsidian-git:Open Git source control": false,
-      "calendarium:Open Calendarium": false,
-      "bases:Create new base": false
+      "calendarium:Open Calendarium": false
     }
   },
-  "active": "c8453e486634a8ae",
+  "active": "091d329ea6337da1",
   "lastOpenFiles": [
+    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Untitled/Narrative - An encounter with the devil.md",
+    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen Narratives/Index.md",
+    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen Narratives/An encounter with the devil.md",
+    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen Narratives/The convergence... again.md",
+    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Untitled/Narrative - The convergence... again.md",
+    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen Narratives/Confrontation.md",
+    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Untitled/Narrative - Confrontation.md",
+    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen Narratives/Her House.md",
+    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Untitled/Narrative - Her house.md",
+    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen Narratives/A fellow Feline.md",
+    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Untitled/Narrative - A fellow feline.md",
+    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen Narratives/The Convergence (Mint Evergreen).md",
+    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Untitled/Narrative - The Convergence (Mint Evergreen).md",
+    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen Narratives/Missing Merchant.md",
+    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen Narratives/Mint Evergreen Narratives Manuscript.md",
+    "Arcane-Bound/Worlds Collide/01 Characters/Mint Evergreen.md",
+    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Untitled/Narrative - Missing Merchant.md",
+    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen Narratives",
+    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Untitled",
     "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Test/Index.md",
     "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Test/Scene.md",
-    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen/Narrative - Missing Merchant.md",
     "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Test/Scene Again.md",
     "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Test/Test Manuscript.md",
     "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Test/Thread.md",
@@ -269,22 +306,6 @@
     "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Test",
     "Arcane-Bound/Worlds Collide/03 Locations/03 Nations/Ignia Kingdom.md",
     "Arcane-Bound/Worlds Collide/04 Systems/01 Magic/Elemental Magic.md",
-    "Arcane-Bound/Worlds Collide/01 Characters/Still Thunder.md",
-    "Arcane-Bound/Worlds Collide/03 Locations/03 Nations/Republic of Chloros.md",
-    "Arcane-Bound/Worlds Collide/02 Factions/Blackreign Gang.md",
-    "Arcane-Bound/Worlds Collide/01 Characters/Mhaxxine Dark.md",
-    "Arcane-Bound/Worlds Collide/01 Characters/Krystalle Eos.md",
-    "Arcane-Bound/Worlds Collide/03 Locations/05c Villages/Lenben Village.md",
-    "Arcane-Bound/Worlds Collide/04 Systems/01 Magic/Synthspire Units.md",
-    "Arcane-Bound/Worlds Collide/04 Systems/01 Magic/Numia Coins.md",
-    "Arcane-Bound/Worlds Collide/07 Lore/02 Terminologies/Stakes Running.md",
-    "Arcane-Bound/Worlds Collide/06 Items - Equipments/Vixen's Claws.md",
-    "Arcane-Bound/Worlds Collide/04 Systems/02 Technology/Solid-Light Energy.md",
-    "Arcane-Bound/Worlds Collide/99 Extras/Meta/AB - Unresolved Notes.md",
-    "Arcane-Bound/Worlds Collide/01 Characters/Mint Evergreen.md",
-    "Arcane-Bound/Worlds Collide/05 Skills - Abilities/Transient Bolt.md",
-    "Arcane-Bound/Worlds Collide/04 Systems/01 Magic/Mana.md",
-    "Arcane-Bound/Worlds Collide/04 Systems/01 Magic/Arcaenian Magic.md",
     "Untitled.base",
     "ᐳExternal Assets/Mint_Synthspire_Glasses.png",
     "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Ion Kynne",
@@ -293,8 +314,6 @@
     "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Clair Tempest",
     "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Victoria Veloux Canidel",
     "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Aura Brillfer",
-    "ArcBound",
-    "Arcane-Bound.zip",
     "Arcane-Bound/Worlds Collide/99 Extras/Meta/AB - Storyline.canvas",
     "Arcane-Bound/Archives/Staying MInty Final.png",
     "Arcane-Bound/Archives/Arcane Origins Final.png",

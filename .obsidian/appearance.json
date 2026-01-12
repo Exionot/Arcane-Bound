@@ -11,5 +11,6 @@
   "theme": "obsidian",
   "baseFontSizeAction": true,
   "accentColor": "#6e3a9e",
-  "cssTheme": ""
+  "cssTheme": "",
+  "showRibbon": false
 }
