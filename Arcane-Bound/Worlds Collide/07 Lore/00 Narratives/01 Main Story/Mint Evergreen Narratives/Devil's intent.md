@@ -1,24 +1,12 @@
 ---
-type: narrative 
-time:
-  year: 2405
-  month: ""
-  date: ""
-  season: Early Winter
+type: narrative
 cssclasses:
   - narrative
 ---
 
-# **Basic Information**
-**Title**: Devil's intent
 **Character/s**: [[Mint Evergreen]], [[Clair Tempest]]
 **Location**: [[Vilebloom Forest]]
-**Time of Occurrence**: `= this.time.month` `= this.time.date`, `= this.time.year`, `= this.time.season`
-**Previous**: [[Narrative - An encounter with the devil]]
-**Next**: [[Narrative - Bear-on collision]]
-**Related:**
-
----
+**Time of Occurrence**: 2405, Early Winter
 
 *Mint finds herself in front of a fireplace of an old cabin. Silk-like threads bind her hands and feet.*
 
@@ -50,6 +38,3 @@ cssclasses:
 *Mint runs away from the cabin into the woods.*
 
 **Mint:** *What was that about? I need to go back to the village.*
-
----
-

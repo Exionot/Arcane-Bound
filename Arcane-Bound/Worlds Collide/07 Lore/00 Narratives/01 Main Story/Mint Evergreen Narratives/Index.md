@@ -12,6 +12,8 @@ longform:
     - Confrontation
     - The convergence... again
     - An encounter with the devil
+    - Devil's intent
+    - Bear-on collision
   ignoredFiles:
     - Mint Evergreen Narratives Manuscript
 ---

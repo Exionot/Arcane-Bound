@@ -1,24 +1,12 @@
 ---
-type: narrative 
-time:
-  year: 2405
-  month: ""
-  date: ""
-  season: Early Winter
+type: narrative
 cssclasses:
   - narrative
 ---
 
-# **Basic Information**
-**Title**: Bear-on collision
 **Character/s**: [[Mint Evergreen]], [[Ted Ursa]], [[Victoria Veloux Canidel]]
 **Location**: [[Vilebloom Forest]], Outside of [[Lenben Village]]
-**Time of Occurrence**: `= this.time.month` `= this.time.date`, `= this.time.year`, `= this.time.season`
-**Previous**: [[Narrative - Devil's intent]]
-**Next**: 
-**Related:** [[Narrative - Feline encounter]]
-
----
+**Time of Occurrence**: 2405, Early Winter
 
 *Mint is walking through the woods of Vilebloom Forest. She continues to walk, looking for a path she can follow, and then she saw it.*
 
@@ -61,6 +49,3 @@ cssclasses:
 **Mint:** I'll try to catch up with you after I check the village.
 
 *Mint and Ted wave they goodbyes as they split up their paths.*
-
----
-
