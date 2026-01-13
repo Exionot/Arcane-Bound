@@ -23,7 +23,7 @@ cssclasses:
 
 *Mint steps back and before she could summon her weapon, Aura commands her bodyguards to lower their weapons.*
 
-*Mint focuses and checks aura for any traces of mana, but to no avail, there's nothing.*
+*Mint focuses and checks Aura for any traces of mana, but to no avail, there's nothing.*
 
 **Aura:** Are you in need of any assistance?
 

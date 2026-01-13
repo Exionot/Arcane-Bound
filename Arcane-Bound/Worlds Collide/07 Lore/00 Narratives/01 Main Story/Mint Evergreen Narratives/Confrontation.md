@@ -44,7 +44,7 @@ cssclasses:
 
 **Mint:** *Thundra magic? How is she doing that, I don't sense any mana from her.*
 
-*Mint swiftly casts a gust of wind towards Aura. It pushes Aura back a few steps.*
+*Mint swiftly casts a gust of wind towards Aura. It pushes Aura back a few steps. Mint casts a magnetizing spell, Aura's wrist weapon flings out of her hand, disarming her.*
 
 **Aura:** Where did you get this tech?
 
@@ -56,22 +56,22 @@ cssclasses:
 
 *Mint looks at Aura, she notices a scratch on her cheek.*
 
-**Mint:** *Her cheek got scratched... *
+**Mint:** *Her cheek got scratched... I got a little too careless.*
 
-**Mint:** Let me show you.
+*Mint conceals her staff, it disappears into thin air.*
 
-*Mint approaches Aura and conceals her staff.*
+**Mint:** You have a scratch on your cheek, let me treat it.
+
+*Mint slowly walks towards Aura. She places her palm on Aura's cheek*
 
 *Aura repels away from Mint's hand.*
 
-**Mint:** Stay still.
+**Mint:** You're unarmed, there's no point in resisting, stay still.
 
-*Mint places her hand on Aura's wounded cheek.* 
-
-*Mint casts a healing spell, a bright green light emits from Mint's hand, healing the scratch on Aura's face.*
-
-*Mint grabs the mirror on the counter, showing Aura her face. The scratch has healed.*
+*Mint casts a healing spell, a bright green light emits from Mint's hand, the scratch on Aura slowly fades away as it heals. Mint grabs the mirror on the counter, showing Aura her face. The scratch has disappeared as if it was never there.*
 
 **Mint:** Do you believe me now?
+
 **Aura:** H-how is this possible... Who are you?
+
 **Mint:** Just call me Mint, Mint Evergreen.

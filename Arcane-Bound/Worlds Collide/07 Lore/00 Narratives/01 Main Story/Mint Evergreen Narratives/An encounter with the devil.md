@@ -16,7 +16,7 @@ cssclasses:
 
 **Clair:** You have quite the instinct, I didn't expect you to see me.
 
-*The person she sees before her is a devil with cyan hair. Mint realizes who she is up against.*
+*The person she sees before her is a woman with devil horns and cyan hair. Mint recognizes her and realizes who she is up against.*
 
 **Mint:** You... You're the devil of the forest!
 
@@ -24,10 +24,12 @@ cssclasses:
 
 **Clair:** No need to be scared, I'm not going to hurt you. I'm more curious about your outfit.
 
-*Mint looks at her clothes, it's not her usual outfit.*
+*Mint looks down at her clothes, it's the clothes that Aura handed her.*
 
 **Mint:** *This is what Aura gave me... so it wasn't a dream...*
 
-*Mint raises her head, the devil is nowhere to be seen. In an instant, something pulls on her staff, disarming her. The devil comes out from behind Mint and binds her with silk-like threads.*
+*Mint raises her head, the devil is nowhere to be seen. In an instant, something pulls on her staff, disarming her. The devil comes out from behind Mint and binds her with silk-like threads. Mint is unable to move, the devil leans towards her ears.*
 
 **Clair:** Let's talk somewhere more cozy.
+
+*Mint's eye began to feel heavy, her vision slowly fades to black.*
