@@ -13,15 +13,72 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arcane-Bound/Worlds Collide/02 Factions/Wandering Traders of Arcaena.md",
+                "file": "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Aura Brillfer/Narrative - My house.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Narrative - My house"
+            }
+          },
+          {
+            "id": "b9d6dd40c17b0309",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen Narratives/Confrontation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Confrontation"
+            }
+          },
+          {
+            "id": "f725e6b4e0634be5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Victoria Veloux Canidel Narratives/Victoria Veloux Canidel Narratives Manuscript.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Victoria Veloux Canidel Narratives Manuscript"
+            }
+          },
+          {
+            "id": "9fd277e391f9f194",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen Narratives/Mint Evergreen Narratives Manuscript.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mint Evergreen Narratives Manuscript"
+            }
+          },
+          {
+            "id": "878c57cade469e1f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Aura Brillfer Narratives/Aura Brillfer Narratives Manuscript.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Wandering Traders of Arcaena"
+              "title": "Aura Brillfer Narratives Manuscript"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -84,7 +141,8 @@
               "title": "Longform"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -275,34 +333,35 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "568dd1b2beaed899",
+  "active": "b9d6dd40c17b0309",
   "lastOpenFiles": [
-    "Homepage.md",
-    "Arcane-Bound/Worlds Collide/01 Characters/Mint Evergreen.md",
-    "Arcane-Bound/Worlds Collide/02 Factions/Wandering Traders of Arcaena.md",
-    "Arcane-Bound/Worlds Collide/00 Ideas/Equus Virken Names.md",
-    "Arcane-Bound/Worlds Collide/00 Ideas/How two worlds merge.md",
-    "Arcane-Bound/Worlds Collide/00 Ideas/How would synthspire use magic.md",
-    "Arcane-Bound/Worlds Collide/00 Ideas/Idea Character.md",
-    "Arcane-Bound/Worlds Collide/00 Ideas/Mage-Tech Fusion.md",
-    "Arcane-Bound/Worlds Collide/00 Ideas/Prioritization of introductions.md",
-    "Arcane-Bound/Worlds Collide/00 Ideas/These paths should cross more than once.md",
-    "Arcane-Bound/Worlds Collide/00 Ideas/Unanswered questions.md",
-    "Arcane-Bound/Worlds Collide/00 Ideas/Villains of the story.md",
-    "Arcane-Bound/Worlds Collide/00 Ideas/Bloodbath type scenario.md",
-    "Arcane-Bound/Worlds Collide/00 Ideas/A sweet moment for two.md",
-    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen Narratives/Mint Evergreen Narratives Manuscript.md",
+    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen Narratives/Her house.md",
     "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen Narratives/A fellow Feline.md",
-    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen Narratives/The convergence (Mint Evergreen).md",
     "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen Narratives/Missing merchant.md",
-    "Arcane-Bound/Worlds Collide/01 Characters/Ted Ursa.md",
+    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen Narratives/The convergence (Mint Evergreen).md",
+    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Aura Brillfer Narratives/An order you can't fight.md",
+    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Victoria Veloux Canidel Narratives/Feline encounter.md",
+    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen Narratives/Mint Evergreen Narratives Manuscript.md",
+    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Aura Brillfer Narratives/Aura Brillfer Narratives Manuscript.md",
+    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Victoria Veloux Canidel Narratives/Victoria Veloux Canidel Narratives Manuscript.md",
+    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen Narratives/Bear-on collision.md",
+    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen Narratives/Confrontation.md",
+    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Aura Brillfer Narratives/My house.md",
+    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Aura Brillfer/Narrative - My house.md",
+    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Aura Brillfer Narratives/Defying orders.md",
+    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Aura Brillfer/Narrative - Defying orders.md",
+    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Aura Brillfer/Narrative - An order you can't fight.md",
+    "Narrative - A fellow feline.md",
+    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Aura Brillfer Narratives/Index.md",
+    "Arcane-Bound/Worlds Collide/02 Factions/Void Operation & Investigation Department.md",
+    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Aura Brillfer Narratives",
+    "Arcane-Bound/Worlds Collide/02 Factions/Void Special Operation Division 9.md",
+    "Arcane-Bound/Worlds Collide/02 Factions/Wandering Traders of Arcaena.md",
     "Arcane-Bound/Worlds Collide/02 Factions/Starveil Retrieval Co..md",
-    "Arcane-Bound/Worlds Collide/07 Lore/02 Terminologies/Stakes Running.md",
-    "Arcane-Bound/Worlds Collide/01 Characters/Victoria Veloux Canidel.md",
-    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Victoria Veloux Canidel Narratives/Fashion like a noble.md",
-    "Arcane-Bound/Worlds Collide/01 Characters/Underworldian - Clair.md",
-    "Arcane-Bound/Worlds Collide/01 Characters/Still Thunder.md",
-    "Arcane-Bound/Worlds Collide/01 Characters/Rem Orion.md",
+    "Arcane-Bound/Worlds Collide/02 Factions/Sons of The Crimson Flame.md",
+    "Arcane-Bound/Worlds Collide/02 Factions/Protection Of Local Livelihood.md",
+    "Arcane-Bound/Worlds Collide/02 Factions/Guild of Arcane Healers.md",
+    "Arcane-Bound/Worlds Collide/02 Factions/Harnessing Yottawatt Power & Energy Research Corporation.md",
     "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Victoria Veloux Canidel Narratives",
     "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen Narratives",
     "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen",
@@ -313,7 +372,6 @@
     "Arcane-Bound/Worlds Collide/07 Lore/03 Species",
     "Arcane-Bound/Worlds Collide/07 Lore/02 Terminologies",
     "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Clair Tempest",
-    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Victoria Veloux Canidel",
     "Arcane-Bound/Worlds Collide/99 Extras/Meta/AB - Storyline.canvas",
     "Arcane-Bound/Archives/Staying MInty Final.png",
     "Arcane-Bound/Archives/Arcane Origins Final.png",

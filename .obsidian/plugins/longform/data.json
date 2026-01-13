@@ -7,7 +7,7 @@
   "sessions": [
     {
       "start": "2026-01-12T15:29:55.612Z",
-      "total": 5516,
+      "total": 6285,
       "drafts": {
         "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Test/Index.md": {
           "total": 10,
@@ -19,28 +19,36 @@
           }
         },
         "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen Narratives/Index.md": {
-          "total": 2948,
+          "total": 2966,
           "scenes": {
             "Missing merchant": 368,
             "The convergence (Mint Evergreen)": 189,
-            "A fellow Feline": 267,
-            "Her house": 256,
-            "Confrontation": 455,
+            "A fellow Feline": 270,
+            "Her house": 259,
+            "Confrontation": 464,
             "The convergence... again": 493,
             "An encounter with the devil": 198,
             "Devil's intent": 256,
-            "Bear-on collision": 466
+            "Bear-on collision": 469
           }
         },
         "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Victoria Veloux Canidel Narratives/Index.md": {
-          "total": 2568,
+          "total": 2571,
           "scenes": {
             "The convergence (Victoria Veloux Canidel)": 203,
             "Guide to an unknown world": 377,
             "Fashion like a noble": 310,
             "Point of return": 489,
-            "Feline encounter": 492,
+            "Feline encounter": 495,
             "Challenge of acceptance": 697
+          }
+        },
+        "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Aura Brillfer Narratives/Index.md": {
+          "total": 748,
+          "scenes": {
+            "An order you can't fight": 221,
+            "Defying orders": 270,
+            "My house": 257
           }
         }
       }
@@ -85,7 +93,7 @@
         {
           "id": "concatenate-text",
           "optionValues": {
-            "separator": "\\n\\n---\\n\\n"
+            "separator": "\\n\\n---\\n\\n---\\n\\n"
           }
         },
         {

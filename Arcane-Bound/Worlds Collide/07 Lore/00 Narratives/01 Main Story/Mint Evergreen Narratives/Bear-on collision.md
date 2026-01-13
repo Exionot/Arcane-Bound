@@ -7,6 +7,7 @@ cssclasses:
 **Character/s**: [[Mint Evergreen]], [[Ted Ursa]], [[Victoria Veloux Canidel]]
 **Location**: [[Vilebloom Forest]], Outside of [[Lenben Village]]
 **Time of Occurrence**: 2405, Early Winter
+**Related**: [[Feline encounter]]
 
 *Mint is walking through the woods of Vilebloom Forest. She continues to walk, looking for a path she can follow, and then she saw it.*
 

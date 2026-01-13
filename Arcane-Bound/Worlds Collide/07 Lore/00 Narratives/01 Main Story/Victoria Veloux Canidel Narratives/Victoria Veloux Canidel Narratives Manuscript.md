@@ -29,6 +29,8 @@
 
 ---
 
+---
+
 # Guide to an unknown world
 
 
@@ -74,6 +76,8 @@
 
 ---
 
+---
+
 # Fashion like a noble
 
 
@@ -105,6 +109,8 @@
 **Vi:** I appreciate the compliment.
 **Ted:** Well now, no need to go all out on speed, just stay near me and we'll get to Amphors Kingdom in not time.
 
+
+---
 
 ---
 
@@ -161,6 +167,8 @@
 
 ---
 
+---
+
 # Feline encounter
 
 
@@ -172,6 +180,7 @@
 
 **Location**: Outside of Lenben Village
 **Time of Occurrence**: 2405, Early Winter
+**Related**: Bear-on collision
 
 *Vi and Ted are in the seamstress' shop. Vi is trying out her new clothes.*
 
@@ -215,6 +224,8 @@
 
 *Mint and Ted waves their goodbyes as Vi and Ted continue their journey towards Rhilekos City.*
 
+
+---
 
 ---
 

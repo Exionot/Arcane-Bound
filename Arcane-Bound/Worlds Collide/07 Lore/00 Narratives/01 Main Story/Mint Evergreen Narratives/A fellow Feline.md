@@ -7,6 +7,7 @@ cssclasses:
 **Character/s**: [[Mint Evergreen]], [[Aura Brillfer]]
 **Location**:  [[Amphere Square]]
 **Time of Occurrence**: 2405, Early Winter
+**Related**: [[Defying orders]]
 
 *Mint finds herself in what it seems like the center of a bustling city, the area is loud, people walk by at every moment, their outfits are more diverse, almost casual yet different to arcaenian outfits.*
 
@@ -33,8 +34,11 @@ cssclasses:
 *Mint returns back to her senses.*
 
 **Mint:** Ah! Yes, it seems like I got suddenly transported here. 
+
 **Mint:** Where are we right now?
+
 **Aura:** This is Amphere Square of Fluxpoint City.
+
 **Mint:** I didn't know Arcaena had such developed cities like this.
 
 *Aura commands her bodyguards to return to base. The bodyguards walk away, leaving Aura with Mint.*

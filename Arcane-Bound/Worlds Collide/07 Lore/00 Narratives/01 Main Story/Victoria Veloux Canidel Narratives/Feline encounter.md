@@ -11,6 +11,7 @@ cssclasses:
 
 **Location**: Outside of [[Lenben Village]]
 **Time of Occurrence**: 2405, Early Winter
+**Related**: [[Bear-on collision]]
 
 *Vi and Ted are in the seamstress' shop. Vi is trying out her new clothes.*
 
