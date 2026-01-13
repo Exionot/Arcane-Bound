@@ -11,17 +11,13 @@ status: Active
 # **Basic Information**
 **Name**: `= this.file.name`
 **Location**: [[Arcaena]]
-**Founder/s**:
-**Holder of Power**:
-**Affiliation/s**:
 **Nickname/s**: Wanderers 
 **Status**: `INPUT[factionStatus][]`
 
-
 # **Overview**
-The **Wandering Traders of Arcaena** is a guild of various traders across the [[Arcaena|continent of Arcaena]]. They travel in small groups across different kingdoms and cities. They buy, sell, and barter for rare artifacts 
+The **Wandering Traders of Arcaena** is a guild of various traders across the [[Arcaena|continent of Arcaena]]. They travel in small groups across different kingdoms and cities. They buy, sell, and barter for rare artifacts but their main source of [[Numia Coins|income]] comes from selling items found in other kingdoms with a slightly increased price. 
 
-The **Wandering Traders of Arcaena** is a traders guild that travels throughout the [[Arcaena|Continent of Arcaena]]. They go through major cities of every nation in the continent, bringing rare and exclusive items from different kingdoms in exchange for [[Numia Coins]].
+The guild does not have a formal organizational hierarchy but rather, any person or group willing to travel the lands and sell precious artifacts is considered to be a wanderer. 
 
 # **Members**
 ```dataviewjs
@@ -46,18 +42,6 @@ dv.paragraph(output);
 dv.paragraph(`ㅤ`);
 };
 ```
-
-# **Contracts**
-```dataview
-TABLE status as "Status" WHERE type = "contract" AND contains(faction, this.file.name)
-```
-
-# **Mission Reports**
-```dataview
-TABLE status as "Status" WHERE type = "mission" AND contains(faction, this.file.name)
-```
-
-# **Affiliation/s**
 
 # **History**
 
