@@ -13,9 +13,23 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arcane-Bound/Worlds Collide/02 Factions/Wandering Traders of Arcaena.md",
+                "file": "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen Narratives/A fellow Feline.md",
                 "mode": "source",
                 "source": true
+              },
+              "icon": "lucide-file",
+              "title": "A fellow Feline"
+            }
+          },
+          {
+            "id": "0cea309071236e03",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Arcane-Bound/Worlds Collide/02 Factions/Wandering Traders of Arcaena.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
               "title": "Wandering Traders of Arcaena"
@@ -35,7 +49,8 @@
               "title": "Mint Evergreen"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -274,10 +289,25 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "0c40402cfad06a2f",
+  "active": "0cea309071236e03",
   "lastOpenFiles": [
-    "Arcane-Bound/Worlds Collide/01 Characters/Ted Ursa.md",
+    "Arcane-Bound/Worlds Collide/00 Ideas/Equus Virken Names.md",
+    "Arcane-Bound/Worlds Collide/00 Ideas/How two worlds merge.md",
+    "Arcane-Bound/Worlds Collide/00 Ideas/How would synthspire use magic.md",
+    "Arcane-Bound/Worlds Collide/00 Ideas/Idea Character.md",
+    "Arcane-Bound/Worlds Collide/00 Ideas/Mage-Tech Fusion.md",
+    "Arcane-Bound/Worlds Collide/00 Ideas/Prioritization of introductions.md",
+    "Arcane-Bound/Worlds Collide/00 Ideas/These paths should cross more than once.md",
+    "Arcane-Bound/Worlds Collide/00 Ideas/Unanswered questions.md",
+    "Arcane-Bound/Worlds Collide/00 Ideas/Villains of the story.md",
+    "Arcane-Bound/Worlds Collide/00 Ideas/Bloodbath type scenario.md",
+    "Arcane-Bound/Worlds Collide/00 Ideas/A sweet moment for two.md",
+    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen Narratives/Mint Evergreen Narratives Manuscript.md",
+    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen Narratives/A fellow Feline.md",
+    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen Narratives/The convergence (Mint Evergreen).md",
+    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen Narratives/Missing merchant.md",
     "Arcane-Bound/Worlds Collide/02 Factions/Wandering Traders of Arcaena.md",
+    "Arcane-Bound/Worlds Collide/01 Characters/Ted Ursa.md",
     "Arcane-Bound/Worlds Collide/02 Factions/Starveil Retrieval Co..md",
     "Arcane-Bound/Worlds Collide/07 Lore/02 Terminologies/Stakes Running.md",
     "Arcane-Bound/Worlds Collide/01 Characters/Victoria Veloux Canidel.md",
@@ -287,21 +317,6 @@
     "Arcane-Bound/Worlds Collide/01 Characters/Still Thunder.md",
     "Arcane-Bound/Worlds Collide/01 Characters/Rem Orion.md",
     "Arcane-Bound/Worlds Collide/01 Characters/Mhaxxine Dark.md",
-    "Arcane-Bound/Worlds Collide/01 Characters/Krystalle Eos.md",
-    "Arcane-Bound/Worlds Collide/01 Characters/Ion Kynne.md",
-    "Arcane-Bound/Worlds Collide/01 Characters/Clair Tempest.md",
-    "Arcane-Bound/Worlds Collide/01 Characters/Aura Brillfer.md",
-    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Victoria Veloux Canidel Narratives/Victoria Veloux Canidel Narratives Manuscript.md",
-    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Victoria Veloux Canidel Narratives/The convergence (Victoria Veloux Canidel).md",
-    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Victoria Veloux Canidel Narratives/Guide to an unknown world.md",
-    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Victoria Veloux Canidel Narratives/Challenge of acceptance.md",
-    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Victoria Veloux Canidel/Narrative - Challenge of acceptance.md",
-    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Victoria Veloux Canidel Narratives/Feline encounter.md",
-    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Victoria Veloux Canidel/Narrative - Feline encounter.md",
-    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Victoria Veloux Canidel Narratives/Point of return.md",
-    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Victoria Veloux Canidel/Narrative - Point of return.md",
-    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Victoria Veloux Canidel/Narrative - Fashion like a noble.md",
-    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Victoria Veloux Canidel/Narrative - Guide of an unknown world.md",
     "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Victoria Veloux Canidel Narratives",
     "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen Narratives",
     "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen",
