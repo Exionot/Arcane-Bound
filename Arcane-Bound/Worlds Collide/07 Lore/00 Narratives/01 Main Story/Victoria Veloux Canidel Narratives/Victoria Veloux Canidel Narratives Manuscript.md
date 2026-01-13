@@ -6,12 +6,16 @@
 **Location**: Starveil Retrieval Co., Brickstone Town
 **Time of Occurrence**: 2405, Early Winter
 
-*Vi and Rem are in Starlight Retrieval, Vi is in the office whilst Rem sits in the lobby counter.*
+*Vi and Rem are in Starlight Retrieval, Vi is in her office whilst Rem sits in the lobby counter.*
 
 **Vi:** Hey, did we ever got that contract with HATS?
+
 **Rem:** No, they backed down last minute. They said they already got it sorted. 
+
 **Vi:** Ugh.. Why do they need to wait until the last moment before telling us? I had the plan ready and everything...
+
 **Rem:** But, we did get a request from one of their employees.
+
 **Vi:** Really? Can I see that contract?
 
 *Vi stands up and walks to the door of her office, as soon as she walks through the door, what supposed to be the lobby is replaced by a town center. She looks back and the door she just went through is nowhere to be found.*
@@ -46,29 +50,49 @@
 *The bear's eye opened and then suddenly a giant sword is swung to Vi. She dodge to the side and draws her claws.*
 
 **Vi:** It seems you're quite the aggressive one huh.
+
 **Ted:** I TOLD YOU I AM NOT A PRI- What? Brickstone Town?
+
 **Vi:** You know this place?
+
 **Ted:** Know? I've practically memorized this tow- wait who are you?
+
 **Vi:** Just call me Vi. 
+
 **Ted:** Vi, huh, well that'll be easy to remember, my name's Ted.
+
 **Vi:** My guess is you were somehow transported here as well?
+
 **Ted:** I guess you could say that, I got suddenly transported to the other place, 'astral city' was it?
+
 **Vi:** *That's where I came from.*
+
 **Vi:** You're not from Astral City?
+
 **Ted:** No, I don't even know where that is. It's a place I've never been before, people are aggressive there, I got locked into a cage for no reason!
+
 **Ted:** And you're not form here? But weapon...
+
 **Vi:** Oh, this? It's modified SLEs, it can cut through practically anything.
 
 *Vi picks up a crate on the side and cuts it with her claws.*
 
 **Ted:** You lost me when you said 'es-elle-is'. You're a mage aren't you?
-**Vi:** Mage? Let's not be fictional, this is the peak of science.
+
+**Vi:** Mage? Let's not be fictional, this is the peak of technology.
+
 **Ted:** Fictional? But magic is real.
 
 *Ted conceals his giant blade, and it vanishes into thin air.*
 
-**Vi:** Well this day certainly took an unexpected turn. This is not my world.
+**Vi:** *It disappeared... The town is calm and silent, clothing from the first civilization, now magic? Am I actually in a different world?*
+
+**Vi:** Well this day certainly took an unexpected turn. Looks like I'm the only one that's lost here.
+
+**Vi:** *I'll just stick with him for now.*
+
 **Vi:** Would you help me navigate these lands?
+
 **Ted:** I'll be glad to help, Arcaenian paths can be dangerous at times.
 
 *Vi and Ted shakes hands and exits the alleyway.*
@@ -89,24 +113,33 @@
 *Vi and Ted are walking around Brickstone Town. Vi quietly observes the area.*
 
 **Vi:** Do you have a house nearby?
+
 **Ted:** Oh, I don't have a house... Purposefully! My guild travels the entire continent, so there's really no reason for a permanent settlement.
+
 **Vi:** So where are we going?
-**Ted:** What I was thinking is we go to another kingdom to get some new clothes, mine are still stuck on your world and yours attracts attention.
+
+**Ted:** What I was thinking is we go to another kingdom to get some new clothes, mine and yours will definitely attract some attention.
+
 **Vi:** How does my outfit attract attention? It's just my regular wear.
-**Ted:** You look like you came from a noble family.
 
-*Ted looks closer at Vi's outfit and realizes.*
+**Ted:** In your world maybe it is, but right now you look like you came from a noble family.
 
-**Ted:** Wait. you're actually a noble?
+**Ted:** Wait... are actually a noble?
+
 **Vi:** I'd... rather not talk about it.
-**Ted:** Alright, well, we'll be crossing kingdoms, should we get you a riding horse miss noble lady?
+
+**Ted:** I understand. Well, we'll be crossing kingdoms, should we get you a riding horse?
+
 **Vi:** My body is running with vulpes blood, it knows nothing but speed.
+
 **Ted:** Let's put that speed to the test. See that big stone wall there? That's the south exit to the kingdom. See if you can catch up.
 
-*Ted gets on all fours and bolts after showing Vi the exit to the kingdom, his speed is unexpected for a bear but Vi is not willing to lose to a challenge. Vi sets her position and runs with extreme speed, she reaches the gate before Ted by a large lead. As Vi was waiting for Ted she hears a loud laughter.*
+*Ted gets on all fours and bolts after showing Vi the exit to the kingdom, his speed is unexpected for a bear but Vi is not willing to lose to a challenge. Vi sets her position and runs with extreme speed, she reaches the gate before Ted by a large lead. As Vi was waiting for Ted, she hears a loud laughter from a distance.*
 
 **Ted:** Hahaha! You're a speedy one! I'm impressed, you'll definitely blend into our guild.
+
 **Vi:** I appreciate the compliment.
+
 **Ted:** Well now, no need to go all out on speed, just stay near me and we'll get to Amphors Kingdom in not time.
 
 
@@ -125,43 +158,55 @@
 *Vi and Ted arrive at Ohmpalos City*
 
 **Ted:** Here it is, Ohmpalos City.
+
 **Vi:** Well this is definitely more bustling than Brickstone.
+
 **Ted:** Follow me, I know a seamstress here, she's really talented at what she do.
 
 *They navigate through the city. It feels more lively than the calm town of Brickstone, merchants are seen set up at every corner, and before she realizes, Vi and Ted arrived at the seamstress' shop. As they enter, they are greeted with a warm welcome.*
 
 **Seamstress:** My! Ted is that you? It's been a while- 
+
 **Seamstress:** What are you wearing? 
+
 **Ted:** I got into a little hiccup. I was wondering if I could get another set of my outfit?
+
 **Seamstress:** My, my! You're in luck, because I made two copies when I made your outfit.
 
 *As the seamstress and Ted talk, Vi looks through the different clothes displayed in the shop. Then the seamstress notices her.*
 
 **Seamstress:** Oh! And who's this you're with?
+
 **Ted:** Ah! This is Vi. She's a new member of the guild.
 
 *The seamstress approaches Vi, and takes a closer look at her.*
 
 **Seamstress:** Oh my! Your clothes are tailored to perfection! So fancy! So royal! Are you perhaps of any noble families my dear?
+
 **Vi:** Ah, well, it's complicated...
-**Vi:** *This are just regular clothes, how am I still being seen as a noble?*
+
 **Seamstress:** I see, I see, well you can look through the other outfits here while I get Ted his outfit.
 
 *The seamstress walks into what seems like a storage room. Vi stops and looks down.*
 
 **Vi:** Hey, do you think it will happen again?
+
 **Ted:** Hmm? What will happen again?
-**Vi:** The transportation thing. It just seems to happen so fast. I mean, I wouldn't mind being here, the people seems more lively and free, but something just tells me to want to go back. I still haven't had the time to completely process everything you know?
+
+**Vi:** The transportation thing. It just seems to happen so fast. I mean, I wouldn't mind being here, the people seems more lively and free, but something just tells me to want to go back.
 
 *Ted comes closer to Vi and pats her back.*
 
 **Ted:** I know how you feel. I was completely hopeless in your world too, I didn't have anyone to guide me around and then they locked me in a room for an unknown reason. It could happen again too, I wouldn't be here if it didn't happen a second time.
+
 **Ted:** Stay with us for now, making new connections on a different world wouldn't hurt. I just hope I don't get transported again when it happens, haha! 
 
 *Vi grips her gloves tightly,*
 
-**Vi:** I'll have your back by then. Alright, I'll travel with you while I'm stuck here.
+**Vi:** I'll have your back by then. Alright fine, I'll travel with you while I'm stuck here.
+
 **Ted:** That's the spirit! Have you chosen an outfit yet?
+
 **Vi:** I guess I'll go with this one, looks cool enough without being too fancy.
 
 
@@ -182,44 +227,70 @@
 **Time of Occurrence**: 2405, Early Winter
 **Related**: Bear-on collision
 
-*Vi and Ted are in the seamstress' shop. Vi is trying out her new clothes.*
+*Vi and Ted are in the seamstress' shop. Vi and Ted are trying out her new clothes.*
 
 **Ted:** I kind of expected you to go for the dress than the pants.
+
 **Vi:** Those aren't practical for running, they're too long so it'll get in the way.
-**Ted:** Hah! Just wait 'till you meet the others.
+
 **Vi:** What about you? I thought your outfit would be more armored.
+
 **Ted:** We're not always fighting so I just prefer something light.
 
-*Vi and Ted leave the shop and proceeds to the city's gate.*
+*Ted pays for the clothes, they both leave the shop and proceeds to the city's gate.*
 
 **Vi:** We're leaving already?
+
 **Ted:** We need to catch up with the rest of the guild. Right now, they should be two kingdoms away, but they're probably looking for me so we'll meet with another friend of mine to check.
+
 **Vi:** Alright, I'll be right behind you.
 
 *Vi and ted run their way to Lenben Village, but suddenly, out from the bushes emerges a girl. With no time to stop, Ted collides with the girl, the impact pushes her back.*
 
 **Mint:** What... are you doing?! Why are you running so fast in these narrow paths-
+
 **Mint:** Ted?! What are you doing here??
-**Ted:** Mint! I'm so sorry! We're actually rushing to your house.
+
+**Ted:** Mint! I'm so sorry! What are you doing here? We're actually rushing to your house.
+
 **Mint:** We?
+
 **Vi:** *Her clothes... Those are definitely not from here. Was she also transported here?*
 
 *Mint quietly looks at Vi.*
 
 **Mint:** Whoa... You're a fancy girl, I can feel it. Which royal family are you fro-
+
 **Mint:** Ted... Ion came to me looking for you a couple days ago. You didn't kidnap a member of the royalties, did you?
+
+**Vi:** *I guess she's a native here.*
+
 **Ted:** No, of course not! This is Vi, she's not of any royalties. Well... at least not in this world.
-**Vi:** *I guess she's a native here. But, how did she know? I thought my clothes were what gave it away?*
-**Mint:** Did both of you got transported suddenly?
+
+**Vi:** *How did she know? I thought changing my clothes would hide it?*
+
+**Mint:** Did both of you also got transported suddenly?
+
 **Ted:** Wait, how did you know we got transported?
+
 **Mint:** I got transported to a different world as well.
+
+**Vi:** *She got transported as well? Looks like we're not he only ones.*
+
 **Ted:** You got transported too?? How come i did not saw you in the detention area?
+
 **Mint:** A nice lady took me in, she said people were after us.
+
 **Ted:** Why? We haven't done anything.
+
 **Vi:** *Ted got locked up without reason too... Why would the government target civilians?*
-**Mint:** You should probably head straight to Rhilekos City for now, Ion said they would stay there until they find you.
+
+**Mint:** You should probably head straight to Rhilekos City for now, You've been missing for more than a week now, Ion said they would stay there until they find you.
+
 **Ted:** Are you not going with us?
-**Mint:** I need to check on the village first, just to make sure nobody got transported too.
+
+**Mint:** I need to check on the village first, just to make sure nobody there got transported too.
+
 **Mint:** I'll try to catch up with you after I check the village.
 
 *Mint and Ted waves their goodbyes as Vi and Ted continue their journey towards Rhilekos City.*
