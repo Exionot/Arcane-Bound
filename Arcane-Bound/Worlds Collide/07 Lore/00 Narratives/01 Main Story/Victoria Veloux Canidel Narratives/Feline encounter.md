@@ -1,28 +1,16 @@
 ---
 type: narrative 
-time:
-  year: 2405
-  month: ""
-  date: ""
-  season: Early Winter
 cssclasses:
   - narrative
 ---
 
-# **Basic Information**
-**Title**: Feline encounter
 **Character/s**: 
 - [[Victoria Veloux Canidel]]
 - [[Ted Ursa]]
 - [[Mint Evergreen]]
 
 **Location**: Outside of [[Lenben Village]]
-**Time of Occurrence**: `= this.time.month` `= this.time.date`, `= this.time.year`, `= this.time.season`
-**Previous**: [[Narrative - Point of return]]
-**Next**: [[Narrative - Challenge of acceptance]]
-**Related:** [[Narrative - Bear-on collision]]
-
----
+**Time of Occurrence**: 2405, Early Winter
 
 *Vi and Ted are in the seamstress' shop. Vi is trying out her new clothes.*
 
@@ -65,8 +53,3 @@ cssclasses:
 **Mint:** I'll try to catch up with you after I check the village.
 
 *Mint and Ted waves their goodbyes as Vi and Ted continue their journey towards Rhilekos City.*
-
----
-
-> [!NOTE] Notes
-> Girl got barely any input here but plot ooooohhh~

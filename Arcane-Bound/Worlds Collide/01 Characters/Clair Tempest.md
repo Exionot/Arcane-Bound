@@ -56,6 +56,9 @@ if (relations != null){
 	dv.list(relations.map(p => `[[${p}]]`));
 }
 ```
+
+**Character Thread**: 
+
 ---
 # **History** 
 ## Background 

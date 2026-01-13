@@ -1,16 +1,9 @@
 ---
 type: narrative 
-time:
-  year: 2405
-  month: ""
-  date: ""
-  season: Early Winter
 cssclasses:
   - narrative
 ---
 
-# **Basic Information**
-**Title**: Challenge of acceptance
 **Character/s**:
 - [[Victoria Veloux Canidel]]
 - [[Ion Kynne]]
@@ -18,12 +11,7 @@ cssclasses:
 - [[Still Thunder]]
 
 **Location**: [[Rhilekos City]]
-**Time of Occurrence**: `= this.time.month` `= this.time.date`, `= this.time.year`, `= this.time.season`
-**Previous**: [[Narrative - Feline encounter]]
-**Next**: 
-**Related:**
-
----
+**Time of Occurrence**: 2405, Early Winter
 
 *Vi and Ted are walking on the path towards Rhilekos City. The sun is at it's peak, illuminating the path with it's rays.*
 
@@ -72,13 +60,8 @@ cssclasses:
 **Ted:** They call it "technology" in their world.
 **Ion:** Interesting... let's see how well your "technology" holds up against magic.
 **Ted:** Come on Ion, she's clearly at a disadvantage.
-**Ion:** well, she needs to fight it out if wants to be in the guild doesn't she? 
+**Ion:** Well, she needs to fight it out if wants to be in the guild doesn't she? 
 
 *Ion summons her staff and points it at Vi.*
 
 **Ion:** I challenge you to a duel! Win and you get to be part of our guild!
-
----
-
-
-

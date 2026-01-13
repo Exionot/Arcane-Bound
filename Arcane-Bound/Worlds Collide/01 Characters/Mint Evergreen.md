@@ -65,6 +65,9 @@ if (relations != null){
 	dv.list(relations.map(p => `[[${p}]]`));
 }
 ```
+
+**Character Thread**: [[Mint Evergreen Narratives Manuscript]]
+
 ---
 # **History** 
 ## Background 

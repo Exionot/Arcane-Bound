@@ -1,24 +1,12 @@
 ---
 type: narrative 
-time:
-  year: 2405
-  month: ""
-  date: ""
-  season: Early Winter
 cssclasses:
   - narrative
 ---
 
-# **Basic Information**
-**Title**: Point of return
 **Character/s**: [[Victoria Veloux Canidel]], [[Ted Ursa]]
 **Location**: [[Ohmpalos City]]
-**Time of Occurrence**: `= this.time.month` `= this.time.date`, `= this.time.year`, `= this.time.season`
-**Previous**: [[Narrative - Fashion like a noble]]
-**Next**: [[Narrative - Feline encounter]]
-**Related:**
-
----
+**Time of Occurrence**: 2405, Early Winter
 
 *Vi and Ted arrive at Ohmpalos City*
 
@@ -61,7 +49,3 @@ cssclasses:
 **Vi:** I'll have your back by then. Alright, I'll travel with you while I'm stuck here.
 **Ted:** That's the spirit! Have you chosen an outfit yet?
 **Vi:** I guess I'll go with this one, looks cool enough without being too fancy.
-
----
-
-

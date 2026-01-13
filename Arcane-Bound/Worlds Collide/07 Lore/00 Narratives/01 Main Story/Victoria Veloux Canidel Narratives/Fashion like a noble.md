@@ -1,24 +1,12 @@
 ---
 type: narrative 
-time:
-  year: 2405
-  month: ""
-  date: ""
-  season: Early Winter
 cssclasses:
   - narrative
 ---
 
-# **Basic Information**
-**Title**: Fashion like a noble
-**Character/s**:  [[Victoria Veloux Canidel]], [[Ted Ursa]]
+**Character/s**: [[Victoria Veloux Canidel]], [[Ted Ursa]]
 **Location**: [[Brickstone Town]]
-**Time of Occurrence**: `= this.time.month` `= this.time.date`, `= this.time.year`, `= this.time.season`
-**Previous**: [[Narrative - Guide of an unknown world]]
-**Next**: [[Narrative - Point of return]]
-**Related:**
-
----
+**Time of Occurrence**: 2405, Early Winter
 
 *Vi and Ted are walking around Brickstone Town. Vi quietly observes the area.*
 
@@ -42,6 +30,3 @@ cssclasses:
 **Ted:** Hahaha! You're a speedy one! I'm impressed, you'll definitely blend into our guild.
 **Vi:** I appreciate the compliment.
 **Ted:** Well now, no need to go all out on speed, just stay near me and we'll get to Amphors Kingdom in not time.
-
----
-

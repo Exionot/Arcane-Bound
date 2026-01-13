@@ -1,13 +1,13 @@
 {
   "version": 3,
   "projects": {},
-  "selectedDraftVaultPath": "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen Narratives/Index.md",
+  "selectedDraftVaultPath": "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Victoria Veloux Canidel Narratives/Index.md",
   "userScriptFolder": null,
   "sessionStorage": "data",
   "sessions": [
     {
       "start": "2026-01-12T15:29:55.612Z",
-      "total": 2938,
+      "total": 5506,
       "drafts": {
         "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Test/Index.md": {
           "total": 10,
@@ -30,6 +30,17 @@
             "An encounter with the devil": 198,
             "Devil's intent": 256,
             "Bear-on collision": 466
+          }
+        },
+        "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Victoria Veloux Canidel Narratives/Index.md": {
+          "total": 2568,
+          "scenes": {
+            "The convergence (Victoria Veloux Canidel)": 203,
+            "Guide to an unknown world": 377,
+            "Fashion like a noble": 310,
+            "Point of return": 489,
+            "Feline encounter": 492,
+            "Challenge of acceptance": 697
           }
         }
       }

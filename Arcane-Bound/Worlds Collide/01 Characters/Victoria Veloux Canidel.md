@@ -55,6 +55,9 @@ if (relations != null){
 	dv.list(relations.map(p => `[[${p}]]`));
 }
 ```
+
+**Character Thread**: 
+
 ---
 # **History** 
 ## Background 
@@ -73,7 +76,7 @@ A human with fox-like ears and tail. She has a short pale purple hair with deep 
 **Vi** is often seen wearing her work uniform, a white long-sleeved shirt with a black vest, black pants, a buckled belt, and a purple tie. She also wears her weapon, [[Vixen's Claws]], in case of trouble.
 
 ### In Arcaena
-To blend in with the fashion of [[Arcaena]], **Vi** changed her outfit during a trip to a tailor's shop with [[Ted Ursa]]. She wears a khaki long-sleeved shirt with a brown sweater vest, and brown pants. She also kept her buckled belt and is still wearing her [[Vixen's Claws]].
+To blend in with the fashion of [[Arcaena]], **Vi** changed her outfit during a trip to a tailor's shop with [[Ted Ursa]]. She wears a khaki long-sleeved shirt with a brown sweater vest, and brown pants. She also kept her buckled belt and is still wearing her signature weapon, [[Vixen's Claws]].
 
 # **Personality** 
 **Vi** still maintains her elegance despite being a noble runaway. She is often seen working alone, but never fails to get the job done. She is swift and reliable, her colleagues often look up to her.

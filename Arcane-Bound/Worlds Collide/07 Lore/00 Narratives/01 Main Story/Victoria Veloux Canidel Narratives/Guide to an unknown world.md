@@ -1,24 +1,12 @@
 ---
 type: narrative 
-time:
-  year: 2405
-  month: ""
-  date: ""
-  season: Early Winter
 cssclasses:
   - narrative
 ---
 
-# **Basic Information**
-**Title**: Guide of an unknown world
 **Character/s**: [[Victoria Veloux Canidel]], [[Ted Ursa]]
 **Location**: [[Brickstone Town]]
-**Time of Occurrence**: `= this.time.month` `= this.time.date`, `= this.time.year`, `= this.time.season`
-**Previous**: [[Narrative - The Convergence (Victoria Veloux Canidel)]]
-**Next**: [[Narrative - Fashion like a noble]]
-**Related:**
-
----
+**Time of Occurrence**: 2405, Early Winter
 
 *Vi is navigating through the town, each person she passes by seems to look at her. She glances at an alleyway and notices. A someone wearing a familiar shirt. She rushes into the alleyway to get a closer look. What she sees is an unconscious grey furred bear wearing a detainee shirt, the symbol on the side says 'Astral Public Security'. Vi grabs the bear's shoulder trying to wake it up.*
 
@@ -53,6 +41,3 @@ cssclasses:
 **Ted:** I'll be glad to help, Arcaenian paths can be dangerous at times.
 
 *Vi and Ted shakes hands and exits the alleyway.*
-
----
-

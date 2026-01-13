@@ -1,24 +1,12 @@
 ---
 type: narrative 
-time:
-  year: 2405
-  month: ""
-  date: ""
-  season: Early Winter
 cssclasses:
   - narrative
 ---
 
-# **Basic Information**
-**Title**: The Convergence
 **Character/s**: [[Victoria Veloux Canidel]], [[Rem Orion]]
 **Location**: [[Starveil Retrieval Co.]], [[Brickstone Town]]
-**Time of Occurrence**: `= this.time.month` `= this.time.date`, `= this.time.year`, `= this.time.season`
-**Previous**:
-**Next**: 
-**Related:**
-
----
+**Time of Occurrence**: 2405, Early Winter
 
 *Vi and Rem are in Starlight Retrieval, Vi is in the office whilst Rem sits in the lobby counter.*
 
@@ -36,5 +24,6 @@ cssclasses:
 
 **Vi:** Where the hell am I?
 
----
 
+> [!NOTE] Notes
+> [[High Authority on Transport System|H.A.T.S.]] - A massive commercial company that handles majority of transports and delivery on [[HyperCorp Republic]].

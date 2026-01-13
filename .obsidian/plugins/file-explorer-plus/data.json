@@ -38,6 +38,13 @@
         "type": "FILES",
         "pattern": "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen Narratives/Mint Evergreen Narratives Manuscript.md",
         "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Victoria Veloux Canidel Narratives/Victoria Veloux Canidel Narratives Manuscript.md",
+        "patternType": "STRICT"
       }
     ],
     "frontMatter": [
