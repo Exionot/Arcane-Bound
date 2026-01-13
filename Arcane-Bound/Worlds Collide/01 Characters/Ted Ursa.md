@@ -10,7 +10,7 @@ location:
 faction:
   active: Wandering Traders of Arcaena
   Wandering Traders of Arcaena:
-    status: active
+    status: Active
     rank: 
     alias: 
 systemUsed: []

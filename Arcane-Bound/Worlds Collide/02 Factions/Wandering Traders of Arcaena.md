@@ -19,6 +19,8 @@ status: Active
 
 
 # **Overview**
+The **Wandering Traders of Arcaena** is a guild of various traders across the [[Arcaena|continent of Arcaena]]. They travel in small groups across different kingdoms and cities
+
 The **Wandering Traders of Arcaena** is a traders guild that travels throughout the [[Arcaena|Continent of Arcaena]]. They go through major cities of every nation in the continent, bringing rare and exclusive items from different kingdoms in exchange for [[Numia Coins]].
 
 # **Members**
