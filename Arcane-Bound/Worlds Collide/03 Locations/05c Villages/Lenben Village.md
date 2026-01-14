@@ -16,9 +16,18 @@ aliases:
 # **Description** 
 **Lenben Village** is a small village located in near the outskirts of [[Bauserst City]] in [[Phthalo Region]] of [[Verdthorne Kingdom]]. It specializes in alchemy and basic [[Elemental Magic#Vitalis|Vitalis]].
 # **Points of Interest** 
+## Evergreen Household
+> **Full Note:** [[Evergreen Household]]
+
+## Clay's Farm
+> **Full Note:** [[Clay's Farm]]
+
+## Lenben Square
+> **Full Note:** [[Lenben Square]]
 
 # **Subpoints of Interest** 
-- [[Evergreen Household]]
+## Lenben Square
+- [[Community House]]
 
 # **History** 
 
@@ -43,6 +52,12 @@ dv.table(
 pages.map(p => [p.file.link, p.location.origin, p.faction.active])
 )
 ```
+
+# **Additional Information**
+
+> [!NOTE] Notes
+> **Lenben** was inspired by the German word "Leben" which means "life".
+
 
 ---
 

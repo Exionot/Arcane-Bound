@@ -18,9 +18,29 @@ aliases:
 **Bauserst City** is the capital city of [[Verdthorne Kingdom]] located in [[Phthalo Region]]. It specializes in advanced alchemy and magic involving plants.
 
 # **Areas** 
+## Bauer Quarter
+> **Full Note:** [[Bauer Quarter]]
+
+## Almia Quarter
+> **Full Note:** [[Almia Quarter]]
+
+## Vyra Quarter
+> **Full Note:** [[Vyra Quarter]]
  
 # **Subareas** 
+## Bauer Quarter
+- West City Gate
 - [[Cathedrum so' Bauserst]]
+- [[Bauserst City Central]]
+
+## Almia Quarter
+- Northern City Gate
+- [[Bauserst Racecourse]]
+- [[Maya's Alchemy Shop]]
+- [[Alchemist Academy]]
+
+## Vyra Quarter
+- Southern City Gate
 
 # **History** 
 
