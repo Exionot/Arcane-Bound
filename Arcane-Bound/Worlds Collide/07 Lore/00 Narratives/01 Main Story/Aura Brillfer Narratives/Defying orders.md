@@ -1,24 +1,13 @@
 ---
 type: narrative 
-time:
-  year: 2405
-  month: ""
-  date: ""
-  season: Early Winter
 cssclasses:
   - narrative
 ---
 
-# **Basic Information**
-**Title**: Defying orders
 **Character/s**: [[Aura Brillfer]], [[Mint Evergreen]]
 **Location**: [[Amphere Square]]
-**Time of Occurrence**: `= this.time.month` `= this.time.date`, `= this.time.year`, `= this.time.season`
-**Previous**: [[Narrative - An order you can't fight]]
-**Next**: [[Narrative - My house]]
-**Related:** [[Narrative - A fellow feline]]
-
----
+**Time of Occurrence**: 2405, Early Winter
+**Related:** [[A fellow Feline]]
 
 *As Aura was about to continue her patrol in Amphere Square, a voice was heard from behind. She turns around and sees a mint green feline virken standing before her. Her clothes look ancient, something that could have been from the first civilization. Then Aura comes to a realization.*
 
@@ -49,7 +38,3 @@ cssclasses:
 
 **Aura:** Follow me.
 **Aura:** *If radio wont give me anything useful, then I'll just get the information myself.*
-
----
-
-

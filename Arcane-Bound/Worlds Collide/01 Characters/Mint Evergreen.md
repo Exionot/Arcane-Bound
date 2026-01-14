@@ -53,7 +53,7 @@ INPUT[imageSuggester(optionQuery("ᐳExternal Assets"), class(character-img)):pr
 **Birthday**: 
 **Species**: [[Virken]] (Feline)
 **Origin**: [[Lenben Village]], [[Phthalo Region]], [[Verdthorne Kingdom]], [[Central Lands]], [[Arcaena]]
-**Hobbies**:
+**Hobbies**: Gardening
 **Nickname/s**:
 **Faction/s**:
 - [[Guild of Arcane Healers]] (Former member)
@@ -65,6 +65,9 @@ if (relations != null){
 	dv.list(relations.map(p => `[[${p}]]`));
 }
 ```
+
+**Character Thread**: [[Mint Evergreen Narratives Manuscript]]
+
 ---
 # **History** 
 ## Background 
@@ -75,6 +78,8 @@ if (relations != null){
 Despite being taught healing magic, Mint stayed focused in her trainings treating it as if she was learning offensive magic. This gave her an advantage compared to her colleagues, her mana control was better than most of the young mages, she's able to cast healing spells faster than most.
 ## Young Adolescence 
 **Mint** wanted to learn real magic and reach her true potential. Her parents disagreed with her decision and made it clear that they would not be supporting her if she continued. Mint went on to pursue the art of magic without the support of her parents, knowing that she too can be as powerful as one of [[Arcaena]]'s [[Ace Mages]].
+
+She has been recruited multiple times by [[Ion Kynne]] to join the [[Wandering Traders of Arcaena]], even joining one of their trip across [[Arcaena]]. But despite her experience and connections with the guild, Mint refused to join the [[Wandering Traders of Arcaena|Wanderers]]. She wanted to explore the lands more freely and learn new spells, even taking quests in exchange of tomes and grimoires.
 ## During The Convergence
 **Mint** was transported to the technologically advanced world of [[Fluxpoint City]], where she found and met [[Aura Brillfer]].^[[[The Convergence]]]
 
@@ -143,10 +148,11 @@ TABLE systemType as "Type" WHERE contains(this.systemUsed, file.name)
 ```
 ## Narratives
 ```dataview
-LIST 
+TABLE
+  regexreplace(file.folder, ".*/", "") AS Folder
 FROM "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives"
-WHERE contains(file.outlinks, this.file.link) 
-SORT file.name ASC
+WHERE contains(file.outlinks, this.file.link)
+SORT file.folder ASC, file.name ASC
 ```
 
 ---
@@ -160,4 +166,61 @@ INPUT[imageListSuggester(optionQuery("Arcane-Bound/Archives"), class(gallery-img
 ## Other Images
 ```meta-bind
 INPUT[imageListSuggester(optionQuery("ᐳExternal Assets"), class(gallery-img)):galleryImage]
+```
+
+---
+
+# **Navigation**
+```dataviewjs
+const baseFolder = "Arcane-Bound/Worlds Collide/01 Characters";
+const pages = dv.pages(`"${baseFolder}"`);
+
+// group by faction.active or null
+let groups = pages.groupBy(p => p.faction?.active ?? null);
+
+groups = groups.array().sort((a, b) => {
+  // null (no faction) goes last
+  if (a.key === null) return 1;
+  if (b.key === null) return -1;
+  return a.key.localeCompare(b.key);
+});
+
+for (const group of groups) {
+  // header: show "No Faction" if null
+  //dv.header(2, group.key ?? "No Faction");
+  
+  const title = group.key ?? "No Faction";
+
+  // Build datacards block
+  let lines = [];
+  if (group.key === null) {
+	  lines.push(`> [!navigation]+ ${title}`);
+  }else{
+	  lines.push(`> [!navigation]+ ${"[[" + title + "]]"}`);
+  }
+  
+  lines.push(">```datacards");
+  lines.push(`>TABLE profileImage`);
+  lines.push(`>FROM "${baseFolder}"`);
+
+  // Use `faction.active = null` if group key is null
+  if (group.key === null) {
+    lines.push(">WHERE faction.active = null");
+  } else {
+    lines.push(`>WHERE contains("${group.key}", faction.active)`);
+  }
+
+  lines.push(">SORT file.name ASC");
+  lines.push(">");
+  lines.push(">//Settings");
+  lines.push(">preset: square");
+ // lines.push("imageProperty: cover");
+  //lines.push("imageFit: contain");
+  //lines.push("imageHeight: 10px");
+  lines.push(">columns: 5");
+  lines.push(">fontSize: smallest");
+  lines.push(">```");
+
+  dv.el("div", lines.join("\n"));
+}
 ```

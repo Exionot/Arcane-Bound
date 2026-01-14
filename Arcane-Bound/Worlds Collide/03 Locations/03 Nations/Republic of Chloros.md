@@ -17,7 +17,7 @@ aliases:
 **Holder of Power**:
 
 # **Description** 
-**Chloros** is one of [[Synthspire]]'s major nations, located in [[Veridian Sector]], it is the nation that once sought a solution civilization's waste however, what they thought was a solution turned out to be a fatal mistake, [[Void Crystal]] corruption started spreading beyond control, turning everything in its path into [[Void Crystal]], leading to the fall of the old capital, [[Rockcore City]]. Most of the population of **Chloros** have migrated to [[Lushborne Region|Lushborne Region]], away from the [[Void Crystal]] corruption. The [[Chloros Administration]] has industrialized and monetized the extraction of [[Void Crystal]] with the establishment of [[Void Operation & Investigation Department]], allowing public and private entities to extract [[Void Crystal]] resources in the [[NULL Region]]. ^d8893f
+**Chloros** is one of [[Synthspire]]'s major nations, located in [[Veridian Sector]], it is the nation that once sought a solution civilization's waste however, what they thought was a solution turned out to be a fatal mistake, [[Void Crystal]] corruption started spreading beyond control, turning everything in its path into [[Void Crystal]], leading to the fall of the old capital, [[Rockcore City]]. Most of the population of **Chloros** have migrated to [[Lushborne Region]], away from the [[Void Crystal]] corruption. The [[Chloros Administration]] has industrialized and monetized the extraction of [[Void Crystal]] with the establishment of [[Void Operation & Investigation Department]], allowing public and private entities to extract [[Void Crystal]] resources in the [[NULL Region]]. ^d8893f
 
 # **Areas**
 ## NULL Region (RCH-01)

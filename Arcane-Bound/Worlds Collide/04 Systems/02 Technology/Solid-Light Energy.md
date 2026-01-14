@@ -2,6 +2,8 @@
 type: system
 systemType: technology
 status: Restricted Use
+aliases:
+  - S.L.E.
 ---
 
 # **Basic Information**
@@ -12,9 +14,9 @@ status: Restricted Use
 **Status**: `INPUT[usageStatus][]`
 
 # **Overview** 
-**Solid-Light Energy**, also known as **SLE**, is a solid material made up of visible light, it is strong enough to cut through most materials and block advanced projectiles.
+**Solid-Light Energy**, also known as **S.L.E.**, is a solid material made up of visible light, it is strong enough to cut through most materials and block advanced projectiles.
 
-Class-III, or military grade **SLE**s are only authorized to be used within the nation of [[HyperCorp Republic]], usage outside of the nation is strictly prohibited and can lead to lawsuits.
+Class-III, or military grade **S.L.E.**s are only authorized to be used within the nation of [[HyperCorp Republic]], usage outside of the nation is strictly prohibited and can lead to lawsuits.
 
 # **How does it work?**
 **Solid-Light Energy** works by projecting light with a solidifying emitter to control and shape the light a into specific shape.

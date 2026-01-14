@@ -23,9 +23,9 @@ status: Commonly Used
 ## Mana Control
 **Mana** can be controlled through sheer focus and discipline. Mana control can be used in different ways:
 ### Spell casting
-Mana control is used to control the strength of the spell being casted.
+**Mana** control is used to control the strength of the spell being casted.
 ### Mana concealment 
-Mana control can be used to hide or shrink a being's mana aura, making it nearly invisible to the average mage.
+**Mana** control can be used to hide or shrink a being's mana aura, making it nearly invisible to the average mage.
 
 # **Increasing mana**
 

@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "0fec2f29462e47c3",
+        "id": "fd0a41ea9eb6e237",
         "type": "tabs",
         "children": [
           {
-            "id": "095469b60294c315",
+            "id": "b9d6dd40c17b0309",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Victoria Veloux Canidel/Narrative - Challenge of acceptance.md",
+                "file": "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Aura Brillfer Narratives/Aura Brillfer Narratives Manuscript.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Narrative - Challenge of acceptance"
+              "title": "Aura Brillfer Narratives Manuscript"
+            }
+          },
+          {
+            "id": "c7fab9ac22564973",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Arcane-Bound/Worlds Collide/03 Locations/05a Cities/Bauserst City.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Bauserst City"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -73,12 +88,22 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
+          },
+          {
+            "id": "b4d994bdc3e50955",
+            "type": "leaf",
+            "state": {
+              "type": "VIEW_TYPE_LONGFORM_EXPLORER",
+              "state": {},
+              "icon": "longform",
+              "title": "Longform"
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 268.5
+    "width": 295.5
   },
   "right": {
     "id": "446c418154317ee3",
@@ -107,7 +132,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Victoria Veloux Canidel/Narrative - Feline encounter.md",
+                "file": "Arcane-Bound/Worlds Collide/03 Locations/05a Cities/Bauserst City.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -135,25 +160,11 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Narrative - Feline encounter"
-            }
-          },
-          {
-            "id": "cfd3b8c405dcdd37",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
+              "title": "Graph of Bauserst City"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "c3b857a81cfcc89f",
@@ -249,7 +260,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 253.5
+    "width": 260.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -265,44 +276,46 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "095469b60294c315",
+  "active": "c7fab9ac22564973",
   "lastOpenFiles": [
-    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Victoria Veloux Canidel/Narrative - Feline encounter.md",
-    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Victoria Veloux Canidel/Narrative - Challenge of acceptance.md",
-    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen/Narrative - Bear-on collision.md",
-    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/00 Extra Story/EX - Clever Getaway.md",
-    "Arcane-Bound/Worlds Collide/07 Lore/03 Species/Virken.md",
-    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/00 Extra Story/Narrative - Something on her face.md",
-    "Homepage.md",
-    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Victoria Veloux Canidel/Narrative - Point of return.md",
-    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen/Narrative - A fellow feline.md",
-    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Victoria Veloux Canidel/Narrative - Guide of an unknown world.md",
-    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Victoria Veloux Canidel/Narrative - The Convergence (Victoria Veloux Canidel).md",
-    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen/Narrative - Devil's intent.md",
-    "Arcane-Bound/Worlds Collide/01 Characters/Mint Evergreen.md",
-    "Arcane-Bound/Worlds Collide/01 Characters/Clair Tempest.md",
-    "Arcane-Bound/Worlds Collide/01 Characters/Ion Kynne.md",
-    "Arcane-Bound/Worlds Collide/01 Characters/Still Thunder.md",
-    "Arcane-Bound/Worlds Collide/99 Extras/Meta/AB - Unresolved Notes.md",
-    "Arcane-Bound/Worlds Collide/99 Extras/Meta/AB - Locations.md",
-    "Arcane-Bound/Worlds Collide/01 Characters/Ted Ursa.md",
-    "Arcane-Bound/Worlds Collide/07 Lore/01 Documents/Document - Standardized Territorial Codex Protocol.md",
-    "Arcane-Bound/Worlds Collide/06 Items - Equipments/Surgespark.md",
-    "Arcane-Bound/Worlds Collide/07 Lore/03 Species",
-    "Templates/Species.md",
-    "Templates/Terminology.md",
-    "Arcane-Bound/Worlds Collide/01 Characters/Rem Orion.md",
+    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Victoria Veloux Canidel Narratives/Victoria Veloux Canidel Narratives Manuscript.md",
+    "Arcane-Bound/Worlds Collide/03 Locations/05a Cities/Bauserst City.md",
+    "Arcane-Bound/Worlds Collide/03 Locations/05a Cities/Astral City.md",
+    "Arcane-Bound/Worlds Collide/03 Locations/05a Cities/Fluxpoint City.md",
+    "Arcane-Bound/Worlds Collide/03 Locations/07 Points of Interest/Orbital Access Transit Station.md",
+    "Arcane-Bound/Worlds Collide/03 Locations/05a Cities/Fontur City.md",
+    "Arcane-Bound/Worlds Collide/07 Lore/02 Terminologies/Stakes Running.md",
+    "Arcane-Bound/Worlds Collide/03 Locations/05c Villages/Lenben Village.md",
+    "Arcane-Bound/Worlds Collide/03 Locations/05b Towns/Region's Edge.md",
+    "Arcane-Bound/Worlds Collide/03 Locations/05a Cities/Shellport Capital.md",
+    "Arcane-Bound/Worlds Collide/03 Locations/05a Cities/Newslate City.md",
     "Arcane-Bound/Worlds Collide/03 Locations/03 Nations/Erde Kingdom.md",
-    "Arcane-Bound/Worlds Collide/01 Characters/Underworldian - Clair.md",
+    "Arcane-Bound/Worlds Collide/03 Locations/03 Nations/Verdthorne Kingdom.md",
+    "Arcane-Bound/Worlds Collide/03 Locations/03 Nations/Ignia Kingdom.md",
+    "Arcane-Bound/Worlds Collide/01 Characters/Victoria Veloux Canidel.md",
+    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Aura Brillfer Narratives/Aura Brillfer Narratives Manuscript.md",
+    "Arcane-Bound/Worlds Collide/01 Characters/Mint Evergreen.md",
+    "Arcane-Bound/Worlds Collide/01 Characters/Aura Brillfer.md",
+    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen Narratives/Mint Evergreen Narratives Manuscript.md",
+    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen Narratives/Confrontation.md",
+    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen Narratives/Her house.md",
+    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen Narratives/A fellow Feline.md",
+    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen Narratives/The convergence (Mint Evergreen).md",
+    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen Narratives/Missing merchant.md",
+    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Victoria Veloux Canidel Narratives/Feline encounter.md",
+    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Victoria Veloux Canidel Narratives/Challenge of acceptance.md",
+    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Aura Brillfer Narratives",
+    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Victoria Veloux Canidel Narratives",
+    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen Narratives",
+    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen",
+    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Test",
+    "Untitled.base",
+    "ᐳExternal Assets/Mint_Synthspire_Glasses.png",
+    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Ion Kynne",
+    "Arcane-Bound/Worlds Collide/07 Lore/03 Species",
     "Arcane-Bound/Worlds Collide/07 Lore/02 Terminologies",
     "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Clair Tempest",
-    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Victoria Veloux Canidel",
-    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Aura Brillfer",
-    "ArcBound",
-    "Arcane-Bound.zip",
     "Arcane-Bound/Worlds Collide/99 Extras/Meta/AB - Storyline.canvas",
-    "Untitled.base",
-    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen",
     "Arcane-Bound/Archives/Staying MInty Final.png",
     "Arcane-Bound/Archives/Arcane Origins Final.png",
     "Arcane-Bound/Archives/Devil's Charm Final.png",
@@ -311,8 +324,6 @@
     "Arcane-Bound/Archives/In Darkness Insta.png",
     "ᐳExternal Assets/Ion_Profile2.png",
     "Arcane-Bound/Archives/Golden Aura Final.png",
-    "Arcane-Bound/Archives/Being Vigilant Final.png",
-    "Arcane-Bound/Archives/Vixen's Secret Final.png",
-    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/00 Extra Story"
+    "Arcane-Bound/Archives/Being Vigilant Final.png"
   ]
 }

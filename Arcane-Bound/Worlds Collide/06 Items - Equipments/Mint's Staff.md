@@ -23,8 +23,14 @@ INPUT[imageSuggester(optionQuery("ᐳExternal Assets"), class(character-img)):pr
 # **Overview**
 **Mint's Staff** is the main weapon of [[Mint Evergreen]], she uses it to cast magic spells. She acquired this staff when she started learning [[Elemental Magic]] in [[Bauserst City]].
 
+**Mint's Staff** aims to serve two purpose: to work as a mage staff, and to be usable as a melee weapon similar to a lance.
+
+The staff, with some magical assistance, can stand upright with it's flat metal base.
+
 # **Appearance**
-The staff has a silver crescent design with a pointed tip, a green jewel in the middle, and a long wooden handle. It also has gold accents and a green [[Arcaenian Band]] wrapped in its head.
+The head of the staff has a silver crescent design with a long straight pointed tip. It has a large floating green gem with golden supports in the middle of the crescent. A green [[Arcaenian Band]] is wrapped around the rear end of the crescent head. It's handle is made up of a rare wood species called [[Silver-skinned Iron Wood]] known for it's great durability, the rear end of the staff has a flat metal base. Some light gold accents are also seen across the entire staff.
+
+Faint wear can also be seen in the staff up close, but from afar, it's almost as if it's brand new.
 
 # **History**
 

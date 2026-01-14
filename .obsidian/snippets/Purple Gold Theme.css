@@ -70,6 +70,28 @@
 
 }
 
+.datacards-preset-square .datacards-property-value .internal-link,
+.datacards-preset-square .datacards-tag { 
+	color: var(--purple); 
+}
+
+.datacards-preset-square .datacards-content{
+	display: inline-block;
+	height: auto;
+	margin: 0;
+	padding: 0;
+	background-color: rgba(9, 9, 9, 0.9);
+}
+
+.datacards-file-property-container {
+	transform: translateY(5px);
+	height: auto;
+}
+
+.datacards-font-smallest .datacards-file-property .internal-link {
+	font-size: 0.7em;
+}
+
 body .metadata-properties-heading, 
 body .metadata-properties, 
 body .metadata-add-button {
@@ -132,7 +154,7 @@ body {
 	padding-bottom: 7px;
 	padding-left: 10px;
 	border-radius: 3px;
-	background: linear-gradient(90deg,rgba(22, 22, 22, 1), rgba(8, 8, 8, 0));
+	background: linear-gradient(90deg,rgba(22, 22, 22, 1), rgba(22, 22, 22, 0.25), rgba(22, 22, 22, 0));
 	font-size: 13px;
 	font-style: italic;
 }
@@ -170,6 +192,23 @@ div.internal-embed .markdown-embed-content {
 .callout[data-callout=character] .callout-title{
   display: none;
 }
+
+.callout[data-callout=navigation]{
+	background-color: var(--background-secondary);
+	margin: 0;
+}
+
+.callout[data-callout=navigation] .callout-icon{
+  display: none;
+}
+
+.callout[data-callout=navigation] .callout-title{
+  color: var(--white);
+}
+
+ .callout[data-callout=navigation] .internal-link{
+	font-weight: bold;
+ }
 
 .theme-light,
 .theme-dark {

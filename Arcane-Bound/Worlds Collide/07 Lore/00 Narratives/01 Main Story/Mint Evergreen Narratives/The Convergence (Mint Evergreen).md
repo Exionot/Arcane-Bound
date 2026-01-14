@@ -1,24 +1,12 @@
 ---
 type: narrative
-time:
-  year: 2405
-  month: ""
-  date: ""
-  season: Early Winter
 cssclasses:
   - narrative
 ---
 
-# **Basic Information**
-**Title**: The Convergence
 **Character/s**: [[Mint Evergreen]]
 **Location**: [[Lenben Village]], [[Amphere Square]]
-**Time of Occurrence**: `= this.time.month` `= this.time.date`, `= this.time.year`, `= this.time.season`
-**Previous**: [[Narrative - Missing Merchant]]
-**Next**: [[Narrative - A fellow feline]]
-**Related:** 
-
----
+**Time of Occurrence**: 2405, Early Winter
 
 *It's the first day of winter, tiny snowflakes falls from the sky covering the lush green grass of Lenben Village with a thin layer of white snow.*
 
@@ -29,5 +17,3 @@ cssclasses:
 *Mint closes her eyes and focuses, she exerts a small amount of mana hoping to disturb any stagnant mana lingering around her but the only thing she detects is radio silence, almost as if mana did not exists.*
 
 **Mint:** Where am I...
-
----

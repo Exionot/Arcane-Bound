@@ -1,24 +1,13 @@
-	---
+---
 type: narrative 
-time:
-  year: 2405
-  month: ""
-  date: ""
-  season: Early Winter
 cssclasses:
   - narrative
 ---
 
-# **Basic Information**
-**Title**: My house
 **Character/s**: [[Aura Brillfer]], [[Mint Evergreen]]
 **Location**: [[Aura's Apartment]]
-**Time of Occurrence**: `= this.time.month` `= this.time.date`, `= this.time.year`, `= this.time.season`
-**Previous**: [[Narrative - Defying orders]]
-**Next**: 
-**Related:** [[Narrative - Her house]]
-
----
+**Time of Occurrence**: 2405, Early Winter
+**Related**: [[Her house]]
 
 *Aura and Mint are walking the streets of Circuit District, Aura glances at Mint, she notices unfamiliarity and fascination in her eyes.*
 
@@ -43,7 +32,3 @@ cssclasses:
 **Aura:** *Fine... Time for me get information from you.*
 
 *Aura stands by the door watching as Mint fascinates over the mode simple of objects in her apartment.*
-
----
-
-

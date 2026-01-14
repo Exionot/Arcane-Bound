@@ -23,5 +23,13 @@
       ],
       "key": "C"
     }
+  ],
+  "app:toggle-ribbon": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "`"
+    }
   ]
 }

@@ -1,24 +1,13 @@
 ---
 type: narrative 
-time:
-  year: 2405
-  month: ""
-  date: ""
-  season: Early Winter
 cssclasses:
   - narrative
 ---
 
-# **Basic Information**
-**Title**: An order you can't fight
 **Character/s**: [[Aura Brillfer]], [[Mint Evergreen]]
 **Location**: [[Amphere Square]]
-**Time of Occurrence**: `= this.time.month` `= this.time.date`, `= this.time.year`, `= this.time.season`
-**Previous**:
-**Next**: [[Narrative - Defying orders]]
-**Related:** [[Narrative - A fellow feline]]
-
----
+**Time of Occurrence**: 2405, Early Winter
+**Related:** [[A fellow Feline]]
 
 *Its the afternoon, the sun is at it's peak. Aura is doing her last patrol around Circuit District at Amphere Square with her bodyguards. Her in-ear radio sparks to life.*
 
@@ -51,7 +40,3 @@ cssclasses:
 *As they were about to continue in their patrol, a voice come from behind.*
 
 **Mint:** E-excuse me!
-
----
-
-
