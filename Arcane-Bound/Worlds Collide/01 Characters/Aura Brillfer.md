@@ -54,7 +54,7 @@ if (relations != null){
 }
 ```
 
-**Character Thread**: 
+**Character Thread**: [[Aura Brillfer Narratives Manuscript]]
 
 ---
 # **History** 

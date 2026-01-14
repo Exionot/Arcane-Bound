@@ -56,7 +56,7 @@ if (relations != null){
 }
 ```
 
-**Character Thread**: 
+**Character Thread**: [[Victoria Veloux Canidel Narratives Manuscript]]
 
 ---
 # **History** 
