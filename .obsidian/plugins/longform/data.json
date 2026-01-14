@@ -7,7 +7,7 @@
   "sessions": [
     {
       "start": "2026-01-12T15:29:55.612Z",
-      "total": 6528,
+      "total": 9064,
       "drafts": {
         "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Test/Index.md": {
           "total": 10,
@@ -19,12 +19,9 @@
           }
         },
         "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen Narratives/Index.md": {
-          "total": 3138,
+          "total": 2322,
           "scenes": {
-            "Missing merchant": 368,
-            "The convergence (Mint Evergreen)": 189,
             "A fellow Feline": 270,
-            "Her house": 259,
             "Confrontation": 518,
             "The convergence... again": 529,
             "An encounter with the devil": 231,
@@ -33,22 +30,22 @@
           }
         },
         "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Victoria Veloux Canidel Narratives/Index.md": {
-          "total": 2642,
+          "total": 5248,
           "scenes": {
-            "The convergence (Victoria Veloux Canidel)": 203,
-            "Guide to an unknown world": 415,
-            "Fashion like a noble": 316,
-            "Point of return": 489,
-            "Feline encounter": 522,
-            "Challenge of acceptance": 697
+            "The convergence (Victoria Veloux Canidel)": 406,
+            "Guide to an unknown world": 830,
+            "Fashion like a noble": 623,
+            "Point of return": 951,
+            "Feline encounter": 1044,
+            "Challenge of acceptance": 1394
           }
         },
         "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Aura Brillfer Narratives/Index.md": {
-          "total": 748,
+          "total": 1494,
           "scenes": {
-            "An order you can't fight": 221,
-            "Defying orders": 270,
-            "My house": 257
+            "An order you can't fight": 440,
+            "Defying orders": 540,
+            "My house": 514
           }
         }
       }
