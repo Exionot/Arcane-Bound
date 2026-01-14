@@ -23,7 +23,7 @@ cssclasses:
 
 *Vi suddenly, slowly unbuckles her belt almost as if she's undressing.*
 
-**Guard:** Oy! What are you doing?! Just testing?
+**Guard:** Oy! What are you doing?!
 
 *Vi smirks at the guards, she presses something on her belt, a bright blinding light illuminates the entire room. The guards closes their eyes and grunts in pain, when they open their eyes Vi was nowhere to be found.*
 
