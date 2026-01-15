@@ -36,6 +36,7 @@ aliases:
 ## Almia Quarter
 - Northern City Gate
 - [[Bauserst Racecourse]]
+- [[Racer's Inn]]
 - [[Maya's Alchemy Shop]]
 - [[Alchemist Academy]]
 

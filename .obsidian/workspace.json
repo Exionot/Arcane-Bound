@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homepage.md",
-                "mode": "preview",
+                "file": "Arcane-Bound/Worlds Collide/03 Locations/05a Cities/Bauserst City.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Homepage"
+              "title": "Bauserst City"
             }
           }
         ]
@@ -117,7 +117,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Homepage.md",
+                "file": "Arcane-Bound/Worlds Collide/03 Locations/05a Cities/Bauserst City.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -145,7 +145,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Homepage"
+              "title": "Graph of Bauserst City"
             }
           },
           {
@@ -278,6 +278,7 @@
   },
   "active": "1813c6677f7b7830",
   "lastOpenFiles": [
+    "Homepage.md",
     "Arcane-Bound/Worlds Collide/03 Locations/05a Cities/Bauserst City.md",
     "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Victoria Veloux Canidel Narratives/Victoria Veloux Canidel Narratives Manuscript.md",
     "Arcane-Bound/Worlds Collide/03 Locations/05a Cities/Astral City.md",
@@ -303,7 +304,6 @@
     "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen Narratives/The convergence (Mint Evergreen).md",
     "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen Narratives/Missing merchant.md",
     "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Victoria Veloux Canidel Narratives/Feline encounter.md",
-    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Victoria Veloux Canidel Narratives/Challenge of acceptance.md",
     "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Aura Brillfer Narratives",
     "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Victoria Veloux Canidel Narratives",
     "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen Narratives",
