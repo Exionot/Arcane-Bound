@@ -29,19 +29,26 @@ aliases:
  
 # **Subareas** 
 ## Bauer Quarter
-- West City Gate
+- Eastern City Gate
+- Southern City Gate
 - [[Cathedrum so' Bauserst]]
 - [[Bauserst City Central]]
+- [[Bauserst Palace]]
+- [[School of Flora]]
+- Traders' Passage
+- Warriors' Inn
 
 ## Almia Quarter
 - Northern City Gate
+- Northern Park
 - [[Bauserst Racecourse]]
 - [[Racer's Inn]]
 - [[Maya's Alchemy Shop]]
 - [[Alchemist Academy]]
 
 ## Vyra Quarter
-- Southern City Gate
+- Western City Gate
+- [[Academy of Healers]]
 
 # **History** 
 
