@@ -5,10 +5,10 @@ longform:
   workflow: Default Workflow
   sceneFolder: /
   scenes:
-    - Missing merchant
-    - The convergence (Mint Evergreen)
+    - Missing Merchant
+    - The Convergence (Mint Evergreen)
     - A fellow Feline
-    - Her house
+    - Her House
     - Confrontation
     - The convergence... again
     - An encounter with the devil
