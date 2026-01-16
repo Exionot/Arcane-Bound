@@ -34,6 +34,7 @@ aliases:
 - [[Cathedrum so' Bauserst]]
 - [[Bauserst City Central]]
 - [[Bauserst Palace]]
+- [[Guild of Arcane Healers]]
 - [[School of Flora]]
 - Traders' Passage
 - Warriors' Inn
