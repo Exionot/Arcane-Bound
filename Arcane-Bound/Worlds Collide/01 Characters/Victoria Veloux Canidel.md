@@ -61,7 +61,7 @@ if (relations != null){
 ---
 # **History** 
 ## Background 
-**Victoria Veloux Canidel** is a [[Virken]] from [[Lightspeed City]] in [[HyperCorp Republic]]. She was part of the noble [[Canidel Family]] before running away.^[[[Canidel Family]]] She now lives in [[Astral City]] going by the name "**Vi**", working as a server/waiter in [[The Food Horizon]] on [[Tiamat Region]] of [[Astral City]].^[[[The Food Horizon]]] She is also the founder and leader of [[Starveil Retrieval Co.]], taking "retrieval" contracts in return of money or technology.^[[[Starveil Retrieval Co.]]]
+**Victoria Veloux Canidel** is a [[Virken]] from [[Lightspeed City]] in [[HyperCorp Republic]]. She was part of the noble [[Canidel Family]] before running away.^[[[Canidel Family]]] She now lives in [[Astral City]] going by the name "**Vi**", working as a server/waiter in [[The Food Horizon]] on [[Tiamat District]] of [[Astral City]].^[[[The Food Horizon]]] She is also the founder and leader of [[Starveil Retrieval Co.]], taking "retrieval" contracts in return of money or technology.^[[[Starveil Retrieval Co.]]]
 ## During The Convergence
 > **Full Note:** [[The Convergence]]
 

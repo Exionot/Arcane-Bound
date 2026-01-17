@@ -11,7 +11,7 @@ status: Active
 
 # **Basic Information**
 **Name**: `= this.file.name`
-**Location**: [[VOID Headquarters]], [[Ground Quarter]], [[Newslate City]], [[Lushborne Region]], [[Republic of Chloros]]
+**Location**: [[VOID Headquarters]], [[Ground District]], [[Newslate City]], [[Lushborne Region]], [[Republic of Chloros]]
 **Founder/s**:
 **Holder of Power**:
 **Affiliation/s**:
@@ -22,7 +22,7 @@ status: Active
 **Status**: `INPUT[factionStatus][]`
 
 # **Overview**
-**Voidrock Operation & Investigation Department** referred to as **V.O.I.D.** or **VOID**, is a protection unit of the [[Chloros Administration]] against the [[Void Crystal]] corruption. They are found at [[VOID Headquarters]] in [[Ground Quarter]] of [[Newslate City]], Special Operation Divisions are spread across cities of [[Republic of Chloros|Chloros]], and in the [[Great Divider]] near [[Rockcore City]]. ^07c61f
+**Voidrock Operation & Investigation Department** referred to as **V.O.I.D.** or **VOID**, is a protection unit of the [[Chloros Administration]] against the [[Void Crystal]] corruption. They are found at [[VOID Headquarters]] in [[Ground District]] of [[Newslate City]], Special Operation Divisions are spread across cities of [[Republic of Chloros|Chloros]], and in the [[Great Divider]] near [[Rockcore City]]. ^07c61f
 
 # **Members**
 ```dataviewjs

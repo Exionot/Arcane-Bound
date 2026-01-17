@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homepage.md",
-                "mode": "preview",
+                "file": "Arcane-Bound/Worlds Collide/02 Factions/Guild of Arcane Healers.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Homepage"
+              "title": "Guild of Arcane Healers"
             }
           }
         ]
@@ -270,37 +270,38 @@
       "templater-obsidian:Templater": false,
       "homepage:Open homepage": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "calendarium:Open Calendarium": false
     }
   },
   "active": "eca4c747a97061e6",
   "lastOpenFiles": [
-    "Arcane-Bound/Worlds Collide/03 Locations/05a Cities/Bauserst City.md",
     "Arcane-Bound/Worlds Collide/03 Locations/03 Nations/Republic of Chloros.md",
-    "Arcane-Bound/Worlds Collide/03 Locations/01 Continents/Arcaena.md",
+    "Arcane-Bound/Worlds Collide/03 Locations/05a Cities/Newslate City.md",
+    "Ground District.md",
+    "Arcane-Bound/Worlds Collide/03 Locations/05a Cities/Astral City.md",
+    "Tiamat District.md",
+    "Arcane-Bound/Worlds Collide/03 Locations/05a Cities/Fluxpoint City.md",
+    "Arcane-Bound/Worlds Collide/03 Locations/03 Nations/HyperCorp Republic.md",
+    "Arcane-Bound/Worlds Collide/03 Locations/04 Regions/Dryrock Region.md",
     "Arcane-Bound/Worlds Collide/03 Locations/03 Nations/Verdthorne Kingdom.md",
+    "Arcane-Bound/Worlds Collide/07 Lore/01 Documents/Document - Lost Arcaenian Map.md",
+    "Arcane-Bound/Worlds Collide/07 Lore/01 Documents/Document - Decree of The Numia Coins.md",
+    "Arcane-Bound/Worlds Collide/07 Lore/01 Documents/Document - Standardized Territorial Codex Protocol.md",
+    "Arcane-Bound/Worlds Collide/07 Lore/01 Documents/Document - Synthspire Units Currency Documentation.md",
+    "Arcane-Bound/Worlds Collide/03 Locations/05a Cities/Fontur City.md",
+    "Arcane-Bound/Worlds Collide/03 Locations/04 Regions/Split Region.md",
+    "Arcane-Bound/Worlds Collide/03 Locations/05a Cities/Bauserst City.md",
+    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen Narratives/Mint Evergreen Narratives Manuscript.md",
+    "Arcane-Bound/Worlds Collide/01 Characters/Mint Evergreen.md",
+    "Homepage.md",
+    "Arcane-Bound/Worlds Collide/03 Locations/01 Continents/Arcaena.md",
     "Arcane-Bound/Worlds Collide/03 Locations/02 Sectors–Lands/CinderScorch Sector.md",
     "Arcane-Bound/Worlds Collide/03 Locations/02 Sectors–Lands/Central Lands.md",
     "Arcane-Bound/Worlds Collide/03 Locations/01 Continents/Synthspire.md",
     "Arcane-Bound/Worlds Collide/02 Factions/Guild of Arcane Healers.md",
     "Arcane-Bound/Worlds Collide/01 Characters/Rem Orion.md",
     "Arcane-Bound/Worlds Collide/01 Characters/Krystalle Eos.md",
-    "Arcane-Bound/Worlds Collide/01 Characters/Mint Evergreen.md",
-    "Arcane-Bound/Worlds Collide/02 Factions/Neo-Technology Corporation.md",
-    "Arcane-Bound/Worlds Collide/02 Factions/Sons of The Crimson Flame.md",
-    "Arcane-Bound/Worlds Collide/02 Factions/Wandering Traders of Arcaena.md",
-    "Arcane-Bound/Worlds Collide/02 Factions/Void Operation & Investigation Department.md",
-    "Arcane-Bound/Worlds Collide/02 Factions/Starveil Retrieval Co..md",
-    "Arcane-Bound/Worlds Collide/02 Factions/Protection Of Local Livelihood.md",
-    "Arcane-Bound/Worlds Collide/01 Characters/Victoria Veloux Canidel.md",
-    "Arcane-Bound/Worlds Collide/03 Locations/05a Cities/Astral City.md",
-    "Arcane-Bound/Worlds Collide/01 Characters/Aura Brillfer.md",
-    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Victoria Veloux Canidel Narratives/Victoria Veloux Canidel Narratives Manuscript.md",
-    "Arcane-Bound/Worlds Collide/03 Locations/03 Nations/HyperCorp Republic.md",
-    "Arcane-Bound/Worlds Collide/03 Locations/07 Points of Interest/Orbital Access Transit Station.md",
-    "Arcane-Bound/Worlds Collide/01 Characters/Still Thunder.md",
-    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen Narratives/Mint Evergreen Narratives Manuscript.md",
-    "Arcane-Bound/Worlds Collide/04 Systems/01 Magic/Elemental Magic.md",
     "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Aura Brillfer Narratives",
     "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Victoria Veloux Canidel Narratives",
     "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen Narratives",

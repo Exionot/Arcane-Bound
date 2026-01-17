@@ -17,11 +17,11 @@ aliases:
 **Newslate City** is the new capital of the [[Republic of Chloros]]. With the fall of [[Rockcore City]] due to [[Void Crystal]] corruption, **Newslate City** remained open for evacuees from the [[Rockcore City|Old Capital]]. After the fall of [[Rockcore City]], **Newslate City** was declared as the new capital of [[Republic of Chloros|Chloros]]. 
 
 # **Areas** 
-## Ground Quarter
-> **Full Note:** [[Ground Quarter]]
+## Ground District
+> **Full Note:** [[Ground District]]
 
 # **Subareas** 
-## Ground Quarter
+## Ground District
 - [[VOID Headquarters]]
 
 # **History** 

@@ -17,7 +17,7 @@ status: Active
 **Status**: `INPUT[factionStatus][]`
 
 # **Overview**
-A guild of healers that aims to spread the knowledge of healing magic and help those in need.
+The **Guild of Arcane Healers** is a guild found in the [[Bauer Quarter]] of [[Bauserst City]], they seek to train and spread the knowledge of healing magic to future generations. Like the nation's warriors, they are one of the most important groups of the city, often being needed during times of conflict. They also serve the people of [[Bauserst City|Bauserst]] by providing aid to those in need.
 
 # **Members**
 ```dataviewjs

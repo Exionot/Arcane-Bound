@@ -17,11 +17,11 @@ aliases:
 **Astral City** is a city located in the [[NOVA Region|Nova Region]] of [[HyperCorp Republic]]. A city dedicated to astronomy, it is where majority of space research companies like [[Aerospace Space & Technology Research Organization|ASTRO]] are found. Launch stations for the [[Ring of Orion]] are also found in **Astral City**, allowing commercial and cargo transport to the ring.
 
 # **Areas** 
-## Tiamat Region
-> **Full Note:** [[Tiamat Region]]
+## Tiamat District
+> **Full Note:** [[Tiamat District]]
 
 # **Subareas** 
-## Tiamat Region
+## Tiamat District
 - [[Starlight Tower]]
 - [[The Food Horizon]]
 
