@@ -23,6 +23,7 @@ aliases:
 # **Subareas** 
 ## Tiamat Region
 - [[Starlight Tower]]
+- [[The Food Horizon]]
 
 # **History** 
 

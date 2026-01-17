@@ -71,11 +71,11 @@ if (relations != null){
 ## Background 
 **Mint Evergreen** is a [[Virken]] mage from [[Lenben Village]]. She is a former member of the [[Guild of Arcane Healers]] and used to serve as the village's healer before pursuing magic.
 ## Early childhood 
-**Mint** was disallowed by her parents to learn offensive magic as a tradition in their village and in fear of her getting harmed. They sent her to be a part of the [[Guild of Arcane Healers]] to learn healing magic. She was not in favor of this decision but had no choice but to comply due to the village's traditions.
+**Mint** was disallowed by her parents to learn offensive magic as a tradition in their village and in fear of her getting harmed. They enrolled her to the [[Academy of Healers]] to learn [[Elemental Magic#Vitalis|Vitalis]] where she later became a member of the [[Guild of Arcane Healers]]. Though not in favor of this decision, she had to comply due to the village's tradition.
 
-Despite being taught healing magic, Mint stayed focused in her trainings treating it as if she was learning offensive magic. This gave her an advantage compared to her colleagues, her mana control was better than most of the young mages, she's able to cast healing spells faster than most.
+Despite being taught healing magic, **Mint** stayed focused in her trainings treating it as if she was learning offensive magic. This gave her an advantage compared to her colleagues, her mana control was better than most of the young mages, she's able to cast healing spells faster than most beginners.
 ## Young Adolescence 
-**Mint** wanted to learn real magic and reach her true potential. Her parents disagreed with her decision and made it clear that they would not be supporting her if she continued. Mint went on to pursue the art of magic without the support of her parents, knowing that she too can be as powerful as one of [[Arcaena]]'s [[Ace Mages]].
+After being part of the [[Guild of Arcane Healers]] for more than half a decade, **Mint** craved to learn real magic and reach her true potential. Her parents disagreed with her decision and made it clear that they would not be supporting her if she continued. Despite the lack of support from her parents, Mint went on to pursue the art of magic knowing that she too can be as powerful as one of [[Arcaena]]'s [[Ace Mages]].
 
 She has been recruited multiple times by [[Ion Kynne]] to join the [[Wandering Traders of Arcaena]], even joining one of their trip across [[Arcaena]]. But despite her experience and connections with the guild, Mint refused to join the [[Wandering Traders of Arcaena|Wanderers]]. She wanted to explore the lands more freely and learn new spells, even taking quests in exchange of tomes and grimoires.
 ## During The Convergence

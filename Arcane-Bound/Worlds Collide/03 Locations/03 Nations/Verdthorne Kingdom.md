@@ -16,7 +16,7 @@ aliases:
 **Holder of Power**:
 
 # **Description** 
-**Verdthorne** is kingdom located in the [[Central Lands]] of [[Arcaena]]. It is known for its specialization in [[Elemental Magic##Flora|Flora Magic]] and [[Elemental Magic###Vitalis|Vitalis]]. ^96bef9
+**Verdthorne** is kingdom located in the [[Central Lands]] of [[Arcaena]]. It is known for its specialization in [[Elemental Magic##Flora|Flora Magic]] and [[Elemental Magic#Vitalis|Vitalis]]. ^96bef9
 
 # **Areas**
 ## Phthalo Region
