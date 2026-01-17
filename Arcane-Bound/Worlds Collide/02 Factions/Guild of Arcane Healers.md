@@ -9,7 +9,7 @@ status: Active
 
 # **Basic Information**
 **Name**: Guild of Arcane Healers
-**Location**: [[Bauer Quarter]], [[Bauserst City]], [[Phthalo Region]], [[Verdthorne Kingdom]], [[Central Lands]], [[Arcaena]]
+**Location**: [[Bauserst City]], [[Phthalo Region]], [[Verdthorne Kingdom]], [[Central Lands]], [[Arcaena]]
 **Founder/s**:
 **Holder of Power**:
 **Affiliation/s**:

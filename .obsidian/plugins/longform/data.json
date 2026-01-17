@@ -7,7 +7,7 @@
   "sessions": [
     {
       "start": "2026-01-12T15:29:55.612Z",
-      "total": 6528,
+      "total": 5712,
       "drafts": {
         "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Test/Index.md": {
           "total": 10,
@@ -19,13 +19,12 @@
           }
         },
         "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen Narratives/Index.md": {
-          "total": 3138,
+          "total": 2322,
           "scenes": {
-            "Missing merchant": 368,
-            "The convergence (Mint Evergreen)": 189,
+            "Missing Merchant": 0,
+            "The Convergence (Mint Evergreen)": 0,
             "A fellow Feline": 270,
-            "Her house": 259,
-
+            "Her House": 0,
             "Confrontation": 518,
             "The convergence... again": 529,
             "An encounter with the devil": 231,
