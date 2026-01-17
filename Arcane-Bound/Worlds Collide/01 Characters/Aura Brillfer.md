@@ -122,7 +122,7 @@ TABLE systemType as "Type" WHERE contains(this.systemUsed, file.name)
 ## Narratives
 ```dataview
 TABLE
-  regexreplace(file.folder, ".*/", "") AS Folder
+  regexreplace(file.folder, ".*/", "") AS "Character Thread"
 FROM "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives"
 WHERE contains(file.outlinks, this.file.link)
 SORT file.folder ASC, file.name ASC

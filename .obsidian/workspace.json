@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arcane-Bound/Worlds Collide/03 Locations/05a Cities/Bauserst City.md",
-                "mode": "preview",
-                "source": false
+                "file": "Arcane-Bound/Worlds Collide/01 Characters/Ion Kynne.md",
+                "mode": "source",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Bauserst City"
+              "title": "Ion Kynne"
             }
           }
         ]
@@ -117,7 +117,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Arcane-Bound/Worlds Collide/03 Locations/05a Cities/Bauserst City.md",
+                "file": "Arcane-Bound/Worlds Collide/01 Characters/Ion Kynne.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -145,7 +145,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Bauserst City"
+              "title": "Graph of Ion Kynne"
             }
           },
           {
@@ -163,8 +163,7 @@
               "title": "Tags"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "c3b857a81cfcc89f",
@@ -278,8 +277,21 @@
   },
   "active": "1813c6677f7b7830",
   "lastOpenFiles": [
-    "Arcane-Bound/Worlds Collide/02 Factions/Guild of Arcane Healers.md",
+    "Templates/Character.md",
+    "Arcane-Bound/Worlds Collide/01 Characters/Victoria Veloux Canidel.md",
+    "Arcane-Bound/Worlds Collide/01 Characters/Underworldian - Clair.md",
+    "Arcane-Bound/Worlds Collide/01 Characters/Ted Ursa.md",
+    "Arcane-Bound/Worlds Collide/01 Characters/Still Thunder.md",
+    "Arcane-Bound/Worlds Collide/01 Characters/Rem Orion.md",
+    "Arcane-Bound/Worlds Collide/01 Characters/Mint Evergreen.md",
+    "Arcane-Bound/Worlds Collide/01 Characters/Mhaxxine Dark.md",
+    "Arcane-Bound/Worlds Collide/01 Characters/Krystalle Eos.md",
+    "Arcane-Bound/Worlds Collide/01 Characters/Clair Tempest.md",
+    "Arcane-Bound/Worlds Collide/01 Characters/Aura Brillfer.md",
+    "Arcane-Bound/Worlds Collide/01 Characters/Ion Kynne.md",
+    "Arcane-Bound/Worlds Collide/07 Lore/03 Species/Virken.md",
     "Arcane-Bound/Worlds Collide/03 Locations/05a Cities/Bauserst City.md",
+    "Arcane-Bound/Worlds Collide/02 Factions/Guild of Arcane Healers.md",
     "Arcane-Bound/Worlds Collide/03 Locations/03 Nations/Verdthorne Kingdom.md",
     "Homepage.md",
     "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Victoria Veloux Canidel Narratives/Victoria Veloux Canidel Narratives Manuscript.md",
@@ -291,19 +303,6 @@
     "Arcane-Bound/Worlds Collide/03 Locations/05c Villages/Lenben Village.md",
     "Arcane-Bound/Worlds Collide/03 Locations/05b Towns/Region's Edge.md",
     "Arcane-Bound/Worlds Collide/03 Locations/05a Cities/Shellport Capital.md",
-    "Arcane-Bound/Worlds Collide/03 Locations/05a Cities/Newslate City.md",
-    "Arcane-Bound/Worlds Collide/03 Locations/03 Nations/Erde Kingdom.md",
-    "Arcane-Bound/Worlds Collide/03 Locations/03 Nations/Ignia Kingdom.md",
-    "Arcane-Bound/Worlds Collide/01 Characters/Victoria Veloux Canidel.md",
-    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Aura Brillfer Narratives/Aura Brillfer Narratives Manuscript.md",
-    "Arcane-Bound/Worlds Collide/01 Characters/Mint Evergreen.md",
-    "Arcane-Bound/Worlds Collide/01 Characters/Aura Brillfer.md",
-    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen Narratives/Mint Evergreen Narratives Manuscript.md",
-    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen Narratives/Confrontation.md",
-    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen Narratives/Her house.md",
-    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen Narratives/A fellow Feline.md",
-    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen Narratives/The convergence (Mint Evergreen).md",
-    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen Narratives/Missing merchant.md",
     "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Aura Brillfer Narratives",
     "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Victoria Veloux Canidel Narratives",
     "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen Narratives",
