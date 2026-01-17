@@ -1,6 +1,6 @@
 ---
 type: meta
-filter: g
+filter: technology
 ---
 
 The following is a complete list of all existing location notes within [[Arcane-Bound – Worlds Collide]].

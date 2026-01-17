@@ -46,7 +46,6 @@ INPUT[imageSuggester(optionQuery("ᐳExternal Assets"), class(character-img)):pr
 **Hobbies**: Watching [[Stakes Running|Stake Races]]
 **Nickname/s**:
 **Faction/s**: [[Wandering Traders of Arcaena]]
-
 **Relation/s**: 
 ```dataviewjs
 const relations = dv.current().relations;

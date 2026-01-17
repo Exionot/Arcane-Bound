@@ -55,9 +55,7 @@ INPUT[imageSuggester(optionQuery("ᐳExternal Assets"), class(character-img)):pr
 **Origin**: [[Lenben Village]], [[Phthalo Region]], [[Verdthorne Kingdom]], [[Central Lands]], [[Arcaena]]
 **Hobbies**: Gardening
 **Nickname/s**:
-**Faction/s**:
-- [[Guild of Arcane Healers]] (Former member)
-
+**Faction/s**: [[Guild of Arcane Healers]] (Former member)
 **Relation/s**: 
 ```dataviewjs
 const relations = dv.current().relations;
