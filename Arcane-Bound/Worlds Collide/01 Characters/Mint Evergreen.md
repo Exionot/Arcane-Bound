@@ -40,33 +40,29 @@ relations:
   - Ion Kynne
 ---
 
-```meta-bind
-INPUT[imageSuggester(optionQuery("ᐳExternal Assets"), class(character-img)):profileImage]
-```
+> [!Infobox] **`=this.file.name`**
+> ---
+> ```meta-bind
+> INPUT[imageSuggester(optionQuery("ᐳExternal Assets"), class(character-img)):profileImage]
+> ``` 
+> |   Name  |  Mint Evergreen   |
+> | --- | --- |
+> |   Nickname  |     |
+> |   Sex  |  Female   |
+> |   Height  |     |
+> |   Birthday  |     |
+> |   Age  |  Young Adult   |
+> |   Species  |  [[Virken]] (Feline)   |
+> |   Origin  |  [[Evergreen Household]], [[Lenben Village]], [[Phthalo Region]], [[Verdthorne Kingdom]], [[Central Lands]], [[Arcaena]]   |
+> |   Faction/s  |  [[Guild of Arcane Healers]] (Former)   |
+> |   Hobbies  |  Gardening   |
+> |   Relations  | `$= dv.span(dv.current().relations ? dv.current().relations.map(p => "[[" + p + "]]").join("\n ") : "")`  |
+
+> **Character Thread**: [[Mint Evergreen Narratives Manuscript]]
+
 > [!character]
 > **"Your bed is so fluffy! I want to stay in it forever!"**
 > -Mint Evergreen on Aura's bed
-
-
-# **Basic Information** 
-**Name**: `= this.file.name`
-**Sex**: Female 
-**Age**: Young Adult
-**Birthday**: 
-**Species**: [[Virken]] (Feline)
-**Origin**: [[Lenben Village]], [[Phthalo Region]], [[Verdthorne Kingdom]], [[Central Lands]], [[Arcaena]]
-**Hobbies**: Gardening
-**Nickname/s**:
-**Faction/s**: [[Guild of Arcane Healers]] (Former member)
-**Relation/s**: 
-```dataviewjs
-const relations = dv.current().relations;
-if (relations != null){
-	dv.list(relations.map(p => `[[${p}]]`));
-}
-```
-
-**Character Thread**: [[Mint Evergreen Narratives Manuscript]]
 
 ---
 # **History** 

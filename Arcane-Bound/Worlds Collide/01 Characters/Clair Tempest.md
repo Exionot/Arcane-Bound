@@ -27,37 +27,33 @@ relations:
   - Rem Orion
 ---
 
+> [!Infobox] **`=this.file.name`**
+> ---
+> ```meta-bind
+> INPUT[imageSuggester(optionQuery("ᐳExternal Assets"), class(character-img)):profileImage]
+> ``` 
+> |   Name  |  Clair Tempest   |
+> | --- | --- |
+> |   Nickname  |  "Demon of the forest"   |
+> |   Sex  |  Female   |
+> |   Height  |     |
+> |   Birthday  |     |
+> |   Age  |  Unknown   |
+> |   Species  |  [[Devil]]   |
+> |   Origin  |  [[Underworld]], [[Arcaena]]   |
+> |   Faction/s  |     |
+> |   Hobbies  |     |
+> |   Relations  | `$= dv.span(dv.current().relations ? dv.current().relations.map(p => "[[" + p + "]]").join("\n ") : "")`  |
+
 > This note is about Clair's [[Arcaena|Arcaenian]] variant. For the [[Underworld|Underworldian]] variant, see [[Underworldian - Clair]].
 
-```meta-bind
-INPUT[imageSuggester(optionQuery("ᐳExternal Assets"), class(character-img)):profileImage]
-```
-
+> **Character Thread**: 
 
 > [!Character] 
 > **"Please go... This forest is dangerous with people like me."**
 > -Clair guiding a lost traveler
 
 
-# **Basic Information** 
-**Name**:  `= this.file.name`
-**Sex**: Female
-**Age**: Unknown
-**Birthday**: 
-**Species**: [[Devil]]
-**Origin**: [[Underworld]]
-**Hobbies**:
-**Nickname/s**: "Demon of the [[Vilebloom Forest]]"
-**Faction/s**:
-**Relation/s**: 
-```dataviewjs
-const relations = dv.current().relations;
-if (relations != null){
-	dv.list(relations.map(p => `[[${p}]]`));
-}
-```
-
-**Character Thread**: 
 
 ---
 # **History** 

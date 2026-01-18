@@ -19,6 +19,10 @@
 --background-secondary-alt: rgb(32, 32, 32); 
 */
 
+--background-primary: rgb(9, 9, 9);
+ 	--background-secondary: rgb(26, 26, 26);
+  	--background-secondary-alt: rgb(32, 32, 32);
+
 --h1: var(--white);   
 --h2: var(--white); 
 --h3: var(--white); 
@@ -180,35 +184,6 @@ div.internal-embed .markdown-embed-content {
   padding: 0 !important;
   background: none !important;
 }
-
-.callout[data-callout=character]{
-	background-color: var(--background-secondary);
-	text-align: center;
-	font-style: italic;
-
-	--italic-color: var(--white);
-}
-
-.callout[data-callout=character] .callout-title{
-  display: none;
-}
-
-.callout[data-callout=navigation]{
-	background-color: var(--background-secondary);
-	margin: 0;
-}
-
-.callout[data-callout=navigation] .callout-icon{
-  display: none;
-}
-
-.callout[data-callout=navigation] .callout-title{
-  color: var(--white);
-}
-
- .callout[data-callout=navigation] .internal-link{
-	font-weight: bold;
- }
 
 .theme-light,
 .theme-dark {

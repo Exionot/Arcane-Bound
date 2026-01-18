@@ -30,34 +30,29 @@ relations:
   - Rem Orion
 ---
 
-```meta-bind
-INPUT[imageSuggester(optionQuery("ᐳExternal Assets"), class(character-img)):profileImage]
-```
+> [!Infobox] **`=this.file.name`**
+> ---
+> ```meta-bind
+> INPUT[imageSuggester(optionQuery("ᐳExternal Assets"), class(character-img)):profileImage]
+> ``` 
+> |   Name  |  Victoria Veloux Canidel   |
+> | --- | --- |
+> |   Nickname  |  "Vi" (Preferred name)   |
+> |   Sex  |  Female   |
+> |   Height  |     |
+> |   Birthday  |     |
+> |   Age  |  Young Adult   |
+> |   Species  |  [[Virken]] (Vulpes)   |
+> |   Origin  |  [[Lightspeed City]], [[HyperCorp Republic]], [[Synthspire]]   |
+> |   Faction/s  |  [[Starveil Retrieval Co.]]   |
+> |   Hobbies  |     |
+> |   Relations  | `$= dv.span(dv.current().relations ? dv.current().relations.map(p => "[[" + p + "]]").join("\n ") : "")`  |
+
+> **Character Thread**: [[Victoria Veloux Canidel Narratives Manuscript]]
 
 > [!Character]
-> **"Ugh... Can you quit calling me by *that name* already? I told you my name is 'Vi'! Where did you get that name anyway?"**
+> **"Ugh... Can you quit calling me by *that name* already? I told you my name is 'Vi'!"**
 > Vi when she's called by her real name
-
-
-# **Basic Information** 
-**Name**: Victoria Veloux Canidel
-**Sex**: Female
-**Age**: Young Adult
-**Birthday**:
-**Species**: [[Virken]] (Vulpes)
-**Origin**: [[Lightspeed City]], [[HyperCorp Republic]], [[Synthspire]]
-**Hobbies**:
-**Nickname/s**: "Vi" (Preferred name)
-**Faction/s**: [[Starveil Retrieval Co.]]
-**Relation/s**: 
-```dataviewjs
-const relations = dv.current().relations;
-if (relations != null){
-	dv.list(relations.map(p => `[[${p}]]`));
-}
-```
-
-**Character Thread**: [[Victoria Veloux Canidel Narratives Manuscript]]
 
 ---
 # **History** 

@@ -28,29 +28,25 @@ relations:
   - Victoria Veloux Canidel
 ---
 
-```meta-bind
-INPUT[imageSuggester(optionQuery("ᐳExternal Assets"), class(character-img)):profileImage]
-```
+> [!Infobox] **`=this.file.name`**
+> ---
+> ```meta-bind
+> INPUT[imageSuggester(optionQuery("ᐳExternal Assets"), class(character-img)):profileImage]
+> ``` 
+> |   Name  |  Still Thunder   |
+> | --- | --- |
+> |   Nickname  |  "Stelle" ([[Ion Kynne]])   |
+> |   Sex  |  Female   |
+> |   Height  |     |
+> |   Birthday  |     |
+> |   Age  |  Adult   |
+> |   Species  |  [[Virken]] (Equus)   |
+> |   Origin  |  [[Yushinami City]], [[Lander Region]], [[Erde Kingdom]], [[Central Lands]], [[Arcaena]]   |
+> |   Faction/s  |  [[Wandering Traders of Arcaena]]   |
+> |   Hobbies  |     |
+> |   Relations  | `$= dv.span(dv.current().relations ? dv.current().relations.map(p => "[[" + p + "]]").join("\n ") : "")`  |
 
-# **Basic Information** 
-**Name**:  `= this.file.name`
-**Sex**: Female
-**Age**: Adult
-**Birthday**:
-**Species**: [[Virken]] (Equus)
-**Origin**: [[Yushinami City]], [[Lander Region]], [[Erde Kingdom]], [[Central Lands]], [[Arcaena]]
-**Hobbies**:
-**Nickname/s**: "Stelle" ([[Ion Kynne]])
-**Faction/s**: [[Wandering Traders of Arcaena]]
-**Relation/s**: 
-```dataviewjs
-const relations = dv.current().relations;
-if (relations != null){
-	dv.list(relations.map(p => `[[${p}]]`));
-}
-```
-
-**Character Thread**: 
+> **Character Thread**: 
 
 ---
 # **History** 

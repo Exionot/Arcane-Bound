@@ -33,29 +33,25 @@ relations:
   - Still Thunder
 ---
 
-```meta-bind
-INPUT[imageSuggester(optionQuery("ᐳExternal Assets"), class(character-img)):profileImage]
-```
+> [!Infobox] **`=this.file.name`**
+> ---
+> ```meta-bind
+> INPUT[imageSuggester(optionQuery("ᐳExternal Assets"), class(character-img)):profileImage]
+> ``` 
+> |   Name  |  Ion Kynne   |
+> | --- | --- |
+> |   Nickname  |     |
+> |   Sex  |  Female   |
+> |   Height  |     |
+> |   Birthday  |  May 24th   |
+> |   Age  |  Young Adult   |
+> |   Species  |  [[Virken]] (Canis)   |
+> |   Origin  |  [[Ohmpalos City]], [[Amphors Kingdom]], [[Southern Lands]], [[Arcaena]]   |
+> |   Faction/s  |  [[Wandering Traders of Arcaena]]   |
+> |   Hobbies  |  Watching [[Stakes Running|Stake Races]]   |
+> |   Relations  | `$= dv.span(dv.current().relations ? dv.current().relations.map(p => "[[" + p + "]]").join("\n") : "")`  |
 
-# **Basic Information** 
-**Name**: Ion Kynne
-**Sex**: Female 
-**Age**: Young Adult
-**Birthday**: May 24th
-**Species**: [[Virken]] (Canis)
-**Origin**: [[Ohmpalos City]], [[Amphors Kingdom]], [[Southern Lands]], [[Arcaena]]
-**Hobbies**: Watching [[Stakes Running|Stake Races]]
-**Nickname/s**:
-**Faction/s**: [[Wandering Traders of Arcaena]]
-**Relation/s**: 
-```dataviewjs
-const relations = dv.current().relations;
-if (relations != null){
-	dv.list(relations.map(p => `[[${p}]]`));
-}
-```
-
-**Character Thread**: 
+> **Character Thread**: 
 
 ---
 # **History** 

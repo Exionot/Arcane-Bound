@@ -24,36 +24,29 @@ relations:
   - Clair Tempest
 ---
 
-```meta-bind
-INPUT[imageSuggester(optionQuery("ᐳExternal Assets"), class(character-img)):profileImage]
-```
+> [!Infobox] **`=this.file.name`**
+> ---
+> ```meta-bind
+> INPUT[imageSuggester(optionQuery("ᐳExternal Assets"), class(character-img)):profileImage]
+> ``` 
+> |   Name  |  Rem Orion   |
+> | --- | --- |
+> |   Nickname  |     |
+> |   Sex  |  Female   |
+> |   Height  |     |
+> |   Birthday  |     |
+> |   Age  |  Young Adult   |
+> |   Species  |  [[Human]]   |
+> |   Origin  |  [[Astral City]], [[NOVA Region]], [[HyperCorp Republic]], [[Thunderdrop Sector]], [[Synthspire]]   |
+> |   Faction/s  |  [[Starveil Retrieval Co.]] (Managing Director)   |
+> |   Hobbies  |     |
+> |   Relations  | `$= dv.span(dv.current().relations ? dv.current().relations.map(p => "[[" + p + "]]").join("\n ") : "")`  |
+
+> **Character Thread**: 
 
 > [!Character]
 > **"Oh I love working at Starveil Co.! I get to take care of Vi's tail every now and then; and that's a luxury you can't get from other jobs!"**
 > -Rem Orion when asked about her working conditions in Starveil Retrieval Co.
-
-
-# **Basic Information** 
-**Name**: Rem Orion
-**Sex**: Female
-**Age**: Young Adult
-**Birthday**:
-**Species**: [[Human]]
-**Origin**: [[Astral City]], [[HyperCorp Republic]], [[Synthspire]]
-**Hobbies**:
-**Nickname/s**:
-**Faction/s**:
-- [[Starveil Retrieval Co.]] (Managing Director)
-
-**Relation/s**: 
-```dataviewjs
-const relations = dv.current().relations;
-if (relations != null){
-	dv.list(relations.map(p => `[[${p}]]`));
-}
-```
-
-**Character Thread**: 
 
 ---
 # **History** 

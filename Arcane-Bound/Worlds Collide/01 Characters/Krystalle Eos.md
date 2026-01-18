@@ -25,35 +25,29 @@ relations:
   - Mhaxxine Dark
 ---
 
-```meta-bind
-INPUT[imageSuggester(optionQuery("ᐳExternal Assets"), class(character-img)):profileImage]
-```
+> [!Infobox] **`=this.file.name`**
+> ---
+> ```meta-bind
+> INPUT[imageSuggester(optionQuery("ᐳExternal Assets"), class(character-img)):profileImage]
+> ``` 
+> |   Name  |  Krystalle Eos   |
+> | --- | --- |
+> |   Nickname  |     |
+> |   Sex  |  Female   |
+> |   Height  |     |
+> |   Birthday  |     |
+> |   Age  |  Adult   |
+> |   Species  |  [[Virken]] (Vulpes)   |
+> |   Origin  |  [[Evemark City]], [[Lushborne Region]], [[Republic of Chloros]], [[Veridian Sector]], [[Synthspire]]   |
+> |   Faction/s  |   [[Void Special Operation Division 9]]   |
+> |   Hobbies  |     |
+> |   Relations  | `$= dv.span(dv.current().relations ? dv.current().relations.map(p => "[[" + p + "]]").join("\n ") : "")`  |
+
+> **Character Thread**: 
 
 > [!Character] 
 > **"My left arm? What about it? I'm right-handed so I don't really use it casually."**
 > -Krystalle Eos when asked about her left arm
-
-
-# **Basic Information** 
-**Name**: Krystalle Eos
-**Sex**: Female
-**Age**:
-**Birthday**:
-**Species**: [[Virken]] (Vulpes)
-**Origin**: [[Evemark City]], [[Lushborne Region]], [[Republic of Chloros]], [[Veridian Sector]], [[Synthspire]]
-**Hobbies**:
-**Nickname/s**:
-**Faction/s**: [[Void Special Operation Division 9]]
-
-**Relation/s**: 
-```dataviewjs
-const relations = dv.current().relations;
-if (relations != null){
-	dv.list(relations.map(p => `[[${p}]]`));
-}
-```
-
-**Character Thread**: 
 
 ---
 # **History** 

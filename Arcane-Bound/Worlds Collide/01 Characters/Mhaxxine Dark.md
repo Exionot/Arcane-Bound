@@ -26,30 +26,25 @@ relations:
   - Clair Tempest
 ---
 
-```meta-bind
-INPUT[imageSuggester(optionQuery("ᐳExternal Assets"), class(character-img)):profileImage]
-```
+> [!Infobox] **`=this.file.name`**
+> ---
+> ```meta-bind
+> INPUT[imageSuggester(optionQuery("ᐳExternal Assets"), class(character-img)):profileImage]
+> ``` 
+> |   Name  |  Mhaxxine Dark   |
+> | --- | --- |
+> |   Nickname  |  "Mhax"   |
+> |   Sex  |  Female   |
+> |   Height  |     |
+> |   Birthday  |  October 23rd   |
+> |   Age  |  Young Adult   |
+> |   Species  |  [[Human]]   |
+> |   Origin  |  [[Rockcore City]], [[NULL Region]], [[Republic of Chloros]], [[Veridian Sector]], [[Synthspire]]   |
+> |   Faction/s  |  [[Blackreign Gang]]   |
+> |   Hobbies  |     |
+> |   Relations  | `$= dv.span(dv.current().relations ? dv.current().relations.map(p => "[[" + p + "]]").join("\n ") : "")`  |
 
-# **Basic Information** 
-**Name**:  `= this.file.name`
-**Sex**: Female
-**Age**: Young Adult
-**Birthday**: Oct. 23
-**Species**: [[Human]]
-**Origin**: [[Rockcore City]]
-**Hobbies**:
-**Nickname/s**: "Mhax"
-**Faction/s**: [[Blackreign Gang]]
-
-**Relation/s**: 
-```dataviewjs
-const relations = dv.current().relations;
-if (relations != null){
-	dv.list(relations.map(p => `[[${p}]]`));
-}
-```
-
-**Character Thread**: 
+> **Character Thread**: 
 
 ---
 # **History** 

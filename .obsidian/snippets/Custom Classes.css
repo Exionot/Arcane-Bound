@@ -14,32 +14,21 @@ img[alt*="center"] {
 	margin-left: auto;
 	margin-right: auto;
 }
-.gallery-img{
-	display: block;
-	height: auto;
-	width: auto;
-	background-color: purple;
-	column-count: 3;
-}
-
-.gallery-img :has(:has(> img)){
-	
-}
 
 .gallery-img *:has(> img){
-	
-	background-color: red;
-	border: solid blue 5px;
+	display: inline-flex;
+	justify-content: center;
+	border: solid var(--hr-color) 2px;
+	/* background-color: red;
+	border: solid blue 5px; */
 	margin: 0;
 	padding: 0;
 	max-height: 200px;
 	max-width: 200px;
-	/* overflow: hidden; */
+	overflow: hidden;
 }
 
 .gallery-img img{
-	display: inline;
-
 	max-height: 200px;
 	max-width: 200px;
 	height: 200px;
@@ -49,7 +38,11 @@ img[alt*="center"] {
 }
 
 .gallery-img img:hover{
-	transform: scale(105%);
+	transform: scale(115%);
+}
+
+.gallery-img :has(> button){
+	margin-top: 20px;
 }
 
 .document{
@@ -80,6 +73,144 @@ img[alt*="center"] {
 	font-weight: 900 !important;
 }
 
+/* === CUSTOM CALLOUTS === */
+:root {
+  --ic-width: 250px;
+  --ic-outside-padding: 15px;
+  --ic-inside-padding: 10px;
+  --ic-round-corners: 5px;
+  --ic-title-alignment: center;
+  --ic-title-size: 1.5rem;
+  --ic-title-margin: 0rem;
+  --ic-title-word-spacing: 0rem;
+  --ic-title-tracking: 1rem;
+  --ic-title-font: "Noto Sans";
+  --ic-border: 2px;
+  --ic-horizontal-rule-size: 1px;
+
+  --ic-section-size: 1rem;
+  --ic-section-weight: 700;
+  --ic-section-alignment: Center;
+  --ic-section-border: 0px;
+  --ic-section-corners: 0px;
+  --ic-section-horizontal-padding: 0rem;
+  --ic-section-vertical-padding: 0rem;
+
+  --ic-label-width: 80px;
+  --ic-label-padding: 0.5rem;
+  --ic-label-alignment: left;
+  --ic-image-border: 0px;
+
+  --ic-image-round-corners: 0px;
+
+  --ic-section-background-color: rgba(128, 128, 255, 0.1);
+
+    --ic-infobox-color: var(--background-secondary);
+    --ic-border-color: var(--hr-color);
+    --ic-image-border-color: #6B948F;
+    --ic-section-background-color: #405956;
+    --ic-section-border-color: #6B948F;
+    --ic-horizontal-rule-color: #6B948F;
+    --ic-infobox-title-color: #FFFFFF;
+}
+
+.callout[data-callout=infobox]{
+	float: right;
+    width: var(--ic-width);
+    margin-left: var(--ic-outside-padding);
+    background: var(--ic-infobox-color);
+
+    padding: var(--ic-inside-padding);
+    border-radius: var(--ic-round-corners);
+    border: var(--ic-border) solid;
+    border-color: var(--hr-color);
+}
+
+.markdown-source-view.is-live-preview .cm-embed-block.cm-callout:has(.callout[data-callout="infobox"]) {
+    display: inline;
+    z-index: 30;
+}
+
+.callout[data-callout="infobox"] .callout-icon{
+    display: none;
+}
+
+/* Infobox Title */
+.callout[data-callout="infobox"] .callout-title-inner{
+    all: unset;
+    display: block;
+    text-align: var(--ic-title-alignment);
+    font-size: var(--ic-title-size);
+    width: 100%;
+    margin: var(--ic-title-margin) 0;
+    color: var(--ic-infobox-title-color);
+}
+
+.callout[data-callout="infobox"] hr {
+    border: var(--ic-horizontal-rule-size) solid var(--hr-color);
+    margin: 1rem 0;
+}
+
+.callout[data-callout="infobox"] table{
+	table-layout: fixed;
+  width: 100%;
+}
+
+.callout[data-callout="infobox"] table td,
+.callout[data-callout="infobox"] table th{
+	border-color: var(--hr-color);
+	max-width: 100px;
+  white-space: normal;
+  overflow: hidden;
+  word-wrap: break-word;
+  font-size: 0.9rem;
+}
+
+/* First column */
+.callout[data-callout="infobox"] table td:nth-child(1),
+.callout[data-callout="infobox"] table th:nth-child(1) {
+    width: 55px; /* or whatever width you want */
+	font-weight: bold;
+}
+
+/* Second column */
+.callout[data-callout="infobox"] table td:nth-child(2),
+.callout[data-callout="infobox"] table th:nth-child(2) {
+    width: 100px; /* different width */
+	font-weight: normal;
+}
+
+
+
+
+.callout[data-callout=character]{
+	background-color: var(--background-secondary);
+	text-align: center;
+	font-style: italic;
+
+	--italic-color: var(--white);
+}
+
+.callout[data-callout=character] .callout-title{
+  display: none;
+}
+
+.callout[data-callout=navigation]{
+	background-color: var(--background-secondary);
+	margin: 0;
+}
+
+.callout[data-callout=navigation] .callout-icon{
+  display: none;
+}
+
+.callout[data-callout=navigation] .callout-title{
+  color: var(--white);
+}
+
+ .callout[data-callout=navigation] .internal-link{
+	font-weight: bold;
+ }
 
 .gold-yellow {
 --holox-h1:var(--white);

@@ -3,21 +3,22 @@ type: character
 location:
   origin: Lushfall Town
   nation: Erde Kingdom
-  city: 
+  city:
   town: Lushfall Town
-  village: 
-  poi: 
+  village:
+  poi:
 faction:
   active: Wandering Traders of Arcaena
   Wandering Traders of Arcaena:
     status: Active
-    rank: 
-    alias: 
+    rank:
+    alias:
 systemUsed: []
-abilityUsed: 
-itemUsed: 
+abilityUsed:
+itemUsed:
 profileImage: ᐳExternal Assets/Ted_Profile.png
-galleryImage: 
+galleryImage:
+  - ᐳExternal Assets/Ted_Profile.png
 posterImage:
 aliases:
   - Ted
@@ -26,30 +27,25 @@ relations:
   - Ion Kynne
 ---
 
-```meta-bind
-INPUT[imageSuggester(optionQuery("ᐳExternal Assets"), class(character-img)):profileImage]
-```
+> [!Infobox] **`=this.file.name`**
+> ---
+> ```meta-bind
+> INPUT[imageSuggester(optionQuery("ᐳExternal Assets"), class(character-img)):profileImage]
+> ``` 
+> |   Name  |  Ted Ursa   |
+> | --- | --- |
+> |   Nickname  |  "Teddy Bear" ([[Ion Kynne]])   |
+> |   Sex  |  Male   |
+> |   Height  |     |
+> |   Birthday  |     |
+> |   Age  |  Adult   |
+> |   Species  |  [[Virken | Virken Beast]] (Ursus)    |
+> |   Origin  |  [[Lushfall Town]], [[Lushfield Jungle]], [[Ceres Region]], [[Erde Kingdom]], [[Central Lands]], [[Arcaena]]   |
+> |   Faction/s  |  [[Wandering Traders of Arcaena]]   |
+> |   Hobbies  |     |
+> |   Relations  | `$= dv.span(dv.current().relations ? dv.current().relations.map(p => "[[" + p + "]]").join("\n ") : "")`  |
 
-# **Basic Information** 
-**Name**: `= this.file.name`
-**Sex**: Male
-**Age**: Adult
-**Birthday**:
-**Species**: [[Virken | Virken Beast]] (Ursus) 
-**Origin**: [[Lushfall Town]], [[Lushfield Jungle]], [[Ceres Region]], [[Erde Kingdom]], [[Central Lands]], [[Arcaena]]
-**Hobbies**:
-**Nickname/s**: "Teddy Bear" ([[Ion Kynne]])
-**Faction/s**: [[Wandering Traders of Arcaena]]
-
-**Relation/s**: 
-```dataviewjs
-const relations = dv.current().relations;
-if (relations != null){
-	dv.list(relations.map(p => `[[${p}]]`));
-}
-```
-
-**Character Thread**: 
+> **Character Thread**: 
 
 ---
 # **History** 

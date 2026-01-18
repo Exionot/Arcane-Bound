@@ -43,5 +43,6 @@
   "foldIndent": false,
   "showLineNumber": false,
   "foldHeading": false,
-  "strictLineBreaks": false
+  "strictLineBreaks": false,
+  "promptDelete": false
 }

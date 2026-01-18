@@ -34,29 +34,25 @@ relations:
 profileImage: ᐳExternal Assets/Aura_Brillfer_Icon.png
 ---
 
-```meta-bind
-INPUT[imageSuggester(optionQuery("ᐳExternal Assets"), class(character-img)):profileImage]
-```
+> [!Infobox] **`=this.file.name`**
+> ---
+> ```meta-bind
+> INPUT[imageSuggester(optionQuery("ᐳExternal Assets"), class(character-img)):profileImage]
+> ``` 
+> |   Name  |  Aura Brillfer   |
+> | --- | --- |
+> |   Nickname  |  "Agent AR-04" (POLL Code name)   |
+> |   Sex  |  Female   |
+> |   Height  |     |
+> |   Birthday  |     |
+> |   Age  |  Young Adult   |
+> |   Species  |  [[Virken]] (Feline)   |
+> |   Origin  |  [[Shatterpoint City]], [[NeoTech Union]], [[Synthspire]]   |
+> |   Faction/s  |  [[Protection Of Local Livelihood]] (Former)  |
+> |   Hobbies  |     |
+> |   Relations  | `$= dv.span(dv.current().relations ? dv.current().relations.map(p => "[[" + p + "]]").join("\n ") : "")`  |
 
-# **Basic Information** 
-**Name**: `= this.file.name`
-**Sex**: Female
-**Age**: Young Adult
-**Birthday**:
-**Species**: [[Virken]] (Feline)
-**Origin**: [[Shatterpoint City]], [[NeoTech Union]], [[Synthspire]]
-**Hobbies**:
-**Nickname/s**: "Agent AR-04"
-**Faction/s**: [[Protection Of Local Livelihood]] (Former)
-**Relation/s**: 
-```dataviewjs
-const relations = dv.current().relations;
-if (relations != null){
-	dv.list(relations.map(p => `[[${p}]]`));
-}
-```
-
-**Character Thread**: [[Aura Brillfer Narratives Manuscript]]
+> **Character Thread**: [[Aura Brillfer Narratives Manuscript]]
 
 ---
 # **History** 
