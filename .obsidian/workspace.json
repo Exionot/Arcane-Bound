@@ -11,14 +11,10 @@
             "id": "96e8e5d2756d8954",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Homepage.md",
-                "mode": "preview",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Homepage"
+              "title": "New tab"
             }
           }
         ]
@@ -276,14 +272,16 @@
   },
   "active": "96e8e5d2756d8954",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Arcane-Bound/Worlds Collide/01 Characters/Ion Kynne.md",
+    "Arcane-Bound/Worlds Collide/01 Characters/Aura Brillfer.md",
     "Arcane-Bound/Worlds Collide/01 Characters/Mhaxxine Dark.md",
     "Arcane-Bound/Worlds Collide/01 Characters/Krystalle Eos.md",
-    "Arcane-Bound/Worlds Collide/01 Characters/Ion Kynne.md",
+    "Arcane-Bound/Worlds Collide/03 Locations/00 Space/00 Planets/Terra.md",
+    "Homepage.md",
     "Arcane-Bound/Worlds Collide/01 Characters/Clair Tempest.md",
-    "Arcane-Bound/Worlds Collide/01 Characters/Aura Brillfer.md",
     "Arcane-Bound/Worlds Collide/99 Extras/Meta/AB - Unresolved Notes.md",
     "ᐳExternal Assets/Aura_Brillfer_Icon.png",
-    "Untitled.md",
     "Arcane-Bound/Worlds Collide/01 Characters/Victoria Veloux Canidel.md",
     "Arcane-Bound/Worlds Collide/01 Characters/Underworldian - Clair.md",
     "ᐳExternal Assets/Victoria_Veloux_Canidel_Icon.png",
@@ -305,8 +303,6 @@
     "Tiamat District.md",
     "Arcane-Bound/Worlds Collide/03 Locations/05a Cities/Fluxpoint City.md",
     "Arcane-Bound/Worlds Collide/03 Locations/03 Nations/HyperCorp Republic.md",
-    "Arcane-Bound/Worlds Collide/03 Locations/04 Regions/Dryrock Region.md",
-    "Arcane-Bound/Worlds Collide/03 Locations/03 Nations/Verdthorne Kingdom.md",
     "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Aura Brillfer Narratives",
     "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Victoria Veloux Canidel Narratives",
     "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen Narratives",
