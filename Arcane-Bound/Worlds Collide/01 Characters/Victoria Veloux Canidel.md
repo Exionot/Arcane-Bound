@@ -19,8 +19,7 @@ abilityUsed:
 itemUsed:
   - Vixen's Claws
 profileImage: ᐳExternal Assets/Victoria_Veloux_Canidel_Icon.png
-galleryImage:
-  - ᐳExternal Assets/Victoria_Veloux_Canidel_Icon.png
+galleryImage: []
 posterImage:
   - Arcane-Bound/Archives/Being Vigilant Final.png
   - Arcane-Bound/Archives/Vixen's Secret Final.png

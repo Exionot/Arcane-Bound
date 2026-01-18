@@ -23,8 +23,7 @@ abilityUsed:
   - 
 itemUsed:
   - 
-galleryImage:
-  - ᐳExternal Assets/Aura_Brillfer_Icon.png
+galleryImage: []
 aliases:
   - Agent AR-04
 posterImage:

@@ -21,7 +21,6 @@ abilityUsed:
 itemUsed:
 profileImage: ᐳExternal Assets/Ion_Kynne_Icon.png
 galleryImage:
-  - ᐳExternal Assets/Ion_Kynne_Icon.png
   - ᐳExternal Assets/Ion_Profile1.png
 posterImage:
   - Arcane-Bound/Archives/Canine Adventures Final.png
