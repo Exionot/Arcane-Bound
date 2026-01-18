@@ -35,9 +35,8 @@ relations:
 
 > [!Infobox] **`=this.file.name`**
 > ---
-> ```meta-bind
-> INPUT[imageSuggester(optionQuery("ᐳExternal Assets"), class(character-img)):profileImage]
-> ``` 
+> `$= dv.span(dv.current().profileImage ? "![[" + dv.current().profileImage + "]]" : "")`
+> 
 > |   Name  |  Ion Kynne   |
 > | --- | --- |
 > |   Nickname  |     |
@@ -121,6 +120,11 @@ SORT file.folder ASC, file.name ASC
 ```meta-bind
 INPUT[imageListSuggester(optionQuery("Arcane-Bound/Archives"), class(gallery-img)):posterImage]
 ```
+
+## Character Profile Image
+```meta-bind
+INPUT[imageSuggester(optionQuery("ᐳExternal Assets"), class(character-img)):profileImage]
+``` 
 
 ## Other Images
 ```meta-bind

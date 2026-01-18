@@ -28,7 +28,6 @@ galleryImage:
   - ᐳExternal Assets/Mint_Arcaena_Weapon_Drawn.png
   - ᐳExternal Assets/Mint_Synthspire_Glasses.png
   - ᐳExternal Assets/Mint_Arcaena_Outfit.png
-  - ᐳExternal Assets/Mint_Evergreen_Icon.png
 posterImage:
   - Arcane-Bound/Archives/Staying Minty Final.png
   - Arcane-Bound/Archives/Arcane Origins Final.png
@@ -42,9 +41,8 @@ relations:
 
 > [!Infobox] **`=this.file.name`**
 > ---
-> ```meta-bind
-> INPUT[imageSuggester(optionQuery("ᐳExternal Assets"), class(character-img)):profileImage]
-> ``` 
+> `$= dv.span(dv.current().profileImage ? "![[" + dv.current().profileImage + "]]" : "")`
+> 
 > |   Name  |  Mint Evergreen   |
 > | --- | --- |
 > |   Nickname  |     |
@@ -158,6 +156,11 @@ SORT file.folder ASC, file.name ASC
 ```meta-bind
 INPUT[imageListSuggester(optionQuery("Arcane-Bound/Archives"), class(gallery-img)):posterImage]
 ```
+
+## Character Profile Image
+```meta-bind
+INPUT[imageSuggester(optionQuery("ᐳExternal Assets"), class(character-img)):profileImage]
+``` 
 
 ## Other Images
 ```meta-bind

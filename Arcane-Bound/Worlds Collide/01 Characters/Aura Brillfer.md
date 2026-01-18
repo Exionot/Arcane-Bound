@@ -36,9 +36,8 @@ profileImage: ᐳExternal Assets/Aura_Brillfer_Icon.png
 
 > [!Infobox] **`=this.file.name`**
 > ---
-> ```meta-bind
-> INPUT[imageSuggester(optionQuery("ᐳExternal Assets"), class(character-img)):profileImage]
-> ``` 
+> `$= dv.span(dv.current().profileImage ? "![[" + dv.current().profileImage + "]]" : "")`
+> 
 > |   Name  |  Aura Brillfer   |
 > | --- | --- |
 > |   Nickname  |  "Agent AR-04" (POLL Code name)   |
@@ -133,6 +132,11 @@ SORT file.folder ASC, file.name ASC
 ```meta-bind
 INPUT[imageListSuggester(optionQuery("Arcane-Bound/Archives"), class(gallery-img)):posterImage]
 ```
+
+## Character Profile Image
+```meta-bind
+INPUT[imageSuggester(optionQuery("ᐳExternal Assets"), class(character-img)):profileImage]
+``` 
 
 ## Other Images
 ```meta-bind
