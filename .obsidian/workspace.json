@@ -13,31 +13,15 @@
             "state": {
               "type": "split-diff-view",
               "state": {
-                "aFile": ".obsidian/workspace-mobile.json",
-                "bFile": ".obsidian/workspace-mobile.json",
-                "aRef": "HEAD",
-                "bRef": ""
+                "aFile": "Arcane-Bound/Worlds Collide/03 Locations/05a Cities/Bauserst City.md",
+                "bFile": "Arcane-Bound/Worlds Collide/03 Locations/05a Cities/Bauserst City.md",
+                "aRef": ""
               },
               "icon": "diff",
-              "title": "Diff: workspace-mobile.json  (Index)"
-            }
-          },
-          {
-            "id": "bf7c4138797c60a0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "title": "Diff: Bauserst City  (Working Tree)"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -290,7 +274,7 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "bf7c4138797c60a0",
+  "active": "96e8e5d2756d8954",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "Arcane-Bound/Worlds Collide/02 Factions/Guild of Arcane Healers.md",
