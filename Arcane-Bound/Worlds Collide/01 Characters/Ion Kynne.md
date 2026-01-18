@@ -4,23 +4,24 @@ location:
   origin: Ohmpalos City
   nation: Amphors Kingdom
   city: Ohmpalos City
-  town: 
-  village: 
-  poi: 
+  town:
+  village:
+  poi:
 faction:
   active: Wandering Traders of Arcaena
   Wandering Traders of Arcaena:
     status: Active
-    rank: 
-    alias: 
+    rank:
+    alias:
 systemUsed:
   - Arcaenian Magic
   - Elemental Magic
   - Mana
-abilityUsed: 
-itemUsed: 
-profileImage: ᐳExternal Assets/Ion_Profile2.png
+abilityUsed:
+itemUsed:
+profileImage: ᐳExternal Assets/Ion_Kynne_Icon.png
 galleryImage:
+  - ᐳExternal Assets/Ion_Kynne_Icon.png
   - ᐳExternal Assets/Ion_Profile1.png
 posterImage:
   - Arcane-Bound/Archives/Canine Adventures Final.png

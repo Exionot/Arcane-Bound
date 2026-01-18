@@ -3,23 +3,24 @@ type: character
 location:
   nation: HyperCorp Republic
   city: Astral City
-  town: 
-  village: 
-  poi: 
+  town:
+  village:
+  poi:
   origin: Lightspeed City
 faction:
   active: Starveil Retrieval Co.
   Starveil Retrieval Co.:
     status: Active
     rank: Leader
-    alias: 
+    alias:
 systemUsed:
   - Solid-Light Energy
-abilityUsed: 
+abilityUsed:
 itemUsed:
   - Vixen's Claws
-profileImage: 
-galleryImage: 
+profileImage: ᐳExternal Assets/Victoria_Veloux_Canidel_Icon.png
+galleryImage:
+  - ᐳExternal Assets/Victoria_Veloux_Canidel_Icon.png
 posterImage:
   - Arcane-Bound/Archives/Being Vigilant Final.png
   - Arcane-Bound/Archives/Vixen's Secret Final.png

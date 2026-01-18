@@ -2,17 +2,17 @@
 type: character
 location:
   nation: Verdthorne Kingdom
-  city: 
-  town: 
+  city:
+  town:
   village: Lenben Village
-  poi: 
+  poi:
   origin: Lenben Village
 faction:
-  active: 
+  active:
   Guild of Arcane Healers:
     status: Alumni
     rank: Master Healer
-    alias: 
+    alias:
 systemUsed:
   - Mana
   - Arcaenian Magic
@@ -23,10 +23,12 @@ abilityUsed:
 itemUsed:
   - Arcaenian Band
   - Mint's Staff
-profileImage: ᐳExternal Assets/Mint_Arcaena_Outfit.png
+profileImage: ᐳExternal Assets/Mint_Evergreen_Icon.png
 galleryImage:
   - ᐳExternal Assets/Mint_Arcaena_Weapon_Drawn.png
   - ᐳExternal Assets/Mint_Synthspire_Glasses.png
+  - ᐳExternal Assets/Mint_Arcaena_Outfit.png
+  - ᐳExternal Assets/Mint_Evergreen_Icon.png
 posterImage:
   - Arcane-Bound/Archives/Staying Minty Final.png
   - Arcane-Bound/Archives/Arcane Origins Final.png

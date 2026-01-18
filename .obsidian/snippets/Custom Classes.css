@@ -14,13 +14,42 @@ img[alt*="center"] {
 	margin-left: auto;
 	margin-right: auto;
 }
-
-.gallery-img img{
-	max-height: 250px;
-	max-width: 250px;
+.gallery-img{
+	display: block;
 	height: auto;
 	width: auto;
+	background-color: purple;
+	column-count: 3;
+}
+
+.gallery-img :has(:has(> img)){
+	
+}
+
+.gallery-img *:has(> img){
+	
+	background-color: red;
+	border: solid blue 5px;
+	margin: 0;
+	padding: 0;
+	max-height: 200px;
+	max-width: 200px;
+	/* overflow: hidden; */
+}
+
+.gallery-img img{
+	display: inline;
+
+	max-height: 200px;
+	max-width: 200px;
+	height: 200px;
+	width: auto;
 	object-fit: cover;
+	transition: all 300ms ease;
+}
+
+.gallery-img img:hover{
+	transform: scale(105%);
 }
 
 .document{

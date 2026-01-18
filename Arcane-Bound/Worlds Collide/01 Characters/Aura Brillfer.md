@@ -3,16 +3,16 @@ type: character
 location:
   nation:
     - NeoTech Union
-  region: 
+  region:
   city:
     - Fluxpoint City
     - Shatterpoint City
-  town: 
-  village: 
+  town:
+  village:
   poi: Aura's Apartment
   origin: Shatterpoint City
 faction:
-  active: 
+  active:
   Protection Of Local Livelihood:
     status: Former
     rank: Commander
@@ -23,13 +23,15 @@ abilityUsed:
   - 
 itemUsed:
   - 
-galleryImage: 
+galleryImage:
+  - ᐳExternal Assets/Aura_Brillfer_Icon.png
 aliases:
   - Agent AR-04
 posterImage:
   - Arcane-Bound/Archives/Golden Aura Final.png
 relations:
   - Mint Evergreen
+profileImage: ᐳExternal Assets/Aura_Brillfer_Icon.png
 ---
 
 ```meta-bind
