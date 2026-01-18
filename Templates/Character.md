@@ -23,28 +23,28 @@ aliases:
 relations:
 ---
 
-```meta-bind
-INPUT[imageSuggester(optionQuery("ᐳExternal Assets"), class(character-img)):profileImage]
-```
+> [!Infobox] **`=this.file.name`**
+> ---
+> `$= dv.span(dv.current().profileImage ? "![[" + dv.current().profileImage + "]]" : "")`
+> 
+> |   Name  |     |
+> | --- | --- |
+> |   Nickname  |     |
+> |   Sex  |     |
+> |   Height  |     |
+> |   Birthday  |     |
+> |   Age  |     |
+> |   Species  |     |
+> |   Origin  |    |
+> |   Faction/s  |     |
+> |   Hobbies  |     |
+> |   Relations  | `$= dv.span(dv.current().relations ? dv.current().relations.map(p => "[[" + p + "]]").join("\n ") : "")`  |
 
-# **Basic Information** 
-**Name**:  `= this.file.name`
-**Sex**:
-**Age**:
-**Birthday**:
-**Species**: 
-**Origin**: 
-**Hobbies**:
-**Nickname/s**:
-**Faction/s**:
-**Relation/s**: 
-```dataviewjs
-const relations = dv.current().relations;
-if (relations != null){
-	dv.list(relations.map(p => `[[${p}]]`));
-}
-```
+> **Character Thread:**
+
 ---
+
+
 # **History** 
 ## Background 
 
@@ -88,6 +88,11 @@ SORT file.folder ASC, file.name ASC
 ```meta-bind
 INPUT[imageListSuggester(optionQuery("Arcane-Bound/Archives"), class(gallery-img)):posterImage]
 ```
+
+## Character Profile Image
+```meta-bind
+INPUT[imageSuggester(optionQuery("ᐳExternal Assets"), class(character-img)):profileImage]
+``` 
 
 ## Other Images
 ```meta-bind
