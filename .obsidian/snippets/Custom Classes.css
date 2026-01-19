@@ -79,7 +79,7 @@ img[alt*="center"] {
   --ic-round-corners: 5px;
   --ic-title-alignment: center;
   --ic-title-size: 1.5rem;
-  --ic-title-margin: 0rem;
+  --ic-title-margin: 0.2rem;
   --ic-title-word-spacing: 0rem;
   --ic-title-tracking: 1rem;
   --ic-title-font: "Noto Sans";
@@ -133,7 +133,6 @@ img[alt*="center"] {
     display: none;
 }
 
-/* Infobox Title */
 .callout[data-callout="infobox"] .callout-title-inner{
     all: unset;
     display: block;
@@ -142,20 +141,28 @@ img[alt*="center"] {
     width: 100%;
     margin: var(--ic-title-margin) 0;
     color: var(--ic-infobox-title-color);
+	background-color: var(--purple);
+	border-radius: 5px;
+	padding: 0.2rem 0;
 }
 
 .callout[data-callout="infobox"] hr {
     border: var(--ic-horizontal-rule-size) solid var(--hr-color);
-    margin: 1rem 0;
+    margin: 0.5rem 0;
 }
 
 .callout[data-callout="infobox"] table{
+	
 	table-layout: fixed;
   width: 100%;
+  margin-top: 0.5rem;
 }
 
 .callout[data-callout="infobox"] table td,
 .callout[data-callout="infobox"] table th{
+	padding: 0.3rem 0.5rem;
+	border-left: none;
+	border-right: none;
 	border-color: var(--hr-color);
 	max-width: 100px;
   white-space: normal;
@@ -164,20 +171,31 @@ img[alt*="center"] {
   font-size: 0.9rem;
 }
 
-/* First column */
+
 .callout[data-callout="infobox"] table td:nth-child(1),
 .callout[data-callout="infobox"] table th:nth-child(1) {
-    width: 55px; /* or whatever width you want */
+    width: 55px; 
 	font-weight: bold;
 }
 
-/* Second column */
+
 .callout[data-callout="infobox"] table td:nth-child(2),
 .callout[data-callout="infobox"] table th:nth-child(2) {
-    width: 100px; /* different width */
+    width: 100px; 
 	font-weight: normal;
 }
 
+.callout[data-callout="infobox"] h4{
+	margin: 0;
+	padding: 0;
+	text-align: center;
+	color: var(--purple);
+	font-weight: bold !important;
+}
+
+.callout[data-callout=infobox] img{
+	border-radius: 5px;
+}
 
 
 

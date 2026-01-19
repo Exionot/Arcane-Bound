@@ -26,12 +26,15 @@ posterImage:
 aliases:
   - Vi
 relations:
+  - Canidel Family
   - Rem Orion
 ---
 
 > [!Infobox] **`=this.file.name`**
 > ---
 > `$= dv.span(dv.current().profileImage ? "![[" + dv.current().profileImage + "]]" : "")`
+>  ---
+> #### Profile
 > 
 > |   Name  |  Victoria Veloux Canidel   |
 > | --- | --- |

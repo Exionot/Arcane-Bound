@@ -36,6 +36,8 @@ profileImage: ᐳExternal Assets/Aura_Brillfer_Icon.png
 > [!Infobox] **`=this.file.name`**
 > ---
 > `$= dv.span(dv.current().profileImage ? "![[" + dv.current().profileImage + "]]" : "")`
+>  ---
+> #### Profile
 > 
 > |   Name  |  Aura Brillfer   |
 > | --- | --- |

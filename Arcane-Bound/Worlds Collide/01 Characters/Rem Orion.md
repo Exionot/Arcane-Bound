@@ -27,6 +27,8 @@ relations:
 > [!Infobox] **`=this.file.name`**
 > ---
 > `$= dv.span(dv.current().profileImage ? "![[" + dv.current().profileImage + "]]" : "")`
+>  ---
+> #### Profile
 > 
 > |   Name  |  Rem Orion   |
 > | --- | --- |
