@@ -13,7 +13,8 @@ img[alt*="center"] {
 
 }
 
-.gallery-img *:has(> img){
+.gallery-img *:has(> img),
+.character-img *:has(> img){
 	display: inline-flex;
 	justify-content: center;
 	border: solid var(--hr-color) 2px;
@@ -26,7 +27,8 @@ img[alt*="center"] {
 	overflow: hidden;
 }
 
-.gallery-img img{
+.gallery-img img,
+.character-img img{
 	max-height: 200px;
 	max-width: 200px;
 	height: 200px;
@@ -35,7 +37,8 @@ img[alt*="center"] {
 	transition: all 300ms ease;
 }
 
-.gallery-img img:hover{
+.gallery-img img:hover,
+.character-img img:hover{
 	transform: scale(115%);
 }
 

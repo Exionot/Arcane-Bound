@@ -18,11 +18,12 @@ systemUsed:
 abilityUsed:
 itemUsed:
   - Vixen's Claws
-profileImage: ᐳExternal Assets/Victoria_Veloux_Canidel_Icon.png
+profileImage: ᐳExternal Assets/Victoria_Veloux_Canidel_Icon2.png
 galleryImage: []
 posterImage:
   - Arcane-Bound/Archives/Being Vigilant Final.png
   - Arcane-Bound/Archives/Vixen's Secret Final.png
+  - Arcane-Bound/Archives/Noble Wanderer Final.png
 aliases:
   - Vi
 relations:
