@@ -1,6 +1,6 @@
 ---
 status: Inactive
-logoImage: ᐳExternal Assets/Mint_Staff_Full.jpg
+logoImage: ᐳExternal Assets/Mint_Synthspire_Glasses.png
 ---
 
 > [!infobox] **`= this.file.name`**
@@ -20,6 +20,7 @@ logoImage: ᐳExternal Assets/Mint_Staff_Full.jpg
 ## Faction Logo
 ```meta-bind
 INPUT[imageSuggester(optionQuery("ᐳExternal Assets"), class(character-img)):logoImage]
+```
 
 
 
