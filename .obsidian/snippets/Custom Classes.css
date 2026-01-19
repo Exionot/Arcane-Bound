@@ -174,7 +174,7 @@ img[alt*="center"] {
 
 .callout[data-callout="infobox"] table td:nth-child(1),
 .callout[data-callout="infobox"] table th:nth-child(1) {
-    width: 55px; 
+    width: 65px; 
 	font-weight: bold;
 }
 

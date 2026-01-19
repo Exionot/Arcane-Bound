@@ -8,20 +8,35 @@
         "type": "tabs",
         "children": [
           {
+            "id": "f58f06d10989240c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Arcane-Bound/Worlds Collide/02 Factions/Starveil Retrieval Co..md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Starveil Retrieval Co."
+            }
+          },
+          {
             "id": "96e8e5d2756d8954",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arcane-Bound/Worlds Collide/01 Characters/Victoria Veloux Canidel.md",
+                "file": "Arcane-Bound/Worlds Collide/07 Lore/03 Species/Virken.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Victoria Veloux Canidel"
+              "title": "Virken"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -276,20 +291,24 @@
   },
   "active": "96e8e5d2756d8954",
   "lastOpenFiles": [
-    "Arcane-Bound/Worlds Collide/01 Characters/Mint Evergreen.md",
+    "Arcane-Bound/Worlds Collide/07 Lore/02 Terminologies/Stakes Running.md",
+    "Untitled.md",
+    "Arcane-Bound/Worlds Collide/02 Factions/Starveil Retrieval Co..md",
+    "Arcane-Bound/Worlds Collide/01 Characters/Victoria Veloux Canidel.md",
+    "Arcane-Bound/Worlds Collide/01 Characters/Ted Ursa.md",
+    "Arcane-Bound/Worlds Collide/01 Characters/Krystalle Eos.md",
+    "Arcane-Bound/Worlds Collide/01 Characters/Mhaxxine Dark.md",
+    "Arcane-Bound/Worlds Collide/02 Factions/Neo-Technology Corporation.md",
+    "Arcane-Bound/Worlds Collide/01 Characters/Still Thunder.md",
+    "Arcane-Bound/Worlds Collide/02 Factions/Blackreign Gang.md",
+    "Arcane-Bound/Worlds Collide/02 Factions/Wandering Traders of Arcaena.md",
     "Arcane-Bound/Worlds Collide/01 Characters/Rem Orion.md",
+    "Arcane-Bound/Worlds Collide/01 Characters/Mint Evergreen.md",
     "Arcane-Bound/Worlds Collide/01 Characters/Aura Brillfer.md",
     "Arcane-Bound/Worlds Collide/01 Characters/Clair Tempest.md",
     "Arcane-Bound/Worlds Collide/01 Characters/Ion Kynne.md",
-    "Arcane-Bound/Worlds Collide/01 Characters/Mhaxxine Dark.md",
-    "Arcane-Bound/Worlds Collide/01 Characters/Victoria Veloux Canidel.md",
     "Arcane-Bound/Worlds Collide/01 Characters/Underworldian - Clair.md",
-    "Arcane-Bound/Worlds Collide/01 Characters/Ted Ursa.md",
-    "Arcane-Bound/Worlds Collide/01 Characters/Still Thunder.md",
-    "Arcane-Bound/Worlds Collide/01 Characters/Krystalle Eos.md",
-    "Arcane-Bound/Worlds Collide/02 Factions/Blackreign Gang.md",
     "Templates/Character.md",
-    "Untitled.md",
     "README.md",
     "Arcane-Bound/Worlds Collide/06 Items - Equipments/Mint's Staff.md",
     "Arcane-Bound/Worlds Collide/03 Locations/00 Space/00 Planets/Terra.md",
@@ -301,12 +320,8 @@
     "ᐳExternal Assets/Victoria_Veloux_Canidel_Icon.png",
     "ᐳExternal Assets/Victoria_Veloux_Canidel_Icon.png",
     "Arcane-Bound/Worlds Collide/03 Locations/03 Nations/Republic of Chloros.md",
-    "Rockcore City.md",
-    "Arcane-Bound/Worlds Collide/99 Extras/Meta/Arcane-Bound – Worlds Collide.md",
-    "Arcane-Bound/Worlds Collide/02 Factions/Wandering Traders of Arcaena.md",
     "ᐳExternal Assets/Mint_Evergreen_Icon.png",
     "ᐳExternal Assets/Ion_Kynne_Icon.png",
-    "Arcane-Bound/Worlds Collide/03 Locations/05a Cities/Newslate City.md",
     "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Aura Brillfer Narratives",
     "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Victoria Veloux Canidel Narratives",
     "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen Narratives",
