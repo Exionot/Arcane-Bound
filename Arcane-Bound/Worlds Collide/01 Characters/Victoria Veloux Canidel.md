@@ -53,7 +53,7 @@ relations:
 > **Character Thread**: [[Victoria Veloux Canidel Narratives Manuscript]]
 
 > [!Character]
-> **"Ugh... Can you quit calling me by *that name* already? I told you my name is 'Vi'!"**
+> **"Ugh... Can you quit calling me by *that name* already? I told you my name is Vi!"**
 > Vi when she's called by her real name
 
 ---
