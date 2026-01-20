@@ -4,20 +4,20 @@ location:
   origin: Evemark City
   nation: Republic of Chloros
   city: Evemark City
-  town: 
-  village: 
-  poi: 
+  town:
+  village:
+  poi:
 faction:
   active: Void Special Operation Division 9
   Void Special Operation Division 9:
     status: Active
     rank: Special Operator
-    alias: 
+    alias:
 systemUsed: []
-abilityUsed: 
-itemUsed: 
-profileImage: 
-galleryImage:  
+abilityUsed:
+itemUsed:
+profileImage: ᐳExternal Assets/Crystal Clear Blank.png
+galleryImage:
 posterImage:
   - Arcane-Bound/Archives/Crystal Clear Final.png
 aliases:

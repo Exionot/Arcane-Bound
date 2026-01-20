@@ -16,7 +16,7 @@ faction:
 systemUsed: []
 abilityUsed:
 itemUsed:
-profileImage:
+profileImage: ᐳExternal Assets/Devil's Charm Blank.png
 galleryImage:
 posterImage:
   - Arcane-Bound/Archives/Devil's Charm Final.png

@@ -16,7 +16,7 @@ faction:
 systemUsed: []
 abilityUsed:
 itemUsed:
-profileImage:
+profileImage: ᐳExternal Assets/In Darkness Blank.png
 galleryImage:
 posterImage:
   - Arcane-Bound/Archives/In Darkness Final.png
