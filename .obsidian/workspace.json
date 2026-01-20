@@ -13,15 +13,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arcane-Bound/Worlds Collide/01 Characters/Clair Tempest.md",
-                "mode": "preview",
+                "file": "Underworld.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Underworld"
+            }
+          },
+          {
+            "id": "8e09090f23a7aaa7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "aura narr cont.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Clair Tempest"
+              "title": "aura narr cont"
+            }
+          },
+          {
+            "id": "2dcabf435ee6e311",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Underworld.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Underworld"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -238,8 +267,18 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "5db20ba5968e8cf7",
+  "active": "8e09090f23a7aaa7",
   "lastOpenFiles": [
+    "Underworld.md",
+    "aura narr cont.md",
+    "Untitled.md",
+    "Arcane-Bound/Worlds Collide/03 Locations/05c Villages/Lenben Village.md",
+    "Arcane-Bound/Worlds Collide/03 Locations/07 Points of Interest/Orbital Access Transit Station.md",
+    "Templates/Point of Interest.md",
+    "Templates/Village.md",
+    "Templates/Town.md",
+    "Templates/City.md",
+    "Arcane-Bound/Worlds Collide/01 Characters/Clair Tempest.md",
     "Arcane-Bound/Worlds Collide/01 Characters/Krystalle Eos.md",
     "Arcane-Bound/Worlds Collide/01 Characters/Mhaxxine Dark.md",
     "ᐳExternal Assets/In Darkness Blank.png",
@@ -255,7 +294,6 @@
     "Arcane-Bound/Worlds Collide/01 Characters/Still Thunder.md",
     "Arcane-Bound/Worlds Collide/01 Characters/Mint Evergreen.md",
     "Arcane-Bound/Worlds Collide/01 Characters/Ion Kynne.md",
-    "Arcane-Bound/Worlds Collide/01 Characters/Clair Tempest.md",
     "Arcane-Bound/Worlds Collide/01 Characters/Aura Brillfer.md",
     "Homepage.md",
     "Arcane-Bound/Worlds Collide/02 Factions/Guild of Arcane Healers.md",
@@ -263,14 +301,6 @@
     "Arcane-Bound/Worlds Collide/02 Factions/Neo-Technology Corporation.md",
     "Arcane-Bound/Worlds Collide/02 Factions/Protection Of Local Livelihood.md",
     "Arcane-Bound/Worlds Collide/02 Factions/Void Operation & Investigation Department.md",
-    "Arcane-Bound/Worlds Collide/02 Factions/Void Special Operation Division 9.md",
-    "Arcane-Bound/Worlds Collide/02 Factions/Wandering Traders of Arcaena.md",
-    "Arcane-Bound/Worlds Collide/02 Factions/Blackreign Gang.md",
-    "Arcane-Bound/Worlds Collide/02 Factions/Sons of The Crimson Flame.md",
-    "Arcane-Bound/Worlds Collide/02 Factions/Starveil Retrieval Co..md",
-    "Templates/Faction.md",
-    "Untitled.md",
-    "Arcane-Bound/Worlds Collide/03 Locations/05a Cities/Newslate City.md",
     "ᐳExternal Assets/Vixen's Secret Blank.png",
     "ᐳExternal Assets/Golden Aura Blank.png",
     "ᐳExternal Assets/Felling Relaxed Blank.png",
