@@ -9,14 +9,19 @@ aliases:
   - NeoTech Corp.
 ---
 
-# **Basic Information**
-**Name**: Neo-Technology Corporation
-**Location**: [[Fluxpoint City]], [[Split Region]], [[NeoTech Union]]
-**Founder/s**:
-**Holder of Power**:
-**Affiliation/s**:
-
-**Status**: `INPUT[factionStatus][]`
+> [!infobox] **`= this.file.name`**
+> ---
+> `$= dv.span(dv.current().logoImage ? "![[" + dv.current().logoImage + "]]" : "")`
+> 
+> ---
+> #### Details
+> |  Name   |  Neo-Technology Corporation   |
+> | --- | --- |
+> |  Founder/s   |     |
+> |  Leader/s   |     |
+> |  Location   |  [[Fluxpoint City]], [[Split Region]], [[NeoTech Union]]   |
+> |  Affiliation/s   |     |
+> |  Status   |   `INPUT[factionStatus][]`  |
 
 # **Overview**
 **Neo-Technology Corporation**, commonly known as **NeoTech**, is a technology corporation and governing body of [[NeoTech Union]]. It focuses on the invention and innovation of [[Mechanical Technology]] and [[Bio-Technology]], providing the world with powerful suits and armor, bionic arms and legs, and other artificial organs. ^a4d913

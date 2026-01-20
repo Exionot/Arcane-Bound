@@ -7,14 +7,19 @@ aliases:
 status: Active
 ---
 
-# **Basic Information**
-**Name**: `= this.file.name`
-**Location**: [[NULL Region]], [[Republic of Chloros]]
-**Founder/s**: Unknown
-**Holder of Power**:
-**Affiliation/s**:
-
-**Status**: `INPUT[factionStatus][]`
+> [!infobox] **`= this.file.name`**
+> ---
+> `$= dv.span(dv.current().logoImage ? "![[" + dv.current().logoImage + "]]" : "")`
+> 
+> ---
+> #### Details
+> |  Name   |  Blackreign Gang   |
+> | --- | --- |
+> |  Founder/s   |     |
+> |  Leader/s   |     |
+> |  Location   |  [[NULL Region]], [[Republic of Chloros]]   |
+> |  Affiliation/s   |     |
+> |  Status   |   `INPUT[factionStatus][]`  |
 
 # **Overview**
 The **Blackreign Gang** is a faction in the [[NULL Region]] that illegally extracts [[Void Crystal]] resources. They are a cult-like faction, operating to satisfy the [[Void God]] and with the belief that [[Void Crystal]] corruption is the [[Void God]]'s way of eradicating all technology and resetting the world back to its "Prime Form". ^0b6b9a

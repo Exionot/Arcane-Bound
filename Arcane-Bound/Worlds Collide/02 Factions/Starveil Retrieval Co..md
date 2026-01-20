@@ -9,14 +9,19 @@ aliases:
   - Starveil Retrieval
 ---
 
-# **Basic Information**
-**Name**: Starveil Retrieval Co.
-**Location**: [[Astral City]], [[NOVA Region]], [[HyperCorp Republic]]
-**Founder/s**: [[Victoria Veloux Canidel]]
-**Holder of Power**: [[Victoria Veloux Canidel]]
-**Affiliation/s**:
-
-**Status**: `INPUT[factionStatus][]`
+> [!infobox] **`= this.file.name`**
+> ---
+> `$= dv.span(dv.current().logoImage ? "![[" + dv.current().logoImage + "]]" : "")`
+> 
+> ---
+> #### Details
+> |  Name   |  Starveil Retrieval Co.   |
+> | --- | --- |
+> |  Founder/s   |  [[Victoria Veloux Canidel]]   |
+> |  Leader/s   |  [[Victoria Veloux Canidel]]   |
+> |  Location   |  [[Astral City]], [[NOVA Region]], [[HyperCorp Republic]]   |
+> |  Affiliation/s   |     |
+> |  Status   |   `INPUT[factionStatus][]`  |
 
 # **Overview**
 **Starveil Retrieval Co.** presents itself as a specialized agency that focuses on retrieving lost or stolen items. However, the company is a covert front for the notorious phantom thief faction led by [[Victoria Veloux Canidel]]. While [[Victoria Veloux Canidel|Vi]] stands as the current leader of the faction, [[Rem Orion]] serves as the public-facing managing director. ^1e015c

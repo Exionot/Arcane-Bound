@@ -8,14 +8,19 @@ aliases:
 status: Active
 ---
 
-# **Basic Information**
-**Name**: `= this.file.name`
-**Location**: [[Region's Edge]], [[CinderScorch Sector]], [[Synthspire]]
-**Founder/s**:
-**Holder of Power**:
-**Affiliation/s**:
-
-**Status**: `INPUT[factionStatus][]`
+> [!infobox] **`= this.file.name`**
+> ---
+> `$= dv.span(dv.current().logoImage ? "![[" + dv.current().logoImage + "]]" : "")`
+> 
+> ---
+> #### Details
+> |  Name   |  Sons of The Crimson Flame   |
+> | --- | --- |
+> |  Founder/s   |     |
+> |  Leader/s   |     |
+> |  Location   |  [[Region's Edge]], [[CinderScorch Sector]], [[Synthspire]]   |
+> |  Affiliation/s   |     |
+> |  Status   |   `INPUT[factionStatus][]`  |
 
 # **Overview**
 The **Sons of The Crimson Flame** is a faction within the [[CinderScorch Sector]], they are one of the powerful faction in [[CinderScorch Sector|CinderScorch]] competing with other factions for [[Surgespark]] and other resources.

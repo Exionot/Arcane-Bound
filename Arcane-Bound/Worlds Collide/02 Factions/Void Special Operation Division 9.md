@@ -8,14 +8,19 @@ aliases:
   - V.S.O.D.9
 ---
 
-# **Basic Information**
-**Name**: `= this.file.name`
-**Location**: [[Evemark City]], [[Lushborne Region]], [[Republic of Chloros]]
-**Founder/s**:
-**Holder of Power**:
-**Affiliation/s**: [[Void Operation & Investigation Department]]
-
-**Status**: `INPUT[factionStatus][]`
+> [!infobox] **`= this.file.name`**
+> ---
+> `$= dv.span(dv.current().logoImage ? "![[" + dv.current().logoImage + "]]" : "")`
+> 
+> ---
+> #### Details
+> |  Name   |  Void Special Operation Division 9   |
+> | --- | --- |
+> |  Founder/s   |  [[Void Operation & Investigation Department]]   |
+> |  Leader/s   |     |
+> |  Location   |  [[Evemark City]], [[Lushborne Region]], [[Republic of Chloros]]   |
+> |  Affiliation/s   |  [[Void Operation & Investigation Department]]   |
+> |  Status   |   `INPUT[factionStatus][]`  |
 
 # **Overview**
 **Void Special Operation Division 9**, also called **V.S.O.D.9** is a frontline unit of the Special Operation Department of the [[Void Operation & Investigation Department]]. ^4a3fcf

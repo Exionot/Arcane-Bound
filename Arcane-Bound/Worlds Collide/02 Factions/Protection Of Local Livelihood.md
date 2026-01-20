@@ -9,14 +9,19 @@ aliases:
   - P.O.L.L.
 ---
 
-# **Basic Information**
-**Name**: Protection Of Local Livelihood 
-**Location**: [[Circuit District]], [[Fluxpoint City]], [[Split Region]], [[NeoTech Union]]
-**Founder/s**: 
-**Holder of Power**:
-**Affiliation/s**: [[Fluxpoint City Administration]]
-
-**Status**: `INPUT[factionStatus][]`
+> [!infobox] **`= this.file.name`**
+> ---
+> `$= dv.span(dv.current().logoImage ? "![[" + dv.current().logoImage + "]]" : "")`
+> 
+> ---
+> #### Details
+> |  Name   |  Protection Of Local Livelihood   |
+> | --- | --- |
+> |  Founder/s   |     |
+> |  Leader/s   |     |
+> |  Location   |  [[Circuit District]], [[Fluxpoint City]], [[Split Region]], [[NeoTech Union]]   |
+> |  Affiliation/s   |  [[Fluxpoint City Administration]]   |
+> |  Status   |   `INPUT[factionStatus][]`  |
 
 # **Overview**
 **Protection Of Local Livelihood (P.O.L.L.)**, is a police/military organization under the public security department of the [[Fluxpoint City Administration]]. ^918ba6

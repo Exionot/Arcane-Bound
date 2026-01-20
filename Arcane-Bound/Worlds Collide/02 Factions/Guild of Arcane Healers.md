@@ -7,14 +7,19 @@ galleryImage:
 status: Active
 ---
 
-# **Basic Information**
-**Name**: Guild of Arcane Healers
-**Location**: [[Bauer Quarter]], [[Bauserst City]], [[Phthalo Region]], [[Verdthorne Kingdom]], [[Central Lands]], [[Arcaena]]
-**Founder/s**:
-**Holder of Power**:
-**Affiliation/s**:
-
-**Status**: `INPUT[factionStatus][]`
+> [!infobox] **`= this.file.name`**
+> ---
+> `$= dv.span(dv.current().logoImage ? "![[" + dv.current().logoImage + "]]" : "")`
+> 
+> ---
+> #### Details
+> |  Name   |  Guild of Arcane Healers   |
+> | --- | --- |
+> |  Founder/s   |     |
+> |  Leader/s   |     |
+> |  Location   |  [[Bauer Quarter]], [[Bauserst City]], [[Phthalo Region]], [[Verdthorne Kingdom]], [[Central Lands]], [[Arcaena]]   |
+> |  Affiliation/s   |     |
+> |  Status   |   `INPUT[factionStatus][]`  |
 
 # **Overview**
 The **Guild of Arcane Healers** is a guild found in the [[Bauer Quarter]] of [[Bauserst City]], they seek to train and spread the knowledge of healing magic to future generations. Like the nation's warriors, they are one of the most important groups of the city, often being needed during times of conflict. They also serve the people of [[Bauserst City|Bauserst]] by providing aid to those in need.

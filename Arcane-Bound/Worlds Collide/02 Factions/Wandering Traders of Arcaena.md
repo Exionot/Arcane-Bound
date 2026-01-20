@@ -8,11 +8,17 @@ aliases:
 status: Active
 ---
 
-# **Basic Information**
-**Name**: `= this.file.name`
-**Location**: [[Arcaena]]
-**Nickname/s**: Wanderers 
-**Status**: `INPUT[factionStatus][]`
+> [!infobox] **`= this.file.name`**
+> ---
+> `$= dv.span(dv.current().logoImage ? "![[" + dv.current().logoImage + "]]" : "")`
+> 
+> ---
+> #### Details
+> |  Name   |  Wandering Traders of Arcaena   |
+> | --- | --- |
+> |  Location   |     |
+> |  Affiliation/s   |     |
+> |  Status   |   `INPUT[factionStatus][]`  |
 
 # **Overview**
 The **Wandering Traders of Arcaena** is a guild of various traders across the [[Arcaena|continent of Arcaena]]. They travel in small groups across different kingdoms and cities. They buy, sell, and barter for rare artifacts but their main source of [[Numia Coins|income]] comes from selling items found in other kingdoms with a slightly increased price. 

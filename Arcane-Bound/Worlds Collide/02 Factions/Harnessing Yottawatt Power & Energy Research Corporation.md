@@ -9,14 +9,19 @@ aliases:
   - HYPER Corp.
 ---
 
-# **Basic Information**
-**Name**: Harnessing Yottawatt Power & Energy Research Corporation (HYPER Corp.)
-**Location**: [[Lightspeed City]], [[Lumen Region]], [[HyperCorp Republic]]
-**Founder/s**:
-**Holder of Power**:
-**Affiliation/s**:
-
-**Status**: `INPUT[factionStatus][]`
+> [!infobox] **`= this.file.name`**
+> ---
+> `$= dv.span(dv.current().logoImage ? "![[" + dv.current().logoImage + "]]" : "")`
+> 
+> ---
+> #### Details
+> |  Name   |  Harnessing Yottawatt Power & Energy Research Corporation (HYPER Corp.)   |
+> | --- | --- |
+> |  Founder/s   |     |
+> |  Leader/s   |     |
+> |  Location   |  [[Lightspeed City]], [[Lumen Region]], [[HyperCorp Republic]]   |
+> |  Affiliation/s   |     |
+> |  Status   |   `INPUT[factionStatus][]`  |
 
 # **Overview**
 **Harnessing Yottawatt Power & Energy Research Corporation**, commonly referred to as **HYPER Corp.**, is a research corporation, and the governing body of [[HyperCorp Republic]], that focuses on generating and harnessing astronomical amounts of energy. Renowned for the invention of [[Light Technology]] like [[Solid-Light Energy]], it has been successful in providing the world with sustainable energy and cutting edge [[Light Technology]]. ^0af673
