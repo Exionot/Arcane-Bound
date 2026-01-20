@@ -7,14 +7,19 @@ aliases:
 -
 ---
 
-# **Basic Information**
-**Name**: `= this.file.name`
-**Location**:
-**Founder/s**:
-**Holder of Power**:
-**Affiliation/s**:
-
-**Status**: `INPUT[factionStatus][]`
+> [!infobox] **`= this.file.name`**
+> ---
+> `$= dv.span(dv.current().logoImage ? "![[" + dv.current().logoImage + "]]" : "")`
+> 
+> ---
+> #### Details
+> |  Name   |  aa   |
+> | --- | --- |
+> |  Founder/s   |  aa   |
+> |  Leader/s   |  aa   |
+> |  Location   |  aa   |
+> |  Affiliation/s   |  aa   |
+> |  Status   |   `INPUT[factionStatus][]`  |
 
 # **Overview**
 
@@ -59,6 +64,12 @@ TABLE status as "Status" WHERE type = "mission" AND contains(faction, this.file.
 ---
 
 # **Gallery**
+## Faction Logo
+```meta-bind
+INPUT[imageSuggester(optionQuery("ᐳExternal Assets"), class(character-img)):logoImage]
+```
+
+## Other Images
 ```meta-bind
 INPUT[imageListSuggester(optionQuery("ᐳExternal Assets"), class(gallery-img)):galleryImage]
 ```

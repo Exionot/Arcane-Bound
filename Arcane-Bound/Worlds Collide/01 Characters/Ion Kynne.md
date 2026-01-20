@@ -48,7 +48,7 @@ relations:
 > |   Species  |  [[Virken]] (Canis)   |
 > |   Origin  |  [[Ohmpalos City]], [[Amphors Kingdom]], [[Southern Lands]], [[Arcaena]]   |
 > |   Faction/s  |  [[Wandering Traders of Arcaena]]   |
-> |   Hobbies  |  Watching [[Stakes Running|Stake Races]]   |
+> |   Hobbies  |  Watching Stakes Races   |
 > |   Relations  | `$= dv.span(dv.current().relations ? dv.current().relations.map(p => "[[" + p + "]]").join("\n") : "")`  |
 
 > **Character Thread**: 

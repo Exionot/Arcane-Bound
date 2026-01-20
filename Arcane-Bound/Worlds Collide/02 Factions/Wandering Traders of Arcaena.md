@@ -16,6 +16,7 @@ status: Active
 > #### Details
 > |  Name   |  Wandering Traders of Arcaena   |
 > | --- | --- |
+> |  Nickname   |  "Wanderers"   |
 > |  Location   |     |
 > |  Affiliation/s   |     |
 > |  Status   |   `INPUT[factionStatus][]`  |
@@ -54,6 +55,12 @@ dv.paragraph(`ㅤ`);
 ---
 
 # **Gallery**
+## Faction Logo
+```meta-bind
+INPUT[imageSuggester(optionQuery("ᐳExternal Assets"), class(character-img)):logoImage]
+```
+
+## Other Images
 ```meta-bind
 INPUT[imageListSuggester(optionQuery("ᐳExternal Assets"), class(gallery-img)):galleryImage]
 ```

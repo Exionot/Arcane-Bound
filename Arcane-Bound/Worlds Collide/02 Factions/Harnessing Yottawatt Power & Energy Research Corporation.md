@@ -15,8 +15,9 @@ aliases:
 > 
 > ---
 > #### Details
-> |  Name   |  Harnessing Yottawatt Power & Energy Research Corporation (HYPER Corp.)   |
+> |  Name   |  Harnessing Yottawatt Power & Energy Research Corporation   |
 > | --- | --- |
+> |  Nickname   |  "H.Y.P.E.R. Corp."   |
 > |  Founder/s   |     |
 > |  Leader/s   |     |
 > |  Location   |  [[Lightspeed City]], [[Lumen Region]], [[HyperCorp Republic]]   |
@@ -67,6 +68,12 @@ TABLE status as "Status" WHERE type = "mission" AND contains(faction, this.file.
 ---
 
 # **Gallery**
+## Faction Logo
+```meta-bind
+INPUT[imageSuggester(optionQuery("ᐳExternal Assets"), class(character-img)):logoImage]
+```
+
+## Other Images
 ```meta-bind
 INPUT[imageListSuggester(optionQuery("ᐳExternal Assets"), class(gallery-img)):galleryImage]
 ```

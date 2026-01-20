@@ -17,6 +17,7 @@ aliases:
 > #### Details
 > |  Name   |  Protection Of Local Livelihood   |
 > | --- | --- |
+> |  Nickname   |  "P.O.L.L."   |
 > |  Founder/s   |     |
 > |  Leader/s   |     |
 > |  Location   |  [[Circuit District]], [[Fluxpoint City]], [[Split Region]], [[NeoTech Union]]   |
@@ -68,6 +69,12 @@ TABLE status as "Status" WHERE type = "mission" AND contains(faction, this.file.
 ---
 
 # **Gallery**
+## Faction Logo
+```meta-bind
+INPUT[imageSuggester(optionQuery("ᐳExternal Assets"), class(character-img)):logoImage]
+```
+
+## Other Images
 ```meta-bind
 INPUT[imageListSuggester(optionQuery("ᐳExternal Assets"), class(gallery-img)):galleryImage]
 ```

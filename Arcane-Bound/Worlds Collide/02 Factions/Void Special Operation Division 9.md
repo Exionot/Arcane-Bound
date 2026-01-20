@@ -16,6 +16,7 @@ aliases:
 > #### Details
 > |  Name   |  Void Special Operation Division 9   |
 > | --- | --- |
+> |  Nickname   |  "V.S.O.D.9"   |
 > |  Founder/s   |  [[Void Operation & Investigation Department]]   |
 > |  Leader/s   |     |
 > |  Location   |  [[Evemark City]], [[Lushborne Region]], [[Republic of Chloros]]   |
@@ -66,6 +67,12 @@ TABLE status as "Status" WHERE type = "mission" AND contains(faction, this.file.
 ---
 
 # **Gallery**
+## Faction Logo
+```meta-bind
+INPUT[imageSuggester(optionQuery("ᐳExternal Assets"), class(character-img)):logoImage]
+```
+
+## Other Images
 ```meta-bind
 INPUT[imageListSuggester(optionQuery("ᐳExternal Assets"), class(gallery-img)):galleryImage]
 ```
