@@ -30,7 +30,7 @@ posterImage:
   - Arcane-Bound/Archives/Golden Aura Final.png
 relations:
   - Mint Evergreen
-profileImage: ᐳExternal Assets/Aura_Brillfer_Icon.png
+profileImage: ᐳExternal Assets/Golden Aura Blank.png
 ---
 
 > [!Infobox] **`=this.file.name`**

@@ -23,7 +23,7 @@ abilityUsed:
 itemUsed:
   - Arcaenian Band
   - Mint's Staff
-profileImage: ᐳExternal Assets/Mint_Evergreen_Icon.png
+profileImage: ᐳExternal Assets/Felling Relaxed Blank.png
 galleryImage:
   - ᐳExternal Assets/Mint_Arcaena_Weapon_Drawn.png
   - ᐳExternal Assets/Mint_Synthspire_Glasses.png

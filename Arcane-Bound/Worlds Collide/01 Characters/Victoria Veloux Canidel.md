@@ -18,7 +18,7 @@ systemUsed:
 abilityUsed:
 itemUsed:
   - Vixen's Claws
-profileImage: ᐳExternal Assets/Victoria_Veloux_Canidel_Icon2.png
+profileImage: ᐳExternal Assets/Noble Wanderer Blank.png
 galleryImage: []
 posterImage:
   - Arcane-Bound/Archives/Being Vigilant Final.png

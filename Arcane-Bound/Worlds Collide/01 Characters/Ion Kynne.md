@@ -19,7 +19,7 @@ systemUsed:
   - Mana
 abilityUsed:
 itemUsed:
-profileImage: ᐳExternal Assets/Ion_Kynne_Icon.png
+profileImage: ᐳExternal Assets/Canine Adventures Blank.png
 galleryImage:
   - ᐳExternal Assets/Ion_Profile1.png
 posterImage:
