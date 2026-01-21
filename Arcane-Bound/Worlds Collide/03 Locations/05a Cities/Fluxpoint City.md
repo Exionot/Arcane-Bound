@@ -8,10 +8,17 @@ galleryImage:
 aliases:
 ---
 
-# **Basic Information** 
-**Name**: Fluxpoint City
-**Type**: Capital City
-**Location**: [[Split Region]], [[NeoTech Union]], [[Veridian Sector]], [[Synthspire]]
+> [!infobox] **`= this.file.name`**
+> ---
+> `$= dv.span(dv.current().areaImage ? "![[" + dv.current().areaImage + "]]" : "")`
+> 
+> ---
+> #### Details
+> |  Name   |  Fluxpoint City  |
+> | --- | --- |
+> |  Type  |  Capital City  |
+> |  Leader/s   |  [[Gordon Omburg\|Mayor Omburg]]   |
+> |  Location   |  [[Split Region]], [[NeoTech Union]], [[Veridian Sector]], [[Synthspire]]   |
 
 # **Description** 
 **Fluxpoint City** is the capital of [[NeoTech Union]]. Located in [[Split Region]] of [[NeoTech Union]], the [[Hydro River]] runs through the city, dividing [[Circuit District]] and [[Fuse District]] while providing beautiful scenic views. It is known for its innovative discoveries on mechanical technology. ^854f85
@@ -59,6 +66,10 @@ pages.map(p => [p.file.link, p.location.origin, p.faction.active])
 ---
 
 # **Gallery**
+```meta-bind
+INPUT[imageSuggester(optionQuery("ᐳExternal Assets"), class(character-img)):areaImage]
+```
+
 ```meta-bind
 INPUT[imageListSuggester(optionQuery("ᐳExternal Assets"), class(gallery-img)):galleryImage]
 ```

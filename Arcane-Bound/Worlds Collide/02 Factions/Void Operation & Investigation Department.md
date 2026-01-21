@@ -21,7 +21,7 @@ status: Active
 > |  Founder/s   |     |
 > |  Leader/s   |     |
 > |  Location   |     |
-> |  Affiliation/s   |   [[Chloros Administration]], [[Newslate City Administration]], [[Void Special Operation Division 9]]   |
+> |  Affiliation/s   |   [[Chloros Administration]]<br>[[Newslate City Administration]]<br>[[Void Special Operation Division 9]]   |
 > |  Status   |   `INPUT[factionStatus][]`  |
 
 # **Overview**

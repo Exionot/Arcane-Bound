@@ -8,10 +8,17 @@ aliases:
 - 
 ---
 
-# **Basic Information** 
-**Name**: Shellport Capital
-**Type**: Capital City
-**Location**: [[Vaap-ur Region]], [[Aquarin Kingdom]], [[Northern Lands]], [[Arcaena]]
+> [!infobox] **`= this.file.name`**
+> ---
+> `$= dv.span(dv.current().areaImage ? "![[" + dv.current().areaImage + "]]" : "")`
+> 
+> ---
+> #### Details
+> |  Name   |  Shellport Capital   |
+> | --- | --- |
+> |  Type  |  Capital City   |
+> |  Leader/s   |     |
+> |  Location   |  [[Vaap-ur Region]], [[Aquarin Kingdom]], [[Northern Lands]], [[Arcaena]]   |
 
 # **Description** 
 **Shellport Capital** is the capital city of [[Aquarin Kingdom]], found within the coast of [[Vaap-ur Region]]. It is a thriving coastal city, serving as the kingdom's trades and export hub. ^5e79b7
@@ -51,6 +58,10 @@ pages.map(p => [p.file.link, p.location.origin, p.faction.active])
 ---
 
 # **Gallery**
+```meta-bind
+INPUT[imageSuggester(optionQuery("ᐳExternal Assets"), class(character-img)):areaImage]
+```
+
 ```meta-bind
 INPUT[imageListSuggester(optionQuery("ᐳExternal Assets"), class(gallery-img)):galleryImage]
 ```

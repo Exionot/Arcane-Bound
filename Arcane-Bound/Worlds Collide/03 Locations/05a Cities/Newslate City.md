@@ -8,10 +8,17 @@ aliases:
 - 
 ---
 
-# **Basic Information** 
-**Name**: `= this.file.name`
-**Type**: Capital City
-**Location**: [[Lushborne Region]], [[Republic of Chloros]], [[Veridian Sector]], [[Synthspire]]
+> [!infobox] **`= this.file.name`**
+> ---
+> `$= dv.span(dv.current().areaImage ? "![[" + dv.current().areaImage + "]]" : "")`
+> 
+> ---
+> #### Details
+> |  Name   |  Newslate City  |
+> | --- | --- |
+> |  Type  |  Capital City  |
+> |  Leader/s   |     |
+> |  Location   |  [[Lushborne Region]], [[Republic of Chloros]], [[Veridian Sector]], [[Synthspire]]   |
 
 # **Description** 
 **Newslate City** is the new capital of the [[Republic of Chloros]]. With the fall of [[Rockcore City]] due to [[Void Crystal]] corruption, **Newslate City** remained open for evacuees from the [[Rockcore City|Old Capital]]. After the fall of [[Rockcore City]], **Newslate City** was declared as the new capital of [[Republic of Chloros|Chloros]]. 
@@ -56,6 +63,10 @@ pages.map(p => [p.file.link, p.location.origin, p.faction.active])
 ---
 
 # **Gallery**
+```meta-bind
+INPUT[imageSuggester(optionQuery("ᐳExternal Assets"), class(character-img)):areaImage]
+```
+
 ```meta-bind
 INPUT[imageListSuggester(optionQuery("ᐳExternal Assets"), class(gallery-img)):galleryImage]
 ```

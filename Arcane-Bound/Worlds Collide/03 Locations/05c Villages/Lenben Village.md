@@ -8,10 +8,17 @@ aliases:
 - Lenben
 ---
 
-# **Basic Information** 
-**Name**: Lenben Village
-**Location**:  [[Phthalo Region]], [[Verdthorne Kingdom]], [[Central Lands]], [[Arcaena|Arcaena]]
-**Nearby Location/s**: [[Bauserst City]]
+> [!infobox] **`= this.file.name`**
+> ---
+> `$= dv.span(dv.current().areaImage ? "![[" + dv.current().areaImage + "]]" : "")`
+> 
+> ---
+> #### Details
+> |  Name   |  Lenben Village   |
+> | --- | --- |
+> |  Type  |  Village   |
+> |  Location   |  [[Phthalo Region]], [[Verdthorne Kingdom]], [[Central Lands]], [[Arcaena]]   |
+> |  Nearby Location/s   |  [[Bauserst City]]   |
 
 # **Description** 
 **Lenben Village** is a small village located in near the outskirts of [[Bauserst City]] in [[Phthalo Region]] of [[Verdthorne Kingdom]]. It specializes in alchemy and basic [[Elemental Magic#Vitalis|Vitalis]].
@@ -62,6 +69,10 @@ pages.map(p => [p.file.link, p.location.origin, p.faction.active])
 ---
 
 # **Gallery**
+```meta-bind
+INPUT[imageSuggester(optionQuery("ᐳExternal Assets"), class(character-img)):areaImage]
+```
+
 ```meta-bind
 INPUT[imageListSuggester(optionQuery("ᐳExternal Assets"), class(gallery-img)):galleryImage]
 ```

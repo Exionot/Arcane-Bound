@@ -9,6 +9,18 @@ aliases:
   - Bauserst
 ---
 
+> [!infobox] **`= this.file.name`**
+> ---
+> `$= dv.span(dv.current().areaImage ? "![[" + dv.current().areaImage + "]]" : "")`
+> 
+> ---
+> #### Details
+> |  Name   |  Bauserst City   |
+> | --- | --- |
+> |  Type  |  Capital City   |
+> |  Leader/s   |  [[Grant Verdthorne\|King Grant Verdthorne]]   |
+> |  Location   |  [[Phthalo Region]], [[Verdthorne Kingdom]], [[Central Lands]], [[Arcaena]]   |
+
 # **Basic Information** 
 **Name**: Bauserst City
 **Type**: Capital City
@@ -78,6 +90,10 @@ pages.map(p => [p.file.link, p.location.origin, p.faction.active])
 ---
 
 # **Gallery**
+```meta-bind
+INPUT[imageSuggester(optionQuery("ᐳExternal Assets"), class(character-img)):areaImage]
+```
+
 ```meta-bind
 INPUT[imageListSuggester(optionQuery("ᐳExternal Assets"), class(gallery-img)):galleryImage]
 ```

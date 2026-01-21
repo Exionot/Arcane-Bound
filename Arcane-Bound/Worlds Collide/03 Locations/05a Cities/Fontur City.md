@@ -8,10 +8,17 @@ aliases:
 - 
 ---
 
-# **Basic Information** 
-**Name**: Fontur City 
-**Type**: City
-**Location**: [[Vaap-ur Region]], [[Aquarin Kingdom]], [[Northern Lands]], [[Arcaena]]
+> [!infobox] **`= this.file.name`**
+> ---
+> `$= dv.span(dv.current().areaImage ? "![[" + dv.current().areaImage + "]]" : "")`
+> 
+> ---
+> #### Details
+> |  Name   |  Fontur City  |
+> | --- | --- |
+> |  Type  |  City  |
+> |  Leader/s   |     |
+> |  Location   |  [[Vaap-ur Region]], [[Aquarin Kingdom]], [[Northern Lands]], [[Arcaena]]   |
 
 # **Description** 
 
@@ -57,6 +64,10 @@ pages.map(p => [p.file.link, p.location.origin, p.faction.active])
 ---
 
 # **Gallery**
+```meta-bind
+INPUT[imageSuggester(optionQuery("ᐳExternal Assets"), class(character-img)):areaImage]
+```
+
 ```meta-bind
 INPUT[imageListSuggester(optionQuery("ᐳExternal Assets"), class(gallery-img)):galleryImage]
 ```

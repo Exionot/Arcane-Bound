@@ -3,6 +3,7 @@ type: location
 locationType: Realm
 location: Arcaena
 system: Magic
+areaImage:
 galleryImage:
 aliases:
 ---
@@ -28,6 +29,10 @@ The **Underworld**, also referred to as **Hell**, is a realm that is exclusively
 ---
 
 # **Gallery**
+```meta-bind
+INPUT[imageSuggester(optionQuery("ᐳExternal Assets"), class(character-img)):areaImage]
+```
+
 ```meta-bind
 INPUT[imageListSuggester(optionQuery("ᐳExternal Assets"), class(gallery-img)):galleryImage]
 ```

@@ -8,11 +8,17 @@ galleryImage:
 aliases:
 ---
 
-# **Basic Information** 
-**Name**: Region's Edge
-**Type**: Town
-**Location**: [[CinderScorch Sector]], [[Synthspire]]
-**Nearby Location/s**:
+> [!infobox] **`= this.file.name`**
+> ---
+> `$= dv.span(dv.current().areaImage ? "![[" + dv.current().areaImage + "]]" : "")`
+> 
+> ---
+> #### Details
+> |  Name   |  Region's Edge   |
+> | --- | --- |
+> |  Type  |  Town   |
+> |  Location   |  [[CinderScorch Sector]], [[Synthspire]]   |
+> |  Nearby Location/s   |     |
 
 # **Description** 
 **Region's Edge** is a town located within the edge of [[CinderScorch Sector|CinderScorch Sector]]. It specializes in [[Pyro Technology]] and is one of the major source of [[Pyrathyl Ether]]. ^07a5b3
@@ -48,6 +54,10 @@ pages.map(p => [p.file.link, p.location.origin, p.faction.active])
 ---
 
 # **Gallery**
+```meta-bind
+INPUT[imageSuggester(optionQuery("ᐳExternal Assets"), class(character-img)):areaImage]
+```
+
 ```meta-bind
 INPUT[imageListSuggester(optionQuery("ᐳExternal Assets"), class(gallery-img)):galleryImage]
 ```

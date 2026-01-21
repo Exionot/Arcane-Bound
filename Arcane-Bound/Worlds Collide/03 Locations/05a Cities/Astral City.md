@@ -8,6 +8,18 @@ galleryImage:
 aliases:
 ---
 
+> [!infobox] **`= this.file.name`**
+> ---
+> `$= dv.span(dv.current().areaImage ? "![[" + dv.current().areaImage + "]]" : "")`
+> 
+> ---
+> #### Details
+> |  Name   |  Astral City  |
+> | --- | --- |
+> |  Type  |  City  |
+> |  Leader/s   |  [[Lee Braxstone\|Mayor Braxstone]] (Former)<br>[[Gem Minee\|Mayor Minee]] (Current)   |
+> |  Location   |  aa   |
+
 # **Basic Information** 
 **Name**: `= this.file.name`
 **Type**: City
@@ -52,6 +64,10 @@ pages.map(p => [p.file.link, p.location.origin, p.faction.active])
 ---
 
 # **Gallery**
+```meta-bind
+INPUT[imageSuggester(optionQuery("ᐳExternal Assets"), class(character-img)):areaImage]
+```
+
 ```meta-bind
 INPUT[imageListSuggester(optionQuery("ᐳExternal Assets"), class(gallery-img)):galleryImage]
 ```

@@ -8,11 +8,17 @@ aliases:
 - 
 ---
 
-# **Basic Information** 
-**Name**: `= this.file.name`
-**Type**:
-**Location**:
-**Nearby Location/s**:
+> [!infobox] **`= this.file.name`**
+> ---
+> `$= dv.span(dv.current().areaImage ? "![[" + dv.current().areaImage + "]]" : "")`
+> 
+> ---
+> #### Details
+> |  Name   |  aa   |
+> | --- | --- |
+> |  Type  |  aa   |
+> |  Location   |  aa   |
+> |  Nearby Location/s   |  aa   |
 
 # **Description** 
 
@@ -23,6 +29,10 @@ aliases:
 ---
 
 # **Gallery**
+```meta-bind
+INPUT[imageSuggester(optionQuery("ᐳExternal Assets"), class(character-img)):areaImage]
+```
+
 ```meta-bind
 INPUT[imageListSuggester(optionQuery("ᐳExternal Assets"), class(gallery-img)):galleryImage]
 ```
