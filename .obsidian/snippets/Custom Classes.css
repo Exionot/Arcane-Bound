@@ -130,7 +130,7 @@ img[alt*="center"] {
 
 .is-mobile .callout[data-callout=infobox]{
 	float: right;
-    width: var(--ic-width);
+    width: var(--ic-width-mobile);
     margin-left: var(--ic-outside-padding);
     background: var(--ic-infobox-color);
 
