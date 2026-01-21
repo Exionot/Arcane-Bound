@@ -4,7 +4,7 @@ cssclasses:
   - narrative
 ---
 
-**Character/s**: [[Aura Brillfer]], [[Mint Evergreen]]
+**Character/s**: [[Aura Brillfer]]
 **Location**: [[Amphere Square]]
 **Time of Occurrence**: 2405, Early Winter
 **Related:** [[A fellow Feline]]
@@ -13,7 +13,7 @@ cssclasses:
 
 **Radio:** Point Alpha, identify yourself.
 
-**Aura:** This is Commander Brillfer speaking.
+**Aura:** This is Ace Responder Brillfer speaking.
 
 **Radio:** Are you still in patrol?
 
@@ -27,7 +27,7 @@ cssclasses:
 
 **Aura:** Believed? We do not have a strong evidence and we're arresting them?
 
-**Radio:** Just do as I say Commander Brillfer, this is an order you can't fight. Intel came from the higher ups.
+**Radio:** Just do as I say Ace Responder Brillfer, this is an order you can't fight. Intel came from the higher ups.
 
 **Aura:** Alright, alright, I'll see what I can do.
 
@@ -39,4 +39,8 @@ cssclasses:
 
 *As they were about to continue in their patrol, a voice come from behind.*
 
-**Mint:** E-excuse me!
+**???:** E-excuse me!
+
+
+> [!NOTE] Notes
+> Amp Square - [[Amphere Square]] but shortened because people do that.

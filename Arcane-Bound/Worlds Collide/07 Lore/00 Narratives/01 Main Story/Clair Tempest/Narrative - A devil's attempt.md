@@ -9,6 +9,10 @@ cssclasses:
   - narrative
 ---
 
+
+> [!warning] 
+> Revise pls. See [[Underworldian - Clair]]
+
 # **Basic Information**
 **Title**: A devil's attempt
 **Character/s**: 

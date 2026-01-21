@@ -24,14 +24,6 @@
       "key": "C"
     }
   ],
-  "app:toggle-ribbon": [
-    {
-      "modifiers": [
-        "Shift"
-      ],
-      "key": "`"
-    }
-  ],
   "app:go-back": [
     {
       "modifiers": [
@@ -46,6 +38,15 @@
         "Alt"
       ],
       "key": "ArrowRight"
+    }
+  ],
+  "app:toggle-ribbon": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "`"
     }
   ]
 }

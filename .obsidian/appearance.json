@@ -12,5 +12,5 @@
   "baseFontSizeAction": true,
   "accentColor": "#6e3a9e",
   "cssTheme": "",
-  "showRibbon": true
+  "showRibbon": false
 }

@@ -38,7 +38,7 @@ relations:
 > |   Sex  |  Female   |
 > |   Height  |     |
 > |   Birthday  |     |
-> |   Age  |     |
+> |   Age  |  ~150 Years Old   |
 > |   Species  |  [[Devil]]   |
 > |   Origin  |  [[Underworld]], [[Arcaena]]   |
 > |   Faction/s  |  [[Blackreign Gang]]   |

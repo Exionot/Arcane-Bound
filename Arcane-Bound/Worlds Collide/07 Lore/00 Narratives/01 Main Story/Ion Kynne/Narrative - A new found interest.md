@@ -52,7 +52,7 @@ cssclasses:
 **Commentator:** Still Thunder and Unknown Grace are head to head! 
 **Commentator:** Can she make it?! Can she make it?! Can she make it?! Can she make it?!
 
-*The ground is shaken by the runner's strides, the crowd's cheer slowly fades into background silence, time seems to slow down. Ion watched as Still Thunder takes the lead by a small margin.*
+*As they approach the finish line, the ground is shaken by the runner's strides, the crowd's cheer slowly fades into background silence, time seems to slow down. Ion watched as Still Thunder takes the lead by a small margin.*
 
 **Commentator:** Still Thunder!! She takes the win by a neck! 
 **Commentator:** Still Thunder wins the Starter Stakes!
@@ -60,7 +60,7 @@ cssclasses:
 
 *The crowd's cheer brings Ion back to her senses.*
 
-**Ted:** I can't believe she managed to pull that off!
+**Ted:** Ha ha ha! I can't believe she managed to pull that off!
 **Ion:** She's so cool!! How did she do it?? I want to run too!! Hey Ted, how about we become runners instead?!
 **Ted:** Looks like someone is a fan...
 

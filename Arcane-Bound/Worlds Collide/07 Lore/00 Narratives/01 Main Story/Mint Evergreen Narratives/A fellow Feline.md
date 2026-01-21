@@ -17,21 +17,15 @@ cssclasses:
 
 **Mint:** E-excuse me!
 
-*Aura stops walking and turns around, her bodyguards raises their weapon and aims it towards Mint.*
+*Mint calls out to to Aura, she is walking with bodyguards. Hearing Mint's call, she stops walking and turns around. Before she could speak, her bodyguards raises their weapons and points it towards Mint.*
 
 **Bodyguard:** Back off civilian!
 
 *Mint steps back and before she could summon her weapon, Aura commands her bodyguards to lower their weapons.*
 
-*Mint focuses and checks Aura for any traces of mana, but to no avail, there's nothing.*
-
-**Aura:** Are you in need of any assistance?
-
-*Mint being too focused, unknowingly misses Aura's question and stares at her awkwardly.*
+*Mint focuses and checks Aura for any traces of mana, but to no avail, there's nothing, not even her bodyguards have any traces of mana.*
 
 **Aura:** Are you lost?
-
-*Mint returns back to her senses.*
 
 **Mint:** Ah! Yes, it seems like I got suddenly transported here. 
 
@@ -41,10 +35,10 @@ cssclasses:
 
 **Mint:** I didn't know Arcaena had such developed cities like this.
 
-*Aura commands her bodyguards to return to base. The bodyguards walk away, leaving Aura with Mint.*
+*Aura gestures something to her bodyguards, they salute her and begins to walk away, leaving Mint with Aura.*
 
 **Aura:** Follow me.
 
-*Mint, confused, nods and follows Aura.*
+*Mint, confused, she nods and follows Aura.*
 
 **Mint:** *She might have answers to what's happening so I can get home.*
