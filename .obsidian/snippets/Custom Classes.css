@@ -77,6 +77,7 @@ img[alt*="center"] {
 /* === CUSTOM CALLOUTS === */
 :root {
   --ic-width: 250px;
+  --ic-width-mobile: 150px;
   --ic-outside-padding: 15px;
   --ic-inside-padding: 10px;
   --ic-round-corners: 5px;
@@ -116,6 +117,18 @@ img[alt*="center"] {
 }
 
 .callout[data-callout=infobox]{
+	float: right;
+    width: var(--ic-width);
+    margin-left: var(--ic-outside-padding);
+    background: var(--ic-infobox-color);
+
+    padding: var(--ic-inside-padding);
+    border-radius: var(--ic-round-corners);
+    border: var(--ic-border) solid;
+    border-color: var(--hr-color);
+}
+
+.is-mobile .callout[data-callout=infobox]{
 	float: right;
     width: var(--ic-width);
     margin-left: var(--ic-outside-padding);
