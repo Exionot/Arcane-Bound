@@ -10,6 +10,21 @@ aliases:
 - 
 ---
 
+> [!infobox] **`= this.file.name`**
+> ---
+> `$= dv.span(dv.current().areaImage ? "![[" + dv.current().areaImage + "]]" : "")`
+> 
+> ---
+> #### Details
+> |  Name   |  Ring of Orion   |
+> | --- | --- |
+> |  Type  |  Orbital Nation  |
+> |  Area Code  |  STSP-01O  |
+> |  Nation Code  |  HCR  |
+> |  Leader/s  |  [[Harnessing Yottawatt Power & Energy Research Corporation|HYPER Corporation]]  |
+> |  Capital  |  [[Lightspeed City]] |
+> |  Location   |  [[Thunderdrop Sector]], [[Synthspire]], [[Terra]]  |
+
 # **Basic Information** 
 **Name**: Ring of Orion
 **Type**: Habitable Orbital Ring

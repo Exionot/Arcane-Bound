@@ -18,6 +18,7 @@ aliases:
 > | --- | --- |
 > |  Type  |  Nation  |
 > |  Area Code  |  STSP-03  |
+> |  Nation Code  |  NTU  |
 > |  Leader/s  |  [[Neo-Technology Corporation]]  |
 > |  Capital  |  [[Fluxpoint City]]  |
 > |  Location   |  [[Veridian Sector]], [[Synthspire]], [[Terra]]  |

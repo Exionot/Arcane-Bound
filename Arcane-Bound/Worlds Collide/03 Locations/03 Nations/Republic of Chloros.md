@@ -19,6 +19,7 @@ aliases:
 > | --- | --- |
 > |  Type  |  Nation  |
 > |  Area Code  |  STSP-03  |
+> |  Nation Code  |  RCH  |
 > |  Leader/s  |    |
 > |  Capital  |  [[Rockcore City]] (old)<br>[[Newslate City]] (new)  |
 > |  Location   |  [[Veridian Sector]], [[Synthspire]], [[Terra]]  |

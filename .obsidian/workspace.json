@@ -13,14 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arcane-Bound/Worlds Collide/03 Locations/05a Cities/Astral City.md",
+                "file": "Arcane-Bound/Worlds Collide/03 Locations/00 Space/01 Orbital Infrastructure/Ring of Orion.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Astral City"
+              "title": "Ring of Orion"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "3dfb0bf9bc80d28d",
+        "type": "tabs",
+        "children": [
           {
             "id": "c246c2a041e19bbe",
             "type": "leaf",
@@ -28,15 +34,14 @@
               "type": "markdown",
               "state": {
                 "file": "Arcane-Bound/Worlds Collide/07 Lore/01 Documents/Document - Standardized Territorial Codex Protocol.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
               "title": "Document - Standardized Territorial Codex Protocol"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -173,12 +178,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Arcane-Bound/Worlds Collide/07 Lore/01 Documents/Document - Standardized Territorial Codex Protocol.md",
+                "file": "Arcane-Bound/Worlds Collide/03 Locations/00 Space/01 Orbital Infrastructure/Ring of Orion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Document - Standardized Territorial Codex Protocol"
+              "title": "Outgoing links from Ring of Orion"
             }
           },
           {
@@ -237,7 +242,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 250.5
+    "width": 250.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -253,16 +259,24 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "c246c2a041e19bbe",
+  "active": "04b11867409ce9a0",
   "lastOpenFiles": [
-    "Arcane-Bound/Worlds Collide/03 Locations/05a Cities/Fluxpoint City.md",
-    "Arcane-Bound/Worlds Collide/03 Locations/04 Regions/Dryrock Region.md",
-    "Arcane-Bound/Worlds Collide/03 Locations/05a Cities/Astral City.md",
-    "Arcane-Bound/Worlds Collide/03 Locations/04 Regions/Summer Peninsula.md",
-    "Arcane-Bound/Worlds Collide/03 Locations/03 Nations/Republic of Chloros.md",
-    "Arcane-Bound/Worlds Collide/03 Locations/03 Nations/Verdthorne Kingdom.md",
+    "Arcane-Bound/Worlds Collide/03 Locations/00 Space/00 Planets/Terra.md",
+    "Arcane-Bound/Worlds Collide/03 Locations/01 Continents/Synthspire.md",
+    "Arcane-Bound/Worlds Collide/03 Locations/00 Space/01 Orbital Infrastructure/Ring of Orion.md",
     "Arcane-Bound/Worlds Collide/03 Locations/03 Nations/HyperCorp Republic.md",
+    "Arcane-Bound/Worlds Collide/03 Locations/03 Nations/Amphors Kingdom.md",
+    "Arcane-Bound/Worlds Collide/03 Locations/03 Nations/Aquarin Kingdom.md",
+    "Arcane-Bound/Worlds Collide/03 Locations/02 Sectors–Lands/Central Lands.md",
+    "Arcane-Bound/Worlds Collide/03 Locations/03 Nations/NeoTech Union.md",
+    "Arcane-Bound/Worlds Collide/03 Locations/03 Nations/Republic of Chloros.md",
+    "Arcane-Bound/Worlds Collide/03 Locations/05a Cities/Newslate City.md",
+    "Arcane-Bound/Worlds Collide/03 Locations/05a Cities/Fluxpoint City.md",
+    "Arcane-Bound/Worlds Collide/03 Locations/05a Cities/Astral City.md",
     "Arcane-Bound/Worlds Collide/07 Lore/01 Documents/Document - Standardized Territorial Codex Protocol.md",
+    "Arcane-Bound/Worlds Collide/03 Locations/04 Regions/Dryrock Region.md",
+    "Arcane-Bound/Worlds Collide/03 Locations/04 Regions/Summer Peninsula.md",
+    "Arcane-Bound/Worlds Collide/03 Locations/03 Nations/Verdthorne Kingdom.md",
     "Arcane-Bound/Worlds Collide/03 Locations/05a Cities/Bauserst City.md",
     "Untitled.md",
     "Mana eating crystal.md",
@@ -273,14 +287,6 @@
     "Arcane-Bound/Worlds Collide/02 Factions/Protection Of Local Livelihood.md",
     "Arcane-Bound/Worlds Collide/02 Factions/Void Special Operation Division 9.md",
     "Arcane-Bound/Worlds Collide/02 Factions/Wandering Traders of Arcaena.md",
-    "Arcane-Bound/Worlds Collide/03 Locations/03 Nations/Amphors Kingdom.md",
-    "Arcane-Bound/Worlds Collide/03 Locations/03 Nations/Aquarin Kingdom.md",
-    "Arcane-Bound/Worlds Collide/03 Locations/03 Nations/Erde Kingdom.md",
-    "Al Erde.md",
-    "Arcane-Bound/Worlds Collide/03 Locations/03 Nations/Frostalies Kingdom.md",
-    "Arcane-Bound/Worlds Collide/03 Locations/03 Nations/Ignia Kingdom.md",
-    "Fulgor Ignia II.md",
-    "Arcane-Bound/Worlds Collide/03 Locations/03 Nations/NeoTech Union.md",
     "ᐳExternal Assets/In Darkness Blank.png",
     "ᐳExternal Assets/Crystal Clear Blank.png",
     "ᐳExternal Assets/Being Vigilant Blank.png",
