@@ -8,11 +8,19 @@ galleryImage:
 aliases:
 ---
 
-# **Basic Information** 
-**Name**: NeoTech Union
-**Location**: [[Veridian Sector]], [[Synthspire]], [[Terra]]
-**Capital**: [[Fluxpoint City]]
-**Holder of Power**: [[Neo-Technology Corporation]]
+> [!infobox] **`= this.file.name`**
+> ---
+> `$= dv.span(dv.current().areaImage ? "![[" + dv.current().areaImage + "]]" : "")`
+> 
+> ---
+> #### Details
+> |  Name   |  NeoTech Union   |
+> | --- | --- |
+> |  Type  |  Nation  |
+> |  Area Code  |  STSP-03  |
+> |  Leader/s  |  [[Neo-Technology Corporation]]  |
+> |  Capital  |  [[Fluxpoint City]]  |
+> |  Location   |  [[Veridian Sector]], [[Synthspire]], [[Terra]]  |
 
 # **Description** 
 **NeoTech Union** is a nation of [[Synthspire]] governed by [[Neo-Technology Corporation]]. This nation is known for its great contributions to the advancements of [[Mechanical Technology]] and [[Bio-Technology]]^[[[Neo-Technology Corporation]]], providing the world with cutting edge mechanical and bionic technology.

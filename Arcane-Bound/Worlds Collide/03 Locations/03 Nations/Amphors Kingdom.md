@@ -8,12 +8,18 @@ aliases:
 - Amphors
 ---
 
-# **Basic Information** 
-**Name**: Amphors Kingdom 
-**Type**: Kingdom 
-**Location**: [[Southern Lands]], [[Arcaena]]
-**Capital**: [[Amphors City]]
-**Holder of Power**:
+> [!infobox] **`= this.file.name`**
+> ---
+> `$= dv.span(dv.current().areaImage ? "![[" + dv.current().areaImage + "]]" : "")`
+> 
+> ---
+> #### Details
+> |  Name   |   Amphors Kingdom    |
+> | --- | --- |
+> |  Type  |  Kingdom   |
+> |  Leader/s  |    |
+> |  Capital  |  [[Amphors City]]  |
+> |  Location   |  [[Southern Lands]], [[Arcaena]]  |
 
 # **Description** 
 **Amphors** is a kingdom found in the [[Southern Lands]] of [[Arcaena]]. Its is the kingdom of light and electricity, known for its expertise in [[Elemental Magic#Thundra|Thundra Magic]] and [[Elemental Magic#Stellaris|Stellaris]]. ^531d8f
