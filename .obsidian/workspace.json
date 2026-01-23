@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Aura Brillfer Narratives/My house.md",
-                "mode": "source",
-                "source": false
+                "file": "Arcane-Bound/Worlds Collide/03 Locations/00 Space/00 Planets/Terra.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "My house"
+              "title": "Terra"
             }
           }
         ]
@@ -158,12 +158,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Victoria Veloux Canidel/Narrative - Feline encounter.md",
+                "file": "Arcane-Bound/Worlds Collide/03 Locations/00 Space/00 Planets/Terra.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Narrative - Feline encounter"
+              "title": "Outgoing links from Terra"
             }
           },
           {
@@ -240,32 +240,32 @@
   },
   "active": "04b11867409ce9a0",
   "lastOpenFiles": [
-    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Aura Brillfer Narratives/Defying orders.md",
-    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Aura Brillfer Narratives/An order you can't fight.md",
-    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen Narratives/Missing merchant.md",
-    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Aura Brillfer Narratives/Index.md",
-    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Aura Brillfer Narratives/My house.md",
-    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Clair Tempest/Narrative - A devil's attempt.md",
-    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Ion Kynne/Narrative - A new found interest.md",
-    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen Narratives/Her house.md",
-    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen Narratives/A fellow Feline.md",
-    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen Narratives/The convergence (Mint Evergreen).md",
-    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen Narratives/Index.md",
-    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen Narratives/Confrontation.md",
-    "aura narr cont.md",
-    "Arcane-Bound/Worlds Collide/03 Locations/07 Points of Interest/Underworld.md",
-    "Arcane-Bound/Worlds Collide/01 Characters/Clair Tempest.md",
-    "Arcane-Bound/Worlds Collide/01 Characters/Mhaxxine Dark.md",
-    "Arcane-Bound/Worlds Collide/01 Characters/Ted Ursa.md",
-    "Arcane-Bound/Worlds Collide/01 Characters/Underworldian - Clair.md",
-    "Homepage.md",
-    "Untitled.md",
-    "Arcane-Bound/Worlds Collide/03 Locations/04 Regions/Vaap-ur Region.md",
-    "Arcane-Bound/Worlds Collide/03 Locations/05a Cities/Astral City.md",
-    "Arcane-Bound/Worlds Collide/03 Locations/05a Cities/Bauserst City.md",
-    "Arcane-Bound/Worlds Collide/03 Locations/05a Cities/Fluxpoint City.md",
-    "Arcane-Bound/Worlds Collide/03 Locations/05a Cities/Fontur City.md",
+    "Arcane-Bound/Worlds Collide/03 Locations/00 Space/01 Orbital Infrastructure/Ring of Orion.md",
+    "Arcane-Bound/Worlds Collide/03 Locations/01 Continents/Arcaena.md",
+    "Arcane-Bound/Worlds Collide/03 Locations/01 Continents/Synthspire.md",
+    "Arcane-Bound/Worlds Collide/03 Locations/03 Nations/NeoTech Union.md",
+    "Arcane-Bound/Worlds Collide/03 Locations/03 Nations/Ignia Kingdom.md",
+    "Arcane-Bound/Worlds Collide/03 Locations/00 Space/00 Planets/Terra.md",
+    "Arcane-Bound/Worlds Collide/03 Locations/02 Sectors–Lands/CinderScorch Sector.md",
+    "Arcane-Bound/Worlds Collide/03 Locations/02 Sectors–Lands/Central Lands.md",
+    "Arcane-Bound/Worlds Collide/03 Locations/03 Nations/Amphors Kingdom.md",
+    "Arcane-Bound/Worlds Collide/07 Lore/01 Documents/Document - Standardized Territorial Codex Protocol.md",
+    "Arcane-Bound/Worlds Collide/03 Locations/03 Nations/HyperCorp Republic.md",
+    "Arcane-Bound/Worlds Collide/03 Locations/03 Nations/Aquarin Kingdom.md",
+    "Arcane-Bound/Worlds Collide/03 Locations/03 Nations/Republic of Chloros.md",
     "Arcane-Bound/Worlds Collide/03 Locations/05a Cities/Newslate City.md",
+    "Arcane-Bound/Worlds Collide/03 Locations/05a Cities/Fluxpoint City.md",
+    "Arcane-Bound/Worlds Collide/03 Locations/05a Cities/Astral City.md",
+    "Arcane-Bound/Worlds Collide/03 Locations/04 Regions/Dryrock Region.md",
+    "Arcane-Bound/Worlds Collide/03 Locations/04 Regions/Summer Peninsula.md",
+    "Arcane-Bound/Worlds Collide/03 Locations/03 Nations/Verdthorne Kingdom.md",
+    "Arcane-Bound/Worlds Collide/03 Locations/05a Cities/Bauserst City.md",
+    "Untitled.md",
+    "Mana eating crystal.md",
+    "Anti void masks.md",
+    "Arcane-Bound/Worlds Collide/00 Ideas/A sweet moment for two.md",
+    "Arcane-Bound/Worlds Collide/01 Characters/Aura Brillfer.md",
+    "Arcane-Bound/Worlds Collide/02 Factions/Harnessing Yottawatt Power & Energy Research Corporation.md",
     "ᐳExternal Assets/In Darkness Blank.png",
     "ᐳExternal Assets/Crystal Clear Blank.png",
     "ᐳExternal Assets/Being Vigilant Blank.png",

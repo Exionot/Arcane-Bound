@@ -8,12 +8,18 @@ aliases:
 - 
 ---
 
-# **Basic Information** 
-**Name**: `= this.file.name`
-**Type**: Kingdom
-**Location**: [[Central Lands]], [[Arcaena]]
-**Capital**: [[Sol Capital]]
-**Holder of Power**: [[King Fulgor Ignia II]] (Former)
+> [!infobox] **`= this.file.name`**
+> ---
+> `$= dv.span(dv.current().areaImage ? "![[" + dv.current().areaImage + "]]" : "")`
+> 
+> ---
+> #### Details
+> |  Name   |  Ignia Kingdom    |
+> | --- | --- |
+> |  Type  |  Kingdom   |
+> |  Leader/s  |  [[Fulgor Ignia II\|King Fulgor Ignia II]] (Former)  |
+> |  Capital  |  [[Sol Capital]]  |
+> |  Location   |  [[Central Lands]], [[Arcaena]]  |
 
 # **Description** 
 **Ignia** is the hottest kingdom in all of [[Arcaena]]. It is found in-between [[Obsidian Mountains]] and [[Sandstone Desert]] in the west of [[Central Lands]]. It is the kingdom of fire and flames, renowned for having the greatest blacksmiths in the world and its abundant metal resources.

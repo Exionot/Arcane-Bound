@@ -8,10 +8,17 @@ aliases:
 - RCH-05
 ---
 
-# **Basic Information** 
-**Name**: Dryrock Region (RCH-05)
-**Type**: Region
-**Location**: [[Republic of Chloros]], [[Dryrock Sector]], [[Synthspire]]
+> [!infobox] **`= this.file.name`**
+> ---
+> `$= dv.span(dv.current().areaImage ? "![[" + dv.current().areaImage + "]]" : "")`
+> 
+> ---
+> #### Details
+> |  Name   |  Dryrock Region   |
+> | --- | --- |
+> |  Type  |  Region   |
+> |  Area Code  |  RCH-05  |
+> |  Location   |  [[Republic of Chloros]], [[Dryrock Sector]], [[Synthspire]] |
 
 > This note is about the **Region**. For the **Sector**, see [[Dryrock Sector]]. For the **Canyons**, see [[Dryrock Canyons]].
 

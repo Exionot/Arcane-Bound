@@ -8,12 +8,18 @@ aliases:
 - 
 ---
 
-# **Basic Information** 
-**Name**: Aquarin Kingdom 
-**Type**: Kingdom 
-**Location**: [[Northern Lands]], [[Arcaena]]
-**Capital**: [[Shellport Capital]]
-**Holder of Power**:
+> [!infobox] **`= this.file.name`**
+> ---
+> `$= dv.span(dv.current().areaImage ? "![[" + dv.current().areaImage + "]]" : "")`
+> 
+> ---
+> #### Details
+> |  Name   |   Aquarin Kingdom    |
+> | --- | --- |
+> |  Type  |  Kingdom   |
+> |  Leader/s  |    |
+> |  Capital  |  [[Shellport Capital]]  |
+> |  Location   | [[Northern Lands]], [[Arcaena]]   |
 
 # **Description** 
 **Aquarin** is a kingdom located in the [[Northern Lands]] of [[Arcaena]]. Renowned for its expertise in [[Elemental Magic##Hydra|Hydra Magic]], and its thriving trades economy. ^c0713a
