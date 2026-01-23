@@ -8,16 +8,10 @@ aliases:
 - Continent of Arcaena
 ---
 
-> [!infobox] **`= this.file.name`**
-> ---
-> `$= dv.span(dv.current().areaImage ? "![[" + dv.current().areaImage + "]]" : "")`
-> 
-> ---
-> #### Details
-> |  Name   |  Arcaena  |
-> | --- | --- |
-> |  Type  |  Continent  |
-> |  Location   |  [[Florgardia]]  |
+# **Basic Information** 
+**Name**: Arcaena 
+**Type**: Continent 
+**Location**: [[Florgardia]]
 
 # **Description** 
 **Arcaena** is a continent of the planet [[Florgardia]].

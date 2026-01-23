@@ -17,10 +17,8 @@ aliases:
 > |  Name   |  Astral City  |
 > | --- | --- |
 > |  Type  |  City  |
-> |  Area Code  |  HCR-03  |
-> |  City Code  |  AS  |
 > |  Leader/s   |  [[Lee Braxstone\|Mayor Braxstone]] (Former)<br>[[Gem Minee\|Mayor Minee]] (Current)   |
-> |  Location   |  [[NOVA Region]], [[HyperCorp Republic]], [[Thunderdrop Sector]], [[Synthspire]]   |
+> |  Location   |  aa   |
 
 # **Basic Information** 
 **Name**: `= this.file.name`

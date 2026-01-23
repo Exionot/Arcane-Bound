@@ -10,7 +10,7 @@ cssclasses:
 # **Basic Information**
 **Name**: Decree of The Numia Coins
 **Type**: Declaration of Currency 
-**Issued By**: [[Fulgor Ignia II]]
+**Issued By**: [[King Fulgor Ignia II]]
 **Status**: 
 
 ---

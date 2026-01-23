@@ -7,17 +7,11 @@ aliases:
 - 
 ---
 
-> [!infobox] **`= this.file.name`**
-> ---
-> `$= dv.span(dv.current().areaImage ? "![[" + dv.current().areaImage + "]]" : "")`
-> 
-> ---
-> #### Details
-> |  Name   |  Terra  |
-> | --- | --- |
-> |  Type  |  Planet  |
-> |  Moon/s  |    |
-> |  Location   |    |
+# **Basic Information**
+**Name**: Terra
+**Type**: World Planet 
+**Location**:
+**Moon/s**:
 
 # **Description**
 

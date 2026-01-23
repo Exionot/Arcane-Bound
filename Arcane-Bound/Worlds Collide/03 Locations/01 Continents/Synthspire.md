@@ -8,17 +8,9 @@ aliases:
 - Continent of Synthspire
 ---
 
-> [!infobox] **`= this.file.name`**
-> ---
-> `$= dv.span(dv.current().areaImage ? "![[" + dv.current().areaImage + "]]" : "")`
-> 
-> ---
-> #### Details
-> |  Name   |  Synthspire  |
-> | --- | --- |
-> |  Type  |  Continent  |
-> |  Continent Code  |  STSP  |
-> |  Location   |  [[Terra]]  |
+# **Basic Information** 
+**Name**: Synthspire
+**Location**: [[Terra]]
 
 # **Description** 
 **Synthspire** a continent of the planet [[Terra]]
