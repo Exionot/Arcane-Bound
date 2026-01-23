@@ -20,16 +20,10 @@ aliases:
 > | --- | --- |
 > |  Type  |  Orbital Nation  |
 > |  Area Code  |  STSP-01O  |
-> |  Nation Code  |  HCR  |
-> |  Leader/s  |  [[Harnessing Yottawatt Power & Energy Research Corporation|HYPER Corporation]]  |
-> |  Capital  |  [[Lightspeed City]] |
-> |  Location   |  [[Thunderdrop Sector]], [[Synthspire]], [[Terra]]  |
-
-# **Basic Information** 
-**Name**: Ring of Orion
-**Type**: Habitable Orbital Ring
-**Location**: Low Planetary Orbit of [[Terra]]
-**Holder of Power**:
+> |  Nation Code  |  ROO  |
+> |  Leader/s  |    |
+> |  Capital  |   |
+> |  Location   |  Low Planetary Orbit of [[Terra]]  |
 
 # **Overview** 
 **Ring of Orion** is a habitable orbital ring of [[Terra]]. It is located in low planetary orbit of [[Terra]], strategically placed to never face the sun. It is an engineering marvel created to accommodate the planet's growing population. ^cfbe6f

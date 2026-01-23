@@ -6,14 +6,20 @@ system: technology
 galleryImage:
 aliases:
 - STSP-05
-- Synthspire, Sector-05
 - CinderScorch
 ---
 
-# **Basic Information** 
-**Name**: CinderScorch Sector (STSP-05)
-**Type**: Sector 
-**Location**: [[Synthspire]]
+> [!infobox] **`= this.file.name`**
+> ---
+> `$= dv.span(dv.current().areaImage ? "![[" + dv.current().areaImage + "]]" : "")`
+> 
+> ---
+> #### Details
+> |  Name   |  CinderScorch Sector   |
+> | --- | --- |
+> |  Type  |  Sector  |
+> |  Area Code  |  STSP-05  |
+> |  Location   |  [[Synthspire]]  |
 
 # **Description** 
 **STSP-05** known as **CinderScorch** is a deserted wasteland sector of [[Synthspire]] where high amounts of [[Surgespark]] can be found underground. No nation has claimed this region due to its unusually high temperatures and obsolete fuel source—it is lawless. ^331209
