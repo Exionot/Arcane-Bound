@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arcane-Bound/Worlds Collide/03 Locations/03 Nations/Verdthorne Kingdom.md",
-                "mode": "preview",
+                "file": "Arcane-Bound/Worlds Collide/03 Locations/05a Cities/Astral City.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Verdthorne Kingdom"
+              "title": "Astral City"
             }
           },
           {
@@ -29,13 +29,14 @@
               "state": {
                 "file": "Arcane-Bound/Worlds Collide/07 Lore/01 Documents/Document - Standardized Territorial Codex Protocol.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "Document - Standardized Territorial Codex Protocol"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -172,12 +173,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Arcane-Bound/Worlds Collide/03 Locations/03 Nations/Verdthorne Kingdom.md",
+                "file": "Arcane-Bound/Worlds Collide/07 Lore/01 Documents/Document - Standardized Territorial Codex Protocol.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Verdthorne Kingdom"
+              "title": "Outgoing links from Document - Standardized Territorial Codex Protocol"
             }
           },
           {
@@ -252,8 +253,26 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "c8453e486634a8ae",
+  "active": "c246c2a041e19bbe",
   "lastOpenFiles": [
+    "Arcane-Bound/Worlds Collide/03 Locations/05a Cities/Fluxpoint City.md",
+    "Arcane-Bound/Worlds Collide/03 Locations/04 Regions/Dryrock Region.md",
+    "Arcane-Bound/Worlds Collide/03 Locations/05a Cities/Astral City.md",
+    "Arcane-Bound/Worlds Collide/03 Locations/04 Regions/Summer Peninsula.md",
+    "Arcane-Bound/Worlds Collide/03 Locations/03 Nations/Republic of Chloros.md",
+    "Arcane-Bound/Worlds Collide/03 Locations/03 Nations/Verdthorne Kingdom.md",
+    "Arcane-Bound/Worlds Collide/03 Locations/03 Nations/HyperCorp Republic.md",
+    "Arcane-Bound/Worlds Collide/07 Lore/01 Documents/Document - Standardized Territorial Codex Protocol.md",
+    "Arcane-Bound/Worlds Collide/03 Locations/05a Cities/Bauserst City.md",
+    "Untitled.md",
+    "Mana eating crystal.md",
+    "Anti void masks.md",
+    "Arcane-Bound/Worlds Collide/00 Ideas/A sweet moment for two.md",
+    "Arcane-Bound/Worlds Collide/01 Characters/Aura Brillfer.md",
+    "Arcane-Bound/Worlds Collide/02 Factions/Harnessing Yottawatt Power & Energy Research Corporation.md",
+    "Arcane-Bound/Worlds Collide/02 Factions/Protection Of Local Livelihood.md",
+    "Arcane-Bound/Worlds Collide/02 Factions/Void Special Operation Division 9.md",
+    "Arcane-Bound/Worlds Collide/02 Factions/Wandering Traders of Arcaena.md",
     "Arcane-Bound/Worlds Collide/03 Locations/03 Nations/Amphors Kingdom.md",
     "Arcane-Bound/Worlds Collide/03 Locations/03 Nations/Aquarin Kingdom.md",
     "Arcane-Bound/Worlds Collide/03 Locations/03 Nations/Erde Kingdom.md",
@@ -261,25 +280,7 @@
     "Arcane-Bound/Worlds Collide/03 Locations/03 Nations/Frostalies Kingdom.md",
     "Arcane-Bound/Worlds Collide/03 Locations/03 Nations/Ignia Kingdom.md",
     "Fulgor Ignia II.md",
-    "Arcane-Bound/Worlds Collide/03 Locations/03 Nations/Verdthorne Kingdom.md",
     "Arcane-Bound/Worlds Collide/03 Locations/03 Nations/NeoTech Union.md",
-    "Arcane-Bound/Worlds Collide/03 Locations/03 Nations/Republic of Chloros.md",
-    "Arcane-Bound/Worlds Collide/03 Locations/03 Nations/HyperCorp Republic.md",
-    "Arcane-Bound/Worlds Collide/03 Locations/01 Continents/Synthspire.md",
-    "Arcane-Bound/Worlds Collide/07 Lore/01 Documents/Document - Standardized Territorial Codex Protocol.md",
-    "Arcane-Bound/Worlds Collide/03 Locations/05a Cities/Bauserst City.md",
-    "Arcane-Bound/Worlds Collide/03 Locations/04 Regions/Dryrock Region.md",
-    "Arcane-Bound/Worlds Collide/03 Locations/04 Regions/Split Region.md",
-    "Arcane-Bound/Worlds Collide/03 Locations/04 Regions/Summer Peninsula.md",
-    "Arcane-Bound/Worlds Collide/03 Locations/04 Regions/Vaap-ur Region.md",
-    "Arcane-Bound/Worlds Collide/03 Locations/05a Cities/Astral City.md",
-    "Arcane-Bound/Worlds Collide/03 Locations/07 Points of Interest/Underworld.md",
-    "Untitled.md",
-    "Arcane-Bound/Worlds Collide/02 Factions/Void Operation & Investigation Department.md",
-    "Anti void masks.md",
-    "Mana eating crystal.md",
-    "Arcane-Bound/Worlds Collide/01 Characters/Krystalle Eos.md",
-    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Aura Brillfer Narratives/Defying orders.md",
     "ᐳExternal Assets/In Darkness Blank.png",
     "ᐳExternal Assets/Crystal Clear Blank.png",
     "ᐳExternal Assets/Being Vigilant Blank.png",
