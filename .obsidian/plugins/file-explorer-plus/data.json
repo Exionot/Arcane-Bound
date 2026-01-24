@@ -74,15 +74,7 @@
         "patternType": "STRICT"
       }
     ],
-    "paths": [
-      {
-        "name": "",
-        "active": true,
-        "type": "DIRECTORIES",
-        "pattern": "Arcane-Bound/Worlds Collide/99 Extras/Archives",
-        "patternType": "STRICT"
-      }
-    ],
+    "paths": [],
     "frontMatter": [
       {
         "name": "",
