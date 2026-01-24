@@ -10,11 +10,18 @@ aliases:
   - O.A.T.S.
 ---
 
-# **Basic Information** 
-**Name**: Orbital Access Transit Station (O.A.T.S.)
-**Type**: Orbital Station
-**Location**: ([[ROO-00]]/[[ROO-09]]/[[ROO-18]]/[[ROO-27]]), [[Ring of Orion]]
-**Nearby Location/s**:
+> [!infobox] **`= this.file.name`**
+> ---
+> `$= dv.span(dv.current().areaImage ? "![[" + dv.current().areaImage + "]]" : "")`
+> 
+> ---
+> #### Details
+> |  Name   |  Orbital Access Transit Station   |
+> | --- | --- |
+> |  Nickname/s  |  "O.A.T.S."   |
+> |  Type  |  Orbital Station   |
+> |  Location   |  ([[ROO-00]]/[[ROO-09]]/[[ROO-18]]/[[ROO-27]]), [[Ring of Orion]]   |
+> |  Nearby Location/s   |     |
 
 # **Description** 
 The **Orbital Access Transit Station (O.A.T.S.)** is a multipurpose space station distributed in four sectors of the [[Ring of Orion]]. It handles both public transportation and cargo logistics.

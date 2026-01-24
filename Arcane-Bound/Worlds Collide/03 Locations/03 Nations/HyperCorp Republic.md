@@ -19,7 +19,7 @@ aliases:
 > |  Type  |  Nation  |
 > |  Area Code  |  STSP-07  |
 > |  Nation Code  |  HCR  |
-> |  Leader/s  |  [[Harnessing Yottawatt Power & Energy Research Corporation|HYPER Corporation]]  |
+> |  Leader/s  |  [[Harnessing Yottawatt Power & Energy Research Corporation\|HYPER Corporation]]  |
 > |  Capital  |  [[Lightspeed City]] |
 > |  Location   |  [[Thunderdrop Sector]], [[Synthspire]], [[Terra]]  |
 

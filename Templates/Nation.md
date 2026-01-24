@@ -8,12 +8,21 @@ aliases:
 - 
 ---
 
-# **Basic Information** 
-**Name**: `= this.file.name`
-**Type**:
-**Location**:
-**Capital**:
-**Holder of Power**:
+> [!infobox] **`= this.file.name`**
+> ---
+> `$= dv.span(dv.current().areaImage ? "![[" + dv.current().areaImage + "]]" : "")`
+> 
+> ---
+> #### Details
+> |  Name   |    |
+> | --- | --- |
+> |  Nickname   |    |
+> |  Type  |  Nation  |
+> |  Area Code  |    |
+> |  Nation Code  |     |
+> |  Leader/s   |     |
+> |  Capital  |    |
+> |  Location   |     |
 
 # **Description** 
 

@@ -14,11 +14,13 @@ aliases:
 > 
 > ---
 > #### Details
-> |  Name   |  aa   |
+> |  Name   |     |
 > | --- | --- |
-> |  Type  |  aa   |
-> |  Location   |  aa   |
-> |  Nearby Location/s   |  aa   |
+> |  Nickname  |    |
+> |  Type  |     |
+> |  Area Code  |    |
+> |  Location   |     |
+> |  Nearby Location/s   |     |
 
 # **Description** 
 

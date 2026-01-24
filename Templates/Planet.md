@@ -8,11 +8,18 @@ aliases:
 - 
 ---
 
-# **Basic Information**
-**Name**: `= this.file.name`
-**Type**:
-**Location**:
-**Moon/s**:
+> [!infobox] **`= this.file.name`**
+> ---
+> `$= dv.span(dv.current().areaImage ? "![[" + dv.current().areaImage + "]]" : "")`
+> 
+> ---
+> #### Details
+> |  Name   |    |
+> | --- | --- |
+> |  Nickname   |    |
+> |  Type  |  Planet  |
+> |  Moon/s  |    |
+> |  Location   |     |
 
 # **Description**
 

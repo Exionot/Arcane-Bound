@@ -8,11 +8,20 @@ aliases:
 - 
 ---
 
-# **Basic Information** 
-**Name**: `= this.file.name`
-**Type**:
-**Location**:
-**Nearby Location/s**:
+> [!infobox] **`= this.file.name`**
+> ---
+> `$= dv.span(dv.current().areaImage ? "![[" + dv.current().areaImage + "]]" : "")`
+> 
+> ---
+> #### Details
+> |  Name   |    |
+> | --- | --- |
+> |  Nickname   |    |
+> |  Type  |  Village  |
+> |  Area Code  |    |
+> |  Leader/s   |     |
+> |  Location   |     |
+> |  Nearby Location/s  |    |
 
 # **Description** 
 
