@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b7698c061597792d",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "9d3c394215709a49",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Arcane-Bound/Archives/Noble Wanderer Final.png"
+                "file": "Homepage.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Noble Wanderer Final"
+              "icon": "lucide-file",
+              "title": "Homepage"
             }
           }
         ]
@@ -118,13 +120,14 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Arcane-Bound/Worlds Collide/01 Characters/Aura Brillfer.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
             "showSearch": false,
             "searchQuery": "",
             "backlinkCollapsed": false,
-            "unlinkedCollapsed": true
+            "unlinkedCollapsed": false
           },
           "icon": "links-coming-in",
           "title": "Backlinks"
@@ -185,11 +188,14 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "9d3c394215709a49",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Homepage.md",
+    "Arcane-Bound/Worlds Collide/01 Characters/Aura Brillfer.md",
+    "Untitled.md",
+    "Arcane-Bound/Archives/Noble Wanderer Final.png",
     "Arcane-Bound/Archives/In Darkness Final.png",
     "Arcane-Bound/Archives/Arcane-Bound – Archives.md",
-    "Homepage.md",
     "Arcane-Bound/Worlds Collide/01 Characters/Mint Evergreen.md",
     "Arcane-Bound/Worlds Collide/03 Locations/05a Cities/Astral City.md",
     "Arcane-Bound/Worlds Collide/03 Locations/05a Cities/Bauserst City.md",
@@ -212,7 +218,6 @@
     "Arcane-Bound/03 Locations/03 Nations/HyperCorp Republic.md",
     "Arcane-Bound/03 Locations/05a Cities/Newslate City.md",
     "Arcane-Bound/03 Locations/03 Nations/Republic of Chloros.md",
-    "Arcane-Bound/02 Factions/Voidrock Operation & Investigation Department.md",
     "ᐳExternal Assets/Untitled11_20250731013857.png",
     "ᐳExternal Assets/Untitled30_20250620012606.png",
     "ᐳExternal Assets/Alingalan _DP.png",
