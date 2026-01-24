@@ -8,18 +8,12 @@ aliases:
 - Frostalies
 ---
 
-> [!infobox] **`= this.file.name`**
-> ---
-> `$= dv.span(dv.current().areaImage ? "![[" + dv.current().areaImage + "]]" : "")`
-> 
-> ---
-> #### Details
-> |  Name   |  Frostalies Kingdom    |
-> | --- | --- |
-> |  Type  |  Kingdom   |
-> |  Leader/s  |    |
-> |  Capital  |  [[Glacialis City]]  |
-> |  Location   |  [[Northern Lands]], [[Arcaena]]  |
+# **Basic Information** 
+**Name**: Frostalies Kingdom
+**Type**: Kingdom
+**Location**: [[Northern Lands]], [[Arcaena]]
+**Capital**: [[Glacialis City]]
+**Holder of Power**:
 
 # **Description** 
 **Frostalies** is a kingdom found in the northern edges of the [[Northern Lands]]. It is a kingdom of ice and snow, mountainous regions are found within the kingdom, the [[Nivelgor Region]] experiences long winters, while the [[Frienna Region]] receives regular snowing throughout the year. A large population of [[Elves]] live in **Frostalies**, which contributes to the kingdom's specialization of [[Elemental Magic#Glacia|Glacia Magic]]. ^d9de81

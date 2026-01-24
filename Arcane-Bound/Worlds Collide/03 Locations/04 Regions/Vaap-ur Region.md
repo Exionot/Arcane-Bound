@@ -8,16 +8,10 @@ aliases:
 - 
 ---
 
-> [!infobox] **`= this.file.name`**
-> ---
-> `$= dv.span(dv.current().areaImage ? "![[" + dv.current().areaImage + "]]" : "")`
-> 
-> ---
-> #### Details
-> |  Name   |  Vaap-ur Region   |
-> | --- | --- |
-> |  Type  |  Region   |
-> |  Location   |  [[Aquarin Kingdom]], [[Northern Lands]], [[Arcaena]]   |
+# **Basic Information** 
+**Name**: Vaap-ur Region
+**Type**: Region
+**Location**: [[Aquarin Kingdom]], [[Northern Lands]], [[Arcaena]]
 
 # **Description** 
 **Vaap-ur** is a region found in the shores of the [[Northern Lands]]. It is home to [[Vaapuron]]—a rare amphibious creature of the sea. ^beee8b

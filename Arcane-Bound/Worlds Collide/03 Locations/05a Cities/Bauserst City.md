@@ -18,7 +18,7 @@ aliases:
 > |  Name   |  Bauserst City   |
 > | --- | --- |
 > |  Type  |  Capital City   |
-> |  Leader/s   |  [[Marcheus Bloomindale\|Mayor Bloomindale]]   |
+> |  Leader/s   |  [[Grant Verdthorne\|King Grant Verdthorne]]   |
 > |  Location   |  [[Phthalo Region]], [[Verdthorne Kingdom]], [[Central Lands]], [[Arcaena]]   |
 
 # **Basic Information** 

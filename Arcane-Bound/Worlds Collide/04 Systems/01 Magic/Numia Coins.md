@@ -15,7 +15,7 @@ status: Commonly Used
 
 
 # **Overview** 
-**Numia Coins** are the currency used in all major nations of [[Arcaena]]. It was declared by [[Fulgor Ignia II]] of the [[Ignia Kingdom]].
+**Numia Coins** are the currency used in all major nations of [[Arcaena]]. It was declared by [[King Fulgor Ignia II]] of the [[Ignia Kingdom]].
 
 # **Application** 
 **Numia Coins** are used in all forms of trades and transactions involving money.^[[[Document - Decree of The Numia Coins#^7c8182|Document - Decree of The Numia Coins]]]

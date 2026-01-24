@@ -8,18 +8,12 @@ aliases:
 - Verdthorne
 ---
 
-> [!infobox] **`= this.file.name`**
-> ---
-> `$= dv.span(dv.current().areaImage ? "![[" + dv.current().areaImage + "]]" : "")`
-> 
-> ---
-> #### Details
-> |  Name   |  Verdthorne Kingdom    |
-> | --- | --- |
-> |  Type  |  Kingdom   |
-> |  Leader/s  |  [[Grant Verdthorne\|King Grant Verdthorne]]  |
-> |  Capital  |  [[Bauserst City]]  |
-> |  Location   |  [[Central Lands]], [[Arcaena]]  |
+# **Basic Information** 
+**Name**: Verdthorne Kingdom 
+**Type**: Kingdom 
+**Location**: [[Central Lands]], [[Arcaena]]
+**Capital**: [[Bauserst City]]
+**Holder of Power**:
 
 # **Description** 
 **Verdthorne** is kingdom located in the [[Central Lands]] of [[Arcaena]]. It is known for its specialization in [[Elemental Magic##Flora|Flora Magic]] and [[Elemental Magic#Vitalis|Vitalis]]. ^96bef9

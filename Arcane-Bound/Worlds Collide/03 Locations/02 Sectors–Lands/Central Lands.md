@@ -5,18 +5,13 @@ location: Arcaena
 system: magic
 galleryImage:
 aliases:
+- 
 ---
 
-> [!infobox] **`= this.file.name`**
-> ---
-> `$= dv.span(dv.current().areaImage ? "![[" + dv.current().areaImage + "]]" : "")`
-> 
-> ---
-> #### Details
-> |  Name   |  Central Lands  |
-> | --- | --- |
-> |  Type  |  Continental Land  |
-> |  Location   |  [[Arcaena]]  |
+# **Basic Information** 
+**Name**: Central Lands 
+**Type**: Continental Lands
+**Location**: [[Arcaena|Arcaena]]
 
 # **Description** 
 

@@ -17,8 +17,6 @@ aliases:
 > |  Name   |  Newslate City  |
 > | --- | --- |
 > |  Type  |  Capital City  |
-> |  Area Code  |  RCH-04  |
-> |  City Code  |  NS  |
 > |  Leader/s   |     |
 > |  Location   |  [[Lushborne Region]], [[Republic of Chloros]], [[Veridian Sector]], [[Synthspire]]   |
 

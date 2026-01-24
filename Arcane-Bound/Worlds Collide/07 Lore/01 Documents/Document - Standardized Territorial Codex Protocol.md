@@ -23,15 +23,14 @@ The **Standardized Territorial Codex Protocol** enables a unified sector-distric
 # Territorial Codex Format
 Division on a continental scale will be assigned as **Sectors**, division on a national scale will be assigned as **Regions**, and division within a city will be assigned as **Districts**.
 
-**Continental Sectors** are assigned with four character codes (`ABCD-XX`), **National Regions** are assigned with three character codes (`ABC-XX`) and **City Districts** are assigned with two character codes (`AB-XX`). Should the division be broken down into multiple sub-divisions, it will be assigned with the characters `A-N` after it's assigned number (`ABC-XXA`). Any orbital areas within [[Terra]] shall be assigned with the character `O` after its designated area number.
+**Continental Sectors** are assigned with four character codes (`ABCD-XX`), **National Regions** are assigned with three character codes (`ABC-XX`) and **City Districts** are assigned with two character codes (`AB-XX`). Should the division be broken down into multiple sub-divisions, it will be assigned with an alphabet after it's assigned number (`ABC-XXA`).
 
-**Format**: `[Area Code]-[Region/Sector/District Number][Suffix Character]`
+**Format**: `[Area Code]-[Region/Sector/District Number]`
 ## Examples
 - `STSP-04` -> Synthspire, Sector-04
 - `HCR-05` -> HyperCorp Republic, Region-05
 - `NTU-02A` -> NeoTech Union, Region-02A
 - `NTU-02B` -> NeoTech Union, Region-02B
-- `STSP-01O` -> Synthspire, Orbital Sector-01
 - `FP-01` -> Fluxpoint City, District-01
 - `LS-08` -> Lightspeed City, District-08
 
@@ -46,8 +45,8 @@ Division on a continental scale will be assigned as **Sectors**, division on a n
 | ----------------------- | -------------------- |
 | [[HyperCorp Republic]]  | HCR                  |
 | [[NeoTech Union]]       | NTU                  |
-| [[Republic of Chloros]] | RCH                  |
 | [[Ring of Orion]]       | ROO                  |
+| [[Republic of Chloros]] | RCH                  |
 
 ## City Area Codes
 | City                  | Designated Area Code |
