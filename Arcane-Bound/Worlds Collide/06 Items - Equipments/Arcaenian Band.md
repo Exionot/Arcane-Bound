@@ -4,21 +4,22 @@ itemType: attachment
 systemUsed:
   - Arcaenian Magic
   - Mana
-galleryImage: 
-status: Commonly Used
+galleryImage:
+status: Occasionally Used
 ---
 
-```meta-bind
-INPUT[imageSuggester(optionQuery("ᐳExternal Assets"), class(character-img)):profileImage]
-```
-
-# **Basic Information** 
-**Name**: Arcaenian Band
-**Type**: Attachment 
-**Origin**: [[Arcaena]]
-**System**: [[Arcaenian Magic]]
-
-**Status**: `INPUT[usageStatus][]`
+> [!infobox] **`= this.file.name`**
+> ---
+> `$= dv.span(dv.current().profileImage ? "![[" + dv.current().profileImage + "]]" : "")`
+> 
+> ---
+> #### Details
+> |  Name   |  Evergreen  |
+> | --- | --- |
+> |  Type  |  Attachment  |
+> |  Origin   |  [[Bauserst City]]   |
+> |  System  |  [[Arcaenian Magic]]  |
+> |  Status  |  `INPUT[usageStatus][]`  |
 
 # **Overview**
 An **Arcaenian Band** is spellcasting tool used in [[Arcaenian Magic#Arcana|Arcana]]. It is a modern staple of [[Arcaenian Magic]], without it, no modern magic would be casted. 
@@ -64,6 +65,10 @@ FLATTEN faction
 ---
 
 # **Gallery**
+```meta-bind
+INPUT[imageSuggester(optionQuery("ᐳExternal Assets"), class(gallery-img)):profileImage]
+```
+
  ```meta-bind
 INPUT[imageListSuggester(optionQuery("ᐳExternal Assets"), class(gallery-img)):galleryImage]
 ```

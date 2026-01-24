@@ -6,12 +6,19 @@ aliases:
   - S.L.E.
 ---
 
-# **Basic Information**
-**Name**: Solid-Light Energy
-**Type**: Material 
-**Origin**: [[Lightspeed City]]
-
-**Status**: `INPUT[usageStatus][]`
+> [!infobox] **`= this.file.name`**
+> ---
+> `$= dv.span(dv.current().profileImage ? "![[" + dv.current().profileImage + "]]" : "")`
+> 
+> ---
+> #### Details
+> |  Name   |  Solid-Light Energy  |
+> | --- | --- |
+> |  Nickname  |  "S.L.E."  |
+> |  Type  |  Material  |
+> |  Origin   |  [[Lightspeed City]]   |
+> |  System  |  [[Light Technology]]  |
+> |  Status  |  `INPUT[usageStatus][]`  |
 
 # **Overview** 
 **Solid-Light Energy**, also known as **S.L.E.**, is a solid material made up of visible light, it is strong enough to cut through most materials and block advanced projectiles.
@@ -58,4 +65,13 @@ TABLE abilityType as "Type" WHERE type = "ability" AND contains(systemUsed, this
 ## Items 
 ```dataview
 TABLE itemType as "Type" WHERE type = "item" AND contains(systemUsed, this.file.name)
+```
+
+# **Gallery**
+```meta-bind
+INPUT[imageSuggester(optionQuery("ᐳExternal Assets"), class(gallery-img)):profileImage]
+```
+
+ ```meta-bind
+INPUT[imageListSuggester(optionQuery("ᐳExternal Assets"), class(gallery-img)):galleryImage]
 ```

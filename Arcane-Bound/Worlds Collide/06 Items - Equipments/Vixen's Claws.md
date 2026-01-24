@@ -7,17 +7,19 @@ galleryImage:
 status: Signature
 ---
 
-```meta-bind
-INPUT[imageSuggester(optionQuery("ᐳExternal Assets"), class(character-img)):profileImage]
-```
-
-# **Basic Information** 
-**Name**: Vixen's Claws
-**Type**: Weapon
-**Origin**: [[Victoria Veloux Canidel]]
-**System**: [[Solid-Light Energy]]
-
-**Status**: `INPUT[usageStatus][]` 
+> [!infobox] **`= this.file.name`**
+> ---
+> `$= dv.span(dv.current().profileImage ? "![[" + dv.current().profileImage + "]]" : "")`
+> 
+> ---
+> #### Details
+> |  Name   |  Vixen's Claws  |
+> | --- | --- |
+> |  Type  |  Weapon  |
+> |  Owner  |  [[Victoria Veloux Canidel]]  |
+> |  Origin   |    |
+> |  System  |  [[Solid-Light Energy]]  |
+> |  Status  |  `INPUT[usageStatus][]`  |
 
 # **Overview**
 [[Victoria Veloux Canidel]]'s signature weapon, a weapon disguised as a pair of gloves, it houses a pair of claws made up of modified [[Solid-Light Energy]] extracted from one of [[Starveil Retrieval Co.]]'s heist. It can also act as a pair of knuckle dusters when inactive.
@@ -51,6 +53,10 @@ FLATTEN faction
 ---
 
 # **Gallery**
+```meta-bind
+INPUT[imageSuggester(optionQuery("ᐳExternal Assets"), class(gallery-img)):profileImage]
+```
+
 ```meta-bind
 INPUT[imageListSuggester(optionQuery("ᐳExternal Assets"), class(gallery-img)):galleryImage]
 ```

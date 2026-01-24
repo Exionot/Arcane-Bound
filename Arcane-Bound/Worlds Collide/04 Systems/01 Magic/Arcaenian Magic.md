@@ -4,18 +4,23 @@ systemType: magic
 status: Commonly Used
 ---
 
-# **Basic Information**
-**Name**: Arcaenian Magic
-**Type**: Magic
-**Origin**: [[Arcaena]]
-
-**Status**: `INPUT[usageStatus][]` 
+> [!infobox] **`= this.file.name`**
+> ---
+> `$= dv.span(dv.current().profileImage ? "![[" + dv.current().profileImage + "]]" : "")`
+> 
+> ---
+> #### Details
+> |  Name   |  Arcaenian Magic  |
+> | --- | --- |
+> |  Type  |  Magic  |
+> |  Origin   |  [[Arcaena]]   |
+> |  Status  |  `INPUT[usageStatus][]`  |
 
 # **Overview** 
 **Arcaenian Magic** are the magic systems used by the people of [[Arcaena|Arcaena]].
 
 # **How does it work?**
-**Arcaenian Magic** works by channeling [[Mana]] and converting it into a spell through the user's mind, chants, or gestures. Everytime a spell is casted, [[Mana]] is released proportional to the spell. Even the smallest spells can be detected by powerful mages.
+**Arcaenian Magic** works by channeling [[Mana]] and converting it into a spell through the user's mind, chants, or gestures. Every time a spell is casted, [[Mana]] is released proportional to the spell. Even the smallest spells can be detected by powerful mages.
 
 # **Subsystems**
 ## Elemental Magic
@@ -74,4 +79,13 @@ TABLE abilityType as "Type" WHERE type = "ability" AND contains(systemUsed, this
 ## Items 
 ```dataview
 TABLE itemType as "Type" WHERE type = "item" AND contains(systemUsed, this.file.name)
+```
+
+# **Gallery**
+```meta-bind
+INPUT[imageSuggester(optionQuery("ᐳExternal Assets"), class(gallery-img)):profileImage]
+```
+
+ ```meta-bind
+INPUT[imageListSuggester(optionQuery("ᐳExternal Assets"), class(gallery-img)):galleryImage]
 ```

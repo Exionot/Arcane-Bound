@@ -4,6 +4,23 @@ img[alt*="center"] {
 	margin-right: auto;
 }
 
+.mb-infobox-dropdown *{
+	transform: translateX(-3px);
+	background-color: rgba(0, 0, 0, 0);
+	box-shadow: none;
+	display: inline;
+	height: auto;
+	padding: 0 0.5rem 0 0;
+	margin: 0;
+	white-space: normal;
+  	word-wrap: break-word;
+}
+
+.mb-infobox-dropdown *:hover{
+	background-color: rgba(0, 0, 0, 0);
+	box-shadow: none;
+}
+
 .character-img img{
 	max-height: 200px;
 	max-width: 200px;

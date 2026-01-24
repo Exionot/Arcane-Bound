@@ -4,12 +4,19 @@ systemType: magic
 status: Commonly Used
 ---
 
-# **Basic Information**
-**Name**: Elemental Magic
-**Type**: [[Arcaenian Magic]] Subsystem 
-**Origin**: [[Arcaena]]
+> [!infobox] **`= this.file.name`**
+> ---
+> `$= dv.span(dv.current().profileImage ? "![[" + dv.current().profileImage + "]]" : "")`
+> 
+> ---
+> #### Details
+> |  Name   |  Elemental Magic  |
+> | --- | --- |
+> |  Type  |  Magic  |
+> |  Origin   |  [[Arcaena]]   |
+> |  System  |  [[Arcaenian Magic]]  |
+> |  Status  |  `INPUT[usageStatus][]`  |
 
-**Status**: `INPUT[usageStatus][]`
 # **Overview** 
 **Elemental Magic** is the most dominant subsystem of [[Arcaenian Magic]], majority of magic spells are **Elemental Magic**. It focuses in the control or manipulation of the [[#**Elements**|7 Elements]]. Despite not being limited to one element, major nations of [[Arcaena]] has their own element of specialization.
 
@@ -84,4 +91,13 @@ TABLE abilityType as "Type" WHERE type = "ability" AND contains(systemUsed, this
 ## Items 
 ```dataview
 TABLE itemType as "Type" WHERE type = "item" AND contains(systemUsed, this.file.name)
+```
+
+# **Gallery**
+```meta-bind
+INPUT[imageSuggester(optionQuery("ᐳExternal Assets"), class(gallery-img)):profileImage]
+```
+
+ ```meta-bind
+INPUT[imageListSuggester(optionQuery("ᐳExternal Assets"), class(gallery-img)):galleryImage]
 ```

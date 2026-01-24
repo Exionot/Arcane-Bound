@@ -5,17 +5,19 @@ systemUsed:
 galleryImage:
 ---
 
-```meta-bind
-INPUT[imageSuggester(optionQuery("ᐳExternal Assets"), class(character-img)):profileImage]
-```
-
-# **Basic Information** 
-**Name**:
-**Type**:
-**Origin**:
-**System**:
-
-**Status**: `INPUT[usageStatus][]`
+> [!infobox] **`= this.file.name`**
+> ---
+> `$= dv.span(dv.current().profileImage ? "![[" + dv.current().profileImage + "]]" : "")`
+> 
+> ---
+> #### Details
+> |  Name   |    |
+> | --- | --- |
+> |  Type  |    |
+> |  Owner  |    |
+> |  Origin   |    |
+> |  System  |    |
+> |  Status  |  `INPUT[usageStatus][]`  |
 
 # **Overview**
 
@@ -42,6 +44,10 @@ FLATTEN faction
 ---
 
 # **Gallery**
+```meta-bind
+INPUT[imageSuggester(optionQuery("ᐳExternal Assets"), class(gallery-img)):profileImage]
+```
+
 ```meta-bind
 INPUT[imageListSuggester(optionQuery("ᐳExternal Assets"), class(gallery-img)):galleryImage]
 ```

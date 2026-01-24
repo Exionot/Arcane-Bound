@@ -2,23 +2,25 @@
 type: item
 itemType: weapon
 systemUsed: Arcaenian Magic
-galleryImage:
-  - ᐳExternal Assets/Untitled40_20250804214228.png
+galleryImage: []
 status: Signature
 profileImage: ᐳExternal Assets/Mint_Staff_Full.jpg
 ---
 
-```meta-bind
-INPUT[imageSuggester(optionQuery("ᐳExternal Assets"), class(character-img)):profileImage]
-```
+> [!infobox] **`= this.file.name`**
+> ---
+> `$= dv.span(dv.current().profileImage ? "![[" + dv.current().profileImage + "]]" : "")`
+> 
+> ---
+> #### Details
+> |  Name   |  Evergreen  |
+> | --- | --- |
+> |  Type  |  Weapon  |
+> |  Owner  |  [[Mint Evergreen]]  |
+> |  Origin   |  [[Bauserst City]]   |
+> |  System  |  [[Arcaenian Magic]]  |
+> |  Status  |  `INPUT[usageStatus][]`  |
 
-# **Basic Information** 
-**Name**: `= this.file.name`
-**Type**: Weapon
-**Origin**: [[Mint Evergreen]]
-**System**: [[Arcaenian Magic]]
-
-**Status**: `INPUT[usageStatus][]`
 
 # **Overview**
 **Mint's Staff** is the main weapon of [[Mint Evergreen]], she uses it to cast magic spells. She acquired this staff when she started learning [[Elemental Magic]] in [[Bauserst City]].
@@ -49,6 +51,10 @@ FLATTEN faction
 ---
 
 # **Gallery**
+```meta-bind
+INPUT[imageSuggester(optionQuery("ᐳExternal Assets"), class(gallery-img)):profileImage]
+```
+
 ```meta-bind
 INPUT[imageListSuggester(optionQuery("ᐳExternal Assets"), class(gallery-img)):galleryImage]
 ```

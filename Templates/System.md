@@ -3,12 +3,18 @@ type: system
 systemType: 
 ---
 
-# **Basic Information**
-**Name**: 
-**Type**: 
-**Origin**: 
-
-**Status**: `INPUT[usageStatus][]`
+> [!infobox] **`= this.file.name`**
+> ---
+> `$= dv.span(dv.current().profileImage ? "![[" + dv.current().profileImage + "]]" : "")`
+> 
+> ---
+> #### Details
+> |  Name   |    |
+> | --- | --- |
+> |  Type  |    |
+> |  Origin   |    |
+> |  System  |    |
+> |  Status  |  `INPUT[usageStatus][]`  |
 
 # **Overview** 
 
@@ -37,4 +43,13 @@ TABLE abilityType as "Type" WHERE type = "ability" AND contains(systemUsed, this
 ## Items 
 ```dataview
 TABLE itemType as "Type" WHERE type = "item" AND contains(systemUsed, this.file.name)
+```
+
+# **Gallery**
+```meta-bind
+INPUT[imageSuggester(optionQuery("ᐳExternal Assets"), class(gallery-img)):profileImage]
+```
+
+ ```meta-bind
+INPUT[imageListSuggester(optionQuery("ᐳExternal Assets"), class(gallery-img)):galleryImage]
 ```

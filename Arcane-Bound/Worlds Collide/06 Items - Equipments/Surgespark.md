@@ -3,21 +3,22 @@ type: item
 itemType: material
 systemUsed:
   - Pyro Technology
-galleryImage: 
-status: Obsolete
+galleryImage:
+status: Widely Known
 ---
 
-```meta-bind
-INPUT[imageSuggester(optionQuery("ᐳExternal Assets"), class(character-img)):profileImage]
-```
-
-# **Basic Information** 
-**Name**: Surgespark
-**Type**: Organic Mineral
-**Origin**: [[Surgespark Mines]]
-**System**: [[Pyro Technology]]
-
-**Status**: `INPUT[usageStatus][]`, Commonly Used *(Only in [[Region's Edge]])*
+> [!infobox] **`= this.file.name`**
+> ---
+> `$= dv.span(dv.current().profileImage ? "![[" + dv.current().profileImage + "]]" : "")`
+> 
+> ---
+> #### Details
+> |  Name   |  Surgespark  |
+> | --- | --- |
+> |  Type  |  Organic Material  |
+> |  Origin   |  [[Surgespark Mines]]   |
+> |  System  |  [[Pyro Technology]]  |
+> |  Status  |  `INPUT[usageStatus][]`  |
 
 # **Overview**
 **Surgespark** is an organic mineral found deep underground in areas like [[CinderScorch Sector|CinderScorch Region]]. Once used as an alternative to coal, **Surgespark** provided greater heat per mass compared to other fuel sources. **Surgespark** is often mistaken as bright burning coal due to its orange color.
@@ -62,6 +63,10 @@ FLATTEN faction
 ---
 
 # **Gallery**
+```meta-bind
+INPUT[imageSuggester(optionQuery("ᐳExternal Assets"), class(gallery-img)):profileImage]
+```
+
 ```meta-bind
 INPUT[imageListSuggester(optionQuery("ᐳExternal Assets"), class(gallery-img)):galleryImage]
 ```

@@ -4,12 +4,17 @@ systemType: currency
 status: Commonly Used
 ---
 
-# **Basic Information**
-**Name**: Synthspire Units
-**Type**: Currency System 
-**Origin**: [[Terran World Bank Authority]]
-
-**Status**: `INPUT[usageStatus][]`
+> [!infobox] **`= this.file.name`**
+> ---
+> `$= dv.span(dv.current().profileImage ? "![[" + dv.current().profileImage + "]]" : "")`
+> 
+> ---
+> #### Details
+> |  Name   |  Synthspire Units  |
+> | --- | --- |
+> |  Type  |  Currency  |
+> |  Origin   |  [[Terran World Bank Authority]]   |
+> |  Status  |  `INPUT[usageStatus][]`  |
 
 > This note is the overall knowledge about **Synthspire Units**. For the documentation, see [[Document - Synthspire Units Currency Documentation]].
 
@@ -46,4 +51,13 @@ TABLE abilityType as "Type" WHERE type = "ability" AND contains(systemUsed, this
 ## Items 
 ```dataview
 TABLE itemType as "Type" WHERE type = "item" AND contains(systemUsed, this.file.name)
+```
+
+# **Gallery**
+```meta-bind
+INPUT[imageSuggester(optionQuery("ᐳExternal Assets"), class(gallery-img)):profileImage]
+```
+
+ ```meta-bind
+INPUT[imageListSuggester(optionQuery("ᐳExternal Assets"), class(gallery-img)):galleryImage]
 ```
