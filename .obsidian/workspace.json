@@ -22,18 +22,17 @@
             }
           },
           {
-            "id": "1d7c13d57783bff6",
+            "id": "b47e51324ebe6ca9",
             "type": "leaf",
             "state": {
               "type": "split-diff-view",
               "state": {
-                "aFile": "Arcane-Bound/Worlds Collide/03 Locations/03 Nations/Amphors Kingdom.md",
-                "bFile": "Arcane-Bound/Worlds Collide/03 Locations/03 Nations/Amphors Kingdom.md",
-                "aRef": "HEAD",
-                "bRef": ""
+                "aFile": "Anti void masks.md",
+                "bFile": "Anti void masks.md",
+                "aRef": ""
               },
               "icon": "diff",
-              "title": "Diff: Amphors Kingdom  (Index)"
+              "title": "Diff: Anti void masks  (Working Tree)"
             }
           }
         ],
