@@ -20,8 +20,24 @@
               "icon": "lucide-file",
               "title": "Vixen's Claws"
             }
+          },
+          {
+            "id": "1d7c13d57783bff6",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "Arcane-Bound/Worlds Collide/03 Locations/03 Nations/Amphors Kingdom.md",
+                "bFile": "Arcane-Bound/Worlds Collide/03 Locations/03 Nations/Amphors Kingdom.md",
+                "aRef": "HEAD",
+                "bRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: Amphors Kingdom  (Index)"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -158,12 +174,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Arcane-Bound/Worlds Collide/06 Items - Equipments/Vixen's Claws.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Vixen's Claws"
+              "title": "Outgoing links"
             }
           },
           {
@@ -238,8 +253,12 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "16e8e568d0e81c49",
+  "active": "c8453e486634a8ae",
   "lastOpenFiles": [
+    "Mana eating crystal.md",
+    "Anti void masks.md",
+    "conflict-files-obsidian-git.md",
+    "Arcane-Bound/Worlds Collide/06 Items - Equipments/Vixen's Claws.md",
     "Arcane-Bound/Worlds Collide/06 Items - Equipments/Mint's Staff.md",
     "Arcane-Bound/Worlds Collide/06 Items - Equipments/Surgespark.md",
     "Arcane-Bound/Worlds Collide/06 Items - Equipments/Arcaenian Band.md",
@@ -247,10 +266,7 @@
     "Arcane-Bound/Worlds Collide/07 Lore/01 Documents/Document - Lost Arcaenian Map.md",
     "Arcane-Bound/Worlds Collide/07 Lore/01 Documents/Document - Synthspire Units Currency Documentation.md",
     "Arcane-Bound/Worlds Collide/03 Locations/00 Space/00 Planets/Terra.md",
-    "Mana eating crystal.md",
-    "Anti void masks.md",
     "Arcane-Bound/Worlds Collide/03 Locations/00 Space/01 Orbital Infrastructure/Ring of Orion.md",
-    "conflict-files-obsidian-git.md",
     "Arcane-Bound/Worlds Collide/03 Locations/01 Continents/Arcaena.md",
     "Arcane-Bound/Worlds Collide/03 Locations/01 Continents/Synthspire.md",
     "Arcane-Bound/Worlds Collide/03 Locations/03 Nations/NeoTech Union.md",
@@ -265,7 +281,6 @@
     "Arcane-Bound/Worlds Collide/03 Locations/05a Cities/Newslate City.md",
     "Arcane-Bound/Worlds Collide/03 Locations/05a Cities/Fluxpoint City.md",
     "Arcane-Bound/Worlds Collide/03 Locations/05a Cities/Astral City.md",
-    "Arcane-Bound/Worlds Collide/03 Locations/04 Regions/Dryrock Region.md",
     "ᐳExternal Assets/In Darkness Blank.png",
     "ᐳExternal Assets/Crystal Clear Blank.png",
     "ᐳExternal Assets/Being Vigilant Blank.png",
