@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arcane-Bound/Worlds Collide/03 Locations/00 Space/00 Planets/Terra.md",
+                "file": "Arcane-Bound/Worlds Collide/03 Locations/00 Space/01 Orbital Infrastructure/Ring of Orion.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Terra"
+              "title": "Ring of Orion"
             }
           }
         ]
@@ -158,12 +158,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Arcane-Bound/Worlds Collide/03 Locations/00 Space/00 Planets/Terra.md",
+                "file": "Arcane-Bound/Worlds Collide/03 Locations/00 Space/01 Orbital Infrastructure/Ring of Orion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Terra"
+              "title": "Outgoing links from Ring of Orion"
             }
           },
           {
@@ -240,12 +240,12 @@
   },
   "active": "04b11867409ce9a0",
   "lastOpenFiles": [
+    "Arcane-Bound/Worlds Collide/03 Locations/00 Space/00 Planets/Terra.md",
     "Arcane-Bound/Worlds Collide/03 Locations/00 Space/01 Orbital Infrastructure/Ring of Orion.md",
     "Arcane-Bound/Worlds Collide/03 Locations/01 Continents/Arcaena.md",
     "Arcane-Bound/Worlds Collide/03 Locations/01 Continents/Synthspire.md",
     "Arcane-Bound/Worlds Collide/03 Locations/03 Nations/NeoTech Union.md",
     "Arcane-Bound/Worlds Collide/03 Locations/03 Nations/Ignia Kingdom.md",
-    "Arcane-Bound/Worlds Collide/03 Locations/00 Space/00 Planets/Terra.md",
     "Arcane-Bound/Worlds Collide/03 Locations/02 Sectors–Lands/CinderScorch Sector.md",
     "Arcane-Bound/Worlds Collide/03 Locations/02 Sectors–Lands/Central Lands.md",
     "Arcane-Bound/Worlds Collide/03 Locations/03 Nations/Amphors Kingdom.md",
