@@ -10,11 +10,20 @@ aliases:
 - 
 ---
 
-# **Basic Information** 
-**Name**: Ring of Orion
-**Type**: Habitable Orbital Ring
-**Location**: Low Planetary Orbit of [[Terra]]
-**Holder of Power**:
+> [!infobox] **`= this.file.name`**
+> ---
+> `$= dv.span(dv.current().areaImage ? "![[" + dv.current().areaImage + "]]" : "")`
+> 
+> ---
+> #### Details
+> |  Name   |  Ring of Orion   |
+> | --- | --- |
+> |  Type  |  Orbital Nation  |
+> |  Area Code  |  STSP-01O  |
+> |  Nation Code  |  ROO  |
+> |  Leader/s  |    |
+> |  Capital  |   |
+> |  Location   |  Low Planetary Orbit of [[Terra]]  |
 
 # **Overview** 
 **Ring of Orion** is a habitable orbital ring of [[Terra]]. It is located in low planetary orbit of [[Terra]], strategically placed to never face the sun. It is an engineering marvel created to accommodate the planet's growing population. ^cfbe6f

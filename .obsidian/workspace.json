@@ -39,14 +39,15 @@
             "id": "1d1c3a4a25e9b42b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Arcane-Bound/Worlds Collide/03 Locations/05a Cities/Newslate City.md",
-                "mode": "source",
-                "source": false
+                "aFile": "Arcane-Bound/Worlds Collide/03 Locations/03 Nations/Amphors Kingdom.md",
+                "bFile": "Arcane-Bound/Worlds Collide/03 Locations/03 Nations/Amphors Kingdom.md",
+                "aRef": "HEAD",
+                "bRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Newslate City"
+              "icon": "diff",
+              "title": "Diff: Amphors Kingdom  (Index)"
             }
           }
         ],
@@ -187,12 +188,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Arcane-Bound/Worlds Collide/03 Locations/05a Cities/Newslate City.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Newslate City"
+              "title": "Outgoing links"
             }
           },
           {
@@ -269,10 +269,11 @@
   },
   "active": "1d1c3a4a25e9b42b",
   "lastOpenFiles": [
-    "Arcane-Bound/Worlds Collide/03 Locations/05a Cities/Shellport Capital.md",
-    "conflict-files-obsidian-git.md",
+    "Arcane-Bound/Worlds Collide/03 Locations/05a Cities/Newslate City.md",
     "Mana eating crystal.md",
     "Anti void masks.md",
+    "Arcane-Bound/Worlds Collide/03 Locations/05a Cities/Shellport Capital.md",
+    "conflict-files-obsidian-git.md",
     "Arcane-Bound/Worlds Collide/06 Items - Equipments/Vixen's Claws.md",
     "Arcane-Bound/Worlds Collide/06 Items - Equipments/Mint's Staff.md",
     "Arcane-Bound/Worlds Collide/06 Items - Equipments/Surgespark.md",
@@ -293,7 +294,6 @@
     "Arcane-Bound/Worlds Collide/03 Locations/03 Nations/HyperCorp Republic.md",
     "Arcane-Bound/Worlds Collide/03 Locations/03 Nations/Aquarin Kingdom.md",
     "Arcane-Bound/Worlds Collide/03 Locations/03 Nations/Republic of Chloros.md",
-    "Arcane-Bound/Worlds Collide/03 Locations/05a Cities/Newslate City.md",
     "Arcane-Bound/Worlds Collide/03 Locations/05a Cities/Fluxpoint City.md",
     "ᐳExternal Assets/In Darkness Blank.png",
     "ᐳExternal Assets/Crystal Clear Blank.png",

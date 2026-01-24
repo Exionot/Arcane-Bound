@@ -8,14 +8,23 @@ galleryImage:
 aliases:
 ---
 
-# **Basic Information** 
-**Name**: HyperCorp Republic
-**Location**: [[Thunderdrop Sector]], [[Synthspire]], [[Terra]]
-**Capital**: [[Lightspeed City]]
-**Holder of Power**: [[Harnessing Yottawatt Power & Energy Research Corporation|HYPER Corporation]]
+> [!infobox] **`= this.file.name`**
+> ---
+> `$= dv.span(dv.current().areaImage ? "![[" + dv.current().areaImage + "]]" : "")`
+> 
+> ---
+> #### Details
+> |  Name   |  HyperCorp Republic   |
+> | --- | --- |
+> |  Type  |  Nation  |
+> |  Area Code  |  STSP-07  |
+> |  Nation Code  |  HCR  |
+> |  Leader/s  |  [[Harnessing Yottawatt Power & Energy Research Corporation|HYPER Corporation]]  |
+> |  Capital  |  [[Lightspeed City]] |
+> |  Location   |  [[Thunderdrop Sector]], [[Synthspire]], [[Terra]]  |
 
 # **Description** 
-**HyperCorp Republic** is one of the major nations of [[Synthspire]]. It is under the governance of [[Harnessing Yottawatt Power & Energy Research Corporation|HYPER Corporation]].
+**HyperCorp Republic** is one of the major nations of [[Synthspire]]. It is under the governance of [[Harnessing Yottawatt Power & Energy Research Corporation\|HYPER Corporation]].
 
 **HyperCorp Republic** is known for the invention of [[Solid-Light Energy]] and other [[Light Technology]]^[[[Harnessing Yottawatt Power & Energy Research Corporation]]], providing innovative cutting-edge technology to the continent of [[Synthspire]]. However, the use of military-grade [[Solid-Light Energy]] outside of the nation is strictly forbidden.^[[[Solid-Light Energy]]] ^f8f0de
 

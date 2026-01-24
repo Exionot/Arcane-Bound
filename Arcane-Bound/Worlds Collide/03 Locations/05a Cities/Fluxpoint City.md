@@ -17,6 +17,8 @@ aliases:
 > |  Name   |  Fluxpoint City  |
 > | --- | --- |
 > |  Type  |  Capital City  |
+> |  Area Code  |  NTU-02  |
+> |  City Code  |  FP  |
 > |  Leader/s   |  [[Gordon Omburg\|Mayor Omburg]]   |
 > |  Location   |  [[Split Region]], [[NeoTech Union]], [[Veridian Sector]], [[Synthspire]]   |
 
