@@ -153,7 +153,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Arcane-Bound/Worlds Collide/04 Systems/02 Technology/Void Crystal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +162,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Void Crystal"
+              "title": "Backlinks"
             }
           },
           {
@@ -213,9 +212,7 @@
             "type": "leaf",
             "state": {
               "type": "footnotes",
-              "state": {
-                "file": "Arcane-Bound/Worlds Collide/04 Systems/02 Technology/Void Crystal.md"
-              },
+              "state": {},
               "icon": "lucide-file-signature",
               "title": "Footnotes"
             }
@@ -251,10 +248,10 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "c8453e486634a8ae",
+  "active": "f58f06d10989240c",
   "lastOpenFiles": [
-    "Arcane-Bound/Worlds Collide/04 Systems/02 Technology/Solid-Light Energy.md",
     "Arcane-Bound/Worlds Collide/04 Systems/02 Technology/Void Crystal.md",
+    "Arcane-Bound/Worlds Collide/04 Systems/02 Technology/Solid-Light Energy.md",
     "Arcane-Bound/Worlds Collide/03 Locations/03 Nations/Republic of Chloros.md",
     "Untitled 1.md",
     "Arcane-Bound/Worlds Collide/04 Systems/01 Magic/Arcaenian Magic.md",
