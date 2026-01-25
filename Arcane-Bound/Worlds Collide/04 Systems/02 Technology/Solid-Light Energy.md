@@ -31,12 +31,11 @@ Class-III, or military grade **S.L.E.**s are only authorized to be used within t
 # **Classifications**
 ## Class-I (Public Use)
 ## Class-II (Commercial Grade) 
-## Class-III (Military Grade) 
+## Class-III (Weaponized) 
 ## Unrated (Modified/Experimental)
 
 # **Variants**
 ## Glass
-## Phase-Through
 
 # **Application** 
 ## Weapons
