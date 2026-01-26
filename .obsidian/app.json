@@ -44,5 +44,6 @@
   "showLineNumber": false,
   "foldHeading": false,
   "strictLineBreaks": false,
-  "promptDelete": false
+  "promptDelete": false,
+  "readableLineLength": true
 }
