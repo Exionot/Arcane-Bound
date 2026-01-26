@@ -35,7 +35,8 @@
               "title": "Hollow people and null's disease"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -153,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Arcane-Bound/Worlds Collide/01 Characters/Krystalle Eos.md",
+                "file": "Hollow people and null's disease.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +164,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Krystalle Eos"
+              "title": "Backlinks for Hollow people and null's disease"
             }
           },
           {
@@ -214,7 +215,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "Arcane-Bound/Worlds Collide/01 Characters/Krystalle Eos.md"
+                "file": "Hollow people and null's disease.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -251,10 +252,10 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "0055d37ee4eb281c",
+  "active": "80bcfbfc361067f9",
   "lastOpenFiles": [
-    "Hollow people and null's disease.md",
     "Arcane-Bound/Worlds Collide/01 Characters/Krystalle Eos.md",
+    "Hollow people and null's disease.md",
     "Arcane-Bound/Worlds Collide/04 Systems/02 Technology/Void Crystal.md",
     "Anti void masks.md",
     "Arcane-Bound/Worlds Collide/00 Ideas/Mana eating crystal.md",
