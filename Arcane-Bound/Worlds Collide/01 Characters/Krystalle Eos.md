@@ -33,12 +33,14 @@ relations:
 > 
 > |   Name  |  Krystalle Eos   |
 > | --- | --- |
-> |   Nickname  |     |
-> |   Sex  |  Female   |
-> |   Height  |     |
-> |   Birthday  |     |
-> |   Age  |  Adult   |
-> |   Species  |  [[Virken]] (Vulpes)   |
+> |  Nickname  |     |
+> |  Sex  |  Female   |
+> |  Height  |     |
+> |  Birthday  |     |
+> |  Age  |  Adult   |
+> |  Species  |  [[Virken]] (Vulpes)   |
+> |  Condition/s  |  [[Null's Disease]]  |
+> |  Infection Status  |  21% (0.14u/L)  |
 > |   Origin  |  [[Evemark City]], [[Lushborne Region]], [[Republic of Chloros]], [[Veridian Sector]], [[Synthspire]]   |
 > |   Faction/s  |   [[Void Special Operation Division 9]]   |
 > |   Hobbies  |     |
