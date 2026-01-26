@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Anti void masks.md",
-                "mode": "preview",
+                "file": "Arcane-Bound/Worlds Collide/04 Systems/02 Technology/Void Crystal.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Anti void masks"
+              "title": "Void Crystal"
             }
           }
         ]
@@ -139,6 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Arcane-Bound/Worlds Collide/04 Systems/02 Technology/Void Crystal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +149,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Void Crystal"
             }
           },
           {
@@ -199,7 +200,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "Untitled.md"
+                "file": "Arcane-Bound/Worlds Collide/04 Systems/02 Technology/Void Crystal.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -236,8 +237,9 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "b7cf8a5556c91a10",
+  "active": "a74a7b30e07a4988",
   "lastOpenFiles": [
+    "Untitled.md",
     "Anti void masks.md",
     "Arcane-Bound/Worlds Collide/00 Ideas/Mana eating crystal.md",
     "Untitled 1.md",
@@ -266,7 +268,6 @@
     "Arcane-Bound/Worlds Collide/02 Factions/Sons of The Crimson Flame.md",
     "Templates/City.md",
     "Arcane-Bound/Worlds Collide/02 Factions/Void Operation & Investigation Department.md",
-    "Arcane-Bound/Worlds Collide/02 Factions/Void Special Operation Division 9.md",
     "ᐳExternal Assets/In Darkness Blank.png",
     "ᐳExternal Assets/Crystal Clear Blank.png",
     "ᐳExternal Assets/Being Vigilant Blank.png",

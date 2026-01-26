@@ -1,6 +1,9 @@
 ---
 type: system
 systemType: Technology
+aliases:
+  - Crystalline Ether-207
+  - CE-207
 ---
 
 > [!infobox] **`= this.file.name`**
@@ -11,7 +14,7 @@ systemType: Technology
 > #### Details
 > |  Name   |  Void Crystal  |
 > | --- | --- |
-> |  Scientific Name  |  "Crystalline Ether-207"  |
+> |  Scientific Name  |  "Crystalline Ether-207"<br>"CE-207"  |
 > |  Type  |  Material  |
 > |  Origin   |  [[Rockcore City]]  |
 > |  Status  |  `INPUT[usageStatus][]`  |
