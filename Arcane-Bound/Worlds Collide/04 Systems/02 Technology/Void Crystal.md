@@ -23,16 +23,15 @@ aliases:
 **Void Crystals**, scientifically named **Crystalline Ether-207** or **CE-207**, are a synthesized organic crystalline material that was originally synthesized in [[Rockcore City]] of the [[Republic of Chloros]]. It was created as a "solution to civilization's waste". Though its synthesis was a major success, this innovation quickly took a dark turn for it spread uncontrollably, turning other materials into **Void Crystals**, slowly corrupting anything in its path.
 
 # **How does it work?**
-**Void Crystals** were initially synthesized to turn waste (non-biodegradable trash) into energy. It works by slowly transforming the molecules of a material into crystals. However, once it was synthesized, it's spread was inevitable. 
+**Void Crystals** were initially synthesized to turn waste (non-biodegradable trash) into energy. It works by slowly transforming the molecules of a material into crystals. However, once the material was synthesized, it's spread was inevitable. 
 
 When broken, the crystals emit energy which is converted into electricity; this allowed it to become a new type of reusable energy, allowing [[Republic of Chloros|Chloros]] to run on pure green energy. When the broken crystal has emitted all its energy it dissipates into air, eliminating waste while providing clean energy.
 
-However, prolonged exposure to the crystals will eventually convert any object or material into **void Crystals**. This was a dark discovery for the habitants of Chloros since [[Void Energy]] was already widely adapted into majority of Chloros and without it, the nation would, without a doubt, be affected dramatically.
+However, prolonged exposure will eventually convert any object or material into **Void Crystals**. This was a dark discovery for the habitants of Chloros since [[Void Energy]] was already widely adapted into majority of Chloros and without it, the nation would, without a doubt, be affected dramatically.
 
 Shortly after being classified as an uncontainable threat by the [[Chloros Administration]], people started showing symptoms of corruption, small pieces of crystals emerge from their skin. This corruption would later be categorized as an infection called [[Null's Disease]] and individuals with this infection will be marked with the [[Black Tag]] where they would be under constant monitoring.
 
 Though being able to corrupt both organic and inorganic materials, its corruption speed differs between the two having a faster corruption speed in organic materials.
-
 
 %% 
 CURRENTLY UNDISCOVERED
