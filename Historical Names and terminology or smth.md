@@ -11,3 +11,6 @@
 - **Hollowed** - Refers to deceased individuals from null's disease
 - **Anti Void Mask (AVM)** - A protection equipment that can significantly slow down Void Crystallization
 - **Crystallinosis** - Other term for null's disease
+- **Skypeircer** - Tall infrastructure in the middle of Synthspire
+- **Genesis** - Company(?) or another infrastructure in Synthspire
+- **Void Crystalline Protective Equipment (VCProtEq / VCPE)** - Any equipment designed to protect against Void Crystals
