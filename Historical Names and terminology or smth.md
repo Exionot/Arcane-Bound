@@ -1,0 +1,12 @@
+- **Arcaetheus** - first great mage(?), the great king of arceanians(?)
+- **Viscous Void** - ~~Void Plasma~~
+- **Viscous Crystalline Ether (VCE)** - Viscous Void Sci Name
+- **Void Crystallization** - Process of material -> Void Crystal 
+- **Angiography** - Imaging tech
+- **Void Crystalline Inhibitor** - Suppressant (not cure) to null's disease
+- **Crystallization Tracker** - Angiographic device
+- **Divergence** - What separates synthspire to arcaena
+- **King Airus Numa** - King of the fallen Numallium Kigndom 
+- **Void Obelisks** - Structures where Void Crystals are converted to energy
+- **Hollowed** - Refers to deceased individuals from null's disease
+- **Anti Void Mask (AVM)** - A protection equipment that can significantly slow down Void Crystallization
