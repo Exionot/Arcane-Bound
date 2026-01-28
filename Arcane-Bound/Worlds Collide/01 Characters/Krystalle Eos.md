@@ -64,6 +64,10 @@ A human with fox-like ears and tail. She has light pink hair with bright pink ac
 # **Personality** 
 **Krystalle** is energetic but professional, she might look careless however, she knows when be serious.
 
+%% 
+# AMNESIA
+%%
+
 # **Skills and Abilities** 
 ```dataview
 TABLE abilityType as "Type" WHERE contains(this.abilityUsed, file.name)
