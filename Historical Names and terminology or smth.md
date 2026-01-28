@@ -1,4 +1,4 @@
-- **Arcaetheus** - first great mage(?), the great king of arceanians(?)
+ - **Arcaetheus** - first great mage(?), the great king of arceanians(?)
 - **Viscous Void** - ~~Void Plasma~~
 - **Viscous Crystalline Ether (VCE)** - Viscous Void Sci Name
 - **Void Crystallization** - Process of material -> Void Crystal 
@@ -10,3 +10,4 @@
 - **Void Obelisks** - Structures where Void Crystals are converted to energy
 - **Hollowed** - Refers to deceased individuals from null's disease
 - **Anti Void Mask (AVM)** - A protection equipment that can significantly slow down Void Crystallization
+- **Crystallinosis** - Other term for null's disease
