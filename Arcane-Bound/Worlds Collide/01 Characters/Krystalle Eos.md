@@ -49,24 +49,23 @@ relations:
 > **Character Thread**: 
 
 > [!Character] 
-> **"My left arm? What about it? I'm right-handed so I don't really use it casually."**
-> -Krystalle Eos when asked about her left arm
+> **"My past... I need to reunite with it once more."**
 
 ---
 # **History** 
 ## Background 
-**Krystalle Eos** is a [[Virken]] from [[Evemark City]] of the [[Republic of Chloros]]. She is a member of the [[Void Special Operation Division 9]] under the [[Void Operation & Investigation Department]].
+**Krystalle Eos** is a [[Virken]] from [[Evemark City]] of the [[Republic of Chloros]]. She is a special operator of the [[Void Special Operation Division 9]] under the [[Void Operation & Investigation Department]]. 
+
+She was awoken from a "failed operation" where she unexpectedly contracted [[Null's Disease]] on her left arm during the operation. Her memories beyond this seems to be hazy, though she remembers her name and some of her colleagues. She has tried multiple therapeutic sessions in an attempt to regain her memories but none were effective. Her distant memories show themselves as fragmented dreams too vague to actually remember anything.
+
+Her infection has progressed further since the incident, but with the recent improvement with [[Void Crystalline Inhibitors|void suppressants]], she has been able to slow down the infection.
 
 # **Appearance** 
 ## General Appearance 
-A human with fox-like ears and tail. She has light pink hair with bright pink accents and magenta eyes. Small [[Void Crystal]] emerges from the left side of her face and she wears a mechanical gauntlet on her left arm, covering the crystals on her arm.
+A human with foxlike ears and tail. She has light pink hair with bright pink accents and magenta eyes. Small to large [[Void Crystal|Void Crystals]] emerges mostly from her left hand gradually becoming less to the side of her face. She wears a mechanical gauntlet on her left arm to cover up her infection.
 
 # **Personality** 
-**Krystalle** is energetic but professional, she might look careless however, she knows when be serious.
-
-%% 
-# AMNESIA
-%%
+**Krystalle** is seen as an energetic but professional operator, though people that remembers her past self say that she was a lot more serious, often seen as someone who can lead an army. She might seem careless now, however, she knows when be serious; her senses have yet to show themselves once again.
 
 # **Skills and Abilities** 
 ```dataview

@@ -53,6 +53,7 @@ relations:
 
 # **Appearance** 
 ## General Appearance 
+%% Choker -> void inhibitor %%
 
 # **Personality** 
 
