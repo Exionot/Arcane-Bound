@@ -11,7 +11,13 @@
 - **Hollowed** - Refers to deceased individuals from null's disease
 - **Anti Void Mask (AVM)** - A protection equipment that can significantly slow down Void Crystallization
 - **Crystallinosis** - Other term for null's disease
-- **Skypeircer** - Tall infrastructure in the middle of Synthspire
+- **Skypeircer** - Tall infrastructure in the middle of Synthspire in Fluxpoint
 - **Genesis** - Company(?) or another infrastructure in Synthspire
 - **Void Crystalline Protective Equipment (VCProtEq / VCPE)** - Any equipment designed to protect against Void Crystals
-- **Biocrystalsynthesis** - Other term for Void Crystalization
+- **Biocrystalsynthesis** - Other term for Void Crystallization
+- **Seige-03** - Moon(?), Planet(?), Orbital Infrastructure(?). Synthspire
+- **Aria Azulberg** - Ace mage from Aquarin
+- **Stellarian Square/Stellar Square** - A place in Astral City
+- **Stellar Technology and Research (S.T.A.R.)** - Space Research Company(?)/Organization(?)
+- **Aerospace Science and Technology Research Organizational Network (A.S.T.R.O.N.)** - Aerospace department of HyperCorp Republic(?) (ASTRO already exists)
+- **Pan of Dah (Pan the great)** - Leader of a town(?), village(?), city(?) called Dah
