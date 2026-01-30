@@ -14,3 +14,4 @@
 - **Skypeircer** - Tall infrastructure in the middle of Synthspire
 - **Genesis** - Company(?) or another infrastructure in Synthspire
 - **Void Crystalline Protective Equipment (VCProtEq / VCPE)** - Any equipment designed to protect against Void Crystals
+- **Biocrystalsynthesis** - Other term for Void Crystalization
