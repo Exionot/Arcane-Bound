@@ -19,5 +19,5 @@
 - **Aria Azulberg** - Ace mage from Aquarin
 - **Stellarian Square/Stellar Square** - A place in Astral City
 - **Stellar Technology and Research (S.T.A.R.)** - Space Research Company(?)/Organization(?)
-- **Aerospace Science and Technology Research Organizational Network (A.S.T.R.O.N.)** - Aerospace department of HyperCorp Republic(?) (ASTRO already exists)
+- **Aerospace Science and Technology Research Organizational Network (A.S.T.R.O.N.)** - Aerospace department of HyperCorp Republic(?) (ASTRO already exists )
 - **Pan of Dah (Pan the great)** - Leader of a town(?), village(?), city(?) called Dah
