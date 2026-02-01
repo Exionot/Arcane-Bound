@@ -21,3 +21,9 @@
 - **Stellar Technology and Research (S.T.A.R.)** - Space Research Company(?)/Organization(?)
 - **Aerospace Science and Technology Research Organizational Network (A.S.T.R.O.N.)** - Aerospace department of HyperCorp Republic(?) (ASTRO already exists )
 - **Pan of Dah (Pan the great)** - Leader of a town(?), village(?), city(?) called Dah
+- **Biomechanical(BioMech) Technology** - A sub-branch of Bio-Technology about mechanical body parts
+- **Endo-biomechanical(En-BioMech) Skeleton** - Skeletal bone replacements capable of achieving heavier lifts and workloads
+- **Exo-biomechanical(Ex-BioMech) Orthotics** - Wearable supports that mimic the look of the limbs or spine while providing assisting strength for heavy workloads
+- **EX/N Industries** - Company that produces Ex-BioMech and En-BioMech prosthetics and orthotics
+- **Reverse-thermodynamic Combustion (Cold Combustion)** - A reaction that spreads cold rather than heat
+- **Cold Propulsion** - Self cooling propulsion 
