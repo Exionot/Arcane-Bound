@@ -153,6 +153,15 @@ body {
   background-color: var(--background-primary) !important;
 }
 
+.cm-s-obsidian span.cm-formatting-highlight, .cm-s-obsidian span.cm-highlight,
+.markdown-preview-view mark {
+    background-color: var(--purple);
+	padding: 0 0.6rem;
+	border-radius: 3px;
+	font-weight: bolder !important;
+	/* border: solid #B984DB 2px; */
+}
+
 .markdown-preview-view blockquote{
 	padding-top: 7px;
 	padding-bottom: 7px;
