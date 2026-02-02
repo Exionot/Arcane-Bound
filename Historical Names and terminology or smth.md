@@ -1,4 +1,4 @@
- - **Arcaetheus** - first great mage(?), the great king of arceanians(?)
+- **Arcaetheus** - first great mage(?), the great king of arceanians(?)
 - **Viscous Void** - ~~Void Plasma~~
 - **Viscous Crystalline Ether (VCE)** - Viscous Void Sci Name
 - **Void Crystallization** - Process of material -> Void Crystal 
