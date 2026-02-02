@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Historical Names and terminology or smth.md",
+                "file": "Arcane-Bound/Worlds Collide/04 Systems/02 Technology/Void Crystal.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Historical Names and terminology or smth"
+              "title": "Void Crystal"
             }
           }
         ]
@@ -239,9 +239,12 @@
   },
   "active": "a2ea1178c07800ff",
   "lastOpenFiles": [
+    "Historical Names and terminology or smth.md",
+    "Arcane-Bound/Worlds Collide/04 Systems/02 Technology/Void Crystal.md",
+    "Arcane-Bound/Worlds Collide/03 Locations/03 Nations/Republic of Chloros.md",
+    "Rockcore City.md",
     "Anti void masks.md",
     "aura narr cont.md",
-    "Historical Names and terminology or smth.md",
     "Homepage.md",
     "Arcane-Bound/Worlds Collide/03 Locations/05a Cities/Astral City.md",
     "Arcane-Bound/Worlds Collide/03 Locations/03 Nations/HyperCorp Republic.md",
@@ -255,8 +258,6 @@
     "Arcane-Bound/Worlds Collide/01 Characters/Mhaxxine Dark.md",
     "Arcane-Bound/Worlds Collide/04 Systems/01 Magic/Elemental Magic.md",
     "Arcane-Bound/Worlds Collide/04 Systems/01 Magic/Arcaenian Magic.md",
-    "Arcane-Bound/Worlds Collide/03 Locations/03 Nations/Republic of Chloros.md",
-    "Arcane-Bound/Worlds Collide/04 Systems/02 Technology/Void Crystal.md",
     "Arcane-Bound/Worlds Collide/00 Ideas/Mage-Tech Fusion.md",
     "Arcane-Bound/Worlds Collide/00 Ideas/Unanswered questions.md",
     "Arcane-Bound/Worlds Collide/04 Systems/02 Technology/Solid-Light Energy.md",
@@ -264,7 +265,6 @@
     "Arcane-Bound/Worlds Collide/03 Locations/04 Regions/Split Region.md",
     "Arcane-Bound/Worlds Collide/03 Locations/01 Continents/Synthspire.md",
     "Arcane-Bound/Worlds Collide/02 Factions/Void Operation & Investigation Department.md",
-    "Arcane-Bound/Worlds Collide/00 Ideas/Mana eating crystal.md",
     "ᐳExternal Assets/Mint_Arcaena_Weapon_Drawn.png",
     "ᐳExternal Assets/Mint_Evergreen_Icon.png",
     "ᐳExternal Assets/Mint_Staff_Full.jpg",
