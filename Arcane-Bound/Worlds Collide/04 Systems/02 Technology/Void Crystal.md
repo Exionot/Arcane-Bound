@@ -64,11 +64,19 @@ However, having a larger amount of mana does not mean it is not a threat to Arca
 - Some regions stopped using **Void Crystals** and began reverting to [[Bio-etheric Crystals]].
 - Some areas near [[Ether Obelisks]] in [[Rockcore City]] became overgrown with **Void Crystals** 
 - [[Chloros Administration]] marked **Void Crystals** as a "National Threat" and ceased all usage in and out of the nation.
+- Workers were sent to corrupted obelisks to manually break and activate the crystals.
 - Workers started showing signs of corruptions.
-- Corrupted individuals were diagnosed with [[Crystallinosys]]
+- Corrupted individuals were diagnosed with [[Crystallinosys]].
+- Crystallized obelisks were abandoned and was restricted from public access.
 ## The Fall of Rockcore City
 ### 2357 - 2360
-- 
+- Spread rate of **Void Crystals** increased.
+- **Void Crystals** from abandoned sites started to spread the containment area.
+- [[Rockcore City]] slowly got overtaken by **Void Crystals**, more and more people started to get [[Crystallinosys]].
+- The first death from Crystallinosys was recorded:
+	- A man named [[Arthur Null]] died of consecutive organ failure. His body was examined and majority of his organs and muscles had small to large holes which was believe to where the **Void Crystals** had been in his body.
+	- Crystallinosys was nicknamed [[Null's Disease]] in his honor.
+%% To be updated... %%
 
 # **Known Users**
 ```dataview
