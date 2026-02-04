@@ -27,3 +27,4 @@
 - **EX/N Industries** - Company that produces Ex-BioMech and En-BioMech prosthetics and orthotics
 - **Reverse-thermodynamic Combustion (Cold Combustion)** - A reaction that spreads cold rather than heat
 - **Cold Propulsion** - Self cooling propulsion 
+- **Eclipsed Knight** - 
