@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "2bb1e3ec3c18fac6",
+        "id": "114c3f8ab384caaf",
         "type": "tabs",
         "children": [
           {
-            "id": "b353256def98b37b",
+            "id": "268d371223c0c991",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Historical Names and terminology or smth.md",
-                "mode": "source",
+                "file": "Homepage.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Historical Names and terminology or smth"
+              "title": "Homepage"
             }
           }
         ]
@@ -237,11 +237,11 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "b353256def98b37b",
+  "active": "268d371223c0c991",
   "lastOpenFiles": [
+    "Historical Names and terminology or smth.md",
     "Hollow people and null's disease.md",
     "Rare bird virkens.md",
-    "Historical Names and terminology or smth.md",
     "DELETE.md",
     "Homepage.md",
     "Krystalle narr.md",
