@@ -1,31 +1,33 @@
-- **Arcaetheus** - first great mage(?), the great king of arceanians(?)
-- **Viscous Void** - ~~Void Plasma~~
-- **Viscous Crystalline Ether (VCE)** - Viscous Void Sci Name
-- **Void Crystallization** - Process of material -> Void Crystal 
-- **Angiography** - Imaging tech
-- **[[Void Crystalline Inhibitor]]** - Suppressant (not cure) to null's disease
-- **Crystallization Tracker** - Angiographic device
-- **Divergence** - What separates synthspire to arcaena
-- **King Airus Numa** - King of the fallen Numallium Kigndom 
-- **Void Obelisks** - Structures where Void Crystals are converted to energy
-- **Hollowed** - Refers to deceased individuals from null's disease
-- **Anti Void Mask (AVM)** - A protection equipment that can significantly slow down Void Crystallization
-- **Crystallinosis** - Other term for null's disease
-- **Skypeircer** - Tall infrastructure in the middle of Synthspire in Fluxpoint
-- **Genesis** - Company(?) or another infrastructure in Synthspire
-- **Void Crystalline Protective Equipment (VCProtEq / VCPE)** - Any equipment designed to protect against Void Crystals
-- **Biocrystalsynthesis** - Other term for Void Crystallization
-- **Seige-03** - Moon(?), Planet(?), Orbital Infrastructure(?). Synthspire
-- **Aria Azulberg** - Ace mage from Aquarin
-- **Stellarian Square/Stellar Square** - A place in Astral City
-- **Stellar Technology and Research (S.T.A.R.)** - Space Research Company(?)/Organization(?)
+- **Arcaetheus** - Arcaena; first great mage(?), the great king of arceanians(?)
+- **Viscous Void** - Synthspire; ~~Void Plasma~~
+- **Viscous Crystalline Ether (VCE)** - Synthspire; Viscous Void Sci Name
+- **Void Crystallization** - Synthspire; Process of material -> Void Crystal 
+- **Angiography** - Synthspire; Imaging tech
+- **[[Void Crystalline Inhibitor]]** - Synthspire; Suppressant (not cure) to null's disease
+- **Crystallization Tracker** - Synthspire; Angiographic device
+- **Divergence** - Both; What separates synthspire to arcaena
+- **King Airus Numa** - Arcaena; King of the fallen Numallium Kigndom 
+- **Numallium Kingdom** - Arcaena; Fallen kingdom of wind
+- **Void Obelisks** - Synthspire; Structures where Void Crystals are converted to energy
+- **Hollowed** - Synthspire; Refers to deceased individuals from null's disease
+- **Anti Void Mask (AVM)** - Synthspire; A protection equipment that can significantly slow down Void Crystallization
+- **Crystallinosis** - Synthspire; Other term for null's disease
+- **Skypeircer** - Synthspire; Tall infrastructure in the middle of Synthspire in Fluxpoint
+- **Genesis** - Synthspire; Company(?) or another infrastructure in Synthspire
+- **Void Crystalline Protective Equipment (VCProtEq / VCPE)** - Synthspire; Any equipment designed to protect against Void Crystals
+- **Biocrystalsynthesis** - Synthspire; Other term for Void Crystallization
+- **Seige-03** - Synthspire; Moon(?), Planet(?), Orbital Infrastructure(?). Synthspire
+- **Aria Azulberg** - Arcaena; Ace mage from Aquarin
+- **Stellarian Square/Stellar Square** - Synthspire; A place in Astral City
+- **Stellar Technology and Research (S.T.A.R.)** - Synthspire; Space Research Company(?)/Organization(?)
 - **Aerospace Science and Technology Research Organizational Network (A.S.T.R.O.N.)** - Aerospace department of HyperCorp Republic(?) (ASTRO already exists )
-- **Pan of Dah (Pan the great)** - Leader of a town(?), village(?), city(?) called Dah
-- **Biomechanical(BioMech) Technology** - A sub-branch of Bio-Technology about mechanical body parts
-- **Endo-biomechanical(En-BioMech) Skeleton** - Skeletal bone replacements capable of achieving heavier lifts and workloads
-- **Exo-biomechanical(Ex-BioMech) Orthotics** - Wearable supports that mimic the look of the limbs or spine while providing assisting strength for heavy workloads
-- **EX/N Industries** - Company that produces Ex-BioMech and En-BioMech prosthetics and orthotics
-- **Reverse-thermodynamic Combustion (Cold Combustion)** - A reaction that spreads cold rather than heat
-- **Cold Propulsion** - Self cooling propulsion 
-- **Eclipsed Knight** - 
-- **God of Exiles** -
+- **Pan of Dah (Pan the great)** - Arcaena; Leader of a town(?), village(?), city(?) called Dah
+- **Biomechanical(BioMech) Technology** - Synthspire; A sub-branch of Bio-Technology about mechanical body parts
+- **Endo-biomechanical(En-BioMech) Skeleton** - Synthspire; Skeletal bone replacements capable of achieving heavier lifts and workloads
+- **Exo-biomechanical(Ex-BioMech) Orthotics** - Synthspire; Wearable supports that mimic the look of the limbs or spine while providing assisting strength for heavy workloads
+- **EX/N Industries** - Synthspire; Company that produces Ex-BioMech and En-BioMech prosthetics and orthotics
+- **Reverse-thermodynamic Combustion (Cold Combustion)** - Synthspire; A reaction that spreads cold rather than heat
+- **Cold Propulsion** - Synthspire; Self cooling propulsion 
+- **Eclipsed Knight** - Arcaena;
+- **God of Exiles** - Arcaena;
+- **Project Exodus** - Synthspire;
