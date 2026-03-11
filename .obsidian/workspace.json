@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "0edd0e8b508c95c0",
+        "id": "193fe20ebafae0d2",
         "type": "tabs",
         "children": [
           {
-            "id": "e14fb655f3151d5a",
+            "id": "93908234e4d32085",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homepage.md",
-                "mode": "preview",
+                "file": "Historical Names and terminology or smth.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Homepage"
+              "title": "Historical Names and terminology or smth"
             }
           }
         ]
@@ -237,10 +237,14 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "e14fb655f3151d5a",
+  "active": "93908234e4d32085",
   "lastOpenFiles": [
-    "Historical Names and terminology or smth.md",
     "Homepage.md",
+    "Arcane-Bound/Worlds Collide/01 Characters/Mint Evergreen.md",
+    "Arcane-Bound/Worlds Collide/01 Characters/Aura Brillfer.md",
+    "Arcane-Bound/Worlds Collide/01 Characters/Victoria Veloux Canidel.md",
+    "Arcane-Bound/Worlds Collide/01 Characters/Ion Kynne.md",
+    "Historical Names and terminology or smth.md",
     "Hollow people and null's disease.md",
     "Rare bird virkens.md",
     "DELETE.md",
@@ -248,7 +252,6 @@
     "What are Crystalline Inhibitors.md",
     "Arcane-Bound/Worlds Collide/01 Characters/Krystalle Eos.md",
     "Arcane-Bound/Worlds Collide/04 Systems/02 Technology/Void Crystal.md",
-    "Arcane-Bound/Worlds Collide/01 Characters/Mint Evergreen.md",
     "Anti void masks.md",
     "aura narr cont.md",
     "README.md",
@@ -258,13 +261,10 @@
     "Arcane-Bound/Worlds Collide/03 Locations/03 Nations/HyperCorp Republic.md",
     "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen Narratives/Index.md",
     "Arcane-Bound/Worlds Collide/01 Characters/Rem Orion.md",
-    "Arcane-Bound/Worlds Collide/01 Characters/Ion Kynne.md",
     "Arcane-Bound/Worlds Collide/01 Characters/Mhaxxine Dark.md",
     "Arcane-Bound/Worlds Collide/04 Systems/01 Magic/Elemental Magic.md",
     "Arcane-Bound/Worlds Collide/04 Systems/01 Magic/Arcaenian Magic.md",
     "Arcane-Bound/Worlds Collide/00 Ideas/Mage-Tech Fusion.md",
-    "Arcane-Bound/Worlds Collide/00 Ideas/Unanswered questions.md",
-    "Arcane-Bound/Worlds Collide/04 Systems/02 Technology/Solid-Light Energy.md",
     "ᐳExternal Assets/Mint_Arcaena_Weapon_Drawn.png",
     "ᐳExternal Assets/Mint_Evergreen_Icon.png",
     "ᐳExternal Assets/Mint_Staff_Full.jpg",

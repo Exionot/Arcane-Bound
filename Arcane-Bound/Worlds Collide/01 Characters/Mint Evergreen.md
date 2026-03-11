@@ -49,7 +49,7 @@ relations:
 > | --- | --- |
 > |   Nickname  |     |
 > |   Sex  |  Female   |
-> |   Height  |     |
+> |   Height  |  164cm (including ears)   |
 > |   Birthday  |     |
 > |   Age  |  Young Adult   |
 > |   Species  |  [[Virken]] (Feline)   |

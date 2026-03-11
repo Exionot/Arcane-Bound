@@ -43,7 +43,7 @@ profileImage: ᐳExternal Assets/Golden Aura Blank.png
 > | --- | --- |
 > |   Nickname  |  "Agent AR-04" (POLL Code name)   |
 > |   Sex  |  Female   |
-> |   Height  |     |
+> |   Height  |  173cm (including ears)   |
 > |   Birthday  |     |
 > |   Age  |  Young Adult   |
 > |   Species  |  [[Virken]] (Feline)   |

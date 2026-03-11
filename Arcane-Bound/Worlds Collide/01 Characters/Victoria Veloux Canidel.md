@@ -41,7 +41,7 @@ relations:
 > | --- | --- |
 > |   Nickname  |  "Vi" (Preferred name)   |
 > |   Sex  |  Female   |
-> |   Height  |     |
+> |   Height  |  153cm (160cm including ears)   |
 > |   Birthday  |     |
 > |   Age  |  Young Adult   |
 > |   Species  |  [[Virken]] (Vulpes)   |
