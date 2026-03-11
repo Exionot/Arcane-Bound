@@ -31,3 +31,5 @@
 - **Eclipsed Knight** - Arcaena;
 - **God of Exiles** - Arcaena;
 - **Project Exodus** - Synthspire;
+- **Anomaly Event** - Both;
+- **Project Caliburn / Excalibur** - Synthspire;
