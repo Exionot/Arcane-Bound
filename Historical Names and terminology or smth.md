@@ -31,5 +31,5 @@
 - **Eclipsed Knight** - Arcaena;
 - **God of Exiles** - Arcaena;
 - **Project Exodus** - Synthspire;
-- **Anomaly Event** - Both;
-- **Project Caliburn / Excalibur** - Synthspire;
+- **Anomaly Event** - Both; When something from Arcaena appears on Synthspire and vice versa
+- **Project Caliburn / Excalibur** - Synthspire; A project from an anomaly event
