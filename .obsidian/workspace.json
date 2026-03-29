@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homepage.md",
+                "file": "Arcane-Bound/Worlds Collide/01 Characters/Aura Brillfer.md",
                 "mode": "preview",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Homepage"
+              "title": "Aura Brillfer"
             }
           }
         ]
@@ -233,12 +233,29 @@
       "templater-obsidian:Templater": false,
       "homepage:Open homepage": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "calendarium:Open Calendarium": false
     }
   },
   "active": "7ec071d3ac1e563e",
   "lastOpenFiles": [
+    "Arcane-Bound/Worlds Collide/01 Characters/Clair Tempest.md",
+    "Arcane-Bound/Worlds Collide/01 Characters/Victoria Veloux Canidel.md",
+    "Arcane-Bound/Worlds Collide/01 Characters/Ion Kynne.md",
+    "Arcane-Bound/Worlds Collide/01 Characters/Aura Brillfer.md",
+    "Arcane-Bound/Worlds Collide/01 Characters/Still Thunder.md",
+    "Arcane-Bound/Worlds Collide/01 Characters/Ted Ursa.md",
     "Arcane-Bound/Worlds Collide/01 Characters/Mint Evergreen.md",
+    "Arcane-Bound/Worlds Collide/02 Factions/Wandering Traders of Arcaena.md",
+    "Arcane-Bound/Worlds Collide/02 Factions/Void Special Operation Division 9.md",
+    "Arcane-Bound/Worlds Collide/02 Factions/Void Operation & Investigation Department.md",
+    "Arcane-Bound/Worlds Collide/02 Factions/Starveil Retrieval Co..md",
+    "Arcane-Bound/Worlds Collide/02 Factions/Blackreign Gang.md",
+    "Arcane-Bound/Worlds Collide/02 Factions/Guild of Arcane Healers.md",
+    "Arcane-Bound/Worlds Collide/02 Factions/Harnessing Yottawatt Power & Energy Research Corporation.md",
+    "Arcane-Bound/Worlds Collide/02 Factions/Neo-Technology Corporation.md",
+    "Arcane-Bound/Worlds Collide/02 Factions/Protection Of Local Livelihood.md",
+    "Homepage.md",
     "Arcane-Bound/Worlds Collide/07 Lore/01 Documents/Document - Standardized Territorial Codex Protocol.md",
     "Arcane-Bound/Worlds Collide/07 Lore/01 Documents/Document - Synthspire Units Currency Documentation.md",
     "Arcane-Bound/Worlds Collide/05 Skills - Abilities/Transient Bolt.md",
@@ -247,23 +264,7 @@
     "Arcane-Bound/Worlds Collide/06 Items - Equipments/Vixen's Claws.md",
     "Arcane-Bound/Worlds Collide/06 Items - Equipments/Arcaenian Band.md",
     "Arcane-Bound/Worlds Collide/07 Lore/03 Species/Virken.md",
-    "Homepage.md",
     "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Aura Brillfer Narratives/An order you can't fight.md",
-    "Arcane-Bound/Worlds Collide/00 Ideas/A sweet moment for two.md",
-    "aura narr cont.md",
-    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Aura Brillfer Narratives/My house.md",
-    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen Narratives/Mint Evergreen Narratives Manuscript.md",
-    "Arcane-Bound/Worlds Collide/03 Locations/03 Nations/Amphors Kingdom.md",
-    "Arcane-Bound/Worlds Collide/99 Extras/Meta/Arcane-Bound – Worlds Collide.md",
-    "Arcane-Bound/Worlds Collide/07 Lore/02 Terminologies/Stakes Running.md",
-    "Arcane-Bound/Worlds Collide/00 Ideas/Equus Virken Names.md",
-    "Arcane-Bound/Worlds Collide/01 Characters/Still Thunder.md",
-    "Anti void masks.md",
-    "What are Crystalline Inhibitors.md",
-    "Historical Names and terminology or smth.md",
-    "Arcane-Bound/Worlds Collide/01 Characters/Mhaxxine Dark.md",
-    "Arcane-Bound/Worlds Collide/00 Ideas/Prioritization of introductions.md",
-    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen Narratives/Confrontation.md",
     "ᐳExternal Assets/Mint_Arcaena_Weapon_Drawn.png",
     "ᐳExternal Assets/Mint_Evergreen_Icon.png",
     "ᐳExternal Assets/Mint_Staff_Full.jpg",

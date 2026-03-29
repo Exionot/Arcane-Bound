@@ -42,7 +42,7 @@ relations:
 > | --- | --- |
 > |   Nickname  |     |
 > |   Sex  |  Female   |
-> |   Height  |  168cm (171cm including ears)  |
+> |   Height  |  166cm (173cm including ears)  |
 > |   Birthday  |  May 24th   |
 > |   Age  |  Young Adult   |
 > |   Species  |  [[Virken]] (Canis)   |
