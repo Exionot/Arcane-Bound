@@ -7,7 +7,7 @@
   "sessions": [
     {
       "start": "2026-01-12T15:29:55.612Z",
-      "total": 6942,
+      "total": 7408,
       "drafts": {
         "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Test/Index.md": {
           "total": 10,
@@ -33,14 +33,15 @@
           }
         },
         "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Victoria Veloux Canidel Narratives/Index.md": {
-          "total": 2642,
+          "total": 3108,
           "scenes": {
             "The convergence (Victoria Veloux Canidel)": 203,
             "Guide to an unknown world": 415,
             "Fashion like a noble": 316,
             "Point of return": 489,
             "Feline encounter": 522,
-            "Challenge of acceptance": 697
+            "Challenge of acceptance": 697,
+            "Challenge Accepted": 466
           }
         },
         "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Aura Brillfer Narratives/Index.md": {
