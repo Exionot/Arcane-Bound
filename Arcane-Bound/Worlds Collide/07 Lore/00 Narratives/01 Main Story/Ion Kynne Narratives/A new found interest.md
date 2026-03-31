@@ -1,24 +1,13 @@
 ---
 type: narrative 
-time:
-  year: 2401
-  month: ""
-  date: ""
-  season: Early Spring
 cssclasses:
   - narrative
 ---
 
-# **Basic Information**
-**Title**: A new found interest
 **Character/s**: [[Ion Kynne]], [[Ted Ursa]], [[Still Thunder]]
 **Location**: [[Yushinami Stakes Course]]
-**Time of Occurrence**: `= this.time.month` `= this.time.date`, `= this.time.year`, `= this.time.season`
-**Previous**:
-**Next**: 
 **Related:**
 
----
 
 *Ion and Ted are at Yushinami Stakes Course to watch a virken debut race. The course is lightly crowded, they stand near the front to get a clear view. The race approaches it's beginning.*
 
@@ -71,7 +60,6 @@ cssclasses:
 **Ion:** We need to watch her next race!!
 **Ted:** If we manage to finish wandering in this region we'll come back here.
 
----
 
 > [!NOTE] Notes
 > The race gates are just the ground raised up by Gaia magic, it drops down at the start of the race as if it weren't there.

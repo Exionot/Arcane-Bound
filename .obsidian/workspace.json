@@ -84,7 +84,8 @@
               "title": "Longform"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -239,17 +240,19 @@
   },
   "active": "7ec071d3ac1e563e",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Ion Kynne Narratives/A new found interest.md",
+    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Clair Tempest Narratives/A devil's attempt.md",
+    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Ion Kynne Narratives/Index.md",
+    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Ion Kynne Narratives",
     "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Victoria Veloux Canidel Narratives/Challenge Accepted.md",
+    "Untitled.md",
     "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Victoria Veloux Canidel Narratives/Challenge of acceptance.md",
     "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/00 Extra Story/EX - Clever Getaway.md",
     "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/00 Extra Story/Narrative - Something on her face.md",
     "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Aura Brillfer Narratives/An order you can't fight.md",
     "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Aura Brillfer Narratives/Defying orders.md",
-    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Clair Tempest Narratives/A devil's attempt.md",
     "Krystalle narr.md",
     "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen Narratives/Bear-on collision.md",
-    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Ion Kynne/Narrative - A new found interest.md",
     "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Clair Tempest Narratives/Index.md",
     "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Clair Tempest Narratives",
     "Arcane-Bound/Worlds Collide/04 Systems/01 Magic/Arcaenian Magic.md",
@@ -265,7 +268,6 @@
     "Arcane-Bound/Worlds Collide/01 Characters/Aura Brillfer.md",
     "Arcane-Bound/Worlds Collide/01 Characters/Ion Kynne.md",
     "Arcane-Bound/Worlds Collide/01 Characters/Still Thunder.md",
-    "Arcane-Bound/Worlds Collide/01 Characters/Ted Ursa.md",
     "ᐳExternal Assets/Mint_Arcaena_Weapon_Drawn.png",
     "ᐳExternal Assets/Mint_Evergreen_Icon.png",
     "ᐳExternal Assets/Mint_Staff_Full.jpg",
@@ -284,7 +286,6 @@
     "Untitled.base",
     "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Ion Kynne",
     "Arcane-Bound/Worlds Collide/07 Lore/03 Species",
-    "Arcane-Bound/Worlds Collide/07 Lore/02 Terminologies",
     "Arcane-Bound/Worlds Collide/99 Extras/Meta/AB - Storyline.canvas"
   ]
 }
