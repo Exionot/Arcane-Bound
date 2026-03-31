@@ -39,7 +39,7 @@ relations:
 > 
 > |   Name  |  Victoria Veloux Canidel   |
 > | --- | --- |
-> |   Nickname  |  "Vi" (Preferred name)   |
+> |   Nickname  |  "Vi" (Preferred name) <br> "Little Fox" ([[Ion Kynne]]) |
 > |   Sex  |  Female   |
 > |   Height  |  153cm (166cm including ears)   |
 > |   Birthday  |     |
