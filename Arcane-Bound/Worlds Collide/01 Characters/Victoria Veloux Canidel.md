@@ -114,6 +114,16 @@ TABLE itemType as "Type" WHERE contains(this.itemUsed, file.name)
 She acts as the assistant of **Vi**, always available when she is needed. She often asks to groom **Vi**'s tail, and even though **Vi** knows this is an obsession of Rem, she trusts her to not do anything weird.
 
 # **Other Information** 
+
+> [!NOTE] Meta History
+> ## First Appearance / Creation
+> **March 6, 2022** - [Original Post](https://x.com/ExionKFP/status/1500350706808946689?s=20)
+> ## Changes over the years
+> - Replaced Clair in my banner
+> - She was named "Vi" because VIolet but got formalized into "Victoria Veloux Canidel"
+> - First design change was in November 8, 2022, shifted her hair color from a bright lavender to a toned down purple, lost her choker (I don't know why everyone had chokers) and her hairpin
+> - And then another redraw on May 18, 2023 to match my current style which became the basis of her current design.
+
 ## Systems Used 
 ```dataview
 TABLE systemType as "Type" WHERE contains(this.systemUsed, file.name)

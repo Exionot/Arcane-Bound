@@ -101,6 +101,16 @@ She was jokingly invited by **Ion** after crossing paths with her. She unexpecte
 She always declines **Ion's** requests to join non-rated races, responding with "watching is always better". 
 
 # **Other Information** 
+
+> [!NOTE] Meta History
+> ## First Appearance / Creation
+> **April 7, 2021** - [Original Post](https://x.com/Exionot/status/1442035632465854467?s=20)
+> ## Changes over the years
+> - Was redrawn on September 26, 2021 with a major overhaul in design.
+> - Was given the surname "Kynne" on this project
+> 
+> She was the true first Original Character 
+
 ## Systems Used 
 ```dataview
 TABLE systemType as "Type" WHERE contains(this.systemUsed, file.name)

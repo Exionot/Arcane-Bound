@@ -103,6 +103,16 @@ TABLE itemType as "Type" WHERE contains(this.itemUsed, file.name)
 >  She has a binding spell that wraps the target with silk-like threads that are as strong as steel
 >  *(Ref: Silksong)* 
 
+> [!NOTE] Meta History
+> ## First Appearance / Creation
+> **October 26, 2021** - [Original Post](https://x.com/Exionot/status/1452695715616940032?s=20)
+> ## Changes over the years
+> - She was once part of my banner until she was replaced by Vi
+> - Was named "Teal" then changed to "Haruka" then to "Clair Tempest" in this project
+> - Remained dormant until the first redraw in January 10, 2025 (Age of Elementals)
+> - Another redraw was made in October 25, 2025 to fix her hair color from the first redraw (greenish cyan to blueish cyan) 
+> - Design remained similar besides the change in outfit (still subject to change)
+
 ## Systems Used 
 ```dataview
 TABLE systemType as "Type" WHERE contains(this.systemUsed, file.name)

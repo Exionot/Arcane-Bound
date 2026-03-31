@@ -113,6 +113,15 @@ She left the [[Protection Of Local Livelihood]] after discovering that [[Neo-Tec
 > **Full Note:** [[Mint Evergreen]]
 
 # **Other Information** 
+
+> [!NOTE] Meta History
+> ## First Appearance / Creation
+> **October 22, 2021** - [Original Post](https://x.com/Exionot/status/1451539341566570500?s=20)
+> ## Changes over the years
+> - Her name if I remember was "Gold" but it was changed to "Au" the chemical symbol for gold, then changed to "Aura" because it was a bit too short. She was also given the surname "Brillfer" in this project which is a mix of translated words meaning "shine" (It was French I think).
+> - Some design changed especially in the outfit and hair, she also used to have a choker and a double hairpin though colors remained fairly the same.
+
+
 ## Systems Used 
 ```dataview
 TABLE systemType as "Type" WHERE contains(this.systemUsed, file.name)

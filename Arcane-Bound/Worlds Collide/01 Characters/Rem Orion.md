@@ -84,6 +84,17 @@ TABLE itemType as "Type" WHERE contains(this.itemUsed, file.name)
 She is the leader of [[Starveil Retrieval Co.]]. Despite seeing it as a weird obsession, she still allows **Rem** to groom her tail.
 
 # **Other Information** 
+
+> [!NOTE] Meta History
+> ## First Appearance / Creation
+> **October 24, 2021** - [Original Post](https://x.com/Exionot/status/1452509034641199119?s=20)
+> ## Changes over the years
+> - Also remained fairly dormant until the redraw on October 26, 2025
+> - Was named "Rem" because "Red" and "Rem" sound the same and was given the surname "Orion" on this project.
+> - Design remained similar besides the change in outfit (still subject to change)
+> 
+> She was also create as a partner for Clair.
+
 ## Systems Used 
 ```dataview
 TABLE systemType as "Type" WHERE contains(this.systemUsed, file.name)

@@ -72,6 +72,15 @@ TABLE itemType as "Type" WHERE contains(this.itemUsed, file.name)
 # **Relations**
 
 # **Other Information** 
+
+> [!NOTE] Meta History
+> ## First Appearance / Creation
+> **October 23, 2021** - [Original Post](https://x.com/Exionot/status/1452505549208125447?s=20)
+> ## Changes over the years
+> - Remained untouched and unnamed until October 20, 2025 where she was redrawn and was given the name "Mhax" by a friend which turned into her current name "Mhaxxine Dark".
+> - The redraw remained loyal to her original design though it is subject to change (I don't know what to do with her).
+
+
 ## Systems Used 
 ```dataview
 TABLE systemType as "Type" WHERE contains(this.systemUsed, file.name)
