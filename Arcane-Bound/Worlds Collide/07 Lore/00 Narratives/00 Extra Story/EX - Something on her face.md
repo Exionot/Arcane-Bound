@@ -9,8 +9,6 @@ cssclasses:
 **Character/s**: [[Mint Evergreen]], [[Aura Brillfer]]
 **Location**: [[Aura's Apartment]]
 **Time of Occurrence**: Unknown 
-**Previous**:
-**Next**: 
 
 ---
 
@@ -50,6 +48,8 @@ cssclasses:
 >Bro ur cringe. -present you
 >
 >I agree bruh -present present you
+>
+>This is an extra story now so the timing of everything is subjective now >:)
 
 
 
