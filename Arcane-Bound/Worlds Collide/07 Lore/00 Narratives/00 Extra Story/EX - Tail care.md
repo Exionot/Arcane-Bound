@@ -47,7 +47,10 @@ cssclasses:
 **Rem:** Seriously, you should take care of your tail more often!
 **Vi:** This is a weird obsession of yours, you know that right?
 **Rem:** You say that but... you like it anyway don't you?
-**Vi:** Alright you caught me.
+
+*Vi turns her head towards Rem and smiles.*
+
+**Vi:** Alright, you caught me.
 
 ---
 
