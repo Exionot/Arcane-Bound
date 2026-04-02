@@ -49,7 +49,7 @@ relations:
 > | --- | --- |
 > |   Nickname  |     |
 > |   Sex  |  Female   |
-> |   Height  |     |
+> |   Height  |  164cm (including ears)   |
 > |   Birthday  |     |
 > |   Age  |  Young Adult   |
 > |   Species  |  [[Virken]] (Feline)   |
@@ -138,6 +138,18 @@ After years of helping the guild, Mint finally made up her mind that wanted to l
 > **Full Note:** [[Aura Brillfer]]
 
 # **Other Information** 
+
+> [!NOTE] Meta History
+> ## First Appearance / Creation
+> **October 24, 2021** - [Original Post](https://x.com/Exionot/status/1452508145373220865?s=20)
+> Design was different but the color theme stayed the same.
+> ## Changes over the years
+> - She used to have a choker (dunno where that went)
+> - Her name kept changing. The original was "Mint Leafgreen" (I don't remember why it changed, maybe I mixed up the words or something), then from "Mint" to "Mynt".
+> 
+> She was created as a pair to Aura, so it was already decided from the very beginning.
+
+
 ## Systems Used 
 ```dataview
 TABLE systemType as "Type" WHERE contains(this.systemUsed, file.name)

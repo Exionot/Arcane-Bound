@@ -11,6 +11,7 @@ longform:
     - Point of return
     - Feline encounter
     - Challenge of acceptance
+    - Challenge accepted
   ignoredFiles:
     - Victoria Veloux Canidel Narratives Manuscript
 ---

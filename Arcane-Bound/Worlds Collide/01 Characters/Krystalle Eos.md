@@ -83,6 +83,17 @@ TABLE itemType as "Type" WHERE contains(this.itemUsed, file.name)
 # **Relations**
 
 # **Other Information** 
+
+> [!NOTE] Meta History
+> ## First Appearance / Creation
+> **October 23, 2021** - [Original Post](https://x.com/Exionot/status/1452506452283695110?s=20)
+> ## Changes over the years
+> - Technically it was her original design before I tried to revamp her as another separate character on July 14, 2023.
+> - Design has been overhauled, from human to fox, from long twin tails to short ones
+> - Was only named on this project.
+> 
+> You can probably mark them as separate on their own but this was technically her *true* origin.  
+
 ## Systems Used 
 ```dataview
 TABLE systemType as "Type" WHERE contains(this.systemUsed, file.name)

@@ -4,7 +4,7 @@
 
 > [!quote]
 > <i style="color:white; font-size:20px">"Just make it <b>exist</b> first, you can make it <b>beautiful</b> later."</i>
-> -Random User
+> -Adam Grant
 
 <h1 style="text-align:center; font-size:30px; padding-top:10px"> Projects </h1>
 <hr>

@@ -20,18 +20,18 @@ aliases:
 > |  Status  |  `INPUT[usageStatus][]`  |
 
 # **Overview** 
-**Void Crystals**, scientifically named **Crystalline Ether-207** or **CE-207**, are a synthesized organic crystalline material that was originally synthesized in [[Rockcore City]] of the [[Republic of Chloros]]. It was created as a "solution to civilization's waste". Though its synthesis was a major success, this innovation quickly took a dark turn for it spread uncontrollably, turning other materials into **Void Crystals**, slowly corrupting anything in its path.
+**Void Crystals**, scientifically named **Crystalline Ether-207** or **CE-207**, are variant of [[Bio-etheric Crystals]] which was originally synthesized in [[Rockcore City]], the old capital of the [[Republic of Chloros]]. It was created as a "solution to civilization's waste", providing a greater energy output compare to its predecessors. Though its synthesis was a major success, this innovation quickly took a dark turn for it spread uncontrollably, turning other materials not meant to be converted into **Void Crystals**, slowly corrupting anything in its path.
 
 # **How does it work?**
-**Void Crystals** were initially synthesized to turn waste (non-biodegradable trash) into energy. It works by slowly transforming the molecules of a material into crystals. However, once the material was synthesized, it's spread was inevitable. 
+**Void Crystals** were initially synthesized to create a more efficient variant of [[Bio-etheric Crystals]], lasting longer while providing more energy. It's a crystalline material that capable of turning waste (non-biodegradable trash) into energy. It works by slowly transforming the molecules of a material into crystals. However, once the material was synthesized, it's spread was inevitable. 
 
-When broken, the crystals emit energy which is converted into electricity; this allowed it to become a new type of reusable energy, allowing [[Republic of Chloros|Chloros]] to run on pure green energy. When the broken crystal has emitted all its energy it dissipates into air, eliminating waste while providing clean energy.
+When broken, the crystals emit energy which is converted into electricity and when the broken crystal has emitted all of its energy it dissipates into air, eliminating waste while providing clean energy. This allowed it to become a new type of reusable energy called [[Etheric Energy]], allowing [[Republic of Chloros|Chloros]] to theoretically run on pure green energy. 
 
-However, prolonged exposure will eventually convert any object or material into **Void Crystals**. This was a dark discovery for the habitants of Chloros since [[Void Energy]] was already widely adapted into majority of Chloros and without it, the nation would, without a doubt, be affected dramatically.
+However, unlike other synthesized variants of [[Crystalline Ether]], prolonged exposure will eventually convert any object or material into **Void Crystals**. This was a dark discovery for the habitants of Chloros since the first signs of corruption were discovered after a couple years after major [[Etheric Energy]] companies across Chloros switched from Bio-etheric Crystals to **Void Crystals** and reverting severely affected the nation's energy industry.
 
 Shortly after being classified as an uncontainable threat by the [[Chloros Administration]], people started showing symptoms of corruption, small pieces of crystals emerge from their skin. This corruption would later be categorized as an infection called [[Null's Disease]] and individuals with this infection will be marked with the [[Black Tag]] where they would be under constant monitoring.
 
-Though being able to corrupt both organic and inorganic materials, its corruption speed differs between the two having a faster corruption speed in organic materials.
+Though being able to corrupt both organic and inorganic materials, its corruption speed differs between the two, corrupting organic materials faster.
 
 %% 
 CURRENTLY UNDISCOVERED
@@ -44,11 +44,39 @@ However, having a larger amount of mana does not mean it is not a threat to Arca
 ## Waste Elimination and Energy Production
 
 # **Variants**
-## Void Plasma
+## Viscous Void
 
 # **Limitations**
 
 # **History** 
+## First Synthesis of Void Crystals
+### 2342 - 2345
+- **Void Crystals** were first synthesized.
+	- Publication of this discovery caught the attention of the energy of [[Synthspire]]. However its globalization was restricted by the [[Chloros Administration]].
+- Major power companies within [[Rockcore City]] began transitioning from [[Bio-etheric Crystals]] to **Void Crystals**.
+	- Other companies from other regions of the nation slowly followed.
+- [[Republic of Chloros|Chloros]]' power output skyrocketed and began to switch from [[HYPER Power]] to [[Etheric Energy]], bringing electricity cost down and reducing the nation's waste.
+- Reports emerge about **Void Crystals** appearing on equipment and outside of [[Ether Obelisks]].
+## Early Void Corruption 
+### 2345 - 2357
+- **Void Crystals** were marked as possible hazardous materials and containment area were set, locking down adjacent areas.
+- Discoveries were made about **Void Crystals** [[Biocrystalliosynthesis]] properties being higher than it's predecessors making it able to corrupt other materials within it's vicinity.
+- Some regions stopped using **Void Crystals** and began reverting to [[Bio-etheric Crystals]].
+- Some areas near [[Ether Obelisks]] in [[Rockcore City]] became overgrown with **Void Crystals** 
+- [[Chloros Administration]] marked **Void Crystals** as a "National Threat" and ceased all usage in and out of the nation.
+- Workers were sent to corrupted obelisks to manually break and activate the crystals.
+- Workers started showing signs of corruptions.
+- Corrupted individuals were diagnosed with [[Crystallinosys]].
+- Crystallized obelisks were abandoned and was restricted from public access.
+## The Fall of Rockcore City
+### 2357 - 2360
+- Spread rate of **Void Crystals** increased.
+- **Void Crystals** from abandoned sites started to spread the containment area.
+- [[Rockcore City]] slowly got overtaken by **Void Crystals**, more and more people started to get [[Crystallinosys]].
+- The first death from Crystallinosys was recorded:
+	- A man named [[Arthur Null]] died of consecutive organ failure. His body was examined and majority of his organs and muscles had small to large holes which was believe to where the **Void Crystals** had been in his body.
+	- Crystallinosys was nicknamed [[Null's Disease]] in his honor.
+%% To be updated... %%
 
 # **Known Users**
 ```dataview

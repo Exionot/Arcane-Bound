@@ -10,7 +10,7 @@ type: narrative
 
 **Location**: [[Aura's Apartment]], [[Fluxpoint City]], [[NeoTech Union]], [[Synthspire]]
 **Time of Occurrence**: Unknown 
-**Previous**: [[Narrative - Something on her face]]
+**Previous**: [[EX - Something on her face]]
 **Next**: 
 
 ---
