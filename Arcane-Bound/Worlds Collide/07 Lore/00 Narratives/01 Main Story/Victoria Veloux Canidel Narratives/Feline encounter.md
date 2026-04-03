@@ -67,11 +67,9 @@ cssclasses:
 
 **Mint:** A nice lady took me in, she said people were after us.
 
-**Ted:** Why? We haven't done anything.
-
 **Vi:** *Ted got locked up without reason too... Why would the government target civilians?*
 
-**Mint:** You should probably head straight to Rhilekos City for now, You've been missing for more than a week now, Ion said they would stay there until they find you.
+**Mint:** Well, You should probably head straight to Rhilekos City for now, You've been missing for more than a week now, Ion said they would stay there until they find you.
 
 **Ted:** Are you not going with us?
 

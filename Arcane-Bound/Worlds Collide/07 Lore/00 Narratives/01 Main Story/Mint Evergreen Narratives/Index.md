@@ -14,6 +14,7 @@ longform:
     - An encounter with the devil
     - Devil's intent
     - Bear-on collision
+    - Gone for a day
   ignoredFiles:
     - Mint Evergreen Narratives Manuscript
 ---

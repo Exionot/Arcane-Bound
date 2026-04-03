@@ -16,8 +16,8 @@ cssclasses:
 **Mint:** Uhm... Where are we going exactly?
 **Aura:** This is where I live.
 **Mint:** Oh, I thought you were just going to tell me how to get out of the city.
-**Aura:** The city is way to big to get to any exit gates by foot, and it gets really cold during winter nights, don't you want a place to pass the night? Your clothes look roughed up too.
-**Aura:** *Plus I can't let the other agents see you like that.*
+**Aura:** The city is way to big to get to any exit gates by foot, and it gets really cold during winter nights, don't you want a place to pass the night? Your clothes might grab attention too.
+**Aura:** *I can't let the other agents see you like that.*
 
 *Aura opens the door to her apartment.*
 

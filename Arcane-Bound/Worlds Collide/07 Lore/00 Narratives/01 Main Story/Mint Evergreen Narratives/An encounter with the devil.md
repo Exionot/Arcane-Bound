@@ -20,7 +20,7 @@ cssclasses:
 
 **Mint:** You... You're the devil of the forest!
 
-*Mint slowly creates distance between her and the devil.*
+*Mint slowly steps back, creates distance between her and the devil.*
 
 **Clair:** No need to be scared, I'm not going to hurt you. I'm more curious about your outfit.
 

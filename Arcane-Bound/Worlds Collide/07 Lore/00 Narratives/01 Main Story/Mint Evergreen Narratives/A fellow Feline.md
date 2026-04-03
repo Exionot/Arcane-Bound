@@ -26,13 +26,9 @@ cssclasses:
 *Mint focuses and checks Aura for any traces of mana, but to no avail, there's nothing, not even her bodyguards have any traces of mana.*
 
 **Aura:** Are you lost?
-
 **Mint:** Ah! Yes, it seems like I got suddenly transported here. 
-
 **Mint:** Where are we right now?
-
 **Aura:** This is Amphere Square of Fluxpoint City.
-
 **Mint:** I didn't know Arcaena had such developed cities like this.
 
 *Aura gestures something to her bodyguards, they salute her and begins to walk away, leaving Mint with Aura.*

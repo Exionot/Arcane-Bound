@@ -1,13 +1,13 @@
 {
   "version": 3,
   "projects": {},
-  "selectedDraftVaultPath": "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Victoria Veloux Canidel Narratives/Index.md",
+  "selectedDraftVaultPath": "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen Narratives/Index.md",
   "userScriptFolder": null,
   "sessionStorage": "data",
   "sessions": [
     {
       "start": "2026-01-12T15:29:55.612Z",
-      "total": 8033,
+      "total": 8770,
       "drafts": {
         "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Test/Index.md": {
           "total": 10,
@@ -19,17 +19,18 @@
           }
         },
         "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen Narratives/Index.md": {
-          "total": 3175,
+          "total": 3903,
           "scenes": {
             "Missing merchant": 368,
             "The convergence (Mint Evergreen)": 189,
             "A fellow Feline": 307,
-            "Her house": 259,
-            "Confrontation": 518,
+            "Her house": 262,
+            "Confrontation": 897,
             "The convergence... again": 529,
-            "An encounter with the devil": 231,
+            "An encounter with the devil": 233,
             "Devil's intent": 285,
-            "Bear-on collision": 489
+            "Bear-on collision": 489,
+            "Gone for a day": 344
           }
         },
         "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Victoria Veloux Canidel Narratives/Index.md": {
@@ -45,10 +46,10 @@
           }
         },
         "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Aura Brillfer Narratives/Index.md": {
-          "total": 766,
+          "total": 775,
           "scenes": {
             "An order you can't fight": 233,
-            "Defying orders": 276,
+            "Defying orders": 285,
             "My house": 257
           }
         },
