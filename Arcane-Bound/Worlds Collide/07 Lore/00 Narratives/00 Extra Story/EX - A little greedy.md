@@ -1,0 +1,48 @@
+---
+type: narrative 
+cssclasses:
+  - narrative
+---
+
+# **Basic Information**
+**Title**: A little greedy
+**Character/s**:
+- [[Mint Evergreen]]
+- [[Aura Brillfer]]
+
+**Location**: [[Aura's Apartment]]
+**Time of Occurrence**: Unknown
+
+---
+
+*It is early in the morning, Aura is trying to wake up Mint to go to a popular cafe they saw.*
+
+**Aura:** Come on Mint, if we go there late, we won't be able to get any seats!
+**Mint:** Mmmm... But it's so early!
+
+*Mint's sleepiness stands undefeated, Aura turns away and begins to leave the room.*
+
+**Aura:** Well, if you plan to just lay there all day, I'll just go to the cafe mys-.
+
+*Before Aura could take a step, Mint grabs her arm and pulls her into the bed. Aura falls on top of a sleepy Mint. With the lack of resistance from Aura, Mint opens her eyes and sees a lightly flustered Aura staring at her.*
+
+**Mint:** What's wrong?
+
+*Both of them sit on the bed and Aura shakes her head.*
+
+**Aura:** Sorry, my mind was being a little greedy... It's just... whenever I look at y-
+
+*Mint suddenly leans closer and kisses Aura, cutting her off.*
+
+**Mint:** I feel a little greedy too~
+**Mint:** ...and also sleepy!
+
+*Mint swiftly tucks herself back into bed.*
+
+**Aura:** !?... Hey! Don't fall asleep again!
+
+---
+
+> [!NOTE] Notes
+> Lover things (they are in this time)
+
