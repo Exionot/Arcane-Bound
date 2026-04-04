@@ -18,6 +18,7 @@ longform:
     - The wanderers
     - The convergence... yet again...
     - Increasing notoriety
+    - Flowers
   ignoredFiles:
     - Mint Evergreen Narratives Manuscript
 ---
