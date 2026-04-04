@@ -7,7 +7,7 @@
   "sessions": [
     {
       "start": "2026-01-12T15:29:55.612Z",
-      "total": 8770,
+      "total": 9711,
       "drafts": {
         "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Test/Index.md": {
           "total": 10,
@@ -19,7 +19,7 @@
           }
         },
         "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen Narratives/Index.md": {
-          "total": 3903,
+          "total": 4844,
           "scenes": {
             "Missing merchant": 368,
             "The convergence (Mint Evergreen)": 189,
@@ -30,7 +30,10 @@
             "An encounter with the devil": 233,
             "Devil's intent": 285,
             "Bear-on collision": 489,
-            "Gone for a day": 344
+            "Gone for a day": 344,
+            "The wanderers": 278,
+            "The convergence... yet again...": 114,
+            "Increasing notoriety": 549
           }
         },
         "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Victoria Veloux Canidel Narratives/Index.md": {

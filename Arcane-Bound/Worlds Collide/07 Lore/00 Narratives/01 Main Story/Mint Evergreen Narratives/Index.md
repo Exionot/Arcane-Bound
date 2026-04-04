@@ -15,6 +15,9 @@ longform:
     - Devil's intent
     - Bear-on collision
     - Gone for a day
+    - The wanderers
+    - The convergence... yet again...
+    - Increasing notoriety
   ignoredFiles:
     - Mint Evergreen Narratives Manuscript
 ---

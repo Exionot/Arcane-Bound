@@ -4,10 +4,10 @@
     "Custom Classes",
     "Purple Gold Theme"
   ],
-  "interfaceFontFamily": "Atkinson Hyperlegible",
+  "interfaceFontFamily": "Inter",
   "textFontFamily": "Atkinson Hyperlegible",
   "monospaceFontFamily": "Consolas",
-  "baseFontSize": 14,
+  "baseFontSize": 15,
   "theme": "obsidian",
   "baseFontSizeAction": true,
   "accentColor": "#6e3a9e",
