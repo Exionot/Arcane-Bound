@@ -67,11 +67,11 @@ cssclasses:
 **Radio:** This is Point Delta, 22nd street is clear, no signs of the suspect.
 **Aura:** I need to get back there.
 **Aura:** Stay here. Do not go anywhere, you got it?
-**Mint:** Got it!
+**Mint:** G-got it!
 
-*Aura slams the door shut and locks it, leaving Mint alone in the apartment sitting on Aura's couch.*
+*Aura slams the door shut and locks it as she leaves, leaving Mint alone in the apartment sitting on Aura's couch.*
 
-**Mint:** *So cold and demanding... But I kinda like it...*
+**Mint:** *So cold and demanding... But, I kinda like it...*
 
 
 > [!NOTE] Notes
