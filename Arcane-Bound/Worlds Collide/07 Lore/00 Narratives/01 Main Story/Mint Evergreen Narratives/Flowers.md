@@ -45,7 +45,7 @@ cssclasses:
 **Mint:** Oh, I saw it in one of your shelves, it was wilted so I tried to give it some life.
 **Aura:** These are my favorite flowers. Shame that I wasn't able to take care of it properly. Thanks for bringing it back to life.
 **Mint:** *What is this warm feeling...*
-**Mint:** N-no worries! I just happen to know about gardening.
+**Mint:** N-no worries! I-I just happen to know about gardening.
 
 
 > [!NOTE] Notes
