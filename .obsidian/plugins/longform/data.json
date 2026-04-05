@@ -7,7 +7,7 @@
   "sessions": [
     {
       "start": "2026-01-12T15:29:55.612Z",
-      "total": 10080,
+      "total": 10402,
       "drafts": {
         "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Test/Index.md": {
           "total": 10,
@@ -19,7 +19,7 @@
           }
         },
         "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen Narratives/Index.md": {
-          "total": 5213,
+          "total": 5535,
           "scenes": {
             "Missing merchant": 368,
             "The convergence (Mint Evergreen)": 189,
@@ -34,7 +34,8 @@
             "The wanderers": 278,
             "The convergence... yet again...": 114,
             "Increasing notoriety": 552,
-            "Flowers": 366
+            "Flowers": 366,
+            "Duality of an officer": 322
           }
         },
         "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Victoria Veloux Canidel Narratives/Index.md": {

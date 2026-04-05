@@ -1,0 +1,23 @@
+Lemme cook for you twin, you might use these later. 
+
+Characters are labeled as A, B, C and so on:
+
+
+## The friendzoned but still loves you line
+
+A: *I continue to make you happy... Even if you don't see me the same way I do.*
+
+
+## I WILL make you love me typa line
+
+A: *I'll keep going, until you finally see the feelings I have laid out for you.*
+
+
+## A comeback to that one annoying mf
+
+A: She was at her peak before you came! You're just getting in her way!
+A: What makes you so special that the wants you so badly?
+B: And what makes you so special that she needs to listen to your weird antics?
+
+
+wait... aren't these just lines for romance threads?

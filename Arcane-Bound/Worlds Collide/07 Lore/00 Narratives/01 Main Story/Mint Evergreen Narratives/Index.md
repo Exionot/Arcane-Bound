@@ -19,6 +19,7 @@ longform:
     - The convergence... yet again...
     - Increasing notoriety
     - Flowers
+    - Duality of an officer
   ignoredFiles:
     - Mint Evergreen Narratives Manuscript
 ---
