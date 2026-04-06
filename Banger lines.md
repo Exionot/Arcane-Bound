@@ -5,7 +5,7 @@ Characters are labeled as A, B, C and so on:
 
 ## The friendzoned but still loves you line
 
-A: *I continue to make you happy... Even if you don't see me the same way I do.*
+A: *I will continue to make you happy... Even if you don't see me the same way I do.*
 
 
 ## I WILL make you love me typa line
@@ -21,3 +21,21 @@ B: And what makes you so special that she needs to listen to your weird antics?
 
 
 wait... aren't these just lines for romance threads?
+
+ANYWAYS!
+
+
+## The heartbreak
+You know who to use this on ;)
+
+A: I love you!
+B: I love you too.
+A: *!!*
+B: ...we're great partners afterall!
+A: *Wait... no... that's not what I meant...*
+A: I-I see...
+B: ?... Something the matter?
+A: N-nothing! I just thought we really do make a good team!
+A: *Why...*
+B: That's great to hear then.
+A: *Why does my heart hurt so much...*
