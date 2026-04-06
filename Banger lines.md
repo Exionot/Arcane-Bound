@@ -38,4 +38,4 @@ B: ?... Something the matter?
 A: N-nothing! I just thought we really do make a good team!
 A: *Why...*
 B: That's great to hear then.
-A: *Why does my heart hurt so much...*
+A: *Why does my heart hurt so much...?*
