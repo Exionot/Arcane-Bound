@@ -106,7 +106,7 @@ TABLE itemType as "Type" WHERE contains(this.itemUsed, file.name)
 
 Agent AR-04 (Ace Responder - 04); She was one of the more reputable commanding officers of the [[Protection Of Local Livelihood]]. With her exceptional skills in combat, people often look up to her, admiring her skill in taking down criminals in a swift manner. Colleague or not, she is not afraid to point out illegal activities in her workspace, even if that person is more powerful.
 
-She left the [[Protection Of Local Livelihood]] after discovering that [[Neo-Technology Corporation]] was secretly experimenting with captured arcaenian people in order to develop powerful weapons capable of using magic.^[[[Document - Integration of Magic to NeoTech Weapons]]]
+She left the [[Protection Of Local Livelihood]] (somewhere around 2406 - 2407) after discovering that [[Neo-Technology Corporation]] was secretly experimenting with captured Arcaenian people in order to develop powerful weapons capable of using magic.^[[[Document - Integration of Magic to NeoTech Weapons]]]
 
 # **Relations**
 ## Mint Evergreen
