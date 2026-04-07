@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homepage.md",
+                "file": "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/00 Extra Story/EX - What it feels like.md",
                 "mode": "preview",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Homepage"
+              "title": "EX - What it feels like"
             }
           }
         ]
@@ -84,7 +84,8 @@
               "title": "Longform"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -237,8 +238,10 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "654cf4d42cc205e0",
+  "active": "b4d994bdc3e50955",
   "lastOpenFiles": [
+    "Homepage.md",
+    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/00 Extra Story/EX - What it feels like.md",
     "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen Narratives/Duality of an officer.md",
     "Banger lines.md",
     "Placing romance into the mint-aura threads.md",
@@ -264,8 +267,6 @@
     "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen Narratives/A fellow Feline.md",
     "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Aura Brillfer Narratives/Defying orders.md",
     "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Aura Brillfer Narratives/An order you can't fight.md",
-    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen Narratives/The convergence... again.md",
-    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/00 Extra Story/EX - Something on her face.md",
     "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Ion Kynne Narratives",
     "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Clair Tempest Narratives",
     "ᐳExternal Assets/Mint_Arcaena_Weapon_Drawn.png",
