@@ -32,7 +32,7 @@ cssclasses:
 
 **Vi:** Like this.
 
-*Vi continues to stare at Ion as she places her hand on her face, whispering into her ear. ion's face slowly turns redder the closer Vi gets.*
+*Vi continues to stare at Ion as she places her hand on her face, whispering into her ear. Ion's face slowly turns redder the closer Vi gets.*
 
 **Vi:** Are you... feeling flustered yet?
 
