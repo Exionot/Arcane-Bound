@@ -39,3 +39,18 @@ A: N-nothing! I just thought we really do make a good team!
 A: *Why...*
 B: That's great to hear then.
 A: *Why does my heart hurt so much...?*
+
+
+## Confusing feelings
+Context: A is doing something that is pushing the line of their relationship with B. However, B is not resisting what so ever. In this example, let's say it's a *kiss* kiss.
+
+*...*
+
+A: *Why...*
+A: *Why won't you resist to anything I do to you?*
+A: *This is now how partners act...*
+
+*Then A stops and diverts using some excuse.*
+
+
+

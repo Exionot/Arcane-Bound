@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/00 Extra Story/EX - What it feels like.md",
-                "mode": "preview",
-                "source": false
+                "file": "Banger lines.md",
+                "mode": "source",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "EX - What it feels like"
+              "title": "Banger lines"
             }
           }
         ]
@@ -84,8 +84,7 @@
               "title": "Longform"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -240,8 +239,8 @@
   },
   "active": "654cf4d42cc205e0",
   "lastOpenFiles": [
-    "Homepage.md",
     "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/00 Extra Story/EX - What it feels like.md",
+    "Homepage.md",
     "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen Narratives/Duality of an officer.md",
     "Banger lines.md",
     "Placing romance into the mint-aura threads.md",
