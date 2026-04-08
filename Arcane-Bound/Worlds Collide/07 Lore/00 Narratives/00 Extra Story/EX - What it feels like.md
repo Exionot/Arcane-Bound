@@ -43,7 +43,7 @@ cssclasses:
 
 *Ruby leans in from behind Renze and whispers into her ear.*
 
-**Ruby:** I can show you what it feels like~
+**Ruby:** How about I show you what it feels like~
 **Renze:** Huh?? W-what???
 **Renze:** H-hey! Wait up! 
 

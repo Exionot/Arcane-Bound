@@ -15,7 +15,7 @@
               "state": {
                 "file": "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/00 Extra Story/EX - What it feels like.md",
                 "mode": "preview",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
               "title": "EX - What it feels like"
@@ -238,7 +238,7 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "b4d994bdc3e50955",
+  "active": "654cf4d42cc205e0",
   "lastOpenFiles": [
     "Homepage.md",
     "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/00 Extra Story/EX - What it feels like.md",
