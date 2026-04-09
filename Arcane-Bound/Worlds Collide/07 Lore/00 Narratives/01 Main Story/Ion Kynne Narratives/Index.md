@@ -6,5 +6,6 @@ longform:
   sceneFolder: /
   scenes:
     - A new found interest
+    - Confession to a girl from another world
   ignoredFiles: []
 ---
