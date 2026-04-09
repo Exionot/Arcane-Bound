@@ -7,8 +7,8 @@ cssclasses:
 # **Basic Information**
 **Title**: What it feels like
 **Character/s**:
-- Renze Luna
-- Ruby Rossilia
+- [[Renze Luna]]
+- [[Ruby Rossilia]]
 - [[Mint Evergreen]]
 - [[Aura Brillfer]]
 
