@@ -29,7 +29,7 @@ cssclasses:
 **Ion:** *W-what is she doing?!*
 **Ion:** *!! Don't tell me she's about to...*
 
-*Vi snatches on her head.*
+*Vi snatches on her head. She opens her hands and reveals that it was a small bug.*
 
 **Vi:** There was a critter in your hair.
 **Ion:** O-oh... There was?
@@ -38,6 +38,7 @@ cssclasses:
 **Vi:** Don't tell me, you were expecting something else?
 **Ion:** !! N-no! Definitely not!
 **Ion:** Gahh! I'm going to sleep now!
+**Ion:** A-and you shouldn't stay up so late too!
 
 *Ion quickly gets up and rushes to her tent.*
 

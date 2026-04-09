@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen Narratives/A new look.md",
-                "mode": "preview",
+                "file": "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/00 Extra Story/EX - Something else in mind.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "A new look"
+              "title": "EX - Something else in mind"
             }
           },
           {
@@ -35,8 +35,7 @@
               "title": "EX - What it feels like"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -252,12 +251,12 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "c86482cfe8ffccbf",
+  "active": "654cf4d42cc205e0",
   "lastOpenFiles": [
     "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen Narratives/A new look.md",
+    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/00 Extra Story/EX - What it feels like.md",
     "Arcane-Bound/Worlds Collide/03 Locations/03 Nations/NeoTech Union.md",
     "Arcane-Bound/Worlds Collide/01 Characters/Aura Brillfer.md",
-    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/00 Extra Story/EX - What it feels like.md",
     "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/00 Extra Story/EX - Something else in mind.md",
     "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/00 Extra Story/EX - Charming fox.md",
     "Banger lines.md",
