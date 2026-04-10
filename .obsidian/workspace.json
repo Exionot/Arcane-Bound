@@ -22,6 +22,20 @@
             }
           },
           {
+            "id": "6119c86f3840bf38",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "adv test.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "adv test"
+            }
+          },
+          {
             "id": "c86482cfe8ffccbf",
             "type": "leaf",
             "state": {
@@ -35,7 +49,8 @@
               "title": "EX - Something else in mind"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -251,11 +266,12 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "654cf4d42cc205e0",
+  "active": "6119c86f3840bf38",
   "lastOpenFiles": [
+    "Prose test 2.md",
+    "adv test.md",
     "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/00 Extra Story/EX - Something else in mind.md",
     "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/00 Extra Story/EX - What it feels like.md",
-    "Prose test 2.md",
     "Prose test.md",
     "Homepage.md",
     "Translation test.md",
@@ -278,7 +294,6 @@
     "Arcane-Bound/Worlds Collide/03 Locations/03 Nations/NeoTech Union.md",
     "Arcane-Bound/Worlds Collide/01 Characters/Aura Brillfer.md",
     "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/00 Extra Story/EX - Charming fox.md",
-    "Banger lines.md",
     "ᐳExternal Assets/Mint_Arcaena_Outfit.png",
     "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Ion Kynne Narratives",
     "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Clair Tempest Narratives",
