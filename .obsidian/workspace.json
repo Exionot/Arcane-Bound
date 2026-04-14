@@ -4,53 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "9a2737047c6e0f1a",
+        "id": "1c81c852b0643220",
         "type": "tabs",
         "children": [
           {
-            "id": "654cf4d42cc205e0",
+            "id": "c45186a4d24baef8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prose test 2.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Prose test 2"
-            }
-          },
-          {
-            "id": "6119c86f3840bf38",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "adv test.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "adv test"
-            }
-          },
-          {
-            "id": "c86482cfe8ffccbf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/00 Extra Story/EX - Something else in mind.md",
+                "file": "Homepage.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "EX - Something else in mind"
+              "title": "Homepage"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -266,11 +237,15 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "6119c86f3840bf38",
+  "active": "c45186a4d24baef8",
   "lastOpenFiles": [
+    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/00 Extra Story/EX - Something else in mind.md",
+    "Arcane-Bound/Worlds Collide/01 Characters/Victoria Veloux Canidel.md",
+    "Arcane-Bound/Worlds Collide/01 Characters/Ion Kynne.md",
+    "Arcane-Bound/Worlds Collide/01 Characters/Aura Brillfer.md",
+    "Arcane-Bound/Worlds Collide/01 Characters/Mint Evergreen.md",
     "Prose test 2.md",
     "adv test.md",
-    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/00 Extra Story/EX - Something else in mind.md",
     "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/00 Extra Story/EX - What it feels like.md",
     "Prose test.md",
     "Homepage.md",
@@ -290,10 +265,6 @@
     "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Aura Brillfer Narratives/Defying orders.md",
     "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Aura Brillfer Narratives/An order you can't fight.md",
     "Arcane-Bound/Worlds Collide/07 Lore/02 Terminologies/Stakes Running.md",
-    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen Narratives/A new look.md",
-    "Arcane-Bound/Worlds Collide/03 Locations/03 Nations/NeoTech Union.md",
-    "Arcane-Bound/Worlds Collide/01 Characters/Aura Brillfer.md",
-    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/00 Extra Story/EX - Charming fox.md",
     "ᐳExternal Assets/Mint_Arcaena_Outfit.png",
     "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Ion Kynne Narratives",
     "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Clair Tempest Narratives",
