@@ -1,13 +1,13 @@
 {
   "version": 3,
   "projects": {},
-  "selectedDraftVaultPath": "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Ion Kynne Narratives/Index.md",
+  "selectedDraftVaultPath": "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen Narratives/Index.md",
   "userScriptFolder": null,
   "sessionStorage": "data",
   "sessions": [
     {
       "start": "2026-01-12T15:29:55.612Z",
-      "total": 11210,
+      "total": 11801,
       "drafts": {
         "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Test/Index.md": {
           "total": 10,
@@ -19,7 +19,7 @@
           }
         },
         "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen Narratives/Index.md": {
-          "total": 6048,
+          "total": 6639,
           "scenes": {
             "Missing merchant": 368,
             "The convergence (Mint Evergreen)": 189,
@@ -36,6 +36,7 @@
             "Increasing notoriety": 552,
             "Flowers": 366,
             "A new look": 513,
+            "Small world": 591,
             "Duality of an officer": 322
           }
         },

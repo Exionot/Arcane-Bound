@@ -20,6 +20,7 @@ longform:
     - Increasing notoriety
     - Flowers
     - A new look
+    - Small world
     - Duality of an officer
   ignoredFiles:
     - Mint Evergreen Narratives Manuscript
