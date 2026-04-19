@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6f8d385efe4b731d",
+        "id": "b867d6cfacdaab7e",
         "type": "tabs",
         "children": [
           {
-            "id": "c15a0a890ebe56f6",
+            "id": "10e8ffba9c418ff9",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -84,8 +84,7 @@
               "title": "Longform"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -238,10 +237,12 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "c15a0a890ebe56f6",
+  "active": "10e8ffba9c418ff9",
   "lastOpenFiles": [
-    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen Narratives/Duality of an officer.md",
+    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Ion Kynne Narratives/Confession to a girl from another world.md",
+    "Arcane-Bound/Worlds Collide/01 Characters/Aura Brillfer.md",
     "Homepage.md",
+    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen Narratives/Duality of an officer.md",
     "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen Narratives/Small world.md",
     "Arcane-Bound/Re-Converge/Return to the other world.md",
     "Arcane-Bound/Re-Converge/Arcane-Bound – Re-Converge.md",
@@ -249,7 +250,6 @@
     "Arcane-Bound/Worlds Collide/99 Extras/Meta/Arcane-Bound – Worlds Collide.md",
     "Arcane-Bound/Re-Converge",
     "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/00 Extra Story/EX - What it feels like.md",
-    "Arcane-Bound/Worlds Collide/01 Characters/Aura Brillfer.md",
     "Translation test 5.md",
     "Prose test 2.md",
     "Translation test 6.md",
@@ -265,7 +265,6 @@
     "Translation test 2.md",
     "Translation Test 3.md",
     "Translation test 4.md",
-    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Ion Kynne Narratives/Confession to a girl from another world.md",
     "README.md",
     "ᐳExternal Assets/Mint_Arcaena_Outfit.png",
     "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Ion Kynne Narratives",
