@@ -24,6 +24,7 @@ longform:
     - Unknown Feelings
     - Duality of an officer
     - Staffs
+    - Mage on the loose
   ignoredFiles:
     - Mint Evergreen Narratives Manuscript
 ---
