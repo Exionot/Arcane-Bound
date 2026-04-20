@@ -23,9 +23,9 @@ profileImage: ᐳExternal Assets/Mint_Staff_Full.jpg
 
 
 # **Overview**
-**Mint's Staff** is the main weapon of [[Mint Evergreen]], she uses it to cast magic spells. She acquired this staff when she started learning [[Elemental Magic]] in [[Bauserst City]].
+**Evergreen** is the main weapon of [[Mint Evergreen]], she uses it to cast magic spells. She acquired this staff when she started learning [[Elemental Magic]] in [[Bauserst City]].
 
-**Mint's Staff** aims to serve two purpose: to work as a mage staff, and to be usable as a melee weapon similar to a lance.
+**Evergreen** aims to serve two purpose: to work as a mage staff, and to be usable as a melee weapon similar to a lance.
 
 The staff, with some magical assistance, can stand upright with it's flat metal base.
 

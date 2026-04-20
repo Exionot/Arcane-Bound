@@ -23,8 +23,8 @@ longform:
     - Small world
     - Unknown Feelings
     - Duality of an officer
-    - Staffs
-    - Mage on the loose
+    - Staves
+    - Staves 2
   ignoredFiles:
     - Mint Evergreen Narratives Manuscript
 ---
