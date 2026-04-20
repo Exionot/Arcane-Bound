@@ -9,7 +9,7 @@ cssclasses:
 - [[Aura Brillfer]]
 
 **Location**: [[Aura's Apartment]]
-**Time of Occurrence**: 2405, Early Winter
+**Time of Occurrence**: 2405, 3rd of Early Winter
 
 *It is the afternoon. Mint is left alone in Aura's Apartment with nothing to do.*
 

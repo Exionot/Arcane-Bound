@@ -6,7 +6,7 @@ cssclasses:
 
 **Character/s**: [[Mint Evergreen]]
 **Location**: [[Aura's Apartment]], [[Vilebloom Forest]]
-**Time of Occurrence**: 2405, Early Winter
+**Time of Occurrence**: 2405, 1st - 2nd of Early Winter
 
 *It's night, Aura is rummaging through her closet while Mint is taking a closer look at Aura's weapon.*
 

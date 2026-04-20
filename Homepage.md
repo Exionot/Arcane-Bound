@@ -19,8 +19,10 @@
 
 ![[Arcane-Bound – Archives#^2b3b6f]]
 
-# Arcane-Bound: Arcaena & Synthspire – The Game
-> **To be created...**
+# Arcane-Bound: Re-Converge
+> **Full Note:** [[Arcane-Bound – Re-Converge]]
+
+![[Arcane-Bound – Re-Converge#^f160e4]]
 
 ---
 

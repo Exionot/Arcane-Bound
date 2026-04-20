@@ -6,7 +6,7 @@ cssclasses:
 
 **Character/s**: [[Mint Evergreen]], [[Aura Brillfer]]
 **Location**: [[Aura's Apartment]]
-**Time of Occurrence**: 2405, Early Winter
+**Time of Occurrence**: 2405, 1st of Early Winter
 **Related**: [[My house]]
 
 *Mint follows Aura into a building complex.*

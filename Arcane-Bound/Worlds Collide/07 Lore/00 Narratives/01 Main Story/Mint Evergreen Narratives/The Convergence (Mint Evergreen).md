@@ -6,7 +6,7 @@ cssclasses:
 
 **Character/s**: [[Mint Evergreen]]
 **Location**: [[Lenben Village]], [[Amphere Square]]
-**Time of Occurrence**: 2405, Early Winter
+**Time of Occurrence**: 2405, 1st of Early Winter
 
 *It's the first day of winter, tiny snowflakes falls from the sky covering the lush green grass of Lenben Village with a thin layer of white snow.*
 

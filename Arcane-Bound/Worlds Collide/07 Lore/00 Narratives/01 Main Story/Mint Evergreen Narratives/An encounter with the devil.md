@@ -6,7 +6,7 @@ cssclasses:
 
 **Character/s**: [[Mint Evergreen]], [[Clair Tempest]]
 **Location**: [[Vilebloom Forest]]
-**Time of Occurrence**: 2405, Early Winter
+**Time of Occurrence**: 2405, 2nd of Early Winter
 
 *Mint wakes up somewhere in Vilebloom Forest, suddenly, she hears a rustle from within the bushes. Mint summons her staff and scans the mana around her. She feels something faint presence lingering behind her.*
 

@@ -10,7 +10,7 @@ cssclasses:
 - [[Ruby Rossilia]]
 
 **Location**: [[Aura's Apartment]]
-**Time of Occurrence**: 2405, Early Winter
+**Time of Occurrence**: 2405, 6th of Early Winter
 
 *It has been a few days since Mint was transported back into Synthspire.*
 

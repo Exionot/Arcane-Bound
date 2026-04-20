@@ -11,7 +11,7 @@ cssclasses:
 - [[Ruby Rossilia]]
 
 **Location**: [[Aura's Apartment]]
-**Time of Occurrence**: 2405, Early Winter
+**Time of Occurrence**: 2405, 9th of Early Winter
 
 *It's a chilly night in Fluxpoint City, the cold winter breeze has slowly made itself more noticeable the past few days. The cold wind passes through the open windows of Aura's Apartment, Mint sits in the sofa and has covered herself in the warm cozy cocoon of blankets as she waits for Aura's return home.*
 

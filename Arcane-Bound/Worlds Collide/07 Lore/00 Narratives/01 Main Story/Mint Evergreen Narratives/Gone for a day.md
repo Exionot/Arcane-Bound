@@ -10,7 +10,7 @@ cssclasses:
 - [[Rosy Wulfo]]
 
 **Location**: [[Lenben Village]]
-**Time of Occurrence**: 2405, Early Winter
+**Time of Occurrence**: 2405, 2nd of Early Winter
 
 *Mint arrives at Lenben Village. as she enters the village she bumps into Clay, a friend of hers.*
 

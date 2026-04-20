@@ -12,7 +12,7 @@ cssclasses:
 - [[Rhilekos City]]
 - [[Fluxpoint City]]
 
-**Time of Occurrence**: 2405, Early Winter
+**Time of Occurrence**: 2405, 3rd of Early Winter
 
 *It is the morning, the wanderers are preparing to go to Sol Capital. Mint is looking at one of the market stalls in the area.*
 

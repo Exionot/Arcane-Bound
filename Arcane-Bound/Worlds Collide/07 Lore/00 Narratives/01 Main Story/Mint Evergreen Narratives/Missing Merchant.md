@@ -6,7 +6,7 @@ cssclasses:
 
 **Character/s**: [[Mint Evergreen]], [[Ion Kynne]]
 **Location**: [[Lenben Village]]
-**Time of Occurrence**: 2405, Late Autumn
+**Time of Occurrence**: 2405, 28th of Late Autumn
 
 *Mint is tending to her plants until suddenly a familiar voice shouts her name. Mint turns around and sees Ion Kynne, one of her friends from the Wandering Traders of Arcaena. *
 

@@ -7,7 +7,7 @@
   "sessions": [
     {
       "start": "2026-01-12T15:29:55.612Z",
-      "total": 11836,
+      "total": 12340,
       "drafts": {
         "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Test/Index.md": {
           "total": 10,
@@ -19,25 +19,26 @@
           }
         },
         "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen Narratives/Index.md": {
-          "total": 6674,
+          "total": 7178,
           "scenes": {
-            "Missing merchant": 368,
-            "The convergence (Mint Evergreen)": 189,
-            "A fellow Feline": 307,
-            "Her house": 262,
-            "Confrontation": 897,
-            "The convergence... again": 529,
-            "An encounter with the devil": 233,
-            "Devil's intent": 285,
-            "Bear-on collision": 489,
-            "Gone for a day": 344,
-            "The wanderers": 278,
-            "The convergence... yet again...": 114,
-            "Increasing notoriety": 552,
-            "Flowers": 366,
-            "A new look": 513,
-            "Small world": 626,
-            "Duality of an officer": 322
+            "Missing merchant": 370,
+            "The convergence (Mint Evergreen)": 191,
+            "A fellow Feline": 308,
+            "Her house": 264,
+            "Confrontation": 899,
+            "The convergence... again": 533,
+            "An encounter with the devil": 235,
+            "Devil's intent": 287,
+            "Bear-on collision": 494,
+            "Gone for a day": 346,
+            "The wanderers": 280,
+            "The convergence... yet again...": 116,
+            "Increasing notoriety": 558,
+            "Flowers": 368,
+            "A new look": 516,
+            "Small world": 628,
+            "Unknown Feelings": 461,
+            "Duality of an officer": 324
           }
         },
         "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Victoria Veloux Canidel Narratives/Index.md": {

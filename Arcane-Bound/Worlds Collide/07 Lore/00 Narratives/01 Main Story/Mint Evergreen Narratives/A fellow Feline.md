@@ -6,10 +6,10 @@ cssclasses:
 
 **Character/s**: [[Mint Evergreen]], [[Aura Brillfer]]
 **Location**:  [[Amphere Square]]
-**Time of Occurrence**: 2405, Early Winter
+**Time of Occurrence**: 2405, 1st Early Winter
 **Related**: [[Defying orders]]
 
-*Mint finds herself in what it seems like the center of a bustling city, the area is loud, people walk by at every moment, their outfits are more diverse, almost casual yet different to arcaenian outfits.*
+*Mint finds herself in what it seems like the center of a bustling city, the area is loud, people walk by at every moment, their outfits are more diverse, almost casual yet different to Arcaenian outfits.*
 
 **Mint:** I really need to find a way to get out of here...
 

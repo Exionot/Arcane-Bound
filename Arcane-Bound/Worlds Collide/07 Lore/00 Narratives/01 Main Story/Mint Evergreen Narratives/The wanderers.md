@@ -10,7 +10,7 @@ cssclasses:
 - [[Ted Ursa]]
 
 **Location**: [[Rhilekos City]]
-**Time of Occurrence**: 2405, Early Winter
+**Time of Occurrence**: 2405, 2nd of Early Winter
 
 *It is almost evening, the sun has started to set. Mint arrives at Rhilekos City to meet the Ion and Wandering Traders*
 

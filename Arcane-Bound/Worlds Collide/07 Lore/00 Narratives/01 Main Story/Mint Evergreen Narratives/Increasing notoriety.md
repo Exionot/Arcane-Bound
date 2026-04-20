@@ -12,7 +12,7 @@ cssclasses:
 - [[Amphere Square]]
 - [[Aura's Apartment]]
 
-**Time of Occurrence**: 2405, Early Winter
+**Time of Occurrence**: 2405, 3rd of Early Winter
 
 *It is almost noon. Mint has found herself sitting on a bench in Amphere Square, not knowing where to go.*
 

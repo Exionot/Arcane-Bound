@@ -9,7 +9,7 @@ cssclasses:
 - [[Aura Brillfer]]
 
 **Location**:
-**Time of Occurrence**: 2405, Winter
+**Time of Occurrence**: 2405, 5th of Winter
 
 *Mint is strolling through Amphere Square alone as she was about to head back into Aura's apartment, she notices someone familiar.*
 

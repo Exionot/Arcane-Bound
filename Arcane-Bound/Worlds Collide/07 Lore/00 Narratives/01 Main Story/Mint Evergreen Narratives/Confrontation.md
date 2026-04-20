@@ -6,7 +6,7 @@ cssclasses:
 
 **Character/s**: [[Mint Evergreen]], [[Aura Brillfer]]
 **Location**: [[Aura's Apartment]]
-**Time of Occurrence**: 2405, Early Winter
+**Time of Occurrence**: 2405, 1st of Early Winter
 
 *Mint is laying on Aura's couch amazed by it's softness.*
 

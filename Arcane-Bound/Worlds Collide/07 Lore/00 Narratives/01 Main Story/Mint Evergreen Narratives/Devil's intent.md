@@ -6,7 +6,7 @@ cssclasses:
 
 **Character/s**: [[Mint Evergreen]], [[Clair Tempest]]
 **Location**: [[Vilebloom Forest]]
-**Time of Occurrence**: 2405, Early Winter
+**Time of Occurrence**: 2405, 2nd of Early Winter
 
 *Mint awakens once again and now finds herself in front of a fireplace of an old cabin. Silk-like threads still bind her hands and feet.*
 
