@@ -23,6 +23,7 @@ longform:
     - Small world
     - Unknown Feelings
     - Duality of an officer
+    - Staffs
   ignoredFiles:
     - Mint Evergreen Narratives Manuscript
 ---

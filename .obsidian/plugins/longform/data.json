@@ -7,7 +7,7 @@
   "sessions": [
     {
       "start": "2026-01-12T15:29:55.612Z",
-      "total": 12340,
+      "total": 12740,
       "drafts": {
         "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Test/Index.md": {
           "total": 10,
@@ -19,7 +19,7 @@
           }
         },
         "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen Narratives/Index.md": {
-          "total": 7178,
+          "total": 7578,
           "scenes": {
             "Missing merchant": 370,
             "The convergence (Mint Evergreen)": 191,
@@ -38,7 +38,8 @@
             "A new look": 516,
             "Small world": 628,
             "Unknown Feelings": 461,
-            "Duality of an officer": 324
+            "Duality of an officer": 324,
+            "Staffs": 400
           }
         },
         "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Victoria Veloux Canidel Narratives/Index.md": {
