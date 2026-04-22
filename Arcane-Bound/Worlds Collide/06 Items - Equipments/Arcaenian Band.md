@@ -5,7 +5,7 @@ systemUsed:
   - Arcaenian Magic
   - Mana
 galleryImage:
-status: Occasionally Used
+status: Commonly Used
 ---
 
 > [!infobox] **`= this.file.name`**
@@ -14,26 +14,28 @@ status: Occasionally Used
 > 
 > ---
 > #### Details
-> |  Name   |  Evergreen  |
+> |  Name   |  Arcaenian Band  |
 > | --- | --- |
 > |  Type  |  Attachment  |
-> |  Origin   |  [[Bauserst City]]   |
+> |  Origin   |  [[Arcaena]]   |
 > |  System  |  [[Arcaenian Magic]]  |
 > |  Status  |  `INPUT[usageStatus][]`  |
 
 # **Overview**
-An **Arcaenian Band** is spellcasting tool used in [[Arcaenian Magic#Arcana|Arcana]]. It is a modern staple of [[Arcaenian Magic]], without it, no modern magic would be casted. 
+The **Arcaenian Band** is a spellcasting tool used in [[Arcaenian Magic#Arcana|Arcana]]. It is a modern staple of [[Arcaenian Magic]], without it, no modern magic would be casted. 
 
 The **Arcaenian Band** allows for a more efficient spellcasting for it also amplifies the mana passed through it.
 
 # **Appearance**
-A strip of enchanted cloth with an [[Arcaenic Crystal]] tied to one of its end. 
+A strip of enchanted cloth with an [[Arcaenic Crystal]] tied to one of its end. Some have designs that include a group or kingdom's insignia.
 
 # **Mechanism**
-An **Arcaenian Band** is wrapped into a staff and works by channeling the powers of the [[Arcaenic Crystal]] using the staff as a vessel, amplifying mana output, allowing the user to cast powerful spells for less mana.
+The **Arcaenian Band** is wrapped into a staff and works by channeling the powers of the [[Arcaenic Crystal]] using the staff as a vessel, amplifying mana output, allowing the user to cast powerful spells for less mana.
+
+The amplification of the **Arcaenian Band** relies on the purity and size of the [[Arcaenic Crystal]], making large large high purity crystals more powerful and valuable. However, using large Arcaenic Crystals are considered to be impractical since it also adds to the staff's weight. 
 
 # **Limitation**
-An **Arcaenian Band** will not work when wrapped around a living being, casting spells whilst having the band wrapped to a living being makes [[Mana]] control impossible and will use majority of the user's mana, and since the band also amplifies mana output, the casted spell will be released beyond it's maximum limit which can cause unpredictable consequences.
+The **Arcaenian Band** must not be wrapped onto a living being for doing so will cause a [[Death Siphon]](a self siphoning effect to the user's [[Mana]], making mana control near impossible and cast outputs reach beyond its maximum limit, which can cause the spell to self-detonate) when any type of magic is casted.
 
 # **Application**
 ## Arcana
@@ -43,7 +45,7 @@ An **Arcaenian Band** will not work when wrapped around a living being, casting 
 ## Era of The Goblins
 > **Full Note:** [[Era of The Goblins]]
 
-It was used by swordsmen from [[Bauserst City]] in the [[Goblin War]]. The use of arcaenian bands led to the [[Shortage of Arcaenic Crystals]] which banned the use of arcaenian bands from the military. 
+It was used by swordsmen from [[Bauserst City]] in the [[Goblin War]]. The use of Arcaenian Bands led to the [[Shortage of Arcaenic Crystals]] which banned the use of Arcaenian Bands from the military. 
 
 # **Systems used** 
 ```dataview
