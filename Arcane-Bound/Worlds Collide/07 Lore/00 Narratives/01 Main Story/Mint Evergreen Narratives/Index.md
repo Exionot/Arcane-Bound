@@ -22,6 +22,7 @@ longform:
     - A new look
     - Small world
     - Unknown Feelings
+    - Feelings to be addressed
     - Duality of an officer
     - Staves
     - Staves 2

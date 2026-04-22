@@ -9,7 +9,6 @@ cssclasses:
 - [[Aura Brillfer]]
 
 **Location**: [[Aura's Apartment]]
-
 **Time of Occurrence**: 2405, 7th of Winter
 
 *It is night, Mint is analyzing the staff Aura has brought home. The staff has a sleek design, its handle is made from some sort of blue gem crystal, the base is flared and pointed, and has a blue Arcaenian Band.*

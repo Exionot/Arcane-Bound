@@ -9,6 +9,9 @@ cssclasses:
 - [[Aura Brillfer]]
 
 **Location**:
+- [[Amphere Square]]
+- [[Aura's Apartment]]
+
 **Time of Occurrence**: 2405, 5th of Winter
 
 *Mint is strolling through Amphere Square alone as she was about to head back into Aura's apartment, she notices someone familiar.*
@@ -43,7 +46,8 @@ cssclasses:
 **Mint:** *!? What is she doing?!*
 **Aura:** Looks like your hair is already growing its color back.
 **Mint:** Ah, y-yeah, I guess so...
-**Mint:** *Weird, she was so serious and cool earlier, but now she's talking to me so softly... Ahh! Why is my heart beating like crazy??*
+**Mint:** *Weird, she was so serious and cool earlier, but now... she's talking to me so softly...*
+**Mint:** *I feel relaxed yet, my heart is pounding so hard...*
 
 > [!NOTE] Notes
 > There are other narratives in-between this one and "Flowers", but I just had to write it now before it disappears in my head.

@@ -65,6 +65,6 @@ cssclasses:
 
 **Aura:** Just tell me when somethings bothering you, okay?
 **Mint:** Okay.
-**Mint:** *I was angry earlier, yet now she makes me feel at ease.*
+**Mint:** *I was angry earlier, but now, she makes me feel at ease, as if what I felt earlier never occurred...*
 
 

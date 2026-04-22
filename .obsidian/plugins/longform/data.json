@@ -7,7 +7,7 @@
   "sessions": [
     {
       "start": "2026-01-12T15:29:55.612Z",
-      "total": 13229,
+      "total": 13817,
       "drafts": {
         "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Test/Index.md": {
           "total": 10,
@@ -19,7 +19,7 @@
           }
         },
         "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen Narratives/Index.md": {
-          "total": 8067,
+          "total": 8655,
           "scenes": {
             "Missing merchant": 370,
             "The convergence (Mint Evergreen)": 191,
@@ -37,8 +37,9 @@
             "Flowers": 368,
             "A new look": 516,
             "Small world": 628,
-            "Unknown Feelings": 461,
-            "Duality of an officer": 324,
+            "Unknown Feelings": 469,
+            "Feelings to be addressed": 570,
+            "Duality of an officer": 334,
             "Staves": 400,
             "Staves 2": 489
           }
