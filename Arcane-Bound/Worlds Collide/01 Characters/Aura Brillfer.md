@@ -30,6 +30,8 @@ posterImage:
   - Arcane-Bound/Archives/Golden Aura Final.png
 relations:
   - Mint Evergreen
+  - Renze Luna
+  - Ruby Rossilia
 profileImage: ᐳExternal Assets/Golden Aura Blank.png
 ---
 
@@ -57,14 +59,15 @@ profileImage: ᐳExternal Assets/Golden Aura Blank.png
 ---
 # **History** 
 ## Background 
-**Aura** is a [[Virken]] born from [[Shatterpoint City]]. She was part of the [[Protection Of Local Livelihood]]  in [[Fluxpoint City]] before rebelling against the government. She is currently living in an [[Aura's Apartment|Apartment]] in [[Fluxpoint City]].
+**Aura Brillfer** is a [[Virken]] born from [[Shatterpoint City]]. She was once part of [[Protection Of Local Livelihood]] with the code name "AR-04". She is an expert when it comes to technology and high stakes combat, often utilizing specialized equipment she herself made. **Aura** left [[Protection Of Local Livelihood|P.O.L.L.]] in the late period of [[The Convergence]] after learning about [[Neo-Technology Corporation|NeoTech Corp.]]'s illegal imprisonment and experimentation on the Arcaenians affected by The Convergence. She is currently living in [[Aura's Apartment|Relayton Complex, Room 204]] at [[Amphere Square]]of [[Fluxpoint City]].
+
 
 ## Young Adolescence 
 %%She was attacked and cornered by gang members trying to take her tech? weapon? She was then saved by an unnamed person who introduced herself as a police officer%%
 
 # **Appearance** 
 ## General Appearance 
-A human with ears and tail like a feline. She has long blonde hair with gold accents.
+A human with ears and tail like a feline. She has long blonde hair with gold-like accents.
 
 ## Outfits
 ### P.O.L.L. Uniform
@@ -74,14 +77,15 @@ She wears a white crop top and white shorts.
 
 # **Personality** 
 ## Before The Convergence
-**Aura** is seen as a stone cold commander that is willing to do anything to find criminals and give justice to the victims of their crimes. She is brave, unafraid of corrupt entities on higher positions.
+**Aura** is seen as a serious commander that is willing to do anything to track down criminals and give justice to the victims of their crimes. She is brave, unafraid of corrupt entities on higher positions.
 
-**Aura** did not believe in magic, she believed that everything always had a scientific explanation.
+**Aura** did not believe in magic, she always believed that everything had a scientific explanation.
 
-## After meeting Mint
-**Aura** slowly opened up after meeting [[Mint Evergreen|Mint]], showing [[Mint Evergreen|Mint]] her vulnerable side while also being more affectionate and loving towards [[Mint Evergreen|Mint]].
+## Meeting Mint Evergreen
+**Aura** met [[Mint Evergreen]] during the early period of [[The Convergence]], she took her in seeking for answers about the phenomenon.^[[[Defying orders]]] Her first confrontation with Mint changed her worldview after becoming a firsthand witness to [[Arcaenian Magic]].^[[[Confrontation]]]
 
-**Aura** first saw magic with her own eyes during her first confrontation with [[Mint Evergreen|Mint]], changing her beliefs in science entirely.^[[[Narrative - Confrontation]]]
+**Aura** became more open as she spent more time with Mint, allowing her to ease up in the comforts of her own home, showing Mint an unexpected vulnerable and affectionate side of hers.  
+
 
 # **Skills and Abilities** 
 ## Tech mastery
@@ -104,13 +108,16 @@ TABLE itemType as "Type" WHERE contains(this.itemUsed, file.name)
 
 **Aura** was a commanding officer for the [[Protection Of Local Livelihood]].
 
-Agent AR-04 (Ace Responder - 04); She was one of the more reputable commanding officers of the [[Protection Of Local Livelihood]]. With her exceptional skills in combat, people often look up to her, admiring her skill in taking down criminals in a swift manner. Colleague or not, she is not afraid to point out illegal activities in her workspace, even if that person is more powerful.
+Agent AR-04 (Ace Responder - 04); She was one of the more reputable commanding officers of the [[Protection Of Local Livelihood]]. With her exceptional skills in technology and combat, people often look up to her, admiring her skill in taking down criminals in a swift manner. Colleague or not, she is not afraid to point out illegal activities in her workspace, even if that person is more powerful.
 
-She left the [[Protection Of Local Livelihood]] (somewhere around 2406 - 2407) after discovering that [[Neo-Technology Corporation]] was secretly experimenting with captured Arcaenian people in order to develop powerful weapons capable of using magic.^[[[Document - Integration of Magic to NeoTech Weapons]]]
+She left the [[Protection Of Local Livelihood]] in the late period of [[The Convergence]] after discovering that [[Neo-Technology Corporation]] was illegally detaining and experimenting with captured Arcaenian people in order to develop powerful weapons capable of using magic.^[[[Document - Integration of Magic to NeoTech Weapons]]]
 
 # **Relations**
 ## Mint Evergreen
 > **Full Note:** [[Mint Evergreen]]
+
+The most important girl in **Aura**'s life, her lover. 
+
 
 # **Other Information** 
 
