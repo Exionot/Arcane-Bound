@@ -26,6 +26,7 @@ itemUsed:
 galleryImage: []
 aliases:
   - Agent AR-04
+  - Aura
 posterImage:
   - Arcane-Bound/Archives/Golden Aura Final.png
 relations:

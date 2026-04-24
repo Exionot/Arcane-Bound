@@ -22,7 +22,7 @@ abilityUsed:
   - Transient Bolt
 itemUsed:
   - Arcaenian Band
-  - Mint's Staff
+  - Evergreen
 profileImage: ᐳExternal Assets/Felling Relaxed Blank.png
 galleryImage:
   - ᐳExternal Assets/Mint_Arcaena_Weapon_Drawn.png
@@ -54,7 +54,7 @@ relations:
 > |   Age  |  Young Adult   |
 > |   Species  |  [[Virken]] (Feline)   |
 > |   Origin  |  [[Evergreen Household]], [[Lenben Village]], [[Phthalo Region]], [[Verdthorne Kingdom]], [[Central Lands]], [[Arcaena]]   |
-> |   Faction/s  |  [[Guild of Arcane Healers]] (Former)   |
+> |   Faction/s  |  [[Guild of Arcane Healers]] (Former) <br> [[Wandering Traders of Arcaena]] (Honorary Member) |
 > |   Hobbies  |  Gardening   |
 > |   Relations  | `$= dv.span(dv.current().relations ? dv.current().relations.map(p => "[[" + p + "]]").join("\n ") : "")`  |
 
@@ -67,11 +67,12 @@ relations:
 ---
 # **History** 
 ## Background 
-**Mint Evergreen** is a [[Virken]] mage from [[Lenben Village]]. She is a former member of the [[Guild of Arcane Healers]] and used to serve as the village's healer before pursuing magic.
+**Mint Evergreen** is a [[Virken]] mage from [[Lenben Village]]. She is a former member of the [[Guild of Arcane Healers]] and used to serve as the village's healer before pursuing magic. She used to travel with the [[Wandering Traders of Arcaena]] in the early days of her journey to learn the arts of magic. [[Ion Kynne]] later recruited her to join the [[Wandering Traders of Arcaena|Wanderers]] but she refused to continue on her journey. **Mint** went on solo expeditions through the other kingdoms of [[Arcaena]], taking quests in exchange for magical artifacts and grimoires. She even got a commission from the former king of the [[Verdthorne Kingdom]], [[Damascus Verdthorne|King Damascus Verdthorne]]. 
+
 ## Early childhood 
 **Mint** was disallowed by her parents to learn offensive magic as a tradition in their village and in fear of her getting harmed. They enrolled her to the [[Academy of Healers]] to learn [[Elemental Magic#Vitalis|Vitalis]] where she later became a member of the [[Guild of Arcane Healers]]. Though not in favor of this decision, she had to comply due to the village's tradition.
 
-Despite being taught healing magic, **Mint** stayed focused in her trainings treating it as if she was learning offensive magic. This gave her an advantage compared to her colleagues, her mana control was better than most of the young mages, she's able to cast healing spells faster than most beginners.
+Despite being taught healing magic, **Mint** stayed focused in her trainings treating it as if she was learning offensive magic. This gave her an advantage compared to her other colleagues, her mana control was better than most young mages, she's able to cast healing spells faster than most beginners.
 ## Young Adolescence 
 After being part of the [[Guild of Arcane Healers]] for more than half a decade, **Mint** craved to learn real magic and reach her true potential. Her parents disagreed with her decision and made it clear that they would not be supporting her if she continued. Despite the lack of support from her parents, Mint went on to pursue the art of magic knowing that she too can be as powerful as one of [[Arcaena]]'s [[Ace Mages]].
 
@@ -79,38 +80,35 @@ She has been recruited multiple times by [[Ion Kynne]] to join the [[Wandering T
 ## During The Convergence
 **Mint** was transported to the technologically advanced world of [[Fluxpoint City]], where she found and met [[Aura Brillfer]].^[[[The Convergence]]]
 
-[[Aura Brillfer]] took her in whilst they figure out what is currently happening with the world.^[[[Narrative - Her house]]]
+She was took in by [[Aura Brillfer]] in order to hide from [[Protection Of Local Livelihood|P.O.L.L.]] agents who were ordered to apprehend Arcaenians. ^[[[Her house]]]
 
 # **Appearance** 
 ## General Appearance 
-A human with feline-like ears and tail. She has a long mint-green hair with emerald-like eyes. 
+A human with feline-like ears and tail. She has a long mint-green hair with emerald-like eyes. She wears a total of three piercings on both of her ears, having two on the left and one on the right. 
 
 ## Outfits
 ### In [[Arcaena]]
 Her hairstyle is a big singular braid. She wears a short light blue with gold accent poncho with a hood on top of her black long sleeved shirt. She has a gold leaf clip on her hair with a gold cat enamel holding her poncho together.
 
 ### In [[Synthspire]]
-She wears a light blue jacket, with piercings on both of her ears(2 on the left, 1 on the right).
+She wears a black shirt and a light blue jacket with a matching black shorts, given to her by [[Aura Brillfer|Aura]]. Her hair was dyed a pale-black color to hide her identity on [[Synthspire]]. 
 
 # **Personality** 
-## Before [[The Convergence]]
-**Mint** is seen as kind and helpful in [[Lenben Village|Lenben]], she is well disciplined and determined in pursuing her goals.
+**Mint** is seen as kind and helpful in [[Lenben Village|Lenben]], she is well disciplined and determined in pursuing her goals. On a serious day, she is able to get task done quickly. She is also very efficient in multitasking, using her tail in her advantage.
 
-On a serious day, she is able to get task done quickly. She is also very efficient in multitasking, using her tail in her advantage.
+Majority of the time, she is a playful and wholesome feline. She plays with the children of the village and teaches them magic. Though, she can be carefree from time to time, being too relaxed and sometimes acting childish.
 
-However, majority of the time she is a playful and wholesome feline. She plays with the children of the village and teaches them magic. She can also be carefree from time to time being too relaxed and sometimes acting childish.
-
-She is also very curious about her surroundings, she wants to learn the world and discover magic never seen before.
+She is also very curious about her surroundings, she wants to learn and discover magic never seen before.
 
 # **Skills and Abilities** 
 ## Healing mastery 
 **Mint** is capable of healing large, life-threatening wounds within seconds. It is also rumored that she is able to regenerate severed limbs.
 ## Expertise in magic 
-**Mint** has traveled the majority of [[Arcaena]] in pursuit of learning new magic. She has a wide variety of spells and attacks but only uses them in tight situations.
+**Mint** has traveled the majority of [[Arcaena]] in pursuit of learning and discovering new magic. She has a wide variety of spells and attacks but only uses them in tight situations. Despite knowing many powerful spell, she only use non-lethal spell, and only uses damaging spells when necessary .
 ## Mana invisibility 
 She is able to conceal her mana aura, making it near impossible for other mages to detect her.
 ## Feline instincts 
-She has a 6th sense that allow her to detect danger and dodge incoming attacks.
+Similar to other [[Virken|Feline Virkens]] she has a 6th sense that allow her to detect danger and dodge incoming attacks. She is also able to fall from great heights by casting wind magic when landing on her feet.
 ## Tail mobility 
 She is able to use her tail as another hand for extra efficiency.
 
@@ -131,11 +129,13 @@ TABLE itemType as "Type" WHERE contains(this.itemUsed, file.name)
 
 She was one the best healers in the guild, casting healing magic like it's second nature. She remained as a part of the guild for majority of her childhood, helping people in need and teaching young mages healing spells for several years.
 
-After years of helping the guild, Mint finally made up her mind that wanted to learn magic beyond the healing spells she's been taught. She left the guild as one of the best healers they have trained.
+After years of helping the guild, Mint finally made up her mind that wanted to learn magic beyond the healing spells she's been taught. She graduated from the guild as one of the best healers they have trained.
 
 # **Relations**
 ## Aura
 > **Full Note:** [[Aura Brillfer]]
+
+The only person that has become more important than magic. She is **Mint**'s lover.
 
 # **Other Information** 
 
