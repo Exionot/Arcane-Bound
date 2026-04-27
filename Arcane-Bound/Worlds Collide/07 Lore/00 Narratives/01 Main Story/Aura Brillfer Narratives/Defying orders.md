@@ -26,7 +26,7 @@ cssclasses:
 **Aura:** This is Amphere Square of Fluxpoint City.
 **Aura:** *If she is what radio says she is, why would she be approaching authorities?*
 **Mint:** I didn't know Arcaena had such developed cities like this...
-**Aura:** *Arcaena? Now she's just talking nonsense... I should just let her go, but other agents might get to her if I do that.*
+**Aura:** *Arcaena? I should just let her go, but if the other agents get to her...*
 **Aura:** *Sigh... I guess responsibility is the one looking for me...*
 
 *Aura looks back at her bodyguards.*

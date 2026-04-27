@@ -21,10 +21,12 @@ cssclasses:
 
 **Mint:** Whoa... this is nothing like the inns I've been to. 
 **Mint:** *Looks like she the only person here, I can only smell her scent in the entire room.*
+
 *Mint looks around the room, she sees a photo of Aura with her name.*
+
 **Mint:** *Aura Brillfer huh... I'll remember that.*
 
-*Mint lies on the couch, she sinks a tiny bit, the mattress' softness engulfs her entire body. She is completely amazed by it's softness.*
+*Mint lies on the couch, she sinks a tiny bit, the mattress' softness surrounds her body. She is completely amazed by it's softness.*
 
 **Aura:** It's just a couch, have you not tried one before?
 **Mint:** This is the softest couch I've ever been on! Not even the King's couch can beat this one!

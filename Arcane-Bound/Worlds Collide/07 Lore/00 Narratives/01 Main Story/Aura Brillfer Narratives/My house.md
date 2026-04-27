@@ -11,13 +11,17 @@ cssclasses:
 
 *Aura and Mint are walking the streets of Circuit District, Aura glances at Mint, she notices unfamiliarity and fascination in her eyes.*
 
+**Aura:** Is this your first time in the city?
+**Mint:** Hm... I guess so. I'm surprised that I haven't heard that there's a city like this in Arcaena. Everything is so different!
+**Aura:** *There's that "Arcaena" again...*
+
 *They go inside a building complex to Aura's apartment.*
 
 **Mint:** Uhm... Where are we going exactly?
 **Aura:** This is where I live.
 **Mint:** Oh, I thought you were just going to tell me how to get out of the city.
 **Aura:** The city is way to big to get to any exit gates by foot, and it gets really cold during winter nights, don't you want a place to pass the night? Your clothes might grab attention too.
-**Aura:** *I can't let the other agents see you like that.*
+**Aura:** *I can't let the others see you like that.*
 
 *Aura opens the door to her apartment.*
 

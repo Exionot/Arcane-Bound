@@ -10,11 +10,29 @@ cssclasses:
 
 *Mint is laying on Aura's couch amazed by it's softness.*
 
-*Aura locks the door to her apartment. Mint's ear shifts towards the sound. She tenses up and sits up.*
+*A click sounds from the door where Aura is standing, Mint's ear shifts towards the sound. She tenses and sits up, her body shouting that something is wrong.*
 
-**Aura:** Tell me, what does your group want with Synthspire?
+**Aura:** Tell me, where are you from?
+**Mint:** I'm from Lenben Village of Verdthorne.
+**Aura:** What? Where is that?
+**Mint:** It's in the Central Lands.
+**Aura:** Central Lands?
+
+*Aura looks at Mint with a confused expression.*
+
+**Mint:** ...Yeah? It's in the middle of Arcaena, in the kingdom of Flora and Vit-
+**Aura:** Hold it. This is making less and less sense. Arcaena? Verdthorne? What are you talking about?
+**Aura:** What country are you from? Are you a Fluxian? Republican? A Chloran?
+**Mint:** What's a 'country'...?
+**Mint:** *Am I not in Arcaena?*
+
+*Aura glares at Mint, her confused faced now mixed with annoyance.*
+
+**Aura:** Enough! Drop the act.
+**Aura:** Tell me, what does your group want?
 **Mint:** Group?
-**Aura:** There have been multiple cases of missing people in the entire continent the past few days, and coincidentally there also have been reports of people appearing with absolutely no records even in the biggest database in the world. And you, just so happens to fit the description.
+**Aura:** There have been multiple cases of missing people the past week, and coincidentally there also have been reports of people appearing with absolutely no records even in the biggest databases in the world. It has been stated that this is the works of an unknown criminal organization.
+**Aura:** And you keep on spouting words that do not make sense, .
 **Mint:** Was I... transported in a different world? 
 **Mint:** I was just enjoying the snow in our village and then suddenly... I was here...
 **Aura:** Stop speaking nonsense. Just tell me who you are and who sent you and I'll let you go.
