@@ -7,7 +7,7 @@
   "sessions": [
     {
       "start": "2026-01-12T15:29:55.612Z",
-      "total": 13988,
+      "total": 14440,
       "drafts": {
         "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Test/Index.md": {
           "total": 10,
@@ -19,13 +19,13 @@
           }
         },
         "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen Narratives/Index.md": {
-          "total": 8785,
+          "total": 9236,
           "scenes": {
             "Missing merchant": 370,
             "The convergence (Mint Evergreen)": 191,
             "A fellow Feline": 308,
             "Her house": 264,
-            "Confrontation": 1029,
+            "Confrontation": 1480,
             "The convergence... again": 533,
             "An encounter with the devil": 235,
             "Devil's intent": 287,
@@ -57,11 +57,11 @@
           }
         },
         "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Aura Brillfer Narratives/Index.md": {
-          "total": 816,
+          "total": 817,
           "scenes": {
             "An order you can't fight": 233,
             "Defying orders": 285,
-            "My house": 298
+            "My house": 299
           }
         },
         "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Clair Tempest/Clair Tempest Narratives/Index.md": {

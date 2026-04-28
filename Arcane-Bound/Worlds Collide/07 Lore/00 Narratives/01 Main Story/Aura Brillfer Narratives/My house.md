@@ -6,7 +6,7 @@ cssclasses:
 
 **Character/s**: [[Aura Brillfer]], [[Mint Evergreen]]
 **Location**: [[Aura's Apartment]]
-**Time of Occurrence**: 2405, Early Winter
+**Time of Occurrence**: 2405, 1st of Early Winter
 **Related**: [[Her house]]
 
 *Aura and Mint are walking the streets of Circuit District, Aura glances at Mint, she notices unfamiliarity and fascination in her eyes.*

@@ -29,7 +29,7 @@
               "state": {
                 "file": "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen Narratives/Confrontation.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "Confrontation"
@@ -255,9 +255,13 @@
   },
   "active": "56b027f3b1e9b94d",
   "lastOpenFiles": [
-    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen Narratives/Her house.md",
-    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen Narratives/Confrontation.md",
     "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Aura Brillfer Narratives/My house.md",
+    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen Narratives/Confrontation.md",
+    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen Narratives/Missing merchant.md",
+    "Arcane-Bound/Worlds Collide/04 Systems/01 Magic/Arcaenian Magic.md",
+    "Arcane-Bound/Worlds Collide/06 Items - Equipments/Arcaenian Band.md",
+    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen Narratives/The convergence (Mint Evergreen).md",
+    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen Narratives/Her house.md",
     "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Aura Brillfer Narratives/Defying orders.md",
     "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Aura Brillfer Narratives/An order you can't fight.md",
     "Arcane-Bound/Worlds Collide/01 Characters/Victoria Veloux Canidel.md",
@@ -277,10 +281,6 @@
     "Arcane-Bound/Worlds Collide/03 Locations/03 Nations/NeoTech Union.md",
     "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen Narratives/A new look.md",
     "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen Narratives/Unknown Feelings.md",
-    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen Narratives/Staves 2.md",
-    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen Narratives/Staves.md",
-    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen Narratives/Flowers.md",
-    "Arcane-Bound/Worlds Collide/06 Items - Equipments/Arcaenian Band.md",
     "Arcane-Bound/Re-Converge",
     "ᐳExternal Assets/Mint_Arcaena_Outfit.png",
     "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Ion Kynne Narratives",
