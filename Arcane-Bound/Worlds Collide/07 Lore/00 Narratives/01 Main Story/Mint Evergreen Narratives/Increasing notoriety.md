@@ -71,8 +71,6 @@ cssclasses:
 
 *Aura slams the door shut and locks it as she leaves, leaving Mint alone in the apartment sitting on Aura's couch.*
 
-**Mint:** *So cold and demanding... But, I kinda like it...*
-
 
 > [!NOTE] Notes
 > How did they know? (I don't know twin, you figure that out)

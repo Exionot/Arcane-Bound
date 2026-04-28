@@ -1,0 +1,10 @@
+- Gets transported
+- Observes Ted from afar and follows him
+- Gets spotted by Ion
+- Get miscategorized as a noble, reject
+- Ion addresses Vi's lack of mana (says she's a rare non-caster[a person that is not able to use any magic])
+- Vi negotiates for partnership with the Wanderers
+- Get mocked by being unarmed and incapable of self defense
+- Vi challenges Ion to prove her capability(if she wins, Vi joins the wanderers for settlement)
+- Wins quickly
+- TBF
