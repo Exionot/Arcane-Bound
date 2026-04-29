@@ -1,0 +1,14 @@
+- Mhaxxine Dark Used to be a VOID agent working with Krystalle
+- They both enjoy each other's time together
+- Mhax gets trapped in a deep area of an etheric zone caused by the Blackreign Gang
+- Krystalle and the others are forced to retreat due to high Etheric activity
+- To Mhax:
+	- She taught Krystalle and her institution betrayed her
+	- Joins the Blackreign Gang and becomes their leader
+- VOID says Mhax is a lost cause, Krystalle insist on her recuperation
+- VOID deploys Krystalle and a handful of agents to find Mhax
+- The gang ambushes Krystalle and her group
+- It begins raining, Etheric activity begins to rise
+- Krystalle is barely on conscious the ground, Mhax stands in front of her holding something
+- Mhax stabs her with a Void Crystalline Inhibitor
+- *TBF...*
