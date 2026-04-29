@@ -18,7 +18,6 @@ aliases:
 > |  Type  |  Material  |
 > |  Origin   |  [[Rockcore City]]  |
 > |  Status  |  `INPUT[usageStatus][]`  |
-
 # **Overview** 
 **Void Crystals**, scientifically named **Crystalline Ether-207** or **CE-207**, are variant of [[Bio-etheric Crystals]] which was originally synthesized in [[Rockcore City]], the old capital of the [[Republic of Chloros]]. It was created as a "solution to civilization's waste", providing a greater energy output compare to its predecessors. Though its synthesis was a major success, this innovation quickly took a dark turn for it spread uncontrollably, turning other materials not meant to be converted into **Void Crystals**, slowly corrupting anything in its path.
 

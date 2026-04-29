@@ -58,7 +58,7 @@ relations:
 
 She was awoken from a "failed operation" where she unexpectedly contracted [[Null's Disease]] on her left arm during the operation. Her memories beyond this seems to be hazy, though she remembers her name and some of her colleagues. She has tried multiple therapeutic sessions in an attempt to regain her memories but none were effective. Her distant memories show themselves as fragmented dreams too vague to actually remember anything.
 
-Her infection has progressed further since the incident, but with the recent improvement with [[Void Crystalline Inhibitors|void suppressants]], she has been able to slow down the infection. Despite her infection she still chose to work for [[Void Operation & Investigation Department|VOID]], in hope that her memories would come back to her one day. She now wears a special mechanical gauntlet covering the crystals and salso tracking her infection status.
+Her infection has progressed further since the incident, but with the recent improvement with [[Void Crystalline Inhibitors|void suppressants]], she has been able to slow down the infection. Despite her infection she still chose to work for [[Void Operation & Investigation Department|VOID]], in hope that her memories would come back to her one day. She now wears a special mechanical gauntlet covering the crystals and also tracking her infection status.
 # **Appearance** 
 ## General Appearance 
 A human with foxlike ears and tail. She has light pink hair with bright pink accents and magenta eyes. Small to large [[Void Crystal|Void Crystals]] emerges mostly from her left hand gradually becoming less to the side of her face. She wears a mechanical gauntlet on her left arm to cover up her infection.
