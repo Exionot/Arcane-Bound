@@ -4,7 +4,7 @@ cssclasses:
   - narrative
 ---
 
-**Character/s**: [[Ion Kynne]], [[Ted Ursa]], [[Still Thunder]]
+**Character/s**: [[Ion Kynne]], [[Ted Ursa]], [[Estella Ameshi]]
 **Location**: [[Yushinami Stakes Course]]
 **Related:**
 

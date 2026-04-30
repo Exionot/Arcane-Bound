@@ -1,6 +1,6 @@
 Just a bunch of horse name that *probably* don't exist or not famous (at least on JBIS) 
 
-[[Still Thunder]] (スティル・サンダー / sutiru・sandā)
+[[Estella Ameshi|Still Thunder]] (スティル・サンダー / sutiru・sandā)
 - S: Immovable (イムーバブル / imūbaburu)
 - D: Thunderstorm (サンダストーム / sandasutōmu)
 --- 

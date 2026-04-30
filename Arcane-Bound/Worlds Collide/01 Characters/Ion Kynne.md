@@ -58,7 +58,7 @@ relations:
 ## Background 
 **Ion Kynne** is a [[Virken]] from [[Ohmpalos City]] of [[Amphors Kingdom]]. She is a skilled [[Elemental Magic#Thundra|Thundra]] mage of the [[Wandering Traders of Arcaena]], exploring the great lands of [[Arcaena]], trading valuable items for [[Numia Coins]].
 
-**Ion** is a fan is [[Stakes Running]] and will always try to watch nearby races. She is also a fan of the retired [[Stakes Running|Stakes Runner]] now friend [[Still Thunder]]. After learning about her unexpected retirement, **Ion** jokingly recruited [[Still Thunder]] to the [[Wandering Traders of Arcaena]] which she surprisingly agreed to.
+**Ion** is a fan is [[Stakes Running]] and will always try to watch nearby races. She is also a fan of the retired [[Stakes Running|Stakes Runner]] now friend [[Estella Ameshi]]. After learning about her unexpected retirement, **Ion** jokingly recruited [[Estella Ameshi]] to the [[Wandering Traders of Arcaena]] which she surprisingly agreed to.
 
 # **Appearance** 
 ## General Appearance 
@@ -92,9 +92,9 @@ He used to be the one making the decisions when they were still starting their o
 He was jokingly called a "Teddy Bear" by **Ion** one time and the other guild members also started to call him "Teddy Bear".
 
 ## Still Thunder
-> **Full Note:** [[Still Thunder]]
+> **Full Note:** [[Estella Ameshi]]
 
-**Ion** has always been a fan of hers since her debut race at [[Yushinami City]], it was also the first race that **Ion** has watched, which is why [[Still Thunder]] means a lot to **Ion**.
+**Ion** has always been a fan of hers since her debut race at [[Yushinami City]], it was also the first race that **Ion** has watched, which is why [[Estella Ameshi]] means a lot to **Ion**.
 
 She was jokingly invited by **Ion** after crossing paths with her. She unexpectedly agreed to **Ion's** invitation which led to her joining the guild. 
 

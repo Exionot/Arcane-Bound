@@ -20,7 +20,9 @@ profileImage:
 galleryImage:
 posterImage:
 aliases:
+  - Estella "Still Thunder" Ameshi
   - スティル・サンダー (Still Thunder)
+  - Still Thunder
   - Stelle
 relations:
   - Ion Kynne
@@ -34,9 +36,9 @@ relations:
 >  ---
 > #### Profile
 > 
-> |   Name  |  Still Thunder   |
+> |   Name  |  `=this.file.name`   |
 > | --- | --- |
-> |   Nickname  |  "Stelle" ([[Ion Kynne]])   |
+> |   Nickname  |  "Still Thunder" (Race Name)<br>"Stelle" ([[Ion Kynne]])   |
 > |   Sex  |  Female   |
 > |   Height  |     |
 > |   Birthday  |     |
@@ -54,7 +56,7 @@ relations:
 ## Background 
 **`= this.file.name`** is a [[Virken]] from [[Yushinami City]] of [[Erde Kingdom]]. She is a retired [[Stakes Running|Stakes Runner]] who now travels the lands of [[Arcaena]] with the [[Wandering Traders of Arcaena]].
 
-Her parents are Immovable (Father) and Thunderstorm (Mother).
+Her parents are Sam "Immovable" Wallfield (Father) and Sora "Thunderstorm" Ameshi (Mother).
 
 **`= this.file.name`** was a [[Stakes Running|Standard Stakes Runner]] where she ran race courses without magical intervention. Her debut race was the [[Starter Stakes]] where she managed to win against [[Unknown Grace]] by pulling off a last second lead. She was seen as a "Virken who can define her era" due to her performance during her early career winning 5 consecutive races after her debut.
 
@@ -77,7 +79,7 @@ She accepted [[Ion Kynne|Ion]]'s invitation as a way to keeping moving and as a 
 ## General Appearance 
 
 # **Personality** 
-**Still Thunder** is generally what someone would call a "chill friend", she usually just go with what the [[Wandering Traders of Arcaena|guild]] is up to. However, like all [[Virken|Equus Virken]], it is in their nature to have a desire to run.
+**Estella** is generally what someone would call a "chill friend", she usually just go with what the [[Wandering Traders of Arcaena|guild]] is up to. However, like all [[Virken|Equus Virken]], it is in their nature to have a desire to run.
 
 # **Skills and Abilities** 
 ```dataview
@@ -106,7 +108,8 @@ She always tries to put back **Still Thunder** on the track, often asking her to
 > ### Ref
 > - Fuji Kiseki (Umamusume: BOANE backstory)
 > 
-> Her name in katakana is: スティル・サンダー (sutiru・sandā)
+> Her surname "Ameshi" is the combination of "ame" (rain) and "arashi" (storm) in Japanese
+> Her race name in katakana is: スティル・サンダー (sutiru・sandā)
 
 ## Systems Used 
 ```dataview

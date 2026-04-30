@@ -8,7 +8,7 @@ cssclasses:
 - [[Victoria Veloux Canidel]]
 - [[Ion Kynne]]
 - [[Ted Ursa]]
-- [[Still Thunder]]
+- [[Estella Ameshi]]
 
 **Location**: [[Rhilekos City]]
 **Time of Occurrence**: 2405, Early Winter
