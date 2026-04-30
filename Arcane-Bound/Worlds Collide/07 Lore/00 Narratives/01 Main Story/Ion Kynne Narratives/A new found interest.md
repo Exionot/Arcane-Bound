@@ -4,10 +4,13 @@ cssclasses:
   - narrative
 ---
 
-**Character/s**: [[Ion Kynne]], [[Ted Ursa]], [[Estella Ameshi]]
+**Character/s**:
+- [[Ion Kynne]]
+- [[Ted Ursa]]
+- [[Estella Ameshi|Estella "Still Thunder" Ameshi]]
+
 **Location**: [[Yushinami Stakes Course]]
 **Related:**
-
 
 *Ion and Ted are at Yushinami Stakes Course to watch a virken debut race. The course is lightly crowded, they stand near the front to get a clear view. The race approaches it's beginning.*
 
