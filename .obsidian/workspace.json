@@ -22,34 +22,35 @@
             }
           },
           {
+            "id": "496485f78bea428c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "EA Narrative Recovery Arc Outline.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "EA Narrative Recovery Arc Outline"
+            }
+          },
+          {
             "id": "6aa5317a2d788a1d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "VVC Narrative Revision.md",
+                "file": "Arcane-Bound/Worlds Collide/01 Characters/Ion Kynne.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "VVC Narrative Revision"
-            }
-          },
-          {
-            "id": "9457a8c4a2eed4a6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ME Narrative Revision.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ME Narrative Revision"
+              "title": "Ion Kynne"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -265,20 +266,25 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "8f0d432c40dc9551",
+  "active": "496485f78bea428c",
   "lastOpenFiles": [
-    "Arcane-Bound/Worlds Collide/00 Ideas/Krystalle narr.md",
-    "ME Narrative Revision.md",
-    "Arcane-Bound/Worlds Collide/00 Ideas/Equus Virken Names.md",
     "Arcane-Bound/Worlds Collide/01 Characters/Estella Ameshi.md",
+    "EA Narrative Recovery Arc Outline.md",
+    "Arcane-Bound/Worlds Collide/01 Characters/Ion Kynne.md",
+    "Arcane-Bound/Worlds Collide/01 Characters/Mint Evergreen.md",
     "Arcane-Bound/Worlds Collide/00 Ideas/Time windows.md",
+    "Arcane-Bound/Worlds Collide/01 Characters/Victoria Veloux Canidel.md",
+    "Arcane-Bound/Worlds Collide/01 Characters/Aura Brillfer.md",
+    "ME Narrative Revision.md",
+    "VVC Narrative Revision.md",
+    "Arcane-Bound/Worlds Collide/00 Ideas/Krystalle narr.md",
+    "Arcane-Bound/Worlds Collide/00 Ideas/Equus Virken Names.md",
     "KE Narrative Plot Idea.md",
     "Arcane-Bound/Worlds Collide/00 Ideas/Historical Names and terminology or smth.md",
     "Arcane-Bound/Worlds Collide/00 Ideas/Hollow people and null's disease.md",
     "Arcane-Bound/Worlds Collide/02 Factions/Blackreign Gang.md",
     "Arcane-Bound/Worlds Collide/01 Characters/Mhaxxine Dark.md",
     "Arcane-Bound/Worlds Collide/01 Characters/Krystalle Eos.md",
-    "VVC Narrative Revision.md",
     "Arcane-Bound/Worlds Collide/00 Ideas/Prioritization of introductions.md",
     "Arcane-Bound/Worlds Collide/04 Systems/02 Technology/Void Crystal.md",
     "Arcane-Bound/Worlds Collide/00 Ideas/What are Crystalline Inhibitors.md",
@@ -288,11 +294,6 @@
     "Arcane-Bound/Worlds Collide/07 Lore/03 Species/Virken.md",
     "Arcane-Bound/Worlds Collide/07 Lore/02 Terminologies/Stakes Running.md",
     "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/00 Extra Story/EX - Charming fox.md",
-    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/00 Extra Story/EX - Clever Getaway.md",
-    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/00 Extra Story/EX - Like a kitty.md",
-    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/00 Extra Story/EX - A little greedy.md",
-    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Aura Brillfer Narratives/My house.md",
-    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen Narratives/Staves.md",
     "Arcane-Bound/Re-Converge",
     "ᐳExternal Assets/Mint_Arcaena_Outfit.png",
     "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Ion Kynne Narratives",

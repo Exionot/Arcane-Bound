@@ -25,6 +25,8 @@ aliases:
   - Still Thunder
   - Stelle
 relations:
+  - Ace Wallfield
+  - Sora Ameshi
   - Ion Kynne
   - Ted Ursa
   - Victoria Veloux Canidel
@@ -41,12 +43,12 @@ relations:
 > |   Nickname  |  "Still Thunder" (Race Name)<br>"Stelle" ([[Ion Kynne]])   |
 > |   Sex  |  Female   |
 > |   Height  |     |
-> |   Birthday  |     |
+> |   Birthday  |  July 13th  |
 > |   Age  |  Adult   |
 > |   Species  |  [[Virken]] (Equus)   |
 > |   Origin  |  [[Yushinami City]], [[Lander Region]], [[Erde Kingdom]], [[Central Lands]], [[Arcaena]]   |
-> |   Faction/s  |  [[Wandering Traders of Arcaena]]   |
-> |   Hobbies  |     |
+> |   Faction/s  |  [[Wandering Traders of Arcaena]]  |
+> |   Hobbies  | Jogging<br>Watching stakes races |
 > |   Relations  | `$= dv.span(dv.current().relations ? dv.current().relations.map(p => "[[" + p + "]]").join("\n ") : "")`  |
 
 > **Character Thread**: 
@@ -56,13 +58,13 @@ relations:
 ## Background 
 **`= this.file.name`** is a [[Virken]] from [[Yushinami City]] of [[Erde Kingdom]]. She is a retired [[Stakes Running|Stakes Runner]] who now travels the lands of [[Arcaena]] with the [[Wandering Traders of Arcaena]].
 
-Her parents are Sam "Immovable" Wallfield (Father) and Sora "Thunderstorm" Ameshi (Mother).
+Her parents are [[Ace Wallfield|Ace "Immovable" Wallfield]] (Father) and [[Sora Ameshi|Sora "Thunderstorm" Ameshi]] (Mother).
 
-**`= this.file.name`** was a [[Stakes Running|Standard Stakes Runner]] where she ran race courses without magical intervention. Her debut race was the [[Starter Stakes]] where she managed to win against [[Unknown Grace]] by pulling off a last second lead. She was seen as a "Virken who can define her era" due to her performance during her early career winning 5 consecutive races after her debut.
+**`= this.file.name`** was a [[Stakes Running|Standard Stakes Runner]] where she ran race courses without magical intervention. Her debut race was the [[Starter Stakes]] where she managed to win against [[Unknown Grace]] by pulling off a last second lead. She was seen as a "Virken who can define her era" due to her performance during her early career winning five consecutive races after her debut.
 
-However, her career was cut short when she suffered a major leg injury before her first G1 race. The injury was said to take an extended period of time which led to her decision to retire early and later join the [[Wandering Traders of Arcaena]] thanks to [[Ion Kynne|Ion]]'s invitation.
+However, her career was cut short when she suffered a major leg injury before her first G1 race. The injury was said to take an extended period of time which led to her decision of taking an indefinite hiatus from running.
 
-She accepted [[Ion Kynne|Ion]]'s invitation as a way to keeping moving and as a chance to explore [[Arcaena]].
+Shortly after declaring her hiatus, she ran into [[Ion Kynne]] who invited her to join the [[Wandering Traders of Arcaena]]. She accepted [[Ion Kynne|Ion]]'s invitation as a way to move on from Stakes Running and as a chance to explore the lands [[Arcaena]].
 
 
 ## Stakes Record
@@ -77,6 +79,7 @@ She accepted [[Ion Kynne|Ion]]'s invitation as a way to keeping moving and as a 
 
 # **Appearance**  
 ## General Appearance 
+A human with horse-like ears and tail. She has a short light brown hair with white accents and sky blue eyes.
 
 # **Personality** 
 **Estella** is generally what someone would call a "chill friend", she usually just go with what the [[Wandering Traders of Arcaena|guild]] is up to. However, like all [[Virken|Equus Virken]], it is in their nature to have a desire to run.

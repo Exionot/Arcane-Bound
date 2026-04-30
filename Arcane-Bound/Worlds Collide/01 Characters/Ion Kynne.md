@@ -29,7 +29,7 @@ aliases:
 relations:
   - Ted Ursa
   - Mint Evergreen
-  - Still Thunder
+  - Estella Ameshi
 ---
 
 > [!Infobox] **`=this.file.name`**
