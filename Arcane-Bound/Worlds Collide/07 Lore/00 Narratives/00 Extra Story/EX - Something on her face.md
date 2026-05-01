@@ -6,42 +6,44 @@ cssclasses:
 
 # **Basic Information**
 **Title**: Something on her face
-**Character/s**: [[Mint Evergreen]], [[Aura Brillfer]]
+**Character/s**: 
+- [[Mint Evergreen]]
+- [[Aura Brillfer]]
+
 **Location**: [[Aura's Apartment]]
 **Time of Occurrence**: Unknown 
 
 ---
 
-*Mint and Aura are in the living room couch, they just finished eating a frosted cake.*
+*It is a weekend afternoon. Mint and Aura are together on the living room couch after eating a frosted cake.*
 
 **Mint:** Sweets in this world are the best!
 **Aura:** I guess your world has not quite figured out sweets yet.
 
-*Aura looks at Mint, her smile gives Aura a warm feeling. While looking at Mint, Aura notices a small bit of frosting left in Mint's face.*
+*Aura glances at Mint smiling. Suddenly, a warm feeling takes over Aura. While looking at Mint, Aura notices a small bit of frosting left on Mint's cheek.*
 
-**Aura:** You still have frosting on your face. 
+**Aura:** Hey, you still have frosting on your face. 
 
-*Aura wipes off the frosting on Mint's cheek, she gazes into her face, her hand lingers longer than it should. Aura gets caught by Mint's smile.*
+*Aura wipes off the frosting on Mint's cheek with her hand. She gazes at Mint's face once more. Aura's hand unknowingly lingers longer than it should.*
 
-**Mint:** What's the matter?
+**Aura:** *Her eyelashes sure are long...*
+**Mint:** ? What's the matter?
 
-*Aura blinks, snapping out of it, she pulls her hand off of Mint's face.*
+*As Aura blinks, she snaps out of the moment and pulls her hand away from Mint's face.*
 
 **Aura:** Ah, sorry, I got distracted...
-**Aura:** *What was that all about? I should be figuring out how this girl got here.*
+**Aura:** *What was that all about? Pull yourself together.*
 
 *Mint smugly looks at Aura.*
 
-**Mint:** Were you distracted by my cuteness?~
-
-*Mint tries to tease Aura by acting cute.*
-
-**Aura:** No. Let's clean up, we need to figure out how you got here.
+**Mint:** Heh~ Were you perhaps... distracted by my cuteness?~
+**Aura:** !! No. Let's clean up.
 **Mint:** Aww... 
 
 ---
 
 > [!NOTE] Notes
+> An early part in their relationship
 > They just met btw.
 > It's still unofficial at this point in time but they become *really* good roommates in the future i swear (reverse engineering an already established relationship is harder than I initially thought).
 >

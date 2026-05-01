@@ -17,29 +17,29 @@ cssclasses:
 
 ---
 
-*The sun has just set, Renze and Ruby are hanging out in Aura's Apartment. Both of them stare at Mint and Aura as they unknowingly flirt in front of them.*
+*The sun has just set. Renze and Ruby are hanging out in Aura's Apartment. Both of them stare at Mint and Aura as they unknowingly flirt in front of them.*
 
-**Renze:** Dang, you two sure are in-love with each other.
+**Renze:** Dang, you two sure are in love with each other.
 **Aura:** Hm? How so?
-**Ruby:** Both of you are basically in each others faces all the time.
+**Ruby:** Both of you are basically in each other's faces all the time.
 **Aura:** We are?
 **Renze & Ruby:** *You don't realize??*
-**Aura:** Well... ever since I've told Mint about my feelings, she's been asking for snuggles a lot more, and I can't just deny her requests when she ends up making a cute face...
+**Aura:** Well... ever since Mint and I opened up about our feelings, she's been asking for snuggles a lot more, and I can't just deny her requests when she ends up making a cute face...
 **Mint:** Aw... You do love me so much!
 **Aura:** Haha! I do!
 **Renze & Ruby:** *And they're back to flirting...*
 
-*A couple hours pass, Renze and Ruby are about to leave.*
+*A couple hours pass. Renze and Ruby are about to leave.*
 
 **Renze:** Welp, 'guess we'll see y'all when you're free again!
 **Aura:** Thank you for coming.
 **Mint:** Goodbye!
 
-*Renze and Ruby walk together home.*
+*It is nighttime. The cold wind of the night flows as Renze and Ruby walk home together.*
 
-**Renze:** Ha... Those two really love each other huh.
+**Renze:** Ha... Those two really love each other, huh.
 **Ruby:** Yeah, they're really cute together.
-**Renze:** I wonder what it feels like to be like that with somebody?
+**Renze:** I wonder what it feels like to be that close with someone?
 
 *Ruby leans in from behind Renze and whispers into her ear.*
 

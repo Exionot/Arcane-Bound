@@ -15,34 +15,34 @@ cssclasses:
 
 ---
 
-*It is early in the morning, Aura is trying to wake up Mint to go to a popular cafe they saw.*
+*It is early in the morning. Aura is trying to wake up Mint to go to a popular cafe they saw.*
 
-**Aura:** Come on Mint, if we go there late, we won't be able to get any seats!
+**Aura:** Come on, Mint. If we go there late, we won't be able to get any seats!
 **Mint:** Mmmm... But it's so early!
 
-*Mint's sleepiness stands undefeated, Aura turns away and begins to leave the room.*
+*Mint's sleepiness remains undefeated. Aura turns away and begins to leave the room.*
 
-**Aura:** Well, if you plan to just lay there all day, I'll just go to the cafe mys-.
+**Aura:** Well, if you plan to just lie there all day, I'll just go to the cafe mys-
 
 *Before Aura could take a step, Mint grabs her arm and pulls her into the bed. Aura falls on top of a sleepy Mint. With the lack of resistance from Aura, Mint opens her eyes and sees a lightly flustered Aura staring at her.*
 
-**Mint:** What's wrong?
+**Mint:** Hm? What's wrong?
 
-*Both of them sit on the bed and Aura shakes her head.*
+*Both of them sit on the bed, and Aura shakes her head, as if she is clearing something from her mind.*
 
 **Aura:** Sorry, my mind was being a little greedy... It's just... whenever I look at y-
 
-*Mint suddenly leans closer and kisses Aura, cutting her off.*
+*Suddenly, Mint catches Aura's lips with her own. They both exchange their love with each other.*
 
 **Mint:** I feel a little greedy too~
 **Mint:** ...and also sleepy!
 
-*Mint swiftly tucks herself back into bed.*
+*Before Aura could process what had happened, Mint swiftly tucks herself back into bed.*
 
-**Aura:** !?... Hey! Don't fall asleep again!
+**Aura:** !?... H-hey! Don't fall asleep again!
 
 ---
 
 > [!NOTE] Notes
-> Lover things (they are in this time)
+> Lover things 
 

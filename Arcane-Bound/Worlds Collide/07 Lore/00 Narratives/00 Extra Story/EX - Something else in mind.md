@@ -15,27 +15,27 @@ cssclasses:
 
 ---
 
-*It is the peak of midnight, Vi and Ion are sitting together near a campfire.*
+*It is the middle of the night. Vi and Ion are sitting together near a campfire.*
 
 **Ion:** Good job today.
 **Vi:** Same to you.
-**Ion:** We really got scammed by that haggler! If you didn't step up I don't know what I w-
+**Ion:** We nearly got scammed by that haggler! If you didn't step up, I don't know what I w-
 **Vi:** Don't move.
 **Ion:** H-huh?
 **Vi:** Just stay still.
 
-*Vi slides closer to Ion. As she leans over to her face she continues to look at her with a serious face.*
+*Vi slides closer to Ion. As she leans in towards her face, she continues to look at her with a serious expression.*
 
 **Ion:** *W-what is she doing?!*
 **Ion:** *!! Don't tell me she's about to...*
 
-*Vi snatches something from her head. She opens her hands and reveals that it was a small bug.*
+*Vi snatches something from Ion's hair. She opens her hands and reveals that it was a small bug.*
 
 **Vi:** There was a critter in your hair.
 **Ion:** O-oh... There was?
 **Vi:** You alright? Your face is red.
 **Ion:** Y-yeah... I was just startled...
-**Vi:** Don't tell me, you were expecting something else?
+**Vi:** Were you perhaps... expecting something else?
 **Ion:** !! N-no! Definitely not!
 **Ion:** Gahh! I'm going to sleep now!
 **Ion:** A-and you shouldn't stay up so late too!
