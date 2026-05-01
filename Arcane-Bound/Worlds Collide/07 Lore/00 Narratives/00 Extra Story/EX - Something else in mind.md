@@ -24,12 +24,12 @@ cssclasses:
 **Ion:** H-huh?
 **Vi:** Just stay still.
 
-*Vi slides closer to Ion as she leans over to her face. She continues to look at her with a serious face.*
+*Vi slides closer to Ion. As she leans over to her face she continues to look at her with a serious face.*
 
 **Ion:** *W-what is she doing?!*
 **Ion:** *!! Don't tell me she's about to...*
 
-*Vi snatches on her head. She opens her hands and reveals that it was a small bug.*
+*Vi snatches something from her head. She opens her hands and reveals that it was a small bug.*
 
 **Vi:** There was a critter in your hair.
 **Ion:** O-oh... There was?

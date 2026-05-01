@@ -26,6 +26,7 @@ posterImage:
   - Arcane-Bound/Archives/Noble Wanderer Final.png
 aliases:
   - Vi
+  - Victoria "Vi" Veloux Canidel
 relations:
   - Canidel Family
   - Rem Orion

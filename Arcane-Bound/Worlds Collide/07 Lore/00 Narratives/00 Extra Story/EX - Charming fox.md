@@ -8,16 +8,16 @@ cssclasses:
 **Title**: Charming fox
 **Character/s**:
 - [[Ion Kynne]]
-- [[Victoria Veloux Canidel]]
+- [[Victoria Veloux Canidel|Victoria "Vi" Veloux Canidel]]
 
 **Location**: Somewhere in [[Sol Capital]]
 **Time of Occurrence**: Unknown
 
 ---
 
-*Vi and Ion are strolling through Sol Capital together.*
+*Vi and Ion are strolling through the streets of Sol Capital together.*
 
-**Ion:** Let me ask you this fancy girl.
+**Ion:** Let me ask you this, fancy girl.
 **Vi:** It's "Vi".
 **Ion:** Have you ever had a boyfriend?
 **Vi:** No.
@@ -26,13 +26,13 @@ cssclasses:
 **Ion:** Any romantic interest whatsoever?
 **Vi:** Not to my knowledge, no.
 **Vi:** But some of my friends do call me charismatic.
-**Ion:** You? Hahaha! You're so tiny, how can anyone see you and fall for you?
+**Ion:** You? Hahaha! You're so tiny! How can anyone see you and fall for you?
 
-*Vi suddenly grabs Ion's arm and pulls her into an alleyway. She then pins her into the wall and leans closer into her face.*
+*Vi suddenly grabs Ion's arm and pulls her into an alleyway. She then pins her against the wall and leans closer to her face.*
 
 **Vi:** Like this.
 
-*Vi continues to stare at Ion as she places her hand on her face, whispering into her ear. Ion's face slowly turns redder the closer Vi gets.*
+*Vi continues to stare at Ion as she gently places her hand on Ion's face, whispering into her ear. Ion's face slowly turns redder the closer Vi gets.*
 
 **Vi:** Are you... feeling flustered yet?
 
