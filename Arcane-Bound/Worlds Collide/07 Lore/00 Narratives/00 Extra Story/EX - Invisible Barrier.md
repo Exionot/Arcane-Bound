@@ -25,7 +25,7 @@ cssclasses:
 **Vyra:** *Ah, it's a person.*
 **Vyra:** Sure.
 **Anne:** You're Vyra right? One of the daughters of the royal Feather family.
-**Vyra:** I am. Basing from your pure while hair, you must be a Whitefield.
+**Vyra:** I am. Judging from your pure while hair, you must be a Whitefield.
 **Anne:** Indeed, my name is Anne Whitefield,  I'm surprised you know our family.
 **Vyra:** My father has mentioned it a few times.
 
