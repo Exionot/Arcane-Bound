@@ -1,10 +1,5 @@
 ---
 type: narrative 
-time:
-  year: 
-  month: ""
-  date: ""
-  season: Early Winter
 cssclasses:
   - narrative
 ---
@@ -13,10 +8,7 @@ cssclasses:
 **Title**:
 **Character/s**:
 **Location**:
-**Time of Occurrence**: `= this.time.month` `= this.time.date`, `= this.time.year`, `= this.time.season`
-**Previous**:
-**Next**: 
-**Related:**
+**Time of Occurrence**: 
 
 ---
 
