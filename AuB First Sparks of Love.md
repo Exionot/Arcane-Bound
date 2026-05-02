@@ -1,0 +1,21 @@
+- Rainy season
+- A thunderstorm is happening; loud thunder can be heard from outside.
+- Mint gets scared of the loud thunder and stays near Aura
+- It's bedtime
+	- Mint demands to sleep with Aura
+	- Aura initially rejects but agrees anyway
+- It's a new day (Next snippet probably):
+	- Aura wakes up next to Mint
+	- Aura looks at a sleeping mint
+	- "She looks so peaceful when she sleep..."
+	- She holds Mint's hand "Her hands are so slender..."
+	- Mint (asleep) grabs back
+	- Aura tries to get up to go to work
+	- Mint (still asleep) tightly grips Aura's hand "Don't... go..."
+	- Aura pats her head. Mint smiles
+	- "Alright, let's stay like this for a while"
+	- Time passes, Mint wakes up "Don't you have work today?"
+	- "It's fine, I was enjoying my morning with you"
+	- Mint POV: She notices something different about Aura
+- Aura goes to work late
+- *TBF*

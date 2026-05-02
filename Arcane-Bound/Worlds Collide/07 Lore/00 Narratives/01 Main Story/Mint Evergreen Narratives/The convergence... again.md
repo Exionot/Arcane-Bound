@@ -5,36 +5,39 @@ cssclasses:
 ---
 
 **Character/s**: [[Mint Evergreen]]
-**Location**: [[Aura's Apartment]], [[Vilebloom Forest]]
+**Location**: 
+- [[Aura's Apartment]]
+- [[Vilebloom Forest]]
+
 **Time of Occurrence**: 2405, 1st - 2nd of Early Winter
 
-*It's night, Aura is rummaging through her closet while Mint is taking a closer look at Aura's weapon.*
+*It is nighttime. Aura is rummaging through her closet while Mint is taking a closer look at Aura's wrist weapon.*
 
 **Mint:** Why do I need to change my outfit?
-**Aura:** You'll get arrested if you looked like that in public, and it's winter, you'll freeze up if that's what you're going to wear outside.
-**Mint:** I can heat myself up just fine! Why would they arrest me by my outfit? Your world is not very welcoming to it's visitors.
+**Aura:** Other officers like me were ordered to detain people that wear outfits similar to yours. And it's winter, you'll freeze up if that's what you're wearing outside.
+**Mint:** I can heat myself up just fine! Moreover, why would they arrest me by my outfit? Your world is not very welcoming to its visitors.
 **Aura:** That's what I'm worried about too, they seem to be after your people.
-**Mint:** *Ted probably got transported here too, I need to find him, before he gets arrested, but how?*
+**Mint:** *Ted probably got transported here too. I need to find him before he gets arrested. But how?*
 
 *Aura hands Mint a set of clothes. It's a black shirt, pants, and shorts with a blue jacket.*
 
 **Aura:** Take these, it'll probably fit on you.
-**Mint:** Thanks!
-**Aura:** Also, take off your accessories. If those are actual gold, you'll probably attract some attention with those.
+**Mint:** Thanks.
+**Aura:** Also, take off your accessories. If those are actual gold, you'll probably attract some attention with those on.
 **Mint:** Ah, these?
 
-*Mint hovers her hand over her earrings and casts a spell. Her earrings slowly turned from a shiny gold to a silver-like material.*
+*Mint hovers her hand over her earrings. Her earrings slowly turned from a shiny gold to a silver-like material.*
 
-**Aura:** Wha- How'd you do that?
-**Mint:** Illusion magic! It's not that big so I can change their look constantly without a problem.
+**Aura:** Huh?! How'd you do that?
+**Mint:** Illusion magic! I was making them look like gold so it would match my outfit.
 **Aura:** Ah, right... magic. I still can't understand how you're able to do that.
 **Mint:** I mean, even just the thought that I'm in another world is already overwhelming.
 **Mint:** Oh, I'll take these off actually.
 
-*Mint takes off her hair clip and places it on the table.*
+*Mint takes off her golden hair clip and places it on the table.*
 
 **Aura:** Why? Couldn't you just change its look like your earrings?
-**Mint:** It's heavy on my hair! It just feels like it's constantly being pulled.
+**Mint:** This one is actual gold, and it's so heavy on my hair! It just feels like my hair is constantly being pulled.
 
 *Mint lets out a big yawn, and stretches.*
 
