@@ -1,3 +1,8 @@
+**From:** [[EX - Needy kitty 2]]
+**Post:** [Instagram](https://www.instagram.com/p/DX4vra8Abbr/) 
+
+---
+
 Before I could take a step, Aura suddenly grabbed me by the wrist.
 
 "What's wrong?" I asked.
@@ -13,3 +18,6 @@ I come closer and gently pulled her head against my chest, patting the back of h
 "I'm not going anywhere." I said, trying to comfort her.
 
 She hugs me by my waist. I guess even a stoic commander like her can be as needy as I am. 
+
+
+![[Needy Kitty.png]]

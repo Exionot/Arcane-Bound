@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/00 Extra Story/EX - Needy kitty 2.md",
+                "file": "caption.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "EX - Needy kitty 2"
+              "title": "caption"
             }
           },
           {
@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "caption.md",
-                "mode": "source",
-                "source": false
+                "file": "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/02 Prose Snippets/Need.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "caption"
+              "title": "Need"
             }
           },
           {
@@ -282,10 +282,13 @@
   },
   "active": "ee0459575e4c26ad",
   "lastOpenFiles": [
+    "ᐳExternal Assets/Needy Kitty.png",
+    "caption.md",
     "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/00 Extra Story/EX - Needy kitty 2.md",
+    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/02 Prose Snippets/Need.md",
+    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/02 Prose Snippets",
     "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen Narratives/The convergence... again.md",
     "ME Narrative Revision.md",
-    "caption.md",
     "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/00 Extra Story/EX - Needy kitty.md",
     "Templates/Narrative.md",
     "AuB First Sparks of Love.md",
@@ -306,8 +309,6 @@
     "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Aura Brillfer Narratives/An order you can't fight.md",
     "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/00 Extra Story/EX - Something on her face.md",
     "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/00 Extra Story/EX - What it feels like.md",
-    "Arcane-Bound/Worlds Collide/01 Characters/Victoria Veloux Canidel.md",
-    "Arcane-Bound/Worlds Collide/00 Ideas/Historical Names and terminology or smth.md",
     "Arcane-Bound/Re-Converge",
     "ᐳExternal Assets/Mint_Arcaena_Outfit.png",
     "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Ion Kynne Narratives",
@@ -327,7 +328,6 @@
     "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen",
     "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Test",
     "Untitled.base",
-    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Ion Kynne",
     "Arcane-Bound/Worlds Collide/99 Extras/Meta/AB - Storyline.canvas"
   ]
 }
