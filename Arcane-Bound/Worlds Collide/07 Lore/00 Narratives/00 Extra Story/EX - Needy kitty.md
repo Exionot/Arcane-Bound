@@ -5,7 +5,7 @@ cssclasses:
 ---
 
 # **Basic Information**
-**Title**: Clingy Kitty
+**Title**: Needy Kitty 1
 **Character/s**:
 - [[Aura Brillfer]]
 - [[Mint Evergreen]]
