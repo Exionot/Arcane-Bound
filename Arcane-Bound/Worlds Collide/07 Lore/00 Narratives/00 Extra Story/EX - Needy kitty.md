@@ -12,6 +12,7 @@ cssclasses:
 
 **Location**: [[Aura's Apartment]]
 **Time of Occurrence**: Unknown
+**Prose:** [[Need 2]]
 
 ---
 
@@ -30,7 +31,7 @@ cssclasses:
 *A few minutes pass. Aura is still working on her laptop. To her surprise, Mint steps out of the bedroom.*
 
 **Aura:** Mint? I thought you went to sleep?
-**Mint:** Mmmm... 
+**Mint:** *Groggy* Mmmm... 
 
 *Mint sits beside Aura. She leans her head onto Aura's shoulder.*
 

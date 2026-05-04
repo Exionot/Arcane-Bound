@@ -1,15 +1,23 @@
-Before I could take a step, Aura suddenly grabbed me by the wrist.
+As I was about to finish my work, I noticed out of the corner of my eye, Mint stepped out of the bedroom.
 
-"What's wrong?" I asked.
+"Mint? I thought you were going to sleep?"
 
-"Where are you going?"
+She slowly walked towards me without responding. Her hair was somewhat messy, her eyes only half-open. She sat beside me then leaned her head onto my shoulder.
 
-"I was going to get you a towel to—"
+"What's wrong? Can't sleep?"
 
-Her grip tightened before I could finish. Aura stared at the floor. I couldn't see her face clearly, but through the gap in her bangs, I could tell that she was making a sad expression. It felt as if she was silently asking me not to go, to stay by her side longer, even though I was only walking to the other room. 
+"I felt lonely without you..."
 
-I come closer and gently pulled her head against my chest, patting the back of her head. 
+The room was silent, yet her voice still came out so faint.
 
-"I'm not going anywhere." I said, trying to comfort her.
+"I'll finish up soon, okay?" I said as I continued typing.
 
-She hugs me by my waist. I guess even a stoic commander like her can be as needy as I am. 
+Again, no response. I glanced over my shoulder; Mint stared at the floor, her weight pressed against me.
+
+"Lie in my lap for now." I offered.
+
+As soon as I finished my sentence, Mint placed her head on my lap; she faced away from the screen, and tightly wrapped her arms around my waist. I patted her head as I typed with my other hand.
+
+Minutes passed. Or maybe seconds. Her grip on my waist slowly loosened. I looked down, and she's gone, not away, but in a world of dreams. It felt like I was holding something delicate. 
+
+Just seeing her like that, sleeping so peacefully, just makes her much more adorable than she already is.
