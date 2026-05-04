@@ -12,6 +12,7 @@ cssclasses:
 
 **Location**: [[Aura's Apartment]]
 **Time of Occurrence**: Unknown
+**Prose:** [[Need]]
 
 ---
 
@@ -47,10 +48,10 @@ cssclasses:
 **Mint:** I'm going to get you a towel to w-
 **Aura:** ...
 
-*Aura stares at the floor with a sad expression, still holding onto Mint's wrist. Mint goes closer to Aura and gently pulls Aura's head towards her chest. Mint pets the back of Aura's head while hugging her.*
+*Aura stares at the floor with a sad expression, holding onto Mint's wrist tighter. Mint goes closer to Aura and gently pulls Aura's head towards her chest. Mint pets the back of Aura's head while hugging her.*
 
 **Mint:** I'm not going anywhere.
-**Mint:** *I guess she can be needy too.*
+**Mint:** *I guess she can be as needy as I am.*
 
 ---
 
