@@ -48,7 +48,7 @@ cssclasses:
 **Mint:** I'm going to get you a towel to w-
 **Aura:** ...
 
-*Aura stares at the floor with a sad expression, holding onto Mint's wrist tighter. Mint goes closer to Aura and gently pulls Aura's head towards her chest. Mint pets the back of Aura's head while hugging her.*
+*Aura stares at the floor with a sad expression, holding onto Mint's wrist tighter. Mint comes closer to Aura and gently pulls Aura's head towards her chest. Mint pets the back of Aura's head while hugging her.*
 
 **Mint:** I'm not going anywhere.
 **Mint:** *I guess she can be as needy as I am.*
