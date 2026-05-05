@@ -27,4 +27,5 @@ Minutes passed. Or maybe seconds. Her grip on my waist slowly loosened. I looked
 
 Just seeing her like that, sleeping so peacefully, just makes her much more adorable than she already is.
 
+![[Needy Kitty 2.png]]
 
