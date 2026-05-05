@@ -3,7 +3,7 @@
 
 ---
 
-As I was about to finish my work, I noticed put of the corner of my eye, Mint stepped out of the bedroom.
+As I was about to finish my work, I noticed out of the corner of my eye, Mint stepped out of the bedroom.
 
 "Mint? I thought you were going to sleep?"
 
@@ -17,7 +17,7 @@ The room was silent, yet her voice still came out so faint.
 
 "I'll finish up soon, okay?" I said as I continued typing.
 
-Again, no response. I glanced over my shoulder; Mint stared at the floor, her weight pressed against me.
+Again, no response. I glanced over my shoulder; Mint stared at the floor; her weight pressed against me.
 
 "Lie in my lap for now." I offered.
 
