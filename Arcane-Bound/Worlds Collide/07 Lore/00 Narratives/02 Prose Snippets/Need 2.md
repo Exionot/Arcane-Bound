@@ -25,7 +25,7 @@ As soon as I finished my sentence, Mint placed her head on my lap; she faced awa
 
 Minutes passed. Or maybe seconds. Her grip on my waist slowly loosened. I looked down, and she was gone, not away, but in a world of dreams. It felt like I was holding something delicate. 
 
-Just seeing her like that, sleeping so peacefully, just makes her much more adorable than she already is.
+Just seeing her like that, sleeping so peacefully, only made her much more adorable than she already is.
 
 ![[Needy Kitty 2.png]]
 
