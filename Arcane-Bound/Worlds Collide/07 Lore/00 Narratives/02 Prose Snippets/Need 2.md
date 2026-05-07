@@ -1,5 +1,7 @@
 **From:** [[EX - Needy kitty]]
-**Post:** [Instagram](https://www.instagram.com/za_exion/p/DX8vRzAAbOP/)
+**Post:** 
+- [Instagram](https://www.instagram.com/za_exion/p/DX8vRzAAbOP/)
+- [Twitter](https://x.com/Exionot/status/2051855924810379570?s=20) 
 
 ---
 

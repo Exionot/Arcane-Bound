@@ -12,6 +12,7 @@ cssclasses:
 
 **Location**: Somewhere in [[Sol Capital]]
 **Time of Occurrence**: Unknown
+**Prose:** [[Vixen's Charm]]
 
 ---
 

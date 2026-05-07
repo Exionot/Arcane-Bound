@@ -1,5 +1,5 @@
 **From:** [[EX - Charming fox]]
-**Post:**
+**Post:** [Instagram](https://www.instagram.com/p/DYAKt2RIPvI/?img_index=1)
 
 ---
 
@@ -21,9 +21,9 @@ My body froze.
 
 Everything about the moment was too much. The coolness of the wall. Her warm breath. Her hand grazing my cheek. She stared at me with the same flat face, yet it felt different. My chest tightened, like the air around me thinned out suddenly.
 
-"...Feeling flustered yet?" she said softly.
+"Ion..." she said softly.
 
-My heart pounded so hard I couldn't catch what she said before that, but it brought me back to my senses.
+My heart pounded so hard I couldn't catch what she said after that, but it brought me back to my senses.
 
 I shoved her away; both hands on her shoulders. I glared at her, while I tried to reclaim the air I felt I lost.
 
@@ -38,4 +38,6 @@ I didn't even notice it, but my face flared up without my knowledge. I turned aw
 That must've been it. My guard was just down. 
 
 After all, there's no way I would fall for someone like her. Right?
+
+![[Charming Fox.png]]
 
