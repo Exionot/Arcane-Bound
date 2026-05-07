@@ -1,5 +1,7 @@
 **From:** [[EX - Charming fox]]
-**Post:** [Instagram](https://www.instagram.com/p/DYAKt2RIPvI/?img_index=1)
+**Post:** 
+- [Instagram](https://www.instagram.com/p/DYAKt2RIPvI/?img_index=1)
+- [Twitter](https://x.com/Exionot/status/2052340250480132248?s=20)
 
 ---
 
