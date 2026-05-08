@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ME Narrative Revision.md",
-                "mode": "preview",
+                "file": "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen Narratives/The convergence... again.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "ME Narrative Revision"
+              "title": "The convergence... again"
             }
           },
           {
@@ -252,10 +252,13 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "b4d994bdc3e50955",
+  "active": "ee0459575e4c26ad",
   "lastOpenFiles": [
-    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/00 Extra Story/EX - Charming fox.md",
+    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen Narratives/Confrontation.md",
+    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen Narratives/The convergence... again.md",
     "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/02 Prose Snippets/Vixen's Charm.md",
+    "ME Narrative Revision.md",
+    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/00 Extra Story/EX - Charming fox.md",
     "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/00 Extra Story/EX - Needy kitty.md",
     "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/00 Extra Story/EX - Like a kitty.md",
     "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/00 Extra Story/EX - Needy kitty 2.md",
@@ -272,8 +275,6 @@
     "Translation test 2.md",
     "ᐳExternal Assets/Needy Kitty 2.png",
     "caption.md",
-    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen Narratives/The convergence... again.md",
-    "ME Narrative Revision.md",
     "ᐳExternal Assets/Needy Kitty.png",
     "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/02 Prose Snippets",
     "Templates/Narrative.md",
