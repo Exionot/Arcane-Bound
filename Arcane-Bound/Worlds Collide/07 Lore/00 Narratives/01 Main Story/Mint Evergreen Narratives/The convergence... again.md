@@ -4,7 +4,10 @@ cssclasses:
   - narrative
 ---
 
-**Character/s**: [[Mint Evergreen]]
+**Character/s**: 
+- [[Mint Evergreen]]
+- [[Aura Brillfer]]
+
 **Location**: 
 - [[Aura's Apartment]]
 - [[Vilebloom Forest]]
@@ -17,15 +20,15 @@ cssclasses:
 
 *Aura hands Mint a set of clothes. It's a black shirt, pants, and shorts with a blue jacket.*
 
-**Aura:** Take these, it'll probably fit on you.
+**Aura:** Take these; they'll probably fit you.
 **Mint:** Why do I need to change my outfit?
-**Aura:** Other officers like me, were ordered to detain people that wear outfits similar to yours. And it's winter, you'll freeze up if that's what you're wearing outside.
-**Mint:** I can heat myself up just fine! Moreover, why would they arrest me by my outfit? Your world is not very welcoming to its visitors.
+**Aura:** Other officers like me were ordered to detain people that wear outfits similar to yours. And it's winter; you'll freeze up if that's what you're wearing outside.
+**Mint:** I can heat myself up just fine! Moreover, why would they arrest me for my outfit? Your world is not very welcoming to its visitors.
 **Mint:** *Ted probably got transported here too. I need to find him before he gets arrested. But how?*
 **Aura:** Also, take off your accessories. If those are actual gold, you'll probably attract some attention with those on.
 **Mint:** Ah, these?
 
-*Mint hovers her hand over her earrings. Her earrings slowly turned from a shiny gold to a silver-like material.*
+*Mint hovers her hand over her earrings. Her earrings slowly turn from a shiny gold to a silver-like material.*
 
 **Aura:** Huh?! How'd you do that?
 **Mint:** Illusion magic! I was making them look like gold so it would match my outfit.
@@ -41,7 +44,7 @@ cssclasses:
 *Mint lets out a big yawn, and stretches.*
 
 **Aura:** We should probably rest now.
-**Aura:** Well, my bed is over in that room, I'll probably just lay here on the couch.
+**Aura:** Well, my bed is over in that room. I'll probably just lie here on the couch.
 
 *Mint stares directly into Aura's eyes.*
 
@@ -50,6 +53,6 @@ cssclasses:
 **Aura:** I'm just saying, the cushion on my bed is *way* fluffier than the couch.
 **Mint:** !!! I'll sleep on it!
 
-*Mint rests on Aura's bed. She wakes up on a brand new day. Mint opens her eyes; what she sees is not the ceiling of Aura's room, but the blue sky of outside. Mint quickly sits up and looks around. Trees and grass surround her, but they are not their usual green, but a bright teal color.*
+*Mint rests on Aura's bed. She wakes up on a brand new day. Mint opens her eyes; what she sees is not the ceiling of Aura's room, but the blue sky outside. Mint quickly sits up and looks around. Trees and grass surround her, but they are not their usual green, but a bright teal color.*
 
 **Mint:** *I recognize this place... Vilebloom forest? I'm back in Arcaena? How? Was I dreaming?*
