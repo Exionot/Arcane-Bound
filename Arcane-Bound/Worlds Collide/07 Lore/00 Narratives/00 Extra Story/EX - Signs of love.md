@@ -67,6 +67,4 @@ cssclasses:
 
 ---
 
-> [!NOTE] Notes
-> Extra notes about the moment goes here
 
