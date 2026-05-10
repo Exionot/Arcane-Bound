@@ -17,6 +17,7 @@ Then it just transition to them goofing or just cut it at that. Then in other mo
 
 ---
 
-
+> [!NOTE] 
+> Gay ass
 
 
