@@ -34,6 +34,8 @@ relations:
   - Renze Luna
   - Ruby Rossilia
 profileImage: ᐳExternal Assets/Golden Aura Blank.png
+manaPresence: None
+magicAffinity: Caster
 ---
 
 > [!Infobox] **`=this.file.name`**
@@ -50,6 +52,8 @@ profileImage: ᐳExternal Assets/Golden Aura Blank.png
 > |   Birthday  |     |
 > |   Age  |  Young Adult   |
 > |   Species  |  [[Virken]] (Feline)   |
+> |  Mana Presence  |  `=this.manaPresence`  |
+> |  Magic Affinity  |  `=this.magicAffinity`  |
 > |   Origin  |  [[Shatterpoint City]], [[NeoTech Union]], [[Synthspire]]   |
 > |   Faction/s  |  [[Protection Of Local Livelihood]] (Former)  |
 > |   Hobbies  |     |

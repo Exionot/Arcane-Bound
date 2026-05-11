@@ -24,6 +24,8 @@ aliases:
 relations:
   - Mhaxxine Dark
   - Rem Orion
+manaPresence: High
+magicAffinity: Caster
 ---
 
 > [!Infobox] **`=this.file.name`**
@@ -40,6 +42,8 @@ relations:
 > |   Birthday  |     |
 > |   Age  |  ~150 Years Old   |
 > |   Species  |  [[Devil]]   |
+> |  Mana Presence  |  `=this.manaPresence`  |
+> |  Magic Affinity  |  `=this.magicAffinity`  |
 > |   Origin  |  [[Underworld]], [[Arcaena]]   |
 > |   Faction/s  |  [[Blackreign Gang]]   |
 > |   Hobbies  |     |

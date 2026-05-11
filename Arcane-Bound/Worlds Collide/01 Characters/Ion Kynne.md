@@ -30,6 +30,8 @@ relations:
   - Ted Ursa
   - Mint Evergreen
   - Estella Ameshi
+manaPresence: Increased
+magicAffinity: Caster
 ---
 
 > [!Infobox] **`=this.file.name`**
@@ -46,6 +48,8 @@ relations:
 > |   Birthday  |  May 24th   |
 > |   Age  |  Young Adult   |
 > |   Species  |  [[Virken]] (Canis)   |
+> |  Mana Presence  |  `=this.manaPresence`  |
+> |  Magic Affinity  |  `=this.magicAffinity`  |
 > |   Origin  |  [[Ohmpalos City]], [[Amphors Kingdom]], [[Southern Lands]], [[Arcaena]]   |
 > |   Faction/s  |  [[Wandering Traders of Arcaena]]   |
 > |   Hobbies  |  Watching Stakes Races   |

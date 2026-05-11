@@ -24,6 +24,8 @@ aliases: Mhax
 relations:
   - Krystalle Eos
   - Clair Tempest
+manaPresence: None
+magicAffinity: Caster
 ---
 
 > [!Infobox] **`=this.file.name`**
@@ -40,6 +42,8 @@ relations:
 > |   Birthday  |  October 23rd   |
 > |   Age  |  Young Adult   |
 > |   Species  |  [[Human]]   |
+> |  Mana Presence  |  `=this.manaPresence`  |
+> |  Magic Affinity  |  `=this.magicAffinity`  |
 > |   Origin  |  [[Rockcore City]], [[NULL Region]], [[Republic of Chloros]], [[Veridian Sector]], [[Synthspire]]   |
 > |   Faction/s  |  [[Blackreign Gang]]   |
 > |   Hobbies  |     |

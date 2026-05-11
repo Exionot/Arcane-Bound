@@ -25,6 +25,8 @@ aliases:
   - Teddy Bear
 relations:
   - Ion Kynne
+manaPresence: Increased
+magicAffinity: Caster
 ---
 
 > [!Infobox] **`=this.file.name`**
@@ -40,7 +42,9 @@ relations:
 > |   Height  |     |
 > |   Birthday  |     |
 > |   Age  |  Adult   |
-> |   Species  |  [[Virken | Virken Beast]] (Ursus)    |
+> |   Species  |  [[Virken | Virken Beast]] (Ursus)  |
+> |  Mana Presence  |  `=this.manaPresence`  |
+> |  Magic Affinity  |  `=this.magicAffinity`  |
 > |   Origin  |  [[Lushfall Town]], [[Lushfield Jungle]], [[Ceres Region]], [[Erde Kingdom]], [[Central Lands]], [[Arcaena]]   |
 > |   Faction/s  |  [[Wandering Traders of Arcaena]]   |
 > |   Hobbies  |     |

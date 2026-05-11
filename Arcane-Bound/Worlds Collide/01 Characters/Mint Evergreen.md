@@ -37,6 +37,8 @@ aliases:
 relations:
   - Aura Brillfer
   - Ion Kynne
+manaPresence: Increased
+magicAffinity: Caster
 ---
 
 > [!Infobox] **`=this.file.name`**
@@ -53,6 +55,8 @@ relations:
 > |   Birthday  |     |
 > |   Age  |  Young Adult   |
 > |   Species  |  [[Virken]] (Feline)   |
+> |  Mana Presence  |  `=this.manaPresence`  |
+> |  Magic Affinity  |  `=this.magicAffinity`  |
 > |   Origin  |  [[Evergreen Household]], [[Lenben Village]], [[Phthalo Region]], [[Verdthorne Kingdom]], [[Central Lands]], [[Arcaena]]   |
 > |   Faction/s  |  [[Guild of Arcane Healers]] (Former) <br> [[Wandering Traders of Arcaena]] (Honorary Member) |
 > |   Hobbies  |  Gardening   |

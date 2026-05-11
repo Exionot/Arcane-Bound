@@ -30,6 +30,8 @@ relations:
   - Ion Kynne
   - Ted Ursa
   - Victoria Veloux Canidel
+manaPresence: Increased
+magicAffinity: Caster
 ---
 
 > [!Infobox] **`=this.file.name`**
@@ -45,7 +47,9 @@ relations:
 > |   Height  |     |
 > |   Birthday  |  July 13th  |
 > |   Age  |  Adult   |
-> |   Species  |  [[Virken]] (Equus)   |
+> |   Species  |  [[Virken]] (Equus)  |
+> |  Mana Presence  |  `=this.manaPresence`  |
+> |  Magic Affinity  |  `=this.magicAffinity`  |
 > |   Origin  |  [[Yushinami City]], [[Lander Region]], [[Erde Kingdom]], [[Central Lands]], [[Arcaena]]   |
 > |   Faction/s  |  [[Wandering Traders of Arcaena]]  |
 > |   Hobbies  | Jogging<br>Watching stakes races |

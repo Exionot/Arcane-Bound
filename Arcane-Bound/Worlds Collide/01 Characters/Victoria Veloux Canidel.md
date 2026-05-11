@@ -30,6 +30,8 @@ aliases:
 relations:
   - Canidel Family
   - Rem Orion
+manaPresence: None
+magicAffinity: Caster
 ---
 
 > [!Infobox] **`=this.file.name`**
@@ -46,6 +48,8 @@ relations:
 > |   Birthday  |     |
 > |   Age  |  Young Adult   |
 > |   Species  |  [[Virken]] (Vulpes)   |
+> |  Mana Presence  |  `=this.manaPresence`  |
+> |  Magic Affinity  |  `=this.magicAffinity`  |
 > |   Origin  |  [[Lightspeed City]], [[HyperCorp Republic]], [[Synthspire]]   |
 > |   Faction/s  |  [[Starveil Retrieval Co.]]   |
 > |   Hobbies  |     |

@@ -3,7 +3,7 @@
 - Mhax gets trapped in a deep area of an etheric zone caused by the Blackreign Gang
 - Krystalle and the others are forced to retreat due to high Etheric activity
 - To Mhax:
-	- She taught Krystalle and her institution betrayed her
+	- She thought Krystalle and her institution betrayed her
 	- Joins the Blackreign Gang and becomes their leader
 - VOID says Mhax is a lost cause, Krystalle insist on her recuperation
 - VOID deploys Krystalle and a handful of agents to find Mhax

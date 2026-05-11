@@ -23,6 +23,8 @@ posterImage:
 aliases:
 relations:
   - Mhaxxine Dark
+manaPresence: None
+magicAffinity: Non-Caster
 ---
 
 > [!Infobox] **`=this.file.name`**
@@ -39,6 +41,8 @@ relations:
 > |  Birthday  |     |
 > |  Age  |  Adult   |
 > |  Species  |  [[Virken]] (Vulpes)   |
+> |  Mana Presence  |  `=this.manaPresence`  |
+> |  Magic Affinity  |  `=this.magicAffinity`  |
 > |  Condition/s  |  [[Null's Disease]]  |
 > |  Infection Status  |  21V% (0.14u/L)  |
 > |   Origin  |  [[Evemark City]], [[Lushborne Region]], [[Republic of Chloros]], [[Veridian Sector]], [[Synthspire]]   |

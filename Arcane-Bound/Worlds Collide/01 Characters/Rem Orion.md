@@ -22,6 +22,8 @@ aliases:
 relations:
   - Victoria Veloux Canidel
   - Clair Tempest
+manaPresence: None
+magicAffinity: Non-Caster
 ---
 
 > [!Infobox] **`=this.file.name`**
@@ -38,6 +40,8 @@ relations:
 > |   Birthday  |     |
 > |   Age  |  Young Adult   |
 > |   Species  |  [[Human]]   |
+> |  Mana Presence  |  `=this.manaPresence`  |
+> |  Magic Affinity  |  `=this.magicAffinity`  |
 > |   Origin  |  [[Astral City]], [[NOVA Region]], [[HyperCorp Republic]], [[Thunderdrop Sector]], [[Synthspire]]   |
 > |   Faction/s  |  [[Starveil Retrieval Co.]] (Managing Director)   |
 > |   Hobbies  |     |
