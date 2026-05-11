@@ -60,7 +60,7 @@ magicAffinity: Non-Caster
 ## Background 
 **Krystalle Eos** is a [[Virken]] from [[Evemark City]] of the [[Republic of Chloros]]. She is a special operator of the [[Void Special Operation Division 9]] under the [[Void Operation & Investigation Department]]. 
 
-She was awoken from a "failed operation" where she unexpectedly contracted [[Null's Disease]] on her left arm during the operation. Her memories beyond this seems to be hazy, though she remembers her name and some of her colleagues. She has tried multiple therapeutic sessions in an attempt to regain her memories but none were effective. Her distant memories show themselves as fragmented dreams too vague to actually remember anything.
+She was awoken from a "failed rescue operation" where she unexpectedly contracted [[Null's Disease]] on her left arm during the operation. Her memories beyond this seems to be hazy, though she remembers her name and some of her colleagues. She has tried multiple therapeutic sessions in an attempt to regain her memories but none were effective. Her distant memories show themselves as fragmented dreams too vague to actually remember anything.
 
 Her infection has progressed further since the incident, but with the recent improvement with [[Void Crystalline Inhibitors|void suppressants]], she has been able to slow down the infection. Despite her infection she still chose to work for [[Void Operation & Investigation Department|VOID]], in hope that her memories would come back to her one day. She now wears a special mechanical gauntlet covering the crystals and also tracking her infection status.
 # **Appearance** 
