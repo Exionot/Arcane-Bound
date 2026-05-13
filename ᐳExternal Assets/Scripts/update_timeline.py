@@ -1,4 +1,5 @@
 from pathlib import Path
+import frontmatter
 
 folder = Path(r"C:\Exionot\Vaults\World Building\Arcane-Bound\Worlds Collide\07 Lore\00 Narratives\01 Main Story")
 
