@@ -45,5 +45,6 @@
   "foldHeading": false,
   "strictLineBreaks": false,
   "promptDelete": false,
-  "readableLineLength": true
+  "readableLineLength": true,
+  "showUnsupportedFiles": true
 }

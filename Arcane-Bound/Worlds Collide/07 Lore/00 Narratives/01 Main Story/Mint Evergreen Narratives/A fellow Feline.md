@@ -1,5 +1,9 @@
 ---
 type: narrative
+time:
+  year: 2405
+  month: Early Winter
+  day: 1st
 cssclasses:
   - narrative
 ---
@@ -9,7 +13,7 @@ cssclasses:
 - [[Aura Brillfer]]
 
 **Location**:  [[Amphere Square]]
-**Time of Occurrence**: 2405, 1st Early Winter
+**Time of Occurrence**: `=this.time.year`, `=this.time.day` of `=this.time.month`
 **Related**: [[Defying orders]]
 
 *It is the afternoon. Mint finds herself in what it seems to be the center of a bustling city; the area is loud, people walk by at every moment. Their outfits are more diverse; almost casual yet different from Arcaenian fashion.*

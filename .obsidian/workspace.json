@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homepage.md",
+                "file": "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Timeline.md",
                 "mode": "preview",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Homepage"
+              "title": "Timeline"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Aura Brillfer Narratives/Defying orders.md",
-                "mode": "source",
+                "file": "Arcane-Bound/Worlds Collide/07 Lore/03 Species/Virken.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Defying orders"
+              "title": "Virken"
             }
           }
         ],
@@ -249,41 +249,42 @@
       "homepage:Open homepage": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "obsidian-git:Open Git source control": false,
-      "calendarium:Open Calendarium": false
+      "calendarium:Open Calendarium": false,
+      "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
   "active": "9d55fb455e30b4ad",
   "lastOpenFiles": [
-    "testFile.md",
+    "Arcane-Bound/Worlds Collide/00 Ideas/Spellcasting and cast types.md",
+    "Arcane-Bound/Worlds Collide/00 Ideas/KE Narrative Plot Idea.md",
+    "Arcane-Bound/Worlds Collide/00 Ideas/ME - AuB Declarations of Feelings.md",
+    "Arcane-Bound/Worlds Collide/00 Ideas/AuB First Sparks of Love.md",
+    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Timeline.md",
+    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Aura Brillfer Narratives/My house.md",
+    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Aura Brillfer Narratives/Defying orders.md",
+    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Aura Brillfer Narratives/An order you can't fight.md",
+    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen Narratives/A fellow Feline.md",
+    "Untitled 1.md",
     "Untitled.md",
+    "testFile.md",
+    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen Narratives/Unknown Feelings.md",
+    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen Narratives/The convergence... yet again....md",
+    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen Narratives/The convergence... again.md",
+    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen Narratives/The convergence (Mint Evergreen).md",
+    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen Narratives/Staves 2.md",
+    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen Narratives/Staves.md",
+    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen Narratives/Small world.md",
+    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen Narratives/Missing merchant.md",
+    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen Narratives/Increasing notoriety.md",
+    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen Narratives/Her house.md",
+    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen Narratives/Gone for a day.md",
+    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen Narratives/Flowers.md",
+    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen Narratives/Feelings to be addressed.md",
+    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen Narratives/Duality of an officer.md",
     "ᐳExternal Assets/Scripts/runTest.bat~",
     "ᐳExternal Assets/Scripts/update_timeline.py",
-    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/02 Prose Snippets/Need 2.md",
-    "Homepage.md",
     "ᐳExternal Assets/Scripts/runTest.bat",
     "ᐳExternal Assets/Scripts",
-    "Mana and Mana != magic affinity.md",
-    "ME - AuB Declarations of Feelings.md",
-    "Spellcasting and cast types.md",
-    "Arcane-Bound/Worlds Collide/04 Systems/01 Magic/Arcaenian Magic.md",
-    "Arcane-Bound/Worlds Collide/04 Systems/01 Magic/Elemental Magic.md",
-    "Arcane-Bound/Worlds Collide/06 Items - Equipments/Arcaenian Band.md",
-    "Arcane-Bound/Worlds Collide/07 Lore/01 Documents/Document - Final Warning Before Termination.md",
-    "Arcane-Bound/Worlds Collide/07 Lore/01 Documents/Document - Standardized Territorial Codex Protocol.md",
-    "Arcane-Bound/Worlds Collide/07 Lore/01 Documents/Document - Decree of The Numia Coins.md",
-    "Arcane-Bound/Worlds Collide/07 Lore/01 Documents/Document - Lost Arcaenian Map.md",
-    "Arcane-Bound/Worlds Collide/07 Lore/01 Documents/Document - Synthspire Units Currency Documentation.md",
-    "Arcane-Bound/Worlds Collide/01 Characters/Krystalle Eos.md",
-    "Arcane-Bound/Worlds Collide/01 Characters/Estella Ameshi.md",
-    "Arcane-Bound/Worlds Collide/00 Ideas/Hollow people and null's disease.md",
-    "Arcane-Bound/Worlds Collide/00 Ideas/Mana eating crystal.md",
-    "Arcane-Bound/Worlds Collide/00 Ideas/Anti void masks.md",
-    "Arcane-Bound/Worlds Collide/00 Ideas/What are Crystalline Inhibitors.md",
-    "KE Narrative Plot Idea.md",
-    "EA Narrative Recovery Arc Outline.md",
-    "Arcane-Bound/Worlds Collide/01 Characters/Mint Evergreen.md",
-    "Arcane-Bound/Worlds Collide/01 Characters/Mhaxxine Dark.md",
-    "Arcane-Bound/Worlds Collide/01 Characters/Ion Kynne.md",
     "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/00 Extra Story/Untitled",
     "ᐳExternal Assets/Charming Fox.png",
     "ᐳExternal Assets/Needy Kitty 2.png",

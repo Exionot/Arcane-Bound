@@ -12,5 +12,7 @@
   "calendarium",
   "obsidian-git",
   "obsidian-export-image",
-  "longform"
+  "longform",
+  "obsidian-shellcommands",
+  "buttons"
 ]

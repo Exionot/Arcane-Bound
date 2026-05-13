@@ -1,5 +1,9 @@
 ---
 type: narrative
+time:
+  year: 2405
+  month: Late Autumn
+  day: 28th
 cssclasses:
   - narrative
 ---

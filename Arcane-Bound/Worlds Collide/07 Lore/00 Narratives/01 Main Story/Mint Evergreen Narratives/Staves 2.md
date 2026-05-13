@@ -1,5 +1,9 @@
 ---
 type: narrative 
+time:
+  year: 2405
+  month: Winter
+  day: 7th
 cssclasses:
   - narrative
 ---
