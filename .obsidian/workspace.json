@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Homepage"
             }
+          },
+          {
+            "id": "9d55fb455e30b4ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -237,8 +252,13 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "ee52dca4af6786db",
+  "active": "9d55fb455e30b4ad",
   "lastOpenFiles": [
+    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/02 Prose Snippets/Need 2.md",
+    "Untitled.md",
+    "Homepage.md",
+    "ᐳExternal Assets/Scripts/runTest.bat",
+    "ᐳExternal Assets/Scripts",
     "Mana and Mana != magic affinity.md",
     "ME - AuB Declarations of Feelings.md",
     "Spellcasting and cast types.md",
@@ -262,9 +282,6 @@
     "Arcane-Bound/Worlds Collide/01 Characters/Mhaxxine Dark.md",
     "Arcane-Bound/Worlds Collide/01 Characters/Ion Kynne.md",
     "Arcane-Bound/Worlds Collide/01 Characters/Clair Tempest.md",
-    "Arcane-Bound/Worlds Collide/01 Characters/Aura Brillfer.md",
-    "Arcane-Bound/Worlds Collide/01 Characters/Underworldian - Clair.md",
-    "Arcane-Bound/Worlds Collide/01 Characters/Victoria Veloux Canidel.md",
     "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/00 Extra Story/Untitled",
     "ᐳExternal Assets/Charming Fox.png",
     "ᐳExternal Assets/Needy Kitty 2.png",
@@ -283,8 +300,6 @@
     "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Aura Brillfer Narratives",
     "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Victoria Veloux Canidel Narratives",
     "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen Narratives",
-    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen",
-    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Test",
     "Arcane-Bound/Worlds Collide/99 Extras/Meta/AB - Storyline.canvas"
   ]
 }

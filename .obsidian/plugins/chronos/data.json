@@ -4,7 +4,7 @@
   "clickToUse": false,
   "roundRanges": false,
   "useUtc": true,
-  "useAI": true,
+  "useAI": false,
   "showChangelogOnUpdate": true,
   "lastSeenVersion": "3.1.2"
 }
