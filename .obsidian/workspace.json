@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
-                "mode": "preview",
+                "file": "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Aura Brillfer Narratives/Defying orders.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Defying orders"
             }
           }
         ],
@@ -254,8 +254,11 @@
   },
   "active": "9d55fb455e30b4ad",
   "lastOpenFiles": [
-    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/02 Prose Snippets/Need 2.md",
+    "testFile.md",
     "Untitled.md",
+    "ᐳExternal Assets/Scripts/runTest.bat~",
+    "ᐳExternal Assets/Scripts/update_timeline.py",
+    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/02 Prose Snippets/Need 2.md",
     "Homepage.md",
     "ᐳExternal Assets/Scripts/runTest.bat",
     "ᐳExternal Assets/Scripts",
@@ -281,7 +284,6 @@
     "Arcane-Bound/Worlds Collide/01 Characters/Mint Evergreen.md",
     "Arcane-Bound/Worlds Collide/01 Characters/Mhaxxine Dark.md",
     "Arcane-Bound/Worlds Collide/01 Characters/Ion Kynne.md",
-    "Arcane-Bound/Worlds Collide/01 Characters/Clair Tempest.md",
     "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/00 Extra Story/Untitled",
     "ᐳExternal Assets/Charming Fox.png",
     "ᐳExternal Assets/Needy Kitty 2.png",
@@ -298,8 +300,6 @@
     "ᐳExternal Assets/Crystal Clear Blank.png",
     "ᐳExternal Assets/Being Vigilant Blank.png",
     "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Aura Brillfer Narratives",
-    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Victoria Veloux Canidel Narratives",
-    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen Narratives",
     "Arcane-Bound/Worlds Collide/99 Extras/Meta/AB - Storyline.canvas"
   ]
 }

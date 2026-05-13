@@ -1,2 +1,2 @@
 @echo off
-py "C:\Exionot\Personal Project\ws102\finals\feedback_system.py"
+py "C:\Exionot\Vaults\World Building\ᐳExternal Assets\Scripts\update_timeline.py"
