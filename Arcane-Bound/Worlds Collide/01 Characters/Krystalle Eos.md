@@ -24,7 +24,7 @@ aliases:
 relations:
   - Mhaxxine Dark
 manaPresence: None
-magicAffinity: Non-Caster
+magicAffinity: Caster
 ---
 
 > [!Infobox] **`=this.file.name`**

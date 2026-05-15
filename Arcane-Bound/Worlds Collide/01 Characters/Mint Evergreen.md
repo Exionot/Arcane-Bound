@@ -95,7 +95,7 @@ A human with feline-like ears and tail. She has a long mint-green hair with emer
 Her hairstyle is a big singular braid. She wears a short light blue with gold accent poncho with a hood on top of her black long sleeved shirt. She has a gold leaf clip on her hair with a gold cat enamel holding her poncho together.
 
 ### In [[Synthspire]]
-She wears a black shirt and a light blue jacket with a matching black shorts, given to her by [[Aura Brillfer|Aura]]. Her hair was dyed a pale-black color to hide her identity on [[Synthspire]]. 
+She wears a black shirt and a light blue jacket with a matching black shorts, given to her by [[Aura Brillfer|Aura]]. Her hair was dyed a pale-black color to hide her identity in [[Synthspire]]. 
 
 # **Personality** 
 **Mint** is seen as kind and helpful in [[Lenben Village|Lenben]], she is well disciplined and determined in pursuing her goals. On a serious day, she is able to get task done quickly. She is also very efficient in multitasking, using her tail in her advantage.

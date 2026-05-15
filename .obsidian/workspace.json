@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "cca9add3bbf8cbb6",
+        "id": "eee35be2308f4b63",
         "type": "tabs",
         "children": [
-          {
-            "id": "ee52dca4af6786db",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Timeline.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Timeline"
-            }
-          },
           {
             "id": "9d55fb455e30b4ad",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arcane-Bound/Worlds Collide/07 Lore/03 Species/Virken.md",
+                "file": "Arcane-Bound/Worlds Collide/01 Characters/Krystalle Eos.md",
                 "mode": "preview",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Virken"
+              "title": "Krystalle Eos"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -255,32 +240,32 @@
   },
   "active": "9d55fb455e30b4ad",
   "lastOpenFiles": [
+    "Arcane-Bound/Worlds Collide/01 Characters/Mhaxxine Dark.md",
+    "Arcane-Bound/Worlds Collide/01 Characters/Krystalle Eos.md",
+    "Arcane-Bound/Worlds Collide/04 Systems/02 Technology/Void Crystal.md",
+    "Arcane-Bound/Worlds Collide/04 Systems/01 Magic/Elemental Magic.md",
+    "Arcane-Bound/Worlds Collide/04 Systems/01 Magic/Arcaenian Magic.md",
+    "Arcane-Bound/Worlds Collide/04 Systems/02 Technology/Solid-Light Energy.md",
+    "Arcane-Bound/Worlds Collide/04 Systems/02 Technology/Synthspire Units.md",
+    "Arcane-Bound/Worlds Collide/01 Characters/Aura Brillfer.md",
+    "Arcane-Bound/Worlds Collide/01 Characters/Mint Evergreen.md",
+    "Arcane-Bound/Worlds Collide/01 Characters/Estella Ameshi.md",
+    "Arcane-Bound/Worlds Collide/99 Extras/Meta/AB - Unresolved Notes.md",
+    "Arcane-Bound/Worlds Collide/99 Extras/Meta/Arcane-Bound – Worlds Collide.md",
+    "Arcane-Bound/Worlds Collide/06 Items - Equipments/Evergreen.md",
+    "Arcane-Bound/Worlds Collide/07 Lore/02 Terminologies/Stakes Running.md",
+    "Homepage.md",
+    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Timeline.md",
+    "Arcane-Bound/Worlds Collide/07 Lore/03 Species/Virken.md",
     "Arcane-Bound/Worlds Collide/00 Ideas/Spellcasting and cast types.md",
     "Arcane-Bound/Worlds Collide/00 Ideas/KE Narrative Plot Idea.md",
     "Arcane-Bound/Worlds Collide/00 Ideas/ME - AuB Declarations of Feelings.md",
     "Arcane-Bound/Worlds Collide/00 Ideas/AuB First Sparks of Love.md",
-    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Timeline.md",
     "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Aura Brillfer Narratives/My house.md",
     "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Aura Brillfer Narratives/Defying orders.md",
     "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Aura Brillfer Narratives/An order you can't fight.md",
     "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen Narratives/A fellow Feline.md",
     "Untitled 1.md",
-    "Untitled.md",
-    "testFile.md",
-    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen Narratives/Unknown Feelings.md",
-    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen Narratives/The convergence... yet again....md",
-    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen Narratives/The convergence... again.md",
-    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen Narratives/The convergence (Mint Evergreen).md",
-    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen Narratives/Staves 2.md",
-    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen Narratives/Staves.md",
-    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen Narratives/Small world.md",
-    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen Narratives/Missing merchant.md",
-    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen Narratives/Increasing notoriety.md",
-    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen Narratives/Her house.md",
-    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen Narratives/Gone for a day.md",
-    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen Narratives/Flowers.md",
-    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen Narratives/Feelings to be addressed.md",
-    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen Narratives/Duality of an officer.md",
     "ᐳExternal Assets/Scripts/runTest.bat~",
     "ᐳExternal Assets/Scripts/update_timeline.py",
     "ᐳExternal Assets/Scripts/runTest.bat",
