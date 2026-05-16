@@ -17,9 +17,13 @@ Background:
 
 Narrative Idea:
 - He's a reoccurring character in the Krystalle Eos Narratives
-- He was Past Krystalle's Resource Specialist
+- (Past) Krystalle knew him as an Ovis Virken but later learned about his Lupus origin because of an equipment malfunction
+- He was also Past Krystalle's Resource Specialist
 - He gives Krystalle (past and present) advice
 - He vouched for Mhax's recue operation and gave Krystalle extra resources
+- He now hides his origin to the current Krystalle
+- He secretly envies Krystalle's amnesia
+- Older agents treat him with high respect but nobody would tell why (classified)
 
 ---
 
