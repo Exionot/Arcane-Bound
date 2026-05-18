@@ -4,109 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "231a9a40dedd29ed",
+        "id": "f295286ffdb7db80",
         "type": "tabs",
         "children": [
           {
-            "id": "70199095811beb0a",
+            "id": "33ea6f4a7a845f0e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arcane-Bound/Worlds Collide/03 Locations/03 Nations/Republic of Chloros.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Republic of Chloros"
-            }
-          },
-          {
-            "id": "854cc174300930f0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Arcane-Bound/Worlds Collide/04 Systems/02 Technology/Void Crystal.md",
-                "mode": "source",
+                "file": "Homepage.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Void Crystal"
-            }
-          },
-          {
-            "id": "ddd47a19ce61b401",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Void to Arcaenic Crystal Transmutation + misc..md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Void to Arcaenic Crystal Transmutation + misc."
-            }
-          },
-          {
-            "id": "949922876aa31802",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Glasses for Virkens.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Glasses for Virkens"
-            }
-          },
-          {
-            "id": "8a09428cd53eb062",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Arcane-Bound/Worlds Collide/00 Ideas/Hollow people and null's disease.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Hollow people and null's disease"
-            }
-          },
-          {
-            "id": "e5448963f316071a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Arcane-Bound/Worlds Collide/06 Items - Equipments/Arcaenian Band.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Arcaenian Band"
-            }
-          },
-          {
-            "id": "3462d954b82954cd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Arcane-Bound/Worlds Collide/00 Ideas/Spellcasting and cast types.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Spellcasting and cast types"
+              "title": "Homepage"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -323,21 +238,22 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "949922876aa31802",
+  "active": "33ea6f4a7a845f0e",
   "lastOpenFiles": [
-    "Void to Arcaenic Crystal Transmutation + misc..md",
+    "Arcane-Bound/Worlds Collide/04 Systems/02 Technology/Void Crystal.md",
+    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/00 Extra Story/EX - Invisible Barrier.md",
+    "Arcane-Bound/Worlds Collide/01 Characters/Krystalle Eos.md",
+    "Old Man John Char Idea.md",
+    "Arcane-Bound/Worlds Collide/03 Locations/03 Nations/Republic of Chloros.md",
     "Glasses for Virkens.md",
+    "Void to Arcaenic Crystal Transmutation + misc..md",
     "Arcane-Bound/Worlds Collide/06 Items - Equipments/Arcaenian Band.md",
     "Arcane-Bound/Worlds Collide/00 Ideas/Hollow people and null's disease.md",
-    "Arcane-Bound/Worlds Collide/04 Systems/02 Technology/Void Crystal.md",
     "Arcane-Bound/Worlds Collide/00 Ideas/Spellcasting and cast types.md",
     "Arcane-Bound/Worlds Collide/04 Systems/01 Magic/Mana.md",
-    "Arcane-Bound/Worlds Collide/03 Locations/03 Nations/Republic of Chloros.md",
     "Homepage.md",
-    "Old Man John Char Idea.md",
     "Arcane-Bound/Worlds Collide/01 Characters/Estella Ameshi.md",
     "nonhuman.md",
-    "Arcane-Bound/Worlds Collide/01 Characters/Krystalle Eos.md",
     "Arcane-Bound/Worlds Collide/01 Characters/Mhaxxine Dark.md",
     "Arcane-Bound/Worlds Collide/04 Systems/01 Magic/Elemental Magic.md",
     "Arcane-Bound/Worlds Collide/04 Systems/01 Magic/Arcaenian Magic.md",
@@ -350,7 +266,6 @@
     "Arcane-Bound/Worlds Collide/06 Items - Equipments/Evergreen.md",
     "Arcane-Bound/Worlds Collide/07 Lore/02 Terminologies/Stakes Running.md",
     "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Timeline.md",
-    "Arcane-Bound/Worlds Collide/07 Lore/03 Species/Virken.md",
     "ᐳExternal Assets/Scripts/runTest.bat~",
     "ᐳExternal Assets/Scripts/update_timeline.py",
     "ᐳExternal Assets/Scripts/runTest.bat",
