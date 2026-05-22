@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f295286ffdb7db80",
+        "id": "e8b5f1e7adc0d225",
         "type": "tabs",
         "children": [
           {
-            "id": "33ea6f4a7a845f0e",
+            "id": "219bbd26846075ed",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -234,12 +234,12 @@
       "homepage:Open homepage": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-shellcommands:Shell commands: Custom variables": false,
-      "calendarium:Open Calendarium": false
+      "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "33ea6f4a7a845f0e",
+  "active": "219bbd26846075ed",
   "lastOpenFiles": [
+    "Homepage.md",
     "Arcane-Bound/Worlds Collide/04 Systems/02 Technology/Void Crystal.md",
     "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/00 Extra Story/EX - Invisible Barrier.md",
     "Arcane-Bound/Worlds Collide/01 Characters/Krystalle Eos.md",
@@ -251,7 +251,6 @@
     "Arcane-Bound/Worlds Collide/00 Ideas/Hollow people and null's disease.md",
     "Arcane-Bound/Worlds Collide/00 Ideas/Spellcasting and cast types.md",
     "Arcane-Bound/Worlds Collide/04 Systems/01 Magic/Mana.md",
-    "Homepage.md",
     "Arcane-Bound/Worlds Collide/01 Characters/Estella Ameshi.md",
     "nonhuman.md",
     "Arcane-Bound/Worlds Collide/01 Characters/Mhaxxine Dark.md",
