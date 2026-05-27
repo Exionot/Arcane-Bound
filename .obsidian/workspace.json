@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e8b5f1e7adc0d225",
+        "id": "d2924bb0ba9c2885",
         "type": "tabs",
         "children": [
           {
-            "id": "219bbd26846075ed",
+            "id": "bd442ef822917211",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -238,11 +238,11 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "219bbd26846075ed",
+  "active": "bd442ef822917211",
   "lastOpenFiles": [
+    "Homepage.md",
     "Relic Stuff.md",
     "Normie girl and royal guy.md",
-    "Homepage.md",
     "Arcane-Bound/Worlds Collide/04 Systems/02 Technology/Void Crystal.md",
     "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/00 Extra Story/EX - Invisible Barrier.md",
     "Arcane-Bound/Worlds Collide/01 Characters/Krystalle Eos.md",
