@@ -32,6 +32,7 @@ posterImage:
   - Arcane-Bound/Archives/Staying Minty Final.png
   - Arcane-Bound/Archives/Arcane Origins Final.png
   - Arcane-Bound/Archives/Feeling Relaxed Final.png
+  - Arcane-Bound/Archives/Mint n' Gold Final.png
 aliases:
   - Mint
 relations:

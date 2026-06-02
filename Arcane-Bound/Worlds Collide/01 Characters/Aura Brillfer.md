@@ -29,6 +29,7 @@ aliases:
   - Aura
 posterImage:
   - Arcane-Bound/Archives/Golden Aura Final.png
+  - Arcane-Bound/Archives/Mint n' Gold Final.png
 relations:
   - Mint Evergreen
   - Renze Luna
