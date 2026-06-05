@@ -131,6 +131,10 @@ strong,
   font-weight: 900 !important; 
 }
 
+a:hover {
+	text-decoration: underline !important;
+}
+
 /* i strong,
 .markdown-preview-view i strong{
 	color: var(--italic-color);

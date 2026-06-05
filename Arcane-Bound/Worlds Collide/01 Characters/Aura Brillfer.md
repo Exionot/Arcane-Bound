@@ -1,5 +1,16 @@
 ---
 type: character
+category:
+  - Characters
+  - Characters with Thread
+  - Gen 0 Characters
+  - Virken
+  - Feline
+  - Caster
+  - Fluxpoint City
+  - Relayton Complex
+  - Protection Of Local Livelihood
+  - Ace Responders
 location:
   nation:
     - NeoTech Union
@@ -222,3 +233,7 @@ for (const group of groups) {
   dv.el("div", lines.join("\n"));
 }
 ```
+
+---
+
+**Categories:** `$= dv.span(dv.current().category ? dv.current().category.map(p => "[[" + "Arcane-Bound/Worlds Collide/99 Extras/Categories/" + p + " | " + p + "]]").join(" | ") : "")`

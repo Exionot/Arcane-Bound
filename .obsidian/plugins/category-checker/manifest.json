@@ -1,0 +1,9 @@
+{
+	"id": "category-checker",
+        "name": "Category Checker",
+	"version": "1.0.0",
+	"minAppVersion": "1.5.0",
+	"description": "Checks if a note on the 'Categories' folder has a matching name, then auto appends a link to the main note.",
+	"author": "Exionot",
+	"isDesktopOnly": false
+}
