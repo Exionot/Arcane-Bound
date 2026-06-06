@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f043e60f6aca8475",
+        "id": "a79d5dcfabdbad4f",
         "type": "tabs",
         "children": [
           {
-            "id": "263e1eea8397d51e",
+            "id": "c1d3574932e505d3",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -41,7 +41,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -239,8 +239,10 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "263e1eea8397d51e",
+  "active": "c1d3574932e505d3",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Homepage.md",
     "Wiki Sample - Victoria Veloux Canidel.md",
     "Arcane-Bound/Worlds Collide/01 Characters/Victoria Veloux Canidel.md",
     "Arcane-Bound/Worlds Collide/01 Characters/Aura Brillfer.md",
@@ -266,8 +268,6 @@
     "Arcane-Bound/Worlds Collide/99 Extras/Categories/Protection Of Local Livelihood.md",
     "Arcane-Bound/Worlds Collide/99 Extras/Categories/Characters.md",
     "Arcane-Bound/Worlds Collide/99 Extras/Categories/Ace Responders.md",
-    "Arcane-Bound/Worlds Collide/02 Factions/Blackreign Gang.md",
-    "Templates/Character.md",
     "Arcane-Bound/Worlds Collide/99 Extras/Categories",
     "Arcane-Bound/Archives/Mint n' Gold Final.png",
     "ᐳExternal Assets/Scripts/runTest.bat~",
