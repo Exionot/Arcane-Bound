@@ -4,35 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "f043e60f6aca8475",
         "type": "tabs",
         "children": [
           {
-            "id": "ccc3909fabc5ec4b",
+            "id": "263e1eea8397d51e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arcane-Bound/Worlds Collide/01 Characters/Victoria Veloux Canidel.md",
+                "file": "Homepage.md",
                 "mode": "preview",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Victoria Veloux Canidel"
-            }
-          },
-          {
-            "id": "e7a7b303c61786dc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wiki Sample - Victoria Veloux Canidel.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Wiki Sample - Victoria Veloux Canidel"
+              "title": "Homepage"
             }
           }
         ]
@@ -253,7 +239,7 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "ccc3909fabc5ec4b",
+  "active": "263e1eea8397d51e",
   "lastOpenFiles": [
     "Wiki Sample - Victoria Veloux Canidel.md",
     "Arcane-Bound/Worlds Collide/01 Characters/Victoria Veloux Canidel.md",
