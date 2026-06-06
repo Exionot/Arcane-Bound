@@ -4,21 +4,49 @@
     "type": "split",
     "children": [
       {
-        "id": "1c8f5c87469e55ca",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "e95cfa018e815caa",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homepage.md",
-                "mode": "preview",
+                "file": "Arcane-Bound/Worlds Collide/01 Characters/Victoria Veloux Canidel.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Victoria Veloux Canidel"
+            }
+          },
+          {
+            "id": "ccc3909fabc5ec4b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Victoria Veloux Canidel Narratives/The convergence (Victoria Veloux Canidel).md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Homepage"
+              "title": "The convergence (Victoria Veloux Canidel)"
+            }
+          },
+          {
+            "id": "b9935a89a56b0eb8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Old Man John Char Idea.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Old Man John Char Idea"
             }
           }
         ]
@@ -239,36 +267,36 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "e95cfa018e815caa",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Templates/Category.md",
+    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Victoria Veloux Canidel Narratives/The convergence (Victoria Veloux Canidel).md",
+    "Arcane-Bound/Worlds Collide/01 Characters/Victoria Veloux Canidel.md",
+    "Arcane-Bound/Worlds Collide/01 Characters/Ted Ursa.md",
+    "Arcane-Bound/Worlds Collide/01 Characters/Rem Orion.md",
+    "Arcane-Bound/Worlds Collide/01 Characters/Underworldian - Clair.md",
+    "Arcane-Bound/Worlds Collide/01 Characters/Clair Tempest.md",
+    "Arcane-Bound/Worlds Collide/01 Characters/Ion Kynne.md",
+    "Arcane-Bound/Worlds Collide/01 Characters/Estella Ameshi.md",
+    "Arcane-Bound/Worlds Collide/01 Characters/Mint Evergreen.md",
+    "Arcane-Bound/Worlds Collide/01 Characters/Mhaxxine Dark.md",
+    "Arcane-Bound/Worlds Collide/01 Characters/Krystalle Eos.md",
     "Arcane-Bound/Worlds Collide/01 Characters/Aura Brillfer.md",
+    "Old Man John Char Idea.md",
+    "Templates/Category.md",
+    "Arcane-Bound/Worlds Collide/99 Extras/Categories/Protection Of Local Livelihood.md",
+    "Arcane-Bound/Worlds Collide/99 Extras/Categories/Characters.md",
+    "Arcane-Bound/Worlds Collide/99 Extras/Categories/Ace Responders.md",
+    "Arcane-Bound/Worlds Collide/02 Factions/Blackreign Gang.md",
+    "Templates/Character.md",
+    "Arcane-Bound/Worlds Collide/07 Lore/03 Species/Virken.md",
+    "Arcane-Bound/Worlds Collide/99 Extras/Categories/ooiiaa.md",
+    "Homepage.md",
+    "Glasses for Virkens.md",
     "Untitled.md",
     "Arcane-Bound/Worlds Collide/99 Extras/Categories/Mint Evergreen.md",
-    "Arcane-Bound/Worlds Collide/01 Characters/Clair Tempest.md",
     "Arcane-Bound/Worlds Collide/99 Extras/Categories",
-    "Arcane-Bound/Worlds Collide/01 Characters/Victoria Veloux Canidel.md",
-    "Arcane-Bound/Worlds Collide/01 Characters/Ion Kynne.md",
-    "Glasses for Virkens.md",
     "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/00 Extra Story/EX - Invisible Barrier.md",
-    "Normie girl and royal guy.md",
-    "Void to Arcaenic Crystal Transmutation + misc..md",
-    "Old Man John Char Idea.md",
-    "nonhuman.md",
-    "Arcane-Bound/Worlds Collide/01 Characters/Mint Evergreen.md",
-    "Homepage.md",
     "Arcane-Bound/Archives/Mint n' Gold Final.png",
-    "Templates/Mission Report.md",
-    "Templates/Contract.md",
-    "Relic Stuff.md",
-    "Arcane-Bound/Worlds Collide/04 Systems/02 Technology/Void Crystal.md",
-    "Arcane-Bound/Worlds Collide/01 Characters/Krystalle Eos.md",
-    "Arcane-Bound/Worlds Collide/03 Locations/03 Nations/Republic of Chloros.md",
-    "Arcane-Bound/Worlds Collide/06 Items - Equipments/Arcaenian Band.md",
-    "Arcane-Bound/Worlds Collide/00 Ideas/Hollow people and null's disease.md",
-    "Arcane-Bound/Worlds Collide/00 Ideas/Spellcasting and cast types.md",
-    "Arcane-Bound/Worlds Collide/04 Systems/01 Magic/Mana.md",
-    "Arcane-Bound/Worlds Collide/01 Characters/Estella Ameshi.md",
     "ᐳExternal Assets/Scripts/runTest.bat~",
     "ᐳExternal Assets/Scripts/update_timeline.py",
     "ᐳExternal Assets/Scripts/runTest.bat",

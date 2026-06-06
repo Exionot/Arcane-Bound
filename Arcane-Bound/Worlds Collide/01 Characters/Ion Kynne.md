@@ -1,5 +1,18 @@
 ---
 type: character
+category:
+  - Characters
+  - Characters with Thread
+  - Gen 0 Characters
+  - Virken
+  - Canis
+  - Magic
+  - Thundra
+  - Caster
+  - Stakes Running
+  - Arcaena
+  - Ohmpalos City
+  - Wandering Traders of Arcaena
 location:
   origin: Ohmpalos City
   nation: Amphors Kingdom

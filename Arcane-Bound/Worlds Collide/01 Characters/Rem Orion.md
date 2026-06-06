@@ -1,5 +1,13 @@
 ---
 type: character
+category:
+  - Characters
+  - Gen 0 Characters
+  - Human
+  - Non-Caster
+  - Synthspire
+  - Astral City
+  - Starveil Retrieval Co.
 location:
  nation: HyperCorp Republic
  city: Astral City

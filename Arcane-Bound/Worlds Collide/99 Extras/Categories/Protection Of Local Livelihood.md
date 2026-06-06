@@ -1,7 +1,9 @@
 ---
 type: category
-hasAppended: false
+hasAppended: true
 ---
+
+> The main note for this category is [[Arcane-Bound/Worlds Collide/02 Factions/Protection Of Local Livelihood | Protection Of Local Livelihood]]
 
 ```dataviewjs
 const pages = dv.pages().where(p => p.category && p.category.includes(dv.current().file.name));

@@ -1,5 +1,23 @@
 ---
 type: character
+category:
+  - Characters
+  - Characters with Thread
+  - Gen 0 Characters
+  - Virken
+  - Feline
+  - Magic
+  - Flora
+  - Vitalis
+  - Caster
+  - Evergreen
+  - Convergence
+  - Arcaena
+  - Lenben Village
+  - Synthspire
+  - Fluxpoint City
+  - Academy of Healers
+  - Guild of Arcane Healers
 location:
   nation: Verdthorne Kingdom
   city:

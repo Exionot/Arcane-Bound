@@ -1,5 +1,18 @@
 ---
 type: character
+category:
+  - Characters
+  - Gen 0 Characters
+  - Human
+  - Caster
+  - Null's Disease
+  - Void Crystal
+  - Synthspire
+  - NULL Region
+  - Void Operation & Investigation Department
+  - Void Special Operation Division 1
+  - Dawn Squad
+  - Blackreign Gang
 location:
   origin: Rockcore City
   nation:

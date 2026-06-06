@@ -7,6 +7,8 @@ category:
   - Virken
   - Feline
   - Caster
+  - Convergence
+  - Synthspire
   - Fluxpoint City
   - Relayton Complex
   - Protection Of Local Livelihood

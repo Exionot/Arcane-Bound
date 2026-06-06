@@ -12,7 +12,7 @@
   "enable_system_commands": true,
   "shell_path": "",
   "user_scripts_folder": "",
-  "enable_folder_templates": false,
+  "enable_folder_templates": true,
   "folder_templates": [
     {
       "folder": "On The Side - We're The Builders of Our World/04 Lore/Moments",
@@ -49,6 +49,10 @@
     {
       "folder": "On The Side - We're The Builders of Our World/05 Factions - Organizations",
       "template": "Templates/Faction.md"
+    },
+    {
+      "folder": "Arcane-Bound/Worlds Collide/99 Extras/Categories",
+      "template": "Templates/Category.md"
     }
   ],
   "enable_file_templates": false,

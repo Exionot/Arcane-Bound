@@ -1,5 +1,17 @@
 ---
 type: character
+category:
+  - Characters
+  - Gen 0 Characters
+  - Virken
+  - Ursus
+  - Beast
+  - Magic
+  - Swordsman
+  - Caster
+  - Arcaena
+  - Lushfall Town
+  - Wandering Traders of Arcaena
 location:
   origin: Lushfall Town
   nation: Erde Kingdom

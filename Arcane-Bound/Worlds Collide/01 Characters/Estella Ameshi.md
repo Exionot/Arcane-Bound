@@ -1,8 +1,20 @@
 ---
 type: character
+category:
+  - Characters
+  - Gen 1 Characters
+  - Virken
+  - Equus
+  - Magic
+  - Caster
+  - Stakes Running
+  - Stakes Runner
+  - Arcaena
+  - Yushinami City
+  - Wandering Traders of Arcaena
 location:
  origin: Yushinami City
- nation: Erder Kingdom
+ nation: Erde Kingdom
  city: Yushinami City
  town: 
  village: 

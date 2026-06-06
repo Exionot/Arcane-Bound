@@ -1,5 +1,15 @@
 ---
 type: character
+category:
+  - Characters
+  - Gen 0 Characters
+  - Devil
+  - Magic
+  - Pyra
+  - Caster
+  - Multiple Personalities
+  - Arcaena
+  - Underworld
 location:
  origin: 
  nation: Verdthorne Kingdom

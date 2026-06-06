@@ -1,5 +1,17 @@
 ---
 type: character
+category:
+  - Characters
+  - Gen 0 Characters
+  - Devil
+  - Magic
+  - Flora
+  - Vitalis
+  - Caster
+  - Multiple Personalities
+  - Arcaena
+  - Vilebloom Forest
+  - Underworld
 location:
   origin: Unknown
   nation: Verdthorne Kingdom

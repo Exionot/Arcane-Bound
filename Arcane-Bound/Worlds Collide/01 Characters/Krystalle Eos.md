@@ -1,5 +1,23 @@
 ---
 type: character
+category:
+  - Characters
+  - Gen 0 Characters
+  - Virken
+  - Vulpes
+  - Caster
+  - Null's Disease
+  - Void Crystal
+  - Amnesia
+  - Synthspire
+  - Evemark City
+  - NULL Region
+  - Void Operation & Investigation Department
+  - Void Special Operation Division 1
+  - Dawn Squad
+  - Void Special Operation Division 9
+  - Ranger Squad
+  - Taskforce Icarus
 location:
   origin: Evemark City
   nation: Republic of Chloros

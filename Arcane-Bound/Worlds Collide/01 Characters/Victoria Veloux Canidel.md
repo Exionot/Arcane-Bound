@@ -1,5 +1,18 @@
 ---
 type: character
+category: 
+  - Characters
+  - Characters with Thead
+  - Gen 0 Characters
+  - Virken
+  - Vulpes
+  - Caster
+  - Vixen's Claws
+  - Synthspire
+  - Lightspeed City
+  - Canidel Family
+  - High Alliance on Terran Society
+  - Starveil Retrieval Co.
 location:
   nation: HyperCorp Republic
   city: Astral City
