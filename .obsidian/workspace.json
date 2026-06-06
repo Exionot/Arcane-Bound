@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arcane-Bound/Worlds Collide/01 Characters/Victoria Veloux Canidel.md",
+                "file": "Wiki Sample - Victoria Veloux Canidel.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Victoria Veloux Canidel"
+              "title": "Wiki Sample - Victoria Veloux Canidel"
             }
           },
           {
@@ -116,7 +116,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 316.5
+    "width": 316.5,
+    "collapsed": true
   },
   "right": {
     "id": "446c418154317ee3",
@@ -269,8 +270,9 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Victoria Veloux Canidel Narratives/The convergence (Victoria Veloux Canidel).md",
     "Arcane-Bound/Worlds Collide/01 Characters/Victoria Veloux Canidel.md",
+    "Wiki Sample - Victoria Veloux Canidel.md",
+    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Victoria Veloux Canidel Narratives/The convergence (Victoria Veloux Canidel).md",
     "Arcane-Bound/Worlds Collide/01 Characters/Ted Ursa.md",
     "Arcane-Bound/Worlds Collide/01 Characters/Rem Orion.md",
     "Arcane-Bound/Worlds Collide/01 Characters/Underworldian - Clair.md",
@@ -295,7 +297,6 @@
     "Untitled.md",
     "Arcane-Bound/Worlds Collide/99 Extras/Categories/Mint Evergreen.md",
     "Arcane-Bound/Worlds Collide/99 Extras/Categories",
-    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/00 Extra Story/EX - Invisible Barrier.md",
     "Arcane-Bound/Archives/Mint n' Gold Final.png",
     "ᐳExternal Assets/Scripts/runTest.bat~",
     "ᐳExternal Assets/Scripts/update_timeline.py",
