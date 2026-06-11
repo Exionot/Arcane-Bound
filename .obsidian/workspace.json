@@ -8,20 +8,49 @@
         "type": "tabs",
         "children": [
           {
+            "id": "65854709b82f4c8e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Arcane-Bound/Worlds Collide/99 Extras/Misc/Character Navigation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Character Navigation"
+            }
+          },
+          {
             "id": "dbe8b98f73bcd813",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homepage.md",
-                "mode": "source",
-                "source": false
+                "file": "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/00 Extra Story/EX - A little greedy.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Homepage"
+              "title": "EX - A little greedy"
+            }
+          },
+          {
+            "id": "6d189eb7a1f1ce1b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Arcane-Bound/Worlds Collide/03 Locations/03 Nations/Amphors Kingdom.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Amphors Kingdom"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -41,7 +70,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": true
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -53,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "dataviewjs",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -241,11 +270,23 @@
   },
   "active": "dbe8b98f73bcd813",
   "lastOpenFiles": [
+    "Arcane-Bound/Worlds Collide/01 Characters/Mint Evergreen.md",
+    "Homepage.md",
+    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/00 Extra Story/EX - A little greedy.md",
+    "Arcane-Bound/Worlds Collide/99 Extras/Misc/Character Navigation.md",
+    "Arcane-Bound/Worlds Collide/03 Locations/03 Nations/Amphors Kingdom.md",
+    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/00 Extra Story/EX - Charming fox.md",
+    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/00 Extra Story/EX - Clever Getaway.md",
+    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/00 Extra Story/EX - Invisible Barrier.md",
+    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/00 Extra Story/EX - Like a kitty.md",
+    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/00 Extra Story/EX - Needy kitty.md",
+    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/02 Prose Snippets/Need.md",
+    "Synthspire digi currency.md",
+    "Untitled 1.md",
     "Arcane-Bound/Worlds Collide/00 Ideas/Historical Names and terminology or smth.md",
     "Arcane-Bound/Worlds Collide/00 Ideas/How two worlds merge.md",
     "Arcane-Bound/Worlds Collide/00 Ideas/How would synthspire use magic.md",
     "Arcane-Bound/Worlds Collide/00 Ideas/Mana and Mana != magic affinity.md",
-    "Arcane-Bound/Worlds Collide/01 Characters/Mint Evergreen.md",
     "Arcane-Bound/Worlds Collide/01 Characters/Estella Ameshi.md",
     "Arcane-Bound/Worlds Collide/01 Characters/Mhaxxine Dark.md",
     "Arcane-Bound/Worlds Collide/01 Characters/Krystalle Eos.md",
@@ -255,19 +296,7 @@
     "Arcane-Bound/Worlds Collide/01 Characters/Victoria Veloux Canidel.md",
     "Arcane-Bound/Worlds Collide/01 Characters/Ion Kynne.md",
     "Arcane-Bound/Worlds Collide/01 Characters/Clair Tempest.md",
-    "Arcane-Bound/Worlds Collide/01 Characters/Aura Brillfer.md",
-    "Old Man John Char Idea.md",
-    "Homepage.md",
-    "Untitled.md",
-    "Wiki Sample - Victoria Veloux Canidel.md",
-    "Arcane-Bound/Worlds Collide/99 Extras/Categories/Gen 0 Characters.md",
-    "Arcane-Bound/Worlds Collide/99 Extras/Misc/Navigation.md",
     "Arcane-Bound/Worlds Collide/99 Extras/Misc",
-    "Wiki4.md",
-    "Mint_Evergreen_Wiki_Reconstruction_Full.md",
-    "Wiki2.md",
-    "Wiki3.md",
-    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Victoria Veloux Canidel Narratives/The convergence (Victoria Veloux Canidel).md",
     "Arcane-Bound/Worlds Collide/99 Extras/Categories",
     "Arcane-Bound/Archives/Mint n' Gold Final.png",
     "ᐳExternal Assets/Scripts/runTest.bat~",

@@ -132,7 +132,7 @@ INPUT[imageListSuggester(optionQuery("ᐳExternal Assets"), class(gallery-img)):
 ---
 
 # **Navigation**
-![[Navigation]]
+![[Character Navigation]]
 
 ---
 

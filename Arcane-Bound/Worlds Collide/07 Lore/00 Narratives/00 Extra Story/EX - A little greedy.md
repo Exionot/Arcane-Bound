@@ -1,5 +1,8 @@
 ---
 type: narrative 
+characters:
+  - Mint Evergreen
+  - Aura Brillfer
 cssclasses:
   - narrative
 ---
@@ -7,8 +10,7 @@ cssclasses:
 # **Basic Information**
 **Title**: A little greedy
 **Character/s**:
-- [[Mint Evergreen]]
-- [[Aura Brillfer]]
+`$= dv.span(dv.current().characters ? dv.current().characters.map(p => "==[[" + p + "]]==").join("\n") : "")`
 
 **Location**: [[Aura's Apartment]]
 **Time of Occurrence**: Unknown

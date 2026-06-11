@@ -178,6 +178,37 @@ The only person that has become more important than magic. She is **Mint**'s lov
 TABLE systemType as "Type" WHERE contains(this.systemUsed, file.name)
 ```
 ## Narratives
+
+```dataviewjs
+const narrativeFolder = "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives";
+const pages = dv.pages(`"${narrativeFolder}"`).where(p => p.type == "narrative");
+
+let groupedPages = pages.groupBy(p => p.file.folder ?? null);
+groupedPages = groupedPages.array().sort((a, b) => {
+  // null goes last
+  if (a.key === null) return 1;
+  if (b.key === null) return -1;
+  return a.key.localeCompare(b.key);
+});
+
+//dv.el("div", groupedPages[0].rows[0].file);
+for (const group of groupedPages){
+	const lastSlash = (group.key).lastIndexOf("/");
+	const folderName = (group.key).slice(lastSlash + 1) ?? "No Folder";
+	
+	let lines = [];
+	
+	for (const narrative of group.rows){
+		const characterArr = narrative.file.frontmatter.characters ?? null;
+		if (characterArr === null || !characterArr.includes(dv.current().file.name)) continue;
+		lines.push(`> [!navigation]- ${folderName}`);
+		lines.push(`> - ${narrative.file.link}`);
+	}
+	
+	dv.el("div", lines.join("\n"));
+}
+```
+
 ```dataview
 TABLE
   regexreplace(file.folder, ".*/", "") AS "Character Thread"
@@ -207,7 +238,7 @@ INPUT[imageListSuggester(optionQuery("ᐳExternal Assets"), class(gallery-img)):
 ---
 
 # **Navigation**
-![[Navigation]]
+![[Character Navigation]]
 
 ---
 
