@@ -1,15 +1,23 @@
 ---
 type: narrative 
+characters:
+  - Ion Kynne
+  - Victoria Veloux Canidel
+location:
+  - Fontur City Circle
+time:
+  year: 2405
+  month: Winter
+  day: 24th
+related:
 cssclasses:
   - narrative
 ---
 
-**Character/s**:
-- [[Ion Kynne]]
-- [[Victoria Veloux Canidel]]
-
-**Location**: [[Fontur City Circle]]
-**Time of Occurrence**: 2405, Winter, Night of the Winter Star
+**Character/s**: `$= dv.span(dv.current().characters ? dv.current().characters.map(p => "==[[" + p + "]]==").join(" ") : "")`
+**Location**: `$= dv.span(dv.current().location == ('unknown' || 'Unknown') ? 'Unknown' : dv.current().location ? dv.current().location.map(p => "==[[" + p + "]]==").join(" ") : "Unknown")`
+**Time of Occurrence**: `$= dv.span(dv.current().time == ('unknown' || 'Unknown') ? 'Unknown' : dv.current().time ? dv.current().time.year + ", " + dv.current().time.day + " of " + dv.current().time.month : "Unknown")`
+`$= dv.span(dv.current().related ? "**Related:** " + dv.current().related.map(p => "==[[" + p + "]]==").join(" ") : "")`
 
 *Ion and Vi are sitting together on a bench on the outskirts of the city's circle watching as the first snowflakes fall. As the two were about to return to the inn, Ion calls out to Vi.*
 

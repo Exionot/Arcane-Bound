@@ -1,5 +1,11 @@
 ---
 type: narrative
+characters:
+  - Mint Evergreen
+  - Ion Kynne
+location:
+  - Lenben Village
+related:
 time:
   year: 2405
   month: Late Autumn
@@ -8,9 +14,10 @@ cssclasses:
   - narrative
 ---
 
-**Character/s**: [[Mint Evergreen]], [[Ion Kynne]]
-**Location**: [[Lenben Village]]
-**Time of Occurrence**: 2405, 28th of Late Autumn
+**Character/s**: `$= dv.span(dv.current().characters ? dv.current().characters.map(p => "==[[" + p + "]]==").join(" ") : "")`
+**Location**: `$= dv.span(dv.current().location == ('unknown' || 'Unknown') ? 'Unknown' : dv.current().location ? dv.current().location.map(p => "==[[" + p + "]]==").join(" ") : "Unknown")`
+**Time of Occurrence**: `$= dv.span(dv.current().time == ('unknown' || 'Unknown') ? 'Unknown' : dv.current().time ? dv.current().time.year + ", " + dv.current().time.day + " of " + dv.current().time.month : "Unknown")`
+`$= dv.span(dv.current().related ? "**Related:** " + dv.current().related.map(p => "==[[" + p + "]]==").join(" ") : "")`
 
 *It is a peaceful morning in Lenben. Mint is tending to her plants when suddenly, a familiar voice shouts her name. Mint turns around and sees Ion Kynne, one of her friends from the Wandering Traders of Arcaena, walking towards her.*
 

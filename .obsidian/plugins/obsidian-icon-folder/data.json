@@ -6,6 +6,7 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiCalendarClock",
       "LiAlbum",
       "LiArchive",
       "LiGlobe2"
@@ -35,5 +36,6 @@
   "Homepage.md": "LiGlobe2",
   "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Victoria Veloux Canidel Narratives/Victoria Veloux Canidel Narratives Manuscript.md": "LiAlbum",
   "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen Narratives/Mint Evergreen Narratives Manuscript.md": "LiAlbum",
-  "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Aura Brillfer Narratives/Aura Brillfer Narratives Manuscript.md": "LiAlbum"
+  "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Aura Brillfer Narratives/Aura Brillfer Narratives Manuscript.md": "LiAlbum",
+  "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Timeline.md": "LiCalendarClock"
 }

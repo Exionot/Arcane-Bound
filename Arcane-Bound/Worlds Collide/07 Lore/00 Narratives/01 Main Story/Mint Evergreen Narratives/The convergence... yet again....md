@@ -1,5 +1,12 @@
 ---
 type: narrative 
+characters:
+  - Mint Evergreen
+  - Ion Kynne
+location:
+  - Rhilekos City
+  - Amphere Square
+related:
 time:
   year: 2405
   month: Early Winter
@@ -8,15 +15,10 @@ cssclasses:
   - narrative
 ---
 
-**Character/s**: 
-- [[Mint Evergreen]]
-- [[Ion Kynne]]
-
-**Location**:
-- [[Rhilekos City]]
-- [[Fluxpoint City]]
-
-**Time of Occurrence**: 2405, 3rd of Early Winter
+**Character/s**: `$= dv.span(dv.current().characters ? dv.current().characters.map(p => "==[[" + p + "]]==").join(" ") : "")`
+**Location**: `$= dv.span(dv.current().location == ('unknown' || 'Unknown') ? 'Unknown' : dv.current().location ? dv.current().location.map(p => "==[[" + p + "]]==").join(" ") : "Unknown")`
+**Time of Occurrence**: `$= dv.span(dv.current().time == ('unknown' || 'Unknown') ? 'Unknown' : dv.current().time ? dv.current().time.year + ", " + dv.current().time.day + " of " + dv.current().time.month : "Unknown")`
+`$= dv.span(dv.current().related ? "**Related:** " + dv.current().related.map(p => "==[[" + p + "]]==").join(" ") : "")`
 
 *It is the morning, the wanderers are preparing to go to Sol Capital. Mint is looking at one of the market stalls in the area.*
 

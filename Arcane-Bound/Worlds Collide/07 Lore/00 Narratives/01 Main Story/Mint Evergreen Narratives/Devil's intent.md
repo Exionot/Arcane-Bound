@@ -1,5 +1,11 @@
 ---
 type: narrative
+characters:
+  - Mint Evergreen
+  - Clair Tempest
+location:
+  - Vilebloom Forest
+related:
 time:
   year: 2405
   month: Early Winter
@@ -8,9 +14,10 @@ cssclasses:
   - narrative
 ---
 
-**Character/s**: [[Mint Evergreen]], [[Clair Tempest]]
-**Location**: [[Vilebloom Forest]]
-**Time of Occurrence**: 2405, 2nd of Early Winter
+**Character/s**: `$= dv.span(dv.current().characters ? dv.current().characters.map(p => "==[[" + p + "]]==").join(" ") : "")`
+**Location**: `$= dv.span(dv.current().location == ('unknown' || 'Unknown') ? 'Unknown' : dv.current().location ? dv.current().location.map(p => "==[[" + p + "]]==").join(" ") : "Unknown")`
+**Time of Occurrence**: `$= dv.span(dv.current().time == ('unknown' || 'Unknown') ? 'Unknown' : dv.current().time ? dv.current().time.year + ", " + dv.current().time.day + " of " + dv.current().time.month : "Unknown")`
+`$= dv.span(dv.current().related ? "**Related:** " + dv.current().related.map(p => "==[[" + p + "]]==").join(" ") : "")`
 
 *Mint awakens once again and now finds herself in front of a fireplace of an old cabin. Silk-like threads still bind her hands and feet.*
 

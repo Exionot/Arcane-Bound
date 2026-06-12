@@ -1,5 +1,12 @@
 ---
 type: narrative 
+characters:
+  - Mint Evergreen
+  - Clay Wulfo
+  - Rosy Wulfo
+location:
+  - Lenben Village
+related:
 time:
   year: 2405
   month: Early Winter
@@ -8,13 +15,10 @@ cssclasses:
   - narrative
 ---
 
-**Character/s**:
-- [[Mint Evergreen]]
-- [[Clay Wulfo]]
-- [[Rosy Wulfo]]
-
-**Location**: [[Lenben Village]]
-**Time of Occurrence**: 2405, 2nd of Early Winter
+**Character/s**: `$= dv.span(dv.current().characters ? dv.current().characters.map(p => "==[[" + p + "]]==").join(" ") : "")`
+**Location**: `$= dv.span(dv.current().location == ('unknown' || 'Unknown') ? 'Unknown' : dv.current().location ? dv.current().location.map(p => "==[[" + p + "]]==").join(" ") : "Unknown")`
+**Time of Occurrence**: `$= dv.span(dv.current().time == ('unknown' || 'Unknown') ? 'Unknown' : dv.current().time ? dv.current().time.year + ", " + dv.current().time.day + " of " + dv.current().time.month : "Unknown")`
+`$= dv.span(dv.current().related ? "**Related:** " + dv.current().related.map(p => "==[[" + p + "]]==").join(" ") : "")`
 
 *Mint arrives at Lenben Village. as she enters the village she bumps into Clay, a friend of hers.*
 

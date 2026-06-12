@@ -1,16 +1,24 @@
 ---
 type: narrative 
+characters:
+  - Ion Kynne
+  - Ted Ursa
+  - Estella Ameshi
+location:
+  - Yushinami Stakes Course
+time:
+  year: 2401
+  month: Late Winter
+  day: 1st
+related:
 cssclasses:
   - narrative
 ---
 
-**Character/s**:
-- [[Ion Kynne]]
-- [[Ted Ursa]]
-- [[Estella Ameshi|Estella "Still Thunder" Ameshi]]
-
-**Location**: [[Yushinami Stakes Course]]
-**Related:**
+**Character/s**: `$= dv.span(dv.current().characters ? dv.current().characters.map(p => "==[[" + p + "]]==").join(" ") : "")`
+**Location**: `$= dv.span(dv.current().location == ('unknown' || 'Unknown') ? 'Unknown' : dv.current().location ? dv.current().location.map(p => "==[[" + p + "]]==").join(" ") : "Unknown")`
+**Time of Occurrence**: `$= dv.span(dv.current().time == ('unknown' || 'Unknown') ? 'Unknown' : dv.current().time ? dv.current().time.year + ", " + dv.current().time.day + " of " + dv.current().time.month : "Unknown")`
+`$= dv.span(dv.current().related ? "**Related:** " + dv.current().related.map(p => "==[[" + p + "]]==").join(" ") : "")`
 
 *Ion and Ted are at Yushinami Stakes Course to watch a virken debut race. The course is lightly crowded, they stand near the front to get a clear view. The race approaches it's beginning.*
 

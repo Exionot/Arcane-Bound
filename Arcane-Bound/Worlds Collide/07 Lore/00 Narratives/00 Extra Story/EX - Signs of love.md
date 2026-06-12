@@ -1,19 +1,22 @@
 ---
 type: narrative 
+characters:
+  - Ion Kynne
+  - Victoria Veloux Canidel
+  - Estella Ameshi
+  - Ted Ursa
+location:
+related:
 cssclasses:
   - narrative
 ---
 
 # **Basic Information**
 **Title**: Signs of love
-**Character/s**: 
-- [[Ion Kynne]]
-- [[Victoria Veloux Canidel]]
-- [[Estella Ameshi]]
-- [[Ted Ursa]]
-
-**Location**: Unknown
+**Character/s**: `$= dv.span(dv.current().characters ? dv.current().characters.map(p => "==[[" + p + "]]==").join(" ") : "")`
+**Location**: `$= dv.span(dv.current().location == ('unknown' || 'Unknown') ? 'Unknown' : dv.current().location ? dv.current().location.map(p => "==[[" + p + "]]==").join(" ") : "Unknown")`
 **Time of Occurrence**: Unknown
+`$= dv.span(dv.current().related ? "**Related:** " + dv.current().related.map(p => "==[[" + p + "]]==").join(" ") : "")`
 
 ---
 

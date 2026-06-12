@@ -1,5 +1,13 @@
 ---
 type: narrative 
+characters:
+  - Mint Evergreen
+  - Aura Brillfer
+  - Renze Luna
+  - Ruby Rossilia
+location:
+  - Aura's Apartment
+related:
 time:
   year: 2405
   month: Early Winter
@@ -8,14 +16,10 @@ cssclasses:
   - narrative
 ---
 
-**Character/s**:
-- [[Mint Evergreen]]
-- [[Aura Brillfer]]
-- [[Renze Luna]]
-- [[Ruby Rossilia]]
-
-**Location**: [[Aura's Apartment]]
-**Time of Occurrence**: 2405, 9th of Early Winter
+**Character/s**: `$= dv.span(dv.current().characters ? dv.current().characters.map(p => "==[[" + p + "]]==").join(" ") : "")`
+**Location**: `$= dv.span(dv.current().location == ('unknown' || 'Unknown') ? 'Unknown' : dv.current().location ? dv.current().location.map(p => "==[[" + p + "]]==").join(" ") : "Unknown")`
+**Time of Occurrence**: `$= dv.span(dv.current().time == ('unknown' || 'Unknown') ? 'Unknown' : dv.current().time ? dv.current().time.year + ", " + dv.current().time.day + " of " + dv.current().time.month : "Unknown")`
+`$= dv.span(dv.current().related ? "**Related:** " + dv.current().related.map(p => "==[[" + p + "]]==").join(" ") : "")`
 
 *It's a chilly night in Fluxpoint City, the cold winter breeze has slowly made itself more noticeable the past few days. The cold wind passes through the open windows of Aura's Apartment, Mint sits in the sofa and has covered herself in the warm cozy cocoon of blankets as she waits for Aura's return home.*
 

@@ -1,5 +1,11 @@
 ---
 type: narrative 
+characters:
+  - Mint Evergreen
+  - Aura Brillfer
+location:
+  - Aura's Apartment
+related:
 time:
   year: 2405
   month: Early Winter
@@ -8,12 +14,10 @@ cssclasses:
   - narrative
 ---
 
-**Character/s**:
-- [[Mint Evergreen]]
-- [[Aura Brillfer]]
-
-**Location**: [[Aura's Apartment]]
-**Time of Occurrence**: 2405, 3rd of Early Winter
+**Character/s**: `$= dv.span(dv.current().characters ? dv.current().characters.map(p => "==[[" + p + "]]==").join(" ") : "")`
+**Location**: `$= dv.span(dv.current().location == ('unknown' || 'Unknown') ? 'Unknown' : dv.current().location ? dv.current().location.map(p => "==[[" + p + "]]==").join(" ") : "Unknown")`
+**Time of Occurrence**: `$= dv.span(dv.current().time == ('unknown' || 'Unknown') ? 'Unknown' : dv.current().time ? dv.current().time.year + ", " + dv.current().time.day + " of " + dv.current().time.month : "Unknown")`
+`$= dv.span(dv.current().related ? "**Related:** " + dv.current().related.map(p => "==[[" + p + "]]==").join(" ") : "")`
 
 *It is the afternoon. Mint is left alone in Aura's Apartment with nothing to do.*
 

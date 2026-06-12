@@ -1,17 +1,23 @@
 ---
 type: narrative 
+characters:
+  - Aura Brillfer
+location:
+  - Amphere Square
 time:
   year: 2405
   month: Early Winter
   day: 1st
+related:
+  - A fellow feline
 cssclasses:
   - narrative
 ---
 
-**Character/s**: [[Aura Brillfer]], [[Mint Evergreen]]
-**Location**: [[Amphere Square]]
-**Time of Occurrence**: 2405, Early Winter
-**Related:** [[A fellow Feline]]
+**Character/s**: `$= dv.span(dv.current().characters ? dv.current().characters.map(p => "==[[" + p + "]]==").join(" ") : "")`
+**Location**: `$= dv.span(dv.current().location == ('unknown' || 'Unknown') ? 'Unknown' : dv.current().location ? dv.current().location.map(p => "==[[" + p + "]]==").join(" ") : "Unknown")`
+**Time of Occurrence**: `$= dv.span(dv.current().time == ('unknown' || 'Unknown') ? 'Unknown' : dv.current().time ? dv.current().time.year + ", " + dv.current().time.day + " of " + dv.current().time.month : "Unknown")`
+`$= dv.span(dv.current().related ? "**Related:** " + dv.current().related.map(p => "==[[" + p + "]]==").join(" ") : "")`
 
 *As Aura was about to continue her patrol in Amphere Square, a voice was heard from behind. She turns around and sees a mint green feline virken standing before her. Her clothes look ancient, something that could have been from the first civilization. Then Aura comes to a realization.*
 

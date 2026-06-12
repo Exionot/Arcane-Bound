@@ -1,13 +1,13 @@
 {
   "version": 3,
   "projects": {},
-  "selectedDraftVaultPath": "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen Narratives/Index.md",
+  "selectedDraftVaultPath": "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Clair Tempest Narratives/Index.md",
   "userScriptFolder": null,
   "sessionStorage": "data",
   "sessions": [
     {
       "start": "2026-01-12T15:29:55.612Z",
-      "total": 14569,
+      "total": 14586,
       "drafts": {
         "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Test/Index.md": {
           "total": 10,
@@ -19,7 +19,7 @@
           }
         },
         "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen Narratives/Index.md": {
-          "total": 9359,
+          "total": 9376,
           "scenes": {
             "Missing merchant": 419,
             "The convergence (Mint Evergreen)": 191,
@@ -32,7 +32,7 @@
             "Bear-on collision": 494,
             "Gone for a day": 346,
             "The wanderers": 280,
-            "The convergence... yet again...": 116,
+            "The convergence... yet again...": 133,
             "Increasing notoriety": 558,
             "Flowers": 368,
             "A new look": 516,

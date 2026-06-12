@@ -157,7 +157,8 @@ body {
   background-color: var(--background-primary) !important;
 }
 
-.cm-s-obsidian span.cm-formatting-highlight, .cm-s-obsidian span.cm-highlight,
+.cm-s-obsidian span.cm-formatting-highlight, 
+.cm-s-obsidian span.cm-highlight,
 .markdown-preview-view mark {
     background-color: rgba(140, 94, 180, 0.1);
 	display: inline-block;
@@ -165,6 +166,7 @@ body {
 	padding: 0.1rem 0.7rem;
 	border-radius: 3px;
 	font-weight: bolder !important;
+	text-align: center !important;
 	border: solid var(--purple) 1px;
 }
 

@@ -1,17 +1,23 @@
 ---
 type: narrative 
+characters:
+  - Aura Brillfer
+location:
+  - Amphere Square
 time:
   year: 2405
   month: Early Winter
   day: 1st
+related: 
+  - Her house
 cssclasses:
   - narrative
 ---
 
-**Character/s**: [[Aura Brillfer]], [[Mint Evergreen]]
-**Location**: [[Aura's Apartment]]
-**Time of Occurrence**: 2405, 1st of Early Winter
-**Related**: [[Her house]]
+**Character/s**: `$= dv.span(dv.current().characters ? dv.current().characters.map(p => "==[[" + p + "]]==").join(" ") : "")`
+**Location**: `$= dv.span(dv.current().location == ('unknown' || 'Unknown') ? 'Unknown' : dv.current().location ? dv.current().location.map(p => "==[[" + p + "]]==").join(" ") : "Unknown")`
+**Time of Occurrence**: `$= dv.span(dv.current().time == ('unknown' || 'Unknown') ? 'Unknown' : dv.current().time ? dv.current().time.year + ", " + dv.current().time.day + " of " + dv.current().time.month : "Unknown")`
+`$= dv.span(dv.current().related ? "**Related:** " + dv.current().related.map(p => "==[[" + p + "]]==").join(" ") : "")`
 
 *Aura and Mint are walking the streets of Circuit District, Aura glances at Mint, she notices unfamiliarity and fascination in her eyes.*
 

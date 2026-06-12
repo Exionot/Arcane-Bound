@@ -1,17 +1,21 @@
 ---
 type: narrative 
+characters:
+  - Ion Kynne
+  - Victoria Veloux Canidel
+location:
+  - Sol Capital
+related:
 cssclasses:
   - narrative
 ---
 
 # **Basic Information**
 **Title**: Charming fox
-**Character/s**:
-- [[Ion Kynne]]
-- [[Victoria Veloux Canidel|Victoria "Vi" Veloux Canidel]]
-
-**Location**: Somewhere in [[Sol Capital]]
+**Character/s**: `$= dv.span(dv.current().characters ? dv.current().characters.map(p => "==[[" + p + "]]==").join(" ") : "")`
+**Location**: `$= dv.span(dv.current().location == ('unknown' || 'Unknown') ? 'Unknown' : dv.current().location ? dv.current().location.map(p => "==[[" + p + "]]==").join(" ") : "Unknown")`
 **Time of Occurrence**: Unknown
+`$= dv.span(dv.current().related ? "**Related:** " + dv.current().related.map(p => "==[[" + p + "]]==").join(" ") : "")`
 **Prose:** [[Vixen's Charm]]
 
 ---

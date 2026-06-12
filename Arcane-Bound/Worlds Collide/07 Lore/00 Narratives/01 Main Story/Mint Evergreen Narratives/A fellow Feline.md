@@ -1,5 +1,12 @@
 ---
 type: narrative
+characters:
+  - Mint Evergreen
+  - Aura Brillfer
+location:
+  - Amphere Square
+related: 
+  - Defying orders
 time:
   year: 2405
   month: Early Winter
@@ -8,13 +15,10 @@ cssclasses:
   - narrative
 ---
 
-**Character/s**: 
-- [[Mint Evergreen]]
-- [[Aura Brillfer]]
-
-**Location**:  [[Amphere Square]]
-**Time of Occurrence**: `=this.time.year`, `=this.time.day` of `=this.time.month`
-**Related**: [[Defying orders]]
+**Character/s**: `$= dv.span(dv.current().characters ? dv.current().characters.map(p => "==[[" + p + "]]==").join(" ") : "")`
+**Location**: `$= dv.span(dv.current().location == ('unknown' || 'Unknown') ? 'Unknown' : dv.current().location ? dv.current().location.map(p => "==[[" + p + "]]==").join(" ") : "Unknown")`
+**Time of Occurrence**: `$= dv.span(dv.current().time == ('unknown' || 'Unknown') ? 'Unknown' : dv.current().time ? dv.current().time.year + ", " + dv.current().time.day + " of " + dv.current().time.month : "Unknown")`
+`$= dv.span(dv.current().related ? "**Related:** " + dv.current().related.map(p => "==[[" + p + "]]==").join(" ") : "")`
 
 *It is the afternoon. Mint finds herself in what it seems to be the center of a bustling city; the area is loud, people walk by at every moment. Their outfits are more diverse; almost casual yet different from Arcaenian fashion.*
 

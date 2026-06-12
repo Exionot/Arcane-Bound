@@ -1,17 +1,21 @@
 ---
 type: narrative 
+characters:
+  - Mint Evergreen
+  - Aura Brillfer
+location:
+  - Aura's Appartment
+related:
 cssclasses:
   - narrative
 ---
 
 # **Basic Information**
 **Title**: Resting place
-**Character/s**:
-- [[Mint Evergreen]]
-- [[Aura Brillfer]]
-
-**Location**: [[Aura's Apartment]]
+**Character/s**: `$= dv.span(dv.current().characters ? dv.current().characters.map(p => "==[[" + p + "]]==").join(" ") : "")`
+**Location**: `$= dv.span(dv.current().location == ('unknown' || 'Unknown') ? 'Unknown' : dv.current().location ? dv.current().location.map(p => "==[[" + p + "]]==").join(" ") : "Unknown")`
 **Time of Occurrence**: Unknown
+`$= dv.span(dv.current().related ? "**Related:** " + dv.current().related.map(p => "==[[" + p + "]]==").join(" ") : "")`
 
 ---
 
