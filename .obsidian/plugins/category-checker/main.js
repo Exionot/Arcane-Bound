@@ -5,9 +5,7 @@ module.exports = class CategoryChecker extends Plugin {
 		this.registerEvent(
 			this.app.workspace.on("file-open", async (file) => {
 				if (!file) return;
-                console.log("testingT")
                 const parentFolder = file.parent?.name;
-                console.log(parentFolder)
 
                 if (parentFolder !== "Categories") return;
 

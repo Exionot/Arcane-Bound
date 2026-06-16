@@ -1,5 +1,5 @@
 ---
-type: narrative 
+type: narrative
 characters:
   - Aura Brillfer
 location:
@@ -8,7 +8,7 @@ time:
   year: 2405
   month: Early Winter
   day: 1st
-related: 
+related:
   - Her house
 cssclasses:
   - narrative

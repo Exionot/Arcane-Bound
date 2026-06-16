@@ -1,5 +1,5 @@
 ---
-type: narrative 
+type: narrative
 characters:
   - Ion Kynne
   - Ted Ursa
