@@ -1,20 +1,6 @@
-const { Plugin, TFile } = require("obsidian");
+const { Plugin } = require("obsidian");
 
 module.exports = class CategoryChecker extends Plugin {
-    async getLongformScenes(file){
-        const longformPlugin = app.plugins.getPlugin("longform");
-        console.log(longformPlugin);
-        if (longformPlugin){
-            const project = longformPlugin.getProjectFromFile(file);
-
-            await project.loadScenes();
-
-            const scenes = project?.scenes ?? [];
-            console.log(scenes)
-            return scenes;
-        }
-    }
-
 	async onload() {
 		this.registerEvent(
 			this.app.workspace.on("file-open", async (file) => {
@@ -24,7 +10,6 @@ module.exports = class CategoryChecker extends Plugin {
 
                 const currentCache = this.app.metadataCache.getFileCache(file);
                 const currentFrontmatter = currentCache?.frontmatter ?? {};
-
                 try{
                     if (grandParentFolder?.name !== "01 Main Story" || 
                         currentFrontmatter?.cssclasses[0] !== "narrative"
@@ -33,33 +18,38 @@ module.exports = class CategoryChecker extends Plugin {
                     return;
                 }
 
-                const narrativeArray = this.getLongformScenes(file);
-            
-                // const narrativeIndex = narrativeArray.indexOf(file.basename);
-                // let prevNarr, nextNarr;
-
-                // if (narrativeIndex === 0) prevNarr = "";
-                // if (narrativeIndex === narrativeArray.length - 1) nextNarr = "";
-
-                // prevNarr = narrativeArray[narrativeIndex - 1];
-                // nextNarr = narrativeArray[narrativeIndex + 1];
+				const indexFile = this.app.vault
+					.getMarkdownFiles()
+					.filter(f => f.parent === parentFolder && f.basename === "Index");
                 
-                // await this.app.fileManager.processFrontMatter(file, (frontmatter) => {
-		        // 	frontmatter.prevNarrative = prevNarr;
-                //     frontmatter.nextNarrative = nextNarr;
-		        // });
-                
+                if (indexFile.length > 1 || indexFile.length === 0) return;
 
-				// const indexFile = this.app.vault
-				// 	.getMarkdownFiles()
-				// 	.filter(f => f.parent === parentFolder && f.basename === "Index");
-                
-                // if (indexFile.length > 1 || indexFile.length === 0) return;
+                console.log(
+                    JSON.stringify(
+                        this.app.metadataCache.getFileCache(indexFile[0]),
+                        null,
+                        2
+                    )
+                );
 
-                // const indexCache = this.app.metadataCache.getFileCache(indexFile[0]);
-                // const indexFrontmatter = indexCache?.frontmatter ?? {};
-                // const narrativeArray = indexFrontmatter.longform?.scenes ?? [];
+                const indexCache = this.app.metadataCache.getFileCache(indexFile[0]);
+                const indexFrontmatter = indexCache?.frontmatter ?? {};
 
+                console.log(indexFrontmatter);
+                const narrativeArray = indexFrontmatter.longform?.scenes ?? [];
+                const narrativeIndex = narrativeArray.indexOf(file.basename);
+                let prevNarr, nextNarr;
+
+                if (narrativeIndex === 0) prevNarr = "";
+                if (narrativeIndex === narrativeArray.length - 1) nextNarr = ""
+
+                prevNarr = narrativeArray[narrativeIndex - 1];
+                nextNarr = narrativeArray[narrativeIndex + 1];
+
+                await this.app.fileManager.processFrontMatter(file, (frontmatter) => {
+					frontmatter.prevNarrative = prevNarr;
+                    frontmatter.nextNarrative = nextNarr;
+				});
 			})
 		);
 	}
