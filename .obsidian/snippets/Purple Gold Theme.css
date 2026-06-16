@@ -159,7 +159,8 @@ body {
 
 .cm-s-obsidian span.cm-formatting-highlight, 
 .cm-s-obsidian span.cm-highlight,
-.markdown-preview-view mark {
+.markdown-preview-view mark,
+.is-live-preview mark {
     background-color: rgba(140, 94, 180, 0.1);
 	display: inline-block;
 	margin: 0.2rem 0.1rem;
@@ -168,6 +169,13 @@ body {
 	font-weight: bolder !important;
 	text-align: center !important;
 	border: solid var(--purple) 1px;
+}
+
+.cm-s-obsidian span.cm-formatting-highlight a.internal-link:not(:hover), 
+.cm-s-obsidian span.cm-highlight a.internal-link:not(:hover),
+.markdown-preview-view mark a.internal-link:not(:hover),
+.is-live-preview mark a.internal-link:not(:hover){
+	color: var(--text-normal) !important;
 }
 
 .markdown-preview-view blockquote{

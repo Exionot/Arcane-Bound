@@ -5,13 +5,16 @@ action Shell commands: Execute: UpdateTL
 color purple
 ```
 
-**Last Update:** 2026-05-13 23:41:15
+**Last Update:** 2026-06-16 14:17:08
 
 # Main Story
 ```chronos
 - [2405-10-01] {Aura Brillfer} An order you can't fight
 - [2405-10-01] {Aura Brillfer} Defying orders
 - [2405-10-01] {Aura Brillfer} My house
+- [2405-10-01] {Clair Tempest} A devil's attempt
+- [2401-12-01] {Ion Kynne} A new found interest
+- [2405-11-24] {Ion Kynne} Confession to a girl from another world
 - [2405-10-01] {Mint Evergreen} A fellow Feline
 - [2405-10-06] {Mint Evergreen} A new look
 - [2405-10-02] {Mint Evergreen} An encounter with the devil

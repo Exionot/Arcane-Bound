@@ -81,8 +81,8 @@ img[alt*="center"] {
 }
 
 
-
-.narrative, .narrative b{
+/* === NARRATIVE NOTES === */
+.narrative{
   	line-height: 1.6;
 	text-align: justify;
 }
@@ -92,6 +92,11 @@ img[alt*="center"] {
 	--bold-color: var(--italic-color);
 	font-weight: 900 !important;
 }
+
+.narrative .node-insert-event{
+	/* text-align: left; */
+}
+/* === END NARRATIVE NOTES */
 
 /* === CUSTOM CALLOUTS === */
 :root {

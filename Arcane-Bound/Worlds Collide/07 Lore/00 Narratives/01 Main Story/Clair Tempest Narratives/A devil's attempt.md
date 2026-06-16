@@ -8,9 +8,6 @@ characters:
 location:
   - Starveil Retrieval Co.
 time:
-  year: 2405
-  month: Early Winter
-  day: 1st
 related:
 cssclasses:
   - narrative
