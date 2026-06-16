@@ -13,6 +13,7 @@ time:
 related:
 cssclasses:
   - narrative
+nextNarrative: Confession to a girl from another world
 ---
 
 **Character/s**: `$= dv.span(dv.current().characters ? dv.current().characters.map(p => "==[[" + p + "]]==").join(" ") : "")`

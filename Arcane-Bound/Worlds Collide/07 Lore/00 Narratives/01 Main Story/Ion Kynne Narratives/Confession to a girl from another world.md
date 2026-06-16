@@ -12,12 +12,18 @@ time:
 related:
 cssclasses:
   - narrative
+prevNarrative: A new found interest
 ---
 
 **Character/s**: `$= dv.span(dv.current().characters ? dv.current().characters.map(p => "==[[" + p + "]]==").join(" ") : "")`
 **Location**: `$= dv.span(dv.current().location == ('unknown' || 'Unknown') ? 'Unknown' : dv.current().location ? dv.current().location.map(p => "==[[" + p + "]]==").join(" ") : "Unknown")`
 **Time of Occurrence**: `$= dv.span(dv.current().time == ('unknown' || 'Unknown') ? 'Unknown' : dv.current().time ? dv.current().time.year + ", " + dv.current().time.day + " of " + dv.current().time.month : "Unknown")`
 `$= dv.span(dv.current().related ? "**Related:** " + dv.current().related.map(p => "==[[" + p + "]]==").join(" ") : "")`
+
+> [!Invisible]
+> |  ==Previous==  |  ==Next==  |
+> |---|---|
+> |   |   |
 
 *Ion and Vi are sitting together on a bench on the outskirts of the city's circle watching as the first snowflakes fall. As the two were about to return to the inn, Ion calls out to Vi.*
 

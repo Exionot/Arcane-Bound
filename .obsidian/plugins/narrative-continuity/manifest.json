@@ -3,7 +3,7 @@
     "name": "Narrative Continuity",
 	"version": "1.0.0",
 	"minAppVersion": "1.5.0",
-	"description": "later",
+	"description": "A plugin that checks the chronological arrangement of narratives via Longform and appends the previous and next narratives in relation to the vurrent note.",
 	"author": "Exionot",
 	"isDesktopOnly": false
 }

@@ -24,19 +24,21 @@ module.exports = class CategoryChecker extends Plugin {
                 
                 if (indexFile.length > 1 || indexFile.length === 0) return;
 
-                console.log(
-                    JSON.stringify(
-                        this.app.metadataCache.getFileCache(indexFile[0]),
-                        null,
-                        2
-                    )
+
+                const indexContent = await this.app.vault.read(indexFile[0]);
+                const scenesMatch = indexContent.match(
+                    /scenes:\s*\n((?:\s*-\s.*\n?)*)/
                 );
+                
+                if (!scenesMatch) return;
+                
+                const narrativeArray = scenesMatch[1]
+                    .split("\n")
+                    .map(line => line.trim())
+                    .filter(line => line.startsWith("- "))
+                    .map(line => line.slice(2));
 
-                const indexCache = this.app.metadataCache.getFileCache(indexFile[0]);
-                const indexFrontmatter = indexCache?.frontmatter ?? {};
-
-                console.log(indexFrontmatter);
-                const narrativeArray = indexFrontmatter.longform?.scenes ?? [];
+                console.log(narrativeArray);
                 const narrativeIndex = narrativeArray.indexOf(file.basename);
                 let prevNarr, nextNarr;
 

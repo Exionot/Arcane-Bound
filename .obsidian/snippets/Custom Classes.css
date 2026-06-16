@@ -63,6 +63,7 @@ img[alt*="center"] {
 	margin-top: 20px;
 }
 
+/* === DOCUMENT NOTES === */
 .document{
 	--bold-color: var(--white);
 	/* font-family: 'Courier New', Courier, monospace !important; */
@@ -79,7 +80,7 @@ img[alt*="center"] {
 .document th{
 	text-align: center;
 }
-
+/* === END DOCUMENT NOTES === */
 
 /* === NARRATIVE NOTES === */
 .narrative{
@@ -94,9 +95,52 @@ img[alt*="center"] {
 }
 
 .narrative .node-insert-event{
-	/* text-align: left; */
+	text-align: left;
 }
 /* === END NARRATIVE NOTES */
+
+/* === INVISIBLE CALLOUT === */
+.callout[data-callout="invisible"]{
+	background-color: rgba(0, 0, 0, 0);
+	padding: 0;
+}
+
+.markdown-source-view.is-live-preview .cm-embed-block.cm-callout:has(.callout[data-callout="invisible"]) {
+    display: inline;
+    z-index: 30;
+}
+
+.callout[data-callout="invisible"] .callout-icon,
+.callout[data-callout="invisible"] .callout-title-inner{
+    display: none;
+}
+
+.callout[data-callout="invisible"] table{
+	
+	table-layout: fixed;
+  width: 100%;
+  margin-top: 0.5rem;
+}
+
+.callout[data-callout="invisible"] table td,
+.callout[data-callout="invisible"] table th{
+	padding: 0;
+	border: none;
+}
+
+.callout[data-callout="invisible"] table th:nth-child(1) {
+	float: left;
+}
+
+.callout[data-callout="invisible"] table th:nth-child(2) {
+	float: right;
+}
+
+.callout[data-callout="invisible"] table td:nth-child(1),
+.callout[data-callout="invisible"] table td:nth-child(2) {
+	display: none;
+}
+/*  === END INVISIBLE CALLOUT === */
 
 /* === CUSTOM CALLOUTS === */
 :root {
