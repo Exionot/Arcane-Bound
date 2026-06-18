@@ -2,7 +2,8 @@
   "enabledCssSnippets": [
     "holox_obsidian_theme_v2(1)",
     "Custom Classes",
-    "Purple Gold Theme"
+    "Purple Gold Theme",
+    "animations"
   ],
   "interfaceFontFamily": "Inter",
   "textFontFamily": "Atkinson Hyperlegible",
@@ -12,5 +13,6 @@
   "baseFontSizeAction": true,
   "accentColor": "#6e3a9e",
   "cssTheme": "",
-  "showRibbon": false
+  "showRibbon": false,
+  "nativeMenus": false
 }

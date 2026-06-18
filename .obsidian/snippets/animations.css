@@ -1,0 +1,17 @@
+body:not(.workspace-ready) .view-content {
+    display: none;
+}
+
+body.workspace-ready .view-content > *{
+    animation: blur-out 1s ease-out;
+}
+
+@keyframes blur-out {
+    0%{
+        filter: blur(100px);
+    }
+
+    100%{
+        filter: blur(0);
+    }
+}
