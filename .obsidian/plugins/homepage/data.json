@@ -18,6 +18,14 @@
         {
           "id": "markdown:toggle-preview",
           "period": "Startup only"
+        },
+        {
+          "id": "conditional-sidebar:hide-left-sidebar-if-shown",
+          "period": "Startup only"
+        },
+        {
+          "id": "conditional-sidebar:hide-right-sidebar-if-shown",
+          "period": "Startup only"
         }
       ],
       "alwaysApply": false,

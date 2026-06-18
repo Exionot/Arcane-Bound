@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "54da755365d6d604",
+        "id": "62be8da24b2385a5",
         "type": "tabs",
         "children": [
           {
-            "id": "355f44b17bff1bc0",
+            "id": "31665033ba16a92e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 316.5
+    "width": 316.5,
+    "collapsed": true
   },
   "right": {
     "id": "446c418154317ee3",
@@ -229,8 +230,9 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "355f44b17bff1bc0",
+  "active": "31665033ba16a92e",
   "lastOpenFiles": [
+    "Homepage.md",
     "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Ion Kynne Narratives/Confession to a girl from another world.md",
     "Arcane-Bound/Worlds Collide/01 Characters/Estella Ameshi.md",
     "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Ion Kynne Narratives/Index.md",
@@ -255,7 +257,6 @@
     "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/00 Extra Story/EX - Clever Getaway.md",
     "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Aura Brillfer Narratives/An order you can't fight.md",
     "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Timeline.md",
-    "Homepage.md",
     "Arcane-Bound/Worlds Collide/03 Locations/03 Nations/Erde Kingdom.md",
     "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen Narratives/A fellow Feline.md",
     "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen Narratives/Unknown Feelings.md",

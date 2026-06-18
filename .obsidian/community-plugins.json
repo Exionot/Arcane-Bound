@@ -16,5 +16,6 @@
   "buttons",
   "multi-column-markdown",
   "category-checker",
-  "narrative-continuity"
+  "narrative-continuity",
+  "conditional-sidebar"
 ]

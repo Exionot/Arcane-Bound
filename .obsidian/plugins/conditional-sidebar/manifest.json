@@ -1,0 +1,9 @@
+{
+	"id": "conditional-sidebar",
+    "name": "Conditional Sidebar",
+	"version": "1.0.0",
+	"minAppVersion": "1.5.0",
+	"description": "Commands that hide the left/right sidebar when it is opened",
+	"author": "Exionot",
+	"isDesktopOnly": false
+}
