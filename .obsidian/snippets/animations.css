@@ -6,21 +6,36 @@ body.workspace-ready > *{
     animation: blur-out 1s ease-out;
 }
 
-body > .loading-container{
-    display: flex;
-    position: fixed;
+.loading-container:not(.show){
+    /* display: none; */
+}
+
+.loading-container{
+    height: 100vh;
+    width: 100vw;
+    position: absolute;
     top: 0;
     left: 0;
-    right: 0;
-    bottom: 0;
-    z-index: 9999;
+    z-index: 999;
     background-color: black;
 }
 
 .loading-logo{
-    position: fixed;
-    top: 0;
-    left: 0;
+    height: 25vh;
+    aspect-ratio: 1;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.loading-bar-container{
+    height: 10vh;
+    width: 75vw;
+    border: solid white 2px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
     transform: translate(-50%, -50%);
 }
 
