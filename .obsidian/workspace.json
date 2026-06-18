@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 316.5,
-    "collapsed": true
+    "width": 316.5
   },
   "right": {
     "id": "446c418154317ee3",
@@ -230,9 +229,10 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "b7cf8a5556c91a10",
   "lastOpenFiles": [
     "Homepage.md",
+    "ᐳExternal Assets/Rhodes_Island.png",
     "Arcane-Bound/Worlds Collide/01 Characters/Ion Kynne.md",
     "Mint_Evergreen_Wiki_Reconstruction_Full.md",
     "Glasses for Virkens.md",
@@ -259,7 +259,6 @@
     "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/00 Extra Story/EX - Charming fox.md",
     "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/00 Extra Story/EX - Clever Getaway.md",
     "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Aura Brillfer Narratives/An order you can't fight.md",
-    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Timeline.md",
     "Arcane-Bound/Worlds Collide/99 Extras/Misc",
     "Arcane-Bound/Worlds Collide/99 Extras/Categories",
     "Arcane-Bound/Archives/Mint n' Gold Final.png",
@@ -277,7 +276,6 @@
     "ᐳExternal Assets/Mint_Evergreen_Icon.png",
     "ᐳExternal Assets/Mint_Staff_Full.jpg",
     "ᐳExternal Assets/In Darkness Blank.png",
-    "ᐳExternal Assets/Crystal Clear Blank.png",
     "Arcane-Bound/Worlds Collide/99 Extras/Meta/AB - Storyline.canvas"
   ]
 }

@@ -26,6 +26,10 @@
         {
           "id": "conditional-sidebar:hide-right-sidebar-if-shown",
           "period": "Startup only"
+        },
+        {
+          "id": "ready:load-startup",
+          "period": "Startup only"
         }
       ],
       "alwaysApply": false,

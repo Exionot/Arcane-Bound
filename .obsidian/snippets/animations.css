@@ -1,9 +1,27 @@
-body:not(.workspace-ready) .view-content {
-    display: none;
+body:not(.workspace-ready){
+    display: none !important;
 }
 
-body.workspace-ready .view-content > *{
+body.workspace-ready > *{
     animation: blur-out 1s ease-out;
+}
+
+body > .loading-container{
+    display: flex;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 9999;
+    background-color: black;
+}
+
+.loading-logo{
+    position: fixed;
+    top: 0;
+    left: 0;
+    transform: translate(-50%, -50%);
 }
 
 @keyframes blur-out {
