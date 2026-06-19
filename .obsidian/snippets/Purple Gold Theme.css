@@ -102,6 +102,76 @@ body .metadata-add-button {
   display: none;
 }
 
+.workspace-leaf:has(> .workspace-leaf-content){
+	position: relative;
+}
+
+.workspace-leaf:has(> .workspace-leaf-content)::before{
+	content: '';
+	position: absolute;
+	width: 30vw;
+	aspect-ratio: 1;
+	border: solid red 2px;
+}
+
+.mod-root .workspace-leaf-content {
+  position: relative;
+}
+
+.mod-root .workspace-leaf-content::before, .mod-root .workspace-leaf-content::after{
+	--width: 65vw;
+	--border-color: var(--background-secondary-alt);
+	--border-style: dotted;
+	--animation-speed: 45s;
+	content: '';
+	position: absolute;
+	width: var(--width);
+	aspect-ratio: 1;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	border-radius: 50%;
+	background: 
+    repeating-conic-gradient(
+      from 0deg,
+      var(--border-color) 0 1deg,            
+      transparent 1deg 13deg       
+    );
+	mask: radial-gradient(circle at center, transparent calc(50% - 4px), #000 calc(50% - 4px) calc(50% + 4px), transparent calc(50% + 4px));
+	mask-composite: intersect;
+	opacity: 0.25;
+	z-index: 0;
+	animation: var(--animation-speed) pulse-half-spin ease-in-out infinite;
+	
+}
+
+.mod-root .workspace-leaf-content::before{
+	animation: 20s pulse-spin ease-in-out infinite;
+}
+
+.mod-root .workspace-leaf-content::after{
+	--width: 25vw;
+	--border-style: solid;
+	--animation-speed: 20s;
+	transform: translate(-50%, -50%) rotate(90deg);
+	background: none;
+	border: 5px var(--border-style) var(--border-color);
+	border-left-color: transparent; 
+	border-right-color: transparent;
+	mask: unset;
+	mask-composite: unset;
+}
+
+.mod-root .view-content {
+	position: relative;
+	z-index: 1;
+	background-color: transparent !important;
+}
+
+.markdown-preview-view, .markdown-source-view {
+	background-color: transparent !important;
+}
+
 h1, h2, h3, h4, h5, h6,
 .markdown-preview-view h1,
 .markdown-preview-view h2,
@@ -152,16 +222,10 @@ body {
   background-color: var(--background-primary);
 }
 
-.markdown-preview-view,
+/* .markdown-preview-view,
 .markdown-source-view {
   background-color: var(--background-primary) !important;
-}
-
-@property --angle{
-	syntax: "<angle>";
-	initial-value: 0deg;
-	inherits: false;
-}
+} */
 
 .inline-title{
 	position: relative;
@@ -171,15 +235,27 @@ body {
 
 .inline-title::before{
 	content: '';
+	height: 25%;
+	width: 20%;
+	position: absolute;
+	bottom: -23.5%;
+	left: 0%;
+	z-index: -1;
+	background-color: var(--purple);
+	/* background-image: linear-gradient(to left, var(--purple), var(--purple), var(--background-secondary-alt), var(--background-secondary-alt), var(--background-secondary-alt));
+	background-size: 200% auto; */
+	animation: 15s line-slide ease-in-out infinite;
+}
+
+.inline-title::after{
+	content: '';
 	height: 10%;
 	width: 100%;
 	position: absolute;
-	bottom: -5%;
-	left: 0;
-	z-index: -1;
-	background-image: linear-gradient(to left, var(--purple), var(--purple), var(--background-primary), var(--background-primary));
-	background-size: 200% auto;
-	animation: 5s gradient-line linear infinite;
+	bottom: -15%;
+	right: 0;
+	z-index: -2;
+	background-color: var(--background-secondary-alt);
 }
 
 .cm-s-obsidian span.cm-formatting-highlight, 
@@ -188,12 +264,15 @@ body {
 .is-live-preview mark {
     background-color: rgba(140, 94, 180, 0.1);
 	display: inline-block;
+	position: relative;
 	margin: 0.2rem 0.1rem;
 	padding: 0.1rem 0.7rem;
 	border-radius: 3px;
 	font-weight: bolder !important;
 	text-align: center !important;
 	border: solid var(--purple) 1px;
+	vertical-align: middle;
+	overflow: hidden;
 }
 
 .cm-s-obsidian span.cm-formatting-highlight a.internal-link:not(:hover), 
@@ -201,6 +280,54 @@ body {
 .markdown-preview-view mark a.internal-link:not(:hover),
 .is-live-preview mark a.internal-link:not(:hover){
 	color: var(--text-normal) !important;
+}
+
+.cm-s-obsidian span.cm-formatting-highlight::before,
+.cm-s-obsidian span.cm-highlight::before,
+.markdown-preview-view mark::before,
+.is-live-preview mark::before,
+.cm-s-obsidian span.cm-formatting-highlight::after,
+.cm-s-obsidian span.cm-highlight::after,
+.markdown-preview-view mark::after,
+.is-live-preview mark::after {
+  content: '';
+  width: 25%;
+  aspect-ratio: 1;
+  position: absolute;
+  bottom: -150%;
+  left: -30%; /* Start off-screen left */
+  z-index: -1;
+  filter: blur(25px);
+  background-color: var(--purple);
+  outline: solid var(--purple) 5px;
+  outline-offset: 5px;
+  box-shadow: 35px -15px var(--purple);
+  
+  /* Seamless right movement */
+  animation: slideRight 4s linear infinite;
+}
+
+/* Offset the ::after so you have 2 blurs chasing each other */
+.cm-s-obsidian span.cm-formatting-highlight::after,
+.cm-s-obsidian span.cm-highlight::after,
+.markdown-preview-view mark::after,
+.is-live-preview mark::after {
+  animation: slideRight 8s linear infinite;
+  animation-delay: -4s; /* Half duration = staggered */
+}
+
+@keyframes slideRight {
+	0% {
+		opacity: 0.5;
+    	left: -100%; /* Start off left */
+	}
+	50%{
+		opacity: 1;
+	}
+	100% {	
+		opacity: 0.5;
+		left: 130%; /* End off right */
+	}
 }
 
 .markdown-preview-view blockquote{
@@ -327,3 +454,68 @@ div.internal-embed .markdown-embed-content {
 		background-position: 0% 50%;
 	}
 } 
+
+@keyframes line-slide {
+	0%{left: 0;}
+	50%{left: 80%;}
+	100%{left: 0;}
+}
+
+@keyframes spin {
+	from{
+		transform: translate(-50%, -50%) rotate(0deg);
+	}
+	to{
+		transform: translate(-50%, -50%) rotate(360deg);
+	}
+}
+
+@keyframes pulse-spin {
+	0%{
+		transform: translate(-50%, -50%) scale(100%) rotate(0deg);
+	}
+	50%{
+		transform: translate(-50%, -50%) scale(125%) rotate(180deg);
+	}
+	100%{
+		transform: translate(-50%, -50%) scale(100%) rotate(360deg);
+	}
+}
+
+@keyframes pulse-half-spin {
+	0% {
+	   transform: translate(-50%, -50%) scale(1) rotate(90deg);
+	}
+
+	15% {
+	   transform: translate(-50%, -50%) scale(1.25) rotate(90deg); 
+	}
+
+	30% {
+	   transform: translate(-50%, -50%) scale(1.25) rotate(90deg); 
+	}
+
+	45% {
+	   transform: translate(-50%, -50%) scale(1.25) rotate(180deg); 
+	}
+
+	 60% {
+	   transform: translate(-50%, -50%) scale(1.25) rotate(180deg); 
+	}
+
+	75% {
+	   transform: translate(-50%, -50%) scale(1.25) rotate(270deg);
+	}
+
+	90% {
+	   transform: translate(-50%, -50%) scale(1.25) rotate(270deg);
+	}
+
+	95% {
+    	transform: translate(-50%, -50%) scale(1) rotate(270deg);
+	}
+  
+	100% {
+    	transform: translate(-50%, -50%) scale(1) rotate(270deg);
+	}
+}
