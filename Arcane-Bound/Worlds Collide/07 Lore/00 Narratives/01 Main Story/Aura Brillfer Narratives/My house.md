@@ -12,6 +12,14 @@ related:
   - Her house
 cssclasses:
   - narrative
+prevNarrative: Defying orders
+---
+
+> [!Invisible]
+> |  `$= dv.span(dv.current().prevNarrative ? "==[[" + dv.current().prevNarrative + "\|Previous]]==" : "")`  |  `$= dv.span(dv.current().nextNarrative ? "==[[" + dv.current().nextNarrative + "\|Next]]==" : "")`  |
+> |---|---|
+> |   |   |
+
 ---
 
 **Character/s**: `$= dv.span(dv.current().characters ? dv.current().characters.map(p => "==[[" + p + "]]==").join(" ") : "")`

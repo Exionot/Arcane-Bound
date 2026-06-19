@@ -1,5 +1,5 @@
 ---
-type: narrative 
+type: narrative
 characters:
   - Aura Brillfer
 location:
@@ -12,6 +12,15 @@ related:
   - A fellow feline
 cssclasses:
   - narrative
+prevNarrative: An order you can't fight
+nextNarrative: My house
+---
+
+> [!Invisible]
+> |  `$= dv.span(dv.current().prevNarrative ? "==[[" + dv.current().prevNarrative + "\|Previous]]==" : "")`  |  `$= dv.span(dv.current().nextNarrative ? "==[[" + dv.current().nextNarrative + "\|Next]]==" : "")`  |
+> |---|---|
+> |   |   |
+
 ---
 
 **Character/s**: `$= dv.span(dv.current().characters ? dv.current().characters.map(p => "==[[" + p + "]]==").join(" ") : "")`

@@ -16,7 +16,7 @@ prevNarrative: A new found interest
 ---
 
 > [!Invisible]
-> |  ==Previous==  |  ==Next==  |
+> |  `$= dv.span(dv.current().prevNarrative ? "==[[" + dv.current().prevNarrative + "\|Previous]]==" : "")`  |  `$= dv.span(dv.current().nextNarrative ? "==[[" + dv.current().nextNarrative + "\|Next]]==" : "")`  |
 > |---|---|
 > |   |   |
 

@@ -157,6 +157,31 @@ body {
   background-color: var(--background-primary) !important;
 }
 
+@property --angle{
+	syntax: "<angle>";
+	initial-value: 0deg;
+	inherits: false;
+}
+
+.inline-title{
+	position: relative;
+	width: max-content;
+	z-index: 1;
+}
+
+.inline-title::before{
+	content: '';
+	height: 10%;
+	width: 100%;
+	position: absolute;
+	bottom: -5%;
+	left: 0;
+	z-index: -1;
+	background-image: linear-gradient(to left, var(--purple), var(--purple), var(--background-primary), var(--background-primary));
+	background-size: 200% auto;
+	animation: 5s gradient-line linear infinite;
+}
+
 .cm-s-obsidian span.cm-formatting-highlight, 
 .cm-s-obsidian span.cm-highlight,
 .markdown-preview-view mark,
@@ -293,3 +318,12 @@ div.internal-embed .markdown-embed-content {
 	--blockquote-border-thickness: 3px;
 	--block-border-thickness: 0px;
 }
+
+@keyframes gradient-line {
+	from{
+		background-position: 200% 50%;
+	}	
+	to{
+		background-position: 0% 50%;
+	}
+} 
