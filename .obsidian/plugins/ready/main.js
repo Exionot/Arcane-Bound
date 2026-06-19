@@ -1,14 +1,12 @@
 const { Plugin } = require("obsidian");
 
-let hasLoaded = false;
 module.exports = class ready extends Plugin {
     async onload(){
+        
         this.addCommand({
 			id: "load-contents",
 			name: "Load Contents",
 			callback: () => {
-                
-				document.body.classList.add("workspace-ready");
                 setTimeout(() => {
                     document.querySelector(".loading-container")?.classList.remove("show");
                 }, 2000);
@@ -25,6 +23,8 @@ module.exports = class ready extends Plugin {
 			callback: () => {
                 console.log("Startup...");
 
+                document.body.classList.add("workspace-ready");
+
                 const loadingContainer = document.createElement("div");
                 loadingContainer.classList.add("loading-container", "show");
                 document.querySelector(".app-container")?.appendChild(loadingContainer);
@@ -36,9 +36,17 @@ module.exports = class ready extends Plugin {
                 logo.className = "loading-logo";
                 loadingContainer.appendChild(logo);
 
-                const loadingBarContainer = document.createElement("div");
-                loadingBarContainer.classList.add("loading-bar-container");
-                loadingContainer.appendChild(loadingBarContainer);
+                const loadingBar = document.createElement("div");
+                loadingBar.classList.add("loading-bar");
+                loadingContainer.appendChild(loadingBar);
+                
+                const loadingBarFill = document.createElement("div");
+                loadingBarFill.classList.add("loading-bar-fill");
+                loadingBar.appendChild(loadingBarFill);
+
+                setTimeout(() => {
+                    loadingBarFill.style.animation = "fill-bar 5000ms ease-out forwards";
+                });
                 
                 this.app.commands.executeCommandById("ready:load-contents");
 			},

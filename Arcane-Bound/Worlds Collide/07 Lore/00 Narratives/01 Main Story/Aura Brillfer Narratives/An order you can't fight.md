@@ -1,5 +1,5 @@
 ---
-type: narrative 
+type: narrative
 characters:
   - Aura Brillfer
 location:
@@ -8,10 +8,11 @@ time:
   year: 2405
   month: Early Winter
   day: 1st
-related: 
+related:
   - A fellow feline
 cssclasses:
   - narrative
+nextNarrative: Defying orders
 ---
 
 **Character/s**: `$= dv.span(dv.current().characters ? dv.current().characters.map(p => "==[[" + p + "]]==").join(" ") : "")`

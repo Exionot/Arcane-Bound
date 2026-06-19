@@ -16,11 +16,11 @@
       "pin": false,
       "commands": [
         {
-          "id": "markdown:toggle-preview",
+          "id": "ready:load-startup",
           "period": "Startup only"
         },
         {
-          "id": "conditional-sidebar:hide-left-sidebar-if-shown",
+          "id": "markdown:toggle-preview",
           "period": "Startup only"
         },
         {
@@ -28,7 +28,7 @@
           "period": "Startup only"
         },
         {
-          "id": "ready:load-startup",
+          "id": "conditional-sidebar:hide-left-sidebar-if-shown",
           "period": "Startup only"
         }
       ],

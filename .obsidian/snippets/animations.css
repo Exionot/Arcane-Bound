@@ -1,13 +1,14 @@
 body:not(.workspace-ready){
-    display: none !important;
+    /* display: none !important; */
 }
 
-body.workspace-ready > *{
+/* body.workspace-ready > *{
     animation: blur-out 1s ease-out;
-}
+} */
 
 .loading-container:not(.show){
-    /* display: none; */
+    display: none;
+    animation: blur-out 1s ease-out forwards;
 }
 
 .loading-container{
@@ -21,7 +22,7 @@ body.workspace-ready > *{
 }
 
 .loading-logo{
-    height: 25vh;
+    height: 50vh;
     aspect-ratio: 1;
     position: absolute;
     top: 50%;
@@ -29,22 +30,32 @@ body.workspace-ready > *{
     transform: translate(-50%, -50%);
 }
 
-.loading-bar-container{
-    height: 10vh;
+.loading-bar{
+    height: 5vh;
     width: 75vw;
     border: solid white 2px;
-    position: absolute;
-    top: 50%;
+    position: relative;
+    top: 85%;
     left: 50%;
     transform: translate(-50%, -50%);
 }
 
-@keyframes blur-out {
-    0%{
-        filter: blur(100px);
-    }
+.loading-bar-fill{
+    height: 100%;
+    width: 0;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: var(--purple);
+    transition: width 300 ease-out;
+}
 
-    100%{
-        filter: blur(0);
-    }
+@keyframes blur-out {
+    from{filter: blur(50px);}
+    to{filter: blur(0);}
+}
+
+@keyframes fill-bar {
+    from{width: 0;}
+    to{width: 100%;}
 }
