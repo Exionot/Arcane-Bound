@@ -47,6 +47,9 @@ manaPresence: None
 magicAffinity: Caster
 ---
 
+> [!Category]-
+> `$= dv.span(dv.current().category ? dv.current().category.map(p => "==[[" + "Arcane-Bound/Worlds Collide/99 Extras/Categories/" + p + " | " + p + "]]==").join(" ") : "")`
+
 > [!Infobox] **`=this.file.name`**
 > ---
 > `$= dv.span(dv.current().profileImage ? "![[" + dv.current().profileImage + "]]" : "")`
@@ -67,8 +70,6 @@ magicAffinity: Caster
 > |   Faction/s  |  [[Starveil Retrieval Co.]]   |
 > |   Hobbies  |     |
 > |   Relations  | `$= dv.span(dv.current().relations ? dv.current().relations.map(p => "[[" + p + "]]").join("\n ") : "")`  |
-
-> **Character Thread**: [[Victoria Veloux Canidel Narratives Manuscript]]
 
 > [!Character]
 > **"Ugh... Can you quit calling me by *that name* already? I told you my name is Vi!"**
@@ -147,12 +148,40 @@ She acts as the assistant of **Vi**, always available when she is needed. She of
 TABLE systemType as "Type" WHERE contains(this.systemUsed, file.name)
 ```
 ## Narratives
-```dataview
-TABLE
-  regexreplace(file.folder, ".*/", "") AS "Character Thread"
-FROM "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives"
-WHERE contains(file.outlinks, this.file.link)
-SORT file.folder ASC, file.name ASC
+
+```dataviewjs
+const narrativeFolder = "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives";
+const pages = dv.pages(`"${narrativeFolder}"`).where(p => p.type == "narrative");
+
+let groupedPages = pages.groupBy(p => p.file.folder ?? null);
+groupedPages = groupedPages.array().sort((a, b) => {
+  // null goes last
+  if (a.key === null) return 1;
+  if (b.key === null) return -1;
+  return a.key.localeCompare(b.key);
+});
+
+//dv.el("div", groupedPages[0].rows[0].file);
+for (const group of groupedPages){
+	const lastSlash = (group.key).lastIndexOf("/");
+	const folderName = (group.key).slice(lastSlash + 1) ?? "No Folder";
+	
+	let lines = [];
+	let isHeaderPushed = false;
+	for (const narrative of group.rows){
+		const characterArr = narrative.file.frontmatter.characters ?? null;
+		if (characterArr === null || !characterArr.includes(dv.current().file.name)) continue;
+		
+		if (!isHeaderPushed){
+			lines.push(`> [!navigation]- ${folderName}`);
+			isHeaderPushed = true;
+		}
+		
+		lines.push(`> - ${narrative.file.link}`);
+	}
+	
+	dv.el("div", lines.join("\n"));
+}
 ```
 
 ---
@@ -179,6 +208,3 @@ INPUT[imageListSuggester(optionQuery("ᐳExternal Assets"), class(gallery-img)):
 ![[Character Navigation]]
 
 ---
-
-## Categories
-`$= dv.span(dv.current().category ? dv.current().category.map(p => "==[[" + "Arcane-Bound/Worlds Collide/99 Extras/Categories/" + p + " | " + p + "]]==").join(" ") : "")`

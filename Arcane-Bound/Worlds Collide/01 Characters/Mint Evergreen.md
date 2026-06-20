@@ -60,6 +60,9 @@ manaPresence: Increased
 magicAffinity: Caster
 ---
 
+> [!Category]-
+> `$= dv.span(dv.current().category ? dv.current().category.map(p => "==[[" + "Arcane-Bound/Worlds Collide/99 Extras/Categories/" + p + " | " + p + "]]==").join(" ") : "")`
+
 > [!Infobox] **`=this.file.name`**
 > ---
 > `$= dv.span(dv.current().profileImage ? "![[" + dv.current().profileImage + "]]" : "")`
@@ -80,8 +83,6 @@ magicAffinity: Caster
 > |   Faction/s  |  [[Guild of Arcane Healers]] (Former) <br> [[Wandering Traders of Arcaena]] (Honorary Member) |
 > |   Hobbies  |  Gardening   |
 > |   Relations  | `$= dv.span(dv.current().relations ? dv.current().relations.map(p => "[[" + p + "]]").join("\n ") : "")`  |
-
-> **Character Thread**: [[Mint Evergreen Narratives Manuscript]]
 
 > [!character]
 > **"Your bed is so fluffy! I want to stay in it forever!"**
@@ -197,24 +198,21 @@ for (const group of groupedPages){
 	const folderName = (group.key).slice(lastSlash + 1) ?? "No Folder";
 	
 	let lines = [];
-	
+	let isHeaderPushed = false;
 	for (const narrative of group.rows){
 		const characterArr = narrative.file.frontmatter.characters ?? null;
 		if (characterArr === null || !characterArr.includes(dv.current().file.name)) continue;
-		lines.push(`> [!navigation]- ${folderName}`);
+		
+		if (!isHeaderPushed){
+			lines.push(`> [!navigation]- ${folderName}`);
+			isHeaderPushed = true;
+		}
+		
 		lines.push(`> - ${narrative.file.link}`);
 	}
 	
 	dv.el("div", lines.join("\n"));
 }
-```
-
-```dataview
-TABLE
-  regexreplace(file.folder, ".*/", "") AS "Character Thread"
-FROM "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives"
-WHERE contains(file.outlinks, this.file.link)
-SORT file.folder ASC, file.name ASC
 ```
 
 ---
@@ -241,6 +239,3 @@ INPUT[imageListSuggester(optionQuery("ᐳExternal Assets"), class(gallery-img)):
 ![[Character Navigation]]
 
 ---
-
-## Categories
-`$= dv.span(dv.current().category ? dv.current().category.map(p => "==[[" + "Arcane-Bound/Worlds Collide/99 Extras/Categories/" + p + " | " + p + "]]==").join(" ") : "")`

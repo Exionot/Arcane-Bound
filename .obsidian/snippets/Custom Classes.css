@@ -156,7 +156,7 @@ img[alt*="center"] {
 }
 /*  === END INVISIBLE CALLOUT === */
 
-/* === CUSTOM CALLOUTS === */
+/* === INFOBOX CALLOUT === */
 :root {
   --ic-width: 250px;
   --ic-width-mobile: 150px;
@@ -294,11 +294,11 @@ img[alt*="center"] {
 .callout[data-callout=infobox] img{
 	border-radius: 5px;
 }
+/* === END INFOBOX CALLOUT === */
 
-
-
+/* === CHARACTER QUOTE CALLOUT === */
 .callout[data-callout=character]{
-	background-color: var(--background-secondary);
+	background-color: var(--custom_x);
 	text-align: center;
 	font-style: italic;
 
@@ -308,9 +308,11 @@ img[alt*="center"] {
 .callout[data-callout=character] .callout-title{
   display: none;
 }
+/*  === END CHARACTER QUOTE CALLOUT === */
 
+/* === NAVIGATION CALLOUT === */
 .callout[data-callout=navigation]{
-	background-color: var(--background-secondary);
+	background-color: var(--custom_x) ;
 	margin: 0;
 }
 
@@ -325,6 +327,22 @@ img[alt*="center"] {
  .callout[data-callout=navigation] .internal-link{
 	font-weight: bold;
  }
+ /* === END NAVIGATION CALLOUT === */
+
+ /* === CATEGORY CALLOOUT === */
+.callout[data-callout=category]{
+	background-color: var(--custom_x) ;
+	margin: 0;
+}
+
+.callout[data-callout=category] .callout-icon{
+  display: none;
+}
+
+.callout[data-callout=category] .callout-title{
+  color: var(--white);
+}
+ /* === END CATEGORY CALLOUT === */
 
 .gold-yellow {
 --holox-h1:var(--white);
