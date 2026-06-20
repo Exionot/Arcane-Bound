@@ -5,7 +5,7 @@ characters:
   - Aura Brillfer
 location:
   - Amphere Square
-related: 
+related:
   - Defying orders
 time:
   year: 2405
@@ -13,6 +13,8 @@ time:
   day: 1st
 cssclasses:
   - narrative
+prevNarrative: The convergence (Mint Evergreen)
+nextNarrative: Her house
 ---
 
 **Character/s**: `$= dv.span(dv.current().characters ? dv.current().characters.map(p => "==[[" + p + "]]==").join(" ") : "")`

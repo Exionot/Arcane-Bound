@@ -162,7 +162,7 @@ body .metadata-add-button {
 	--width: 65vw;
 	--border-color: var(--background-secondary-alt);
 	--border-style: dotted;
-	--animation-speed: 45s;
+	--animation-speed: 35s;
 	content: '';
 	position: absolute;
 	width: var(--width);
@@ -192,7 +192,7 @@ body .metadata-add-button {
 .mod-root .workspace-leaf-content::after{
 	--width: 25vw;
 	--border-style: solid;
-	--animation-speed: 20s;
+	--animation-speed: 15s;
 	transform: translate(-50%, -50%) rotate(90deg);
 	background: none;
 	border: 5px var(--border-style) var(--border-color);
