@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arcane-Bound/Worlds Collide/01 Characters/Aura Brillfer.md",
+                "file": "Untitled.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Aura Brillfer"
+              "title": "Untitled"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 316.5
+    "width": 316.5,
+    "collapsed": true
   },
   "right": {
     "id": "446c418154317ee3",
@@ -211,7 +212,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 250.5
+    "width": 250.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -230,6 +232,16 @@
   },
   "active": "217c15c0baaa165c",
   "lastOpenFiles": [
+    "Arcane-Bound/Worlds Collide/03 Locations/01 Continents/Arcaena.md",
+    "Arcane-Bound/Worlds Collide/03 Locations/00 Space/00 Planets/Terra.md",
+    "Arcane-Bound/Worlds Collide/03 Locations/01 Continents/Synthspire.md",
+    "Wiki4.md",
+    "narr script.md",
+    "Wiki3.md",
+    "Wiki2.md",
+    "Wiki Sample - Victoria Veloux Canidel.md",
+    "Mint_Evergreen_Wiki_Reconstruction_Full.md",
+    "Arcane-Bound/Worlds Collide/01 Characters/Aura Brillfer.md",
     "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen Narratives/A fellow Feline.md",
     "Arcane-Bound/Worlds Collide/01 Characters/Mint Evergreen.md",
     "Arcane-Bound/Worlds Collide/01 Characters/Krystalle Eos.md",
@@ -241,21 +253,11 @@
     "Arcane-Bound/Worlds Collide/01 Characters/Ion Kynne.md",
     "Arcane-Bound/Worlds Collide/01 Characters/Estella Ameshi.md",
     "Arcane-Bound/Worlds Collide/01 Characters/Clair Tempest.md",
-    "Arcane-Bound/Worlds Collide/01 Characters/Aura Brillfer.md",
     "Arcane-Bound/Worlds Collide/99 Extras/Misc/Character Navigation.md",
     "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Aura Brillfer Narratives/Defying orders.md",
     "Untitled.md",
-    "Mint_Evergreen_Wiki_Reconstruction_Full.md",
     "Homepage.md",
     "Normie girl and royal guy.md",
-    "Old Man John Char Idea.md",
-    "nonhuman.md",
-    "narr script.md",
-    "Relic Stuff.md",
-    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Aura Brillfer Narratives/An order you can't fight.md",
-    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Aura Brillfer Narratives/My house.md",
-    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Ion Kynne Narratives/Confession to a girl from another world.md",
-    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Ion Kynne Narratives/A new found interest.md",
     "ᐳExternal Assets/Rhodes_Island.png",
     "ᐳExternal Assets/Scripts/update_narrative.py",
     "ᐳExternal Assets/Scripts/New Text Document.txt",

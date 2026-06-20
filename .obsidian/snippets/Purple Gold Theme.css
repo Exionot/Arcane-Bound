@@ -103,6 +103,10 @@
 	font-size: 0.7em;
 }
 
+body{
+	scroll-behavior: smooth !important;
+}
+
 body .metadata-properties-heading, 
 body .metadata-properties, 
 body .metadata-add-button {
@@ -144,14 +148,6 @@ body .metadata-add-button {
 	);
 	animation: flicker 20s steps(4, jump-end) infinite;
 	z-index: -1;
-}
-
-
-@keyframes flicker {
- 0%, 100% { opacity: 0.15; }
- 25% { opacity: 0.03; }
- 50% { opacity: 0.2; }
- 75% { opacity: 0.06; }
 }
 
 .mod-root .workspace-leaf-content {
@@ -558,4 +554,11 @@ div.internal-embed .markdown-embed-content {
 	100% {
     	transform: translate(-50%, -50%) scale(1) rotate(270deg);
 	}
+}
+
+@keyframes flicker {
+ 0%, 100% { opacity: 0.15; }
+ 25% { opacity: 0.03; }
+ 50% { opacity: 0.2; }
+ 75% { opacity: 0.06; }
 }
