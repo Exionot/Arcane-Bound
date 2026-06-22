@@ -120,15 +120,16 @@ body .metadata-add-button {
 }
 
 .mod-root .workspace-leaf-content > .view-header::before{
-	content: '';
+	content: '\2726';
 	position: absolute;
 	top: 1000%;
 	left: 50%;
-	transform: translate(-50%, -55%) rotate(45deg);
-	width: 10vw;
+	transform: translate(-50%, -55%);
+	font-size: 20vw;
 	aspect-ratio: 1;
 	z-index: -1;
-	border: solid var(--background-secondary-alt) 5px;
+	/* outline: solid var(--background-secondary-alt) 5px; */
+	-webkit-text-fill-color: var(--background-secondary-alt);
 	opacity: 0.25;
 }
 
