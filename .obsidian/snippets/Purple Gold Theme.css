@@ -122,9 +122,9 @@ body .metadata-add-button {
 .mod-root .workspace-leaf-content > .view-header::before{
 	content: '\2726';
 	position: absolute;
-	top: 1000%;
+	top: 47vh;
 	left: 50%;
-	transform: translate(-50%, -55%);
+	transform: translate(-50%, -50%);
 	font-size: 20vw;
 	aspect-ratio: 1;
 	z-index: -1;
