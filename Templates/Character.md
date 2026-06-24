@@ -21,7 +21,12 @@ galleryImage:
 posterImage:
 aliases:
 relations:
+manaPresence: 
+magicAffinity: 
 ---
+
+> [!Category]-
+> `$= dv.span(dv.current().category ? dv.current().category.map(p => "==[[" + "Arcane-Bound/Worlds Collide/99 Extras/Categories/" + p + " | " + p + "]]==").join(" ") : "")`
 
 > [!Infobox] **`=this.file.name`**
 > ---
@@ -35,15 +40,15 @@ relations:
 > |   Birthday  |     |
 > |   Age  |     |
 > |   Species  |     |
+> |   Race  |     |
+> |  Mana Presence  |  `=this.manaPresence`  |
+> |  Magic Affinity  |  `=this.magicAffinity`  |
 > |   Origin  |    |
 > |   Faction/s  |     |
 > |   Hobbies  |     |
 > |   Relations  | `$= dv.span(dv.current().relations ? dv.current().relations.map(p => "[[" + p + "]]").join("\n ") : "")`  |
 
-> **Character Thread:**
-
 ---
-
 
 # **History** 
 ## Background 
@@ -73,12 +78,39 @@ TABLE itemType as "Type" WHERE contains(this.itemUsed, file.name)
 TABLE systemType as "Type" WHERE contains(this.systemUsed, file.name)
 ```
 ## Narratives
-```dataview
-TABLE
-  regexreplace(file.folder, ".*/", "") AS "Character Thread"
-FROM "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives"
-WHERE contains(file.outlinks, this.file.link)
-SORT file.folder ASC, file.name ASC
+```dataviewjs
+const narrativeFolder = "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives";
+const pages = dv.pages(`"${narrativeFolder}"`).where(p => p.type == "narrative");
+
+let groupedPages = pages.groupBy(p => p.file.folder ?? null);
+groupedPages = groupedPages.array().sort((a, b) => {
+  // null goes last
+  if (a.key === null) return 1;
+  if (b.key === null) return -1;
+  return a.key.localeCompare(b.key);
+});
+
+//dv.el("div", groupedPages[0].rows[0].file);
+for (const group of groupedPages){
+	const lastSlash = (group.key).lastIndexOf("/");
+	const folderName = (group.key).slice(lastSlash + 1) ?? "No Folder";
+	
+	let lines = [];
+	let isHeaderPushed = false;
+	for (const narrative of group.rows){
+		const characterArr = narrative.file.frontmatter.characters ?? null;
+		if (characterArr === null || !characterArr.includes(dv.current().file.name)) continue;
+		
+		if (!isHeaderPushed){
+			lines.push(`> [!navigation]- ${folderName}`);
+			isHeaderPushed = true;
+		}
+		
+		lines.push(`> - ${narrative.file.link}`);
+	}
+	
+	dv.el("div", lines.join("\n"));
+}
 ```
 
 ---
@@ -102,56 +134,4 @@ INPUT[imageListSuggester(optionQuery("ᐳExternal Assets"), class(gallery-img)):
 ---
 
 # **Navigation**
-```dataviewjs
-const baseFolder = "Arcane-Bound/Worlds Collide/01 Characters";
-const pages = dv.pages(`"${baseFolder}"`);
-
-// group by faction.active or null
-let groups = pages.groupBy(p => p.faction?.active ?? null);
-
-groups = groups.array().sort((a, b) => {
-  // null (no faction) goes last
-  if (a.key === null) return 1;
-  if (b.key === null) return -1;
-  return a.key.localeCompare(b.key);
-});
-
-for (const group of groups) {
-  // header: show "No Faction" if null
-  //dv.header(2, group.key ?? "No Faction");
-  
-  const title = group.key ?? "No Faction";
-
-  // Build datacards block
-  let lines = [];
-  if (group.key === null) {
-	  lines.push(`> [!navigation]+ ${title}`);
-  }else{
-	  lines.push(`> [!navigation]+ ${"[[" + title + "]]"}`);
-  }
-  
-  lines.push(">```datacards");
-  lines.push(`>TABLE profileImage`);
-  lines.push(`>FROM "${baseFolder}"`);
-
-  // Use `faction.active = null` if group key is null
-  if (group.key === null) {
-    lines.push(">WHERE faction.active = null");
-  } else {
-    lines.push(`>WHERE contains("${group.key}", faction.active)`);
-  }
-
-  lines.push(">SORT file.name ASC");
-  lines.push(">");
-  lines.push(">//Settings");
-  lines.push(">preset: square");
- // lines.push("imageProperty: cover");
-  //lines.push("imageFit: contain");
-  //lines.push("imageHeight: 10px");
-  lines.push(">columns: 5");
-  lines.push(">fontSize: smallest");
-  lines.push(">```");
-
-  dv.el("div", lines.join("\n"));
-}
-```
+![[Character Navigation]]

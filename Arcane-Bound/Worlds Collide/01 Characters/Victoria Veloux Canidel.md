@@ -26,6 +26,10 @@ faction:
     status: Active
     rank: Leader
     alias:
+  Canidel Family:
+    status: Runaway
+    rank:
+    alias:
 systemUsed:
   - Solid-Light Energy
 abilityUsed:

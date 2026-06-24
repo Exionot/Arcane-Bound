@@ -1,7 +1,9 @@
 ---
 type: category
-hasAppended: false
+hasAppended: true
 ---
+
+> The main note for this category is: [[Arcane-Bound/Worlds Collide/07 Lore/03 Species/Virken | Virken]]
 
 ```dataviewjs
 const pages = dv.pages().where(p => p.category && p.category.includes(dv.current().file.name));

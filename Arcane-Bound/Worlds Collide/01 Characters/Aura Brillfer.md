@@ -68,7 +68,8 @@ magicAffinity: Caster
 > |   Height  |  173cm (including ears)   |
 > |   Birthday  |     |
 > |   Age  |  Young Adult   |
-> |   Species  |  [[Virken]] (Feline)   |
+> |   Species  |  [[Virken]]   |
+> |   Race  |  Feline   |
 > |  Mana Presence  |  `=this.manaPresence`  |
 > |  Magic Affinity  |  `=this.magicAffinity`  |
 > |   Origin  |  [[Shatterpoint City]], [[NeoTech Union]], [[Synthspire]]   |
@@ -77,11 +78,10 @@ magicAffinity: Caster
 > |   Relations  | `$= dv.span(dv.current().relations ? dv.current().relations.map(p => "[[" + p + "]]").join("\n ") : "")`  |
 
 ---
-# **History** 
-## Background 
+# Overview 
 **Aura Brillfer** is a [[Virken]] born from [[Shatterpoint City]]. She was once part of [[Protection Of Local Livelihood]] with the code name "AR-04". She is an expert when it comes to technology and high stakes combat, often utilizing specialized equipment she herself made. **Aura** left [[Protection Of Local Livelihood|P.O.L.L.]] in the late period of [[The Convergence]] after learning about [[Neo-Technology Corporation|NeoTech Corp.]]'s illegal imprisonment and experimentation on the Arcaenians affected by The Convergence. She is currently living in [[Aura's Apartment|Relayton Complex, Room 204]] at [[Amphere Square]]of [[Fluxpoint City]].
 
-
+# **History** 
 ## Young Adolescence 
 %%She was attacked and cornered by gang members trying to take her tech? weapon? She was then saved by an unnamed person who introduced herself as a police officer%%
 
@@ -212,5 +212,3 @@ INPUT[imageListSuggester(optionQuery("ᐳExternal Assets"), class(gallery-img)):
 
 # **Navigation**
 ![[Character Navigation]]
-
----

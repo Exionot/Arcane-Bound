@@ -21,14 +21,16 @@ if (Object.keys(notes).length == 0){
 else{
 	const sorted = Object.keys(notes).sort();
 	let lines = [];
+	let totalNotes = 0;
 	for(let key of sorted){
 		lines.push('### ' + key)
 		for(let note of notes[key]){
 			lines.push(`- ${"[[" + note.file.name + "]]"}`)
+			totalNotes++;
 		}
 	}
 	
-	dv.paragraph(`There are currently ${sorted.length} notes in this category`);
+	dv.paragraph(`There are currently ${totalNotes} notes in this category`);
 	dv.el("div", lines.join("\n"));
 }
 
