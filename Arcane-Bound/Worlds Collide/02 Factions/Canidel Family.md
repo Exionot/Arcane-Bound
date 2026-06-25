@@ -23,7 +23,7 @@ logoImage: ᐳExternal Assets/Canidel Logo noBG White.png
 > |  Status   |   `INPUT[factionStatus][]`  |
 
 # **Overview**
-The **Canidel Family** is 
+The **Canidel Family** is a rich family in [[Lightspeed City]]. They are the founder and owner of [[Lighting Industries]], a tech company that --. They are also part of the High Association on Teran Society, giving them a massive influence internationally. 
 
 # **Members**
 ```dataviewjs
