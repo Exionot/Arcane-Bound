@@ -1,13 +1,13 @@
 {
   "version": 3,
   "projects": {},
-  "selectedDraftVaultPath": "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Ion Kynne Narratives/Index.md",
+  "selectedDraftVaultPath": "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen Narratives/Index.md",
   "userScriptFolder": null,
   "sessionStorage": "data",
   "sessions": [
     {
       "start": "2026-01-12T15:29:55.612Z",
-      "total": 14616,
+      "total": 13193,
       "drafts": {
         "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Test/Index.md": {
           "total": 10,
@@ -19,29 +19,9 @@
           }
         },
         "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen Narratives/Index.md": {
-          "total": 9376,
+          "total": 44,
           "scenes": {
-            "Missing merchant": 419,
-            "The convergence (Mint Evergreen)": 191,
-            "A fellow Feline": 324,
-            "Her house": 270,
-            "Confrontation": 1480,
-            "The convergence... again": 585,
-            "An encounter with the devil": 235,
-            "Devil's intent": 287,
-            "Bear-on collision": 494,
-            "Gone for a day": 346,
-            "The wanderers": 280,
-            "The convergence... yet again...": 133,
-            "Increasing notoriety": 558,
-            "Flowers": 368,
-            "A new look": 516,
-            "Small world": 628,
-            "Unknown Feelings": 469,
-            "Feelings to be addressed": 570,
-            "Duality of an officer": 334,
-            "Staves": 400,
-            "Staves 2": 489
+            "It Begins With Flora": 44
           }
         },
         "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Victoria Veloux Canidel Narratives/Index.md": {
@@ -79,6 +59,65 @@
           "scenes": {
             "A new found interest": 661,
             "Confession to a girl from another world": 295
+          }
+        },
+        "Arcane-Bound/Worlds Collide/99 Extras/Archived/Aura Brillfer Narratives/Index.md": {
+          "total": 769,
+          "scenes": {
+            "An order you can't fight": 221,
+            "Defying orders": 264,
+            "My house": 284
+          }
+        },
+        "Arcane-Bound/Worlds Collide/99 Extras/Archived/Mint Evergreen Narratives/Index.md": {
+          "total": 8078,
+          "scenes": {
+            "Missing merchant": 390,
+            "The convergence (Mint Evergreen)": 170,
+            "A fellow Feline": 273,
+            "Her house": 254,
+            "Confrontation": 701,
+            "The convergence... again": 470,
+            "An encounter with the devil": 224,
+            "Devil's intent": 269,
+            "Bear-on collision": 478,
+            "Gone for a day": 330,
+            "The wanderers": 280,
+            "The convergence... yet again...": 99,
+            "Increasing notoriety": 526,
+            "Flowers": 354,
+            "A new look": 497,
+            "Small world": 596,
+            "Unknown Feelings": 446,
+            "Feelings to be addressed": 550,
+            "Duality of an officer": 314,
+            "Staves": 387,
+            "Staves 2": 470
+          }
+        },
+        "Arcane-Bound/Worlds Collide/99 Extras/Archived/Victoria Veloux Canidel Narratives/Index.md": {
+          "total": 3066,
+          "scenes": {
+            "The convergence (Victoria Veloux Canidel)": 203,
+            "Guide to an unknown world": 415,
+            "Fashion like a noble": 307,
+            "Point of return": 462,
+            "Feline encounter": 516,
+            "Challenge of acceptance": 697,
+            "Challenge accepted": 466
+          }
+        },
+        "Arcane-Bound/Worlds Collide/99 Extras/Archived/Clair Tempest Narratives/Index.md": {
+          "total": 338,
+          "scenes": {
+            "A devil's attempt": 338
+          }
+        },
+        "Arcane-Bound/Worlds Collide/99 Extras/Archived/Ion Kynne Narratives/Index.md": {
+          "total": 898,
+          "scenes": {
+            "A new found interest": 619,
+            "Confession to a girl from another world": 279
           }
         }
       }

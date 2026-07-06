@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homepage.md",
-                "mode": "preview",
+                "file": "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen Narratives/It Begins With Flora.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Homepage"
+              "title": "It Begins With Flora"
             }
           }
         ]
@@ -73,13 +73,23 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
+          },
+          {
+            "id": "d6ffa2f8abdba11a",
+            "type": "leaf",
+            "state": {
+              "type": "VIEW_TYPE_LONGFORM_EXPLORER",
+              "state": {},
+              "icon": "longform",
+              "title": "Longform"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 316.5,
-    "collapsed": true
+    "width": 316.5
   },
   "right": {
     "id": "446c418154317ee3",
@@ -232,8 +242,27 @@
   },
   "active": "3bf8cf8e8cbdaea9",
   "lastOpenFiles": [
-    "Arcane-Bound/Worlds Collide/01 Characters/Victoria Veloux Canidel.md",
+    "Arcane-Bound/Worlds Collide/01 Characters/Mint Evergreen.md",
+    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen Narratives/It Begins With Flora.md",
+    "Arcane-Bound/Worlds Collide/99 Extras/Archived/Mint Evergreen Narratives/The convergence... again.md",
+    "Arcane-Bound/Worlds Collide/99 Extras/Archived/Mint Evergreen Narratives/Confrontation.md",
+    "Arcane-Bound/Worlds Collide/99 Extras/Archived/Mint Evergreen Narratives/Her house.md",
+    "Arcane-Bound/Worlds Collide/99 Extras/Archived/Mint Evergreen Narratives/A fellow Feline.md",
+    "Arcane-Bound/Worlds Collide/99 Extras/Archived/Mint Evergreen Narratives/The convergence (Mint Evergreen).md",
+    "Arcane-Bound/Worlds Collide/99 Extras/Archived/Mint Evergreen Narratives/Missing merchant.md",
+    "Arcane-Bound/Worlds Collide/99 Extras/Archived/Aura Brillfer Narratives/Index.md",
+    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen Narratives/Index.md",
+    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Mint Evergreen Narratives",
+    "Arcane-Bound/Worlds Collide/99 Extras/Archived",
+    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Aura Brillfer Narratives/Aura Brillfer Narratives Manuscript.md",
+    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/01 Main Story/Timeline.md",
+    "Templates/Narrative (Longform).md",
+    "Templates/Narrative.md",
+    "Arcane-Bound/Worlds Collide/99 Extras/Archived/Aura Brillfer Narratives/An order you can't fight.md",
+    "Arcane-Bound/Worlds Collide/99 Extras/Archived/Aura Brillfer Narratives/My house.md",
+    "Arcane-Bound/Worlds Collide/99 Extras/Archived/Aura Brillfer Narratives/Defying orders.md",
     "Homepage.md",
+    "Arcane-Bound/Worlds Collide/01 Characters/Victoria Veloux Canidel.md",
     "Arcane-Bound/Worlds Collide/02 Factions/Canidel Family.md",
     "ᐳExternal Assets/Canidel Logo noBG White.png",
     "ᐳExternal Assets/Canidel Logo noBG Black.png",
@@ -243,27 +272,10 @@
     "Arcane-Bound/Worlds Collide/99 Extras/Categories/Characters.md",
     "Arcane-Bound/Worlds Collide/99 Extras/Categories/Gen 0 Characters.md",
     "Arcane-Bound/Worlds Collide/99 Extras/Categories/Protection Of Local Livelihood.md",
-    "Arcane-Bound/Worlds Collide/99 Extras/Categories/Virken.md",
-    "Templates/Category.md",
-    "Templates/Character.md",
-    "Arcane-Bound/Worlds Collide/02 Factions/Blackreign Gang.md",
-    "Arcane-Bound/Worlds Collide/02 Factions/Guild of Arcane Healers.md",
-    "Arcane-Bound/Worlds Collide/02 Factions/Harnessing Yottawatt Power & Energy Research Corporation.md",
-    "Arcane-Bound/Worlds Collide/02 Factions/Neo-Technology Corporation.md",
-    "Arcane-Bound/Worlds Collide/02 Factions/Protection Of Local Livelihood.md",
-    "Arcane-Bound/Worlds Collide/02 Factions/Sons of The Crimson Flame.md",
     "ᐳExternal Assets/Starveil Retrieval Co. Logo noBG White.png",
     "ᐳExternal Assets/Starveil Retrieval Co. Logo noBG Black.png",
     "ᐳExternal Assets/Victoria_Veloux_Canidel_Icon.png",
     "ᐳExternal Assets/Victoria_Veloux_Canidel_Icon2.png",
-    "Why did Vi run away.md",
-    "Untitled.md",
-    "Wiki2.md",
-    "Old Man John Char Idea.md",
-    "Arcane-Bound/Worlds Collide/03 Locations/01 Continents/Arcaena.md",
-    "Arcane-Bound/Worlds Collide/03 Locations/00 Space/00 Planets/Terra.md",
-    "Arcane-Bound/Worlds Collide/03 Locations/01 Continents/Synthspire.md",
-    "Wiki4.md",
     "ᐳExternal Assets/Rhodes_Island.png",
     "ᐳExternal Assets/Scripts/update_narrative.py",
     "ᐳExternal Assets/Scripts/New Text Document.txt",
@@ -274,10 +286,8 @@
     "ᐳExternal Assets/Scripts/update_timeline.py",
     "ᐳExternal Assets/Scripts/runTimelineUpdater.bat",
     "ᐳExternal Assets/Scripts",
-    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/00 Extra Story/Untitled",
     "ᐳExternal Assets/Charming Fox.png",
     "ᐳExternal Assets/Needy Kitty 2.png",
-    "Arcane-Bound/Worlds Collide/07 Lore/00 Narratives/02 Prose Snippets",
     "Arcane-Bound/Worlds Collide/99 Extras/Meta/AB - Storyline.canvas"
   ]
 }
